@@ -1,0 +1,56 @@
+{
+ "schema": 1,
+ "pair": "de-en",
+ "bands": [
+  {
+   "band": 1,
+   "file": "band-01.json",
+   "count": 13303
+  },
+  {
+   "band": 2,
+   "file": "band-02.json",
+   "count": 13574
+  },
+  {
+   "band": 3,
+   "file": "band-03.json",
+   "count": 22875
+  },
+  {
+   "band": 4,
+   "file": "band-04.json",
+   "count": 33558
+  },
+  {
+   "band": 5,
+   "file": "band-05.json",
+   "count": 35389
+  },
+  {
+   "band": 6,
+   "file": "band-06.json",
+   "count": 30898
+  },
+  {
+   "band": 7,
+   "file": "band-07.json",
+   "count": 28740
+  },
+  {
+   "band": 8,
+   "file": "band-08.json",
+   "count": 23405
+  },
+  {
+   "band": 9,
+   "file": "band-09.json",
+   "count": 30420
+  },
+  {
+   "band": 10,
+   "file": "band-10.json",
+   "count": 53346
+  }
+ ]
+}
