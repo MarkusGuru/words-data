@@ -1,0 +1,59 @@
+{
+ "schema": 1,
+ "pair": "en-de",
+ "license": "GPL-2.0-or-later",
+ "attribution": "German-English word list (c) 1995-2025 Frank Richter, TU Chemnitz (GNU GPL 2.0+). Definitions, examples and topics from Open English WordNet (CC BY 4.0).",
+ "bands": [
+  {
+   "band": 1,
+   "file": "band-01.json",
+   "count": 491
+  },
+  {
+   "band": 2,
+   "file": "band-02.json",
+   "count": 431
+  },
+  {
+   "band": 3,
+   "file": "band-03.json",
+   "count": 848
+  },
+  {
+   "band": 4,
+   "file": "band-04.json",
+   "count": 1598
+  },
+  {
+   "band": 5,
+   "file": "band-05.json",
+   "count": 2476
+  },
+  {
+   "band": 6,
+   "file": "band-06.json",
+   "count": 3121
+  },
+  {
+   "band": 7,
+   "file": "band-07.json",
+   "count": 3935
+  },
+  {
+   "band": 8,
+   "file": "band-08.json",
+   "count": 3677
+  },
+  {
+   "band": 9,
+   "file": "band-09.json",
+   "count": 4247
+  },
+  {
+   "band": "technical",
+   "file": "band-technical.json",
+   "count": 10784,
+   "optional": true
+  }
+ ]
+}
