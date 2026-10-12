@@ -6,53 +6,53 @@
  "bands": [
   {
    "band": 1,
-   "file": "band-01.json.gz",
+   "file": "band-01.json",
    "count": 517
   },
   {
    "band": 2,
-   "file": "band-02.json.gz",
+   "file": "band-02.json",
    "count": 590
   },
   {
    "band": 3,
-   "file": "band-03.json.gz",
+   "file": "band-03.json",
    "count": 869
   },
   {
    "band": 4,
-   "file": "band-04.json.gz",
+   "file": "band-04.json",
    "count": 1482
   },
   {
    "band": 5,
-   "file": "band-05.json.gz",
+   "file": "band-05.json",
    "count": 2120
   },
   {
    "band": 6,
-   "file": "band-06.json.gz",
+   "file": "band-06.json",
    "count": 2532
   },
   {
    "band": 7,
-   "file": "band-07.json.gz",
+   "file": "band-07.json",
    "count": 2787
   },
   {
    "band": 8,
-   "file": "band-08.json.gz",
+   "file": "band-08.json",
    "count": 2232
   },
   {
    "band": "technical",
-   "file": "band-technical.json.gz",
+   "file": "band-technical.json",
    "count": 490,
    "optional": true
   },
   {
    "band": "vulgar",
-   "file": "band-vulgar.json.gz",
+   "file": "band-vulgar.json",
    "count": 68,
    "optional": true
   }
