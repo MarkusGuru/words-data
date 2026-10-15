@@ -7,42 +7,42 @@
   {
    "band": 1,
    "file": "band-01.json",
-   "count": 517
+   "count": 513
   },
   {
    "band": 2,
    "file": "band-02.json",
-   "count": 590
+   "count": 586
   },
   {
    "band": 3,
    "file": "band-03.json",
-   "count": 869
+   "count": 862
   },
   {
    "band": 4,
    "file": "band-04.json",
-   "count": 1482
+   "count": 1471
   },
   {
    "band": 5,
    "file": "band-05.json",
-   "count": 2120
+   "count": 2104
   },
   {
    "band": 6,
    "file": "band-06.json",
-   "count": 2532
+   "count": 2512
   },
   {
    "band": 7,
    "file": "band-07.json",
-   "count": 2787
+   "count": 2766
   },
   {
    "band": 8,
    "file": "band-08.json",
-   "count": 2232
+   "count": 2215
   },
   {
    "band": "technical",
