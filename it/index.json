@@ -55,6 +55,13 @@
    "file": "band-vulgar.json",
    "count": 68,
    "optional": true
+  },
+  {
+   "band": "expressions",
+   "file": "band-expressions.json",
+   "optional": true,
+   "default_on": true,
+   "count": 350
   }
  ]
 }
