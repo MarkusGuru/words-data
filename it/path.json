@@ -1,0 +1,4532 @@
+{
+ "schema": 1,
+ "pair": "it-en",
+ "sections": [
+  {
+   "level": 1,
+   "title": "Livello 1",
+   "units": [
+    "u-it-L1-01",
+    "u-it-L1-02",
+    "u-it-L1-03",
+    "u-it-L1-04",
+    "u-it-L1-05",
+    "cp-L1-1",
+    "u-it-L1-06",
+    "u-it-L1-07",
+    "u-it-L1-08",
+    "u-it-L1-09",
+    "u-it-L1-10",
+    "cp-L1-2",
+    "u-it-L1-11",
+    "u-it-L1-12",
+    "u-it-L1-13",
+    "u-it-L1-14",
+    "u-it-L1-15",
+    "cp-L1-3",
+    "u-it-L1-16",
+    "u-it-L1-17",
+    "u-it-L1-18",
+    "u-it-L1-19",
+    "u-it-L1-20",
+    "cp-L1-4",
+    "u-it-L1-21",
+    "u-it-L1-22",
+    "u-it-L1-23",
+    "u-it-L1-24",
+    "u-it-L1-25",
+    "cp-L1-5",
+    "u-it-L1-26",
+    "u-it-L1-27",
+    "u-it-L1-28",
+    "u-it-L1-29",
+    "u-it-L1-30",
+    "cp-L1-6"
+   ]
+  },
+  {
+   "level": 2,
+   "title": "Livello 2",
+   "units": [
+    "u-it-L2-01",
+    "u-it-L2-02",
+    "u-it-L2-03",
+    "u-it-L2-04",
+    "u-it-L2-05",
+    "cp-L2-1",
+    "u-it-L2-06",
+    "u-it-L2-07",
+    "u-it-L2-08",
+    "u-it-L2-09",
+    "u-it-L2-10",
+    "cp-L2-2",
+    "u-it-L2-11",
+    "u-it-L2-12",
+    "u-it-L2-13",
+    "u-it-L2-14",
+    "u-it-L2-15",
+    "cp-L2-3",
+    "u-it-L2-16",
+    "u-it-L2-17",
+    "u-it-L2-18",
+    "u-it-L2-19",
+    "u-it-L2-20",
+    "cp-L2-4",
+    "u-it-L2-21",
+    "u-it-L2-22",
+    "u-it-L2-23",
+    "u-it-L2-24",
+    "u-it-L2-25",
+    "cp-L2-5",
+    "u-it-L2-26",
+    "u-it-L2-27",
+    "u-it-L2-28",
+    "u-it-L2-29",
+    "u-it-L2-30",
+    "cp-L2-6"
+   ]
+  }
+ ],
+ "units": [
+  {
+   "id": "u-it-L1-01",
+   "level": 1,
+   "index": 1,
+   "title": "Il bar della mattina",
+   "title_en": "The morning café",
+   "series": null,
+   "part": null,
+   "nodes": [
+    {
+     "id": "it-L1-01:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L1-01",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L1-01:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "conjugation:C5",
+     "mode": "learn",
+     "count": 6
+    },
+    {
+     "id": "it-L1-01:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L1-01"
+    },
+    {
+     "id": "it-L1-01:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L1-01",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L1-01:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "bar",
+     "targets": [
+      "il caffè",
+      "la tazza",
+      "il pezzo",
+      "scusa"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L1-01:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L1-01",
+     "prompt_en": "Retell \"Il bar della mattina\" in 2–3 Italian sentences.",
+     "use": [
+      "il caffè",
+      "la tazza"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-it-L1-02",
+   "level": 1,
+   "index": 2,
+   "title": "Al mercato",
+   "title_en": "At the market",
+   "series": null,
+   "part": null,
+   "nodes": [
+    {
+     "id": "it-L1-02:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L1-02",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L1-02:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "conjugation:C5",
+     "mode": "practice",
+     "count": 6
+    },
+    {
+     "id": "it-L1-02:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L1-02"
+    },
+    {
+     "id": "it-L1-02:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L1-02",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L1-02:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "market",
+     "targets": [
+      "la frutta",
+      "il pane",
+      "il formaggio",
+      "la pesca"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L1-02:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L1-02",
+     "prompt_en": "Retell \"Al mercato\" in 2–3 Italian sentences.",
+     "use": [
+      "la frutta",
+      "il pane"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-it-L1-03",
+   "level": 1,
+   "index": 3,
+   "title": "La pizza più grande di Napoli",
+   "title_en": "The biggest pizza in Naples",
+   "series": null,
+   "part": null,
+   "nodes": [
+    {
+     "id": "it-L1-03:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L1-03",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L1-03:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "conjugation:C1",
+     "mode": "learn",
+     "count": 6
+    },
+    {
+     "id": "it-L1-03:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L1-03"
+    },
+    {
+     "id": "it-L1-03:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L1-03",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L1-03:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "restaurant",
+     "targets": [
+      "vicino a",
+      "la pizzeria",
+      "il cameriere",
+      "il metro"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L1-03:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L1-03",
+     "prompt_en": "Retell \"La pizza più grande di Napoli\" in 2–3 Italian sentences.",
+     "use": [
+      "vicino a",
+      "la pizzeria"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-it-L1-04",
+   "level": 1,
+   "index": 4,
+   "title": "In treno per Firenze",
+   "title_en": "On the train to Florence",
+   "series": null,
+   "part": null,
+   "nodes": [
+    {
+     "id": "it-L1-04:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L1-04",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L1-04:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "conjugation:C1",
+     "mode": "practice",
+     "count": 6
+    },
+    {
+     "id": "it-L1-04:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L1-04"
+    },
+    {
+     "id": "it-L1-04:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L1-04",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L1-04:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "station",
+     "targets": [
+      "il treno",
+      "la valigia",
+      "ha fame",
+      "i panini"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L1-04:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L1-04",
+     "prompt_en": "Retell \"In treno per Firenze\" in 2–3 Italian sentences.",
+     "use": [
+      "il treno",
+      "la valigia"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-it-L1-05",
+   "level": 1,
+   "index": 5,
+   "title": "Signor Powers, la sua camera è pronta",
+   "title_en": "Mr. Powers, your room is ready",
+   "series": null,
+   "part": null,
+   "nodes": [
+    {
+     "id": "it-L1-05:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L1-05",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L1-05:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "conjugation:C2",
+     "mode": "learn",
+     "count": 6
+    },
+    {
+     "id": "it-L1-05:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L1-05"
+    },
+    {
+     "id": "it-L1-05:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L1-05",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L1-05:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "hotel",
+     "targets": [
+      "per favore",
+      "la camera",
+      "il piano",
+      "il ristorante"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L1-05:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L1-05",
+     "prompt_en": "Retell \"Signor Powers, la sua camera è pronta\" in 2–3 Italian sentences.",
+     "use": [
+      "per favore",
+      "la camera"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cp-L1-1",
+   "level": 1,
+   "index": 6,
+   "title": "Checkpoint",
+   "title_en": "Checkpoint",
+   "series": null,
+   "part": null,
+   "checkpoint": true,
+   "nodes": [
+    {
+     "id": "cp-L1-1:test",
+     "type": "checkpoint",
+     "title": "Ripasso",
+     "units": [
+      "u-it-L1-01",
+      "u-it-L1-02",
+      "u-it-L1-03",
+      "u-it-L1-04",
+      "u-it-L1-05"
+     ],
+     "count": 15
+    }
+   ]
+  },
+  {
+   "id": "u-it-L1-06",
+   "level": 1,
+   "index": 7,
+   "title": "Un giorno al mare",
+   "title_en": "A day at the beach",
+   "series": null,
+   "part": null,
+   "nodes": [
+    {
+     "id": "it-L1-06:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L1-06",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L1-06:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "conjugation:C2",
+     "mode": "practice",
+     "count": 6
+    },
+    {
+     "id": "it-L1-06:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L1-06"
+    },
+    {
+     "id": "it-L1-06:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L1-06",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L1-06:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "smallTalk",
+     "targets": [
+      "fa caldo",
+      "il sasso",
+      "i bambini",
+      "giocare"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L1-06:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L1-06",
+     "prompt_en": "Retell \"Un giorno al mare\" in 2–3 Italian sentences.",
+     "use": [
+      "fa caldo",
+      "il sasso"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-it-L1-07",
+   "level": 1,
+   "index": 8,
+   "title": "Quale gusto?",
+   "title_en": "Which flavor?",
+   "series": null,
+   "part": null,
+   "nodes": [
+    {
+     "id": "it-L1-07:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L1-07",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L1-07:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "conjugation:C3",
+     "mode": "learn",
+     "count": 6
+    },
+    {
+     "id": "it-L1-07:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L1-07"
+    },
+    {
+     "id": "it-L1-07:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L1-07",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L1-07:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "restaurant",
+     "targets": [
+      "il gelato",
+      "il gusto",
+      "per favore",
+      "va bene"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L1-07:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L1-07",
+     "prompt_en": "Retell \"Quale gusto?\" in 2–3 Italian sentences.",
+     "use": [
+      "il gelato",
+      "il gusto"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-it-L1-08",
+   "level": 1,
+   "index": 9,
+   "title": "Brzuchi al museo",
+   "title_en": "Brzuchi at the museum",
+   "series": null,
+   "part": null,
+   "nodes": [
+    {
+     "id": "it-L1-08:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L1-08",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L1-08:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "conjugation:C3",
+     "mode": "practice",
+     "count": 6
+    },
+    {
+     "id": "it-L1-08:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L1-08"
+    },
+    {
+     "id": "it-L1-08:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L1-08",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L1-08:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "smallTalk",
+     "targets": [
+      "il museo",
+      "ama",
+      "la sala",
+      "i quadri"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L1-08:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L1-08",
+     "prompt_en": "Retell \"Brzuchi al museo\" in 2–3 Italian sentences.",
+     "use": [
+      "il museo",
+      "ama"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-it-L1-09",
+   "level": 1,
+   "index": 10,
+   "title": "La lista della spesa",
+   "title_en": "The shopping list",
+   "series": null,
+   "part": null,
+   "nodes": [
+    {
+     "id": "it-L1-09:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L1-09",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L1-09:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "conjugation:C6",
+     "mode": "learn",
+     "count": 6
+    },
+    {
+     "id": "it-L1-09:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L1-09"
+    },
+    {
+     "id": "it-L1-09:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L1-09",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L1-09:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "market",
+     "targets": [
+      "la festa",
+      "la spesa",
+      "pieni",
+      "la cassa"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L1-09:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L1-09",
+     "prompt_en": "Retell \"La lista della spesa\" in 2–3 Italian sentences.",
+     "use": [
+      "la festa",
+      "la spesa"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-it-L1-10",
+   "level": 1,
+   "index": 11,
+   "title": "La torta per Max",
+   "title_en": "The cake for Max",
+   "series": null,
+   "part": null,
+   "nodes": [
+    {
+     "id": "it-L1-10:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L1-10",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L1-10:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "conjugation:C6",
+     "mode": "practice",
+     "count": 6
+    },
+    {
+     "id": "it-L1-10:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L1-10"
+    },
+    {
+     "id": "it-L1-10:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L1-10",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L1-10:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "restaurant",
+     "targets": [
+      "il compleanno",
+      "la torta",
+      "prova",
+      "il pezzo"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L1-10:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L1-10",
+     "prompt_en": "Retell \"La torta per Max\" in 2–3 Italian sentences.",
+     "use": [
+      "il compleanno",
+      "la torta"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cp-L1-2",
+   "level": 1,
+   "index": 12,
+   "title": "Checkpoint",
+   "title_en": "Checkpoint",
+   "series": null,
+   "part": null,
+   "checkpoint": true,
+   "nodes": [
+    {
+     "id": "cp-L1-2:test",
+     "type": "checkpoint",
+     "title": "Ripasso",
+     "units": [
+      "u-it-L1-06",
+      "u-it-L1-07",
+      "u-it-L1-08",
+      "u-it-L1-09",
+      "u-it-L1-10"
+     ],
+     "count": 15
+    }
+   ]
+  },
+  {
+   "id": "u-it-L1-11",
+   "level": 1,
+   "index": 13,
+   "title": "Una notizia dal sud",
+   "title_en": "News from the south",
+   "series": "A casa di Nonna Rosa",
+   "part": 1,
+   "nodes": [
+    {
+     "id": "it-L1-11:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L1-11",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L1-11:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "conjugation:C9",
+     "mode": "learn",
+     "count": 6
+    },
+    {
+     "id": "it-L1-11:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L1-11"
+    },
+    {
+     "id": "it-L1-11:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L1-11",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L1-11:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "station",
+     "targets": [
+      "la telefonata",
+      "la nonna",
+      "cucino",
+      "risponde"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L1-11:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L1-11",
+     "prompt_en": "Retell \"Una notizia dal sud\" in 2–3 Italian sentences.",
+     "use": [
+      "la telefonata",
+      "la nonna"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-it-L1-12",
+   "level": 1,
+   "index": 14,
+   "title": "Il paese di Nonna Rosa",
+   "title_en": "Grandma Rosa's village",
+   "series": "A casa di Nonna Rosa",
+   "part": 2,
+   "nodes": [
+    {
+     "id": "it-L1-12:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L1-12",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L1-12:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "conjugation:C9",
+     "mode": "practice",
+     "count": 6
+    },
+    {
+     "id": "it-L1-12:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L1-12"
+    },
+    {
+     "id": "it-L1-12:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L1-12",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L1-12:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "station",
+     "targets": [
+      "la fontana",
+      "in fondo",
+      "pulita",
+      "saluta"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L1-12:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L1-12",
+     "prompt_en": "Retell \"Il paese di Nonna Rosa\" in 2–3 Italian sentences.",
+     "use": [
+      "la fontana",
+      "in fondo"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-it-L1-13",
+   "level": 1,
+   "index": 15,
+   "title": "Il segreto delle lasagne",
+   "title_en": "The secret of the lasagna",
+   "series": "A casa di Nonna Rosa",
+   "part": 3,
+   "nodes": [
+    {
+     "id": "it-L1-13:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L1-13",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L1-13:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "conjugation:C4",
+     "mode": "learn",
+     "count": 6
+    },
+    {
+     "id": "it-L1-13:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L1-13"
+    },
+    {
+     "id": "it-L1-13:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L1-13",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L1-13:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "restaurant",
+     "targets": [
+      "a tavola",
+      "il segreto",
+      "sorride",
+      "ci vogliono"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L1-13:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L1-13",
+     "prompt_en": "Retell \"Il segreto delle lasagne\" in 2–3 Italian sentences.",
+     "use": [
+      "a tavola",
+      "il segreto"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-it-L1-14",
+   "level": 1,
+   "index": 16,
+   "title": "Paura nella notte",
+   "title_en": "Fear in the night",
+   "series": "A casa di Nonna Rosa",
+   "part": 4,
+   "nodes": [
+    {
+     "id": "it-L1-14:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L1-14",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L1-14:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "conjugation:C4",
+     "mode": "practice",
+     "count": 6
+    },
+    {
+     "id": "it-L1-14:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L1-14"
+    },
+    {
+     "id": "it-L1-14:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L1-14",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L1-14:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "station",
+     "targets": [
+      "il rumore",
+      "il ladro",
+      "ha paura",
+      "il topo"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L1-14:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L1-14",
+     "prompt_en": "Retell \"Paura nella notte\" in 2–3 Italian sentences.",
+     "use": [
+      "il rumore",
+      "il ladro"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-it-L1-15",
+   "level": 1,
+   "index": 17,
+   "title": "Max a scuola",
+   "title_en": "Max at school",
+   "series": "A casa di Nonna Rosa",
+   "part": 5,
+   "nodes": [
+    {
+     "id": "it-L1-15:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L1-15",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L1-15:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "conjugation:C7",
+     "mode": "learn",
+     "count": 6
+    },
+    {
+     "id": "it-L1-15:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L1-15"
+    },
+    {
+     "id": "it-L1-15:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L1-15",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L1-15:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "station",
+     "targets": [
+      "la maestra",
+      "invita",
+      "la classe",
+      "pesi"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L1-15:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L1-15",
+     "prompt_en": "Retell \"Max a scuola\" in 2–3 Italian sentences.",
+     "use": [
+      "la maestra",
+      "invita"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cp-L1-3",
+   "level": 1,
+   "index": 18,
+   "title": "Checkpoint",
+   "title_en": "Checkpoint",
+   "series": null,
+   "part": null,
+   "checkpoint": true,
+   "nodes": [
+    {
+     "id": "cp-L1-3:test",
+     "type": "checkpoint",
+     "title": "Ripasso",
+     "units": [
+      "u-it-L1-11",
+      "u-it-L1-12",
+      "u-it-L1-13",
+      "u-it-L1-14",
+      "u-it-L1-15"
+     ],
+     "count": 15
+    }
+   ]
+  },
+  {
+   "id": "u-it-L1-16",
+   "level": 1,
+   "index": 19,
+   "title": "La festa del paese",
+   "title_en": "The village festival",
+   "series": "A casa di Nonna Rosa",
+   "part": 6,
+   "nodes": [
+    {
+     "id": "it-L1-16:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L1-16",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L1-16:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "conjugation:C7",
+     "mode": "practice",
+     "count": 6
+    },
+    {
+     "id": "it-L1-16:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L1-16"
+    },
+    {
+     "id": "it-L1-16:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L1-16",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L1-16:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "station",
+     "targets": [
+      "luglio",
+      "ballano",
+      "per sicurezza",
+      "gli arancini"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L1-16:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L1-16",
+     "prompt_en": "Retell \"La festa del paese\" in 2–3 Italian sentences.",
+     "use": [
+      "luglio",
+      "ballano"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-it-L1-17",
+   "level": 1,
+   "index": 20,
+   "title": "Il regalo per la nonna",
+   "title_en": "The gift for Grandma",
+   "series": "A casa di Nonna Rosa",
+   "part": 7,
+   "nodes": [
+    {
+     "id": "it-L1-17:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L1-17",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L1-17:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "conjugation:C8",
+     "mode": "learn",
+     "count": 6
+    },
+    {
+     "id": "it-L1-17:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L1-17"
+    },
+    {
+     "id": "it-L1-17:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L1-17",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L1-17:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "market",
+     "targets": [
+      "il regalo",
+      "il negozio",
+      "quanto costa",
+      "il vaso"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L1-17:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L1-17",
+     "prompt_en": "Retell \"Il regalo per la nonna\" in 2–3 Italian sentences.",
+     "use": [
+      "il regalo",
+      "il negozio"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-it-L1-18",
+   "level": 1,
+   "index": 21,
+   "title": "Il giro in bicicletta",
+   "title_en": "The bike ride",
+   "series": "A casa di Nonna Rosa",
+   "part": 8,
+   "nodes": [
+    {
+     "id": "it-L1-18:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L1-18",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L1-18:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "conjugation:C8",
+     "mode": "practice",
+     "count": 6
+    },
+    {
+     "id": "it-L1-18:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L1-18"
+    },
+    {
+     "id": "it-L1-18:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L1-18",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L1-18:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "station",
+     "targets": [
+      "la bicicletta",
+      "i chilometri",
+      "a metà strada",
+      "va bene"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L1-18:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L1-18",
+     "prompt_en": "Retell \"Il giro in bicicletta\" in 2–3 Italian sentences.",
+     "use": [
+      "la bicicletta",
+      "i chilometri"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-it-L1-19",
+   "level": 1,
+   "index": 22,
+   "title": "Le foto di una volta",
+   "title_en": "The old photos",
+   "series": "A casa di Nonna Rosa",
+   "part": 9,
+   "nodes": [
+    {
+     "id": "it-L1-19:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L1-19",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L1-19:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "pronouns:L1",
+     "mode": "learn",
+     "count": 6
+    },
+    {
+     "id": "it-L1-19:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L1-19"
+    },
+    {
+     "id": "it-L1-19:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L1-19",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L1-19:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "station",
+     "targets": [
+      "piove",
+      "la scatola",
+      "il nonno",
+      "da giovane"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L1-19:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L1-19",
+     "prompt_en": "Retell \"Le foto di una volta\" in 2–3 Italian sentences.",
+     "use": [
+      "piove",
+      "la scatola"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-it-L1-20",
+   "level": 1,
+   "index": 23,
+   "title": "Arrivederci, Nonna Rosa",
+   "title_en": "Goodbye, Grandma Rosa",
+   "series": "A casa di Nonna Rosa",
+   "part": 10,
+   "nodes": [
+    {
+     "id": "it-L1-20:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L1-20",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L1-20:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "pronouns:L1",
+     "mode": "practice",
+     "count": 6
+    },
+    {
+     "id": "it-L1-20:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L1-20"
+    },
+    {
+     "id": "it-L1-20:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L1-20",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L1-20:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "station",
+     "targets": [
+      "abbraccia",
+      "presto",
+      "le lacrime",
+      "la lettera"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L1-20:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L1-20",
+     "prompt_en": "Retell \"Arrivederci, Nonna Rosa\" in 2–3 Italian sentences.",
+     "use": [
+      "abbraccia",
+      "presto"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cp-L1-4",
+   "level": 1,
+   "index": 24,
+   "title": "Checkpoint",
+   "title_en": "Checkpoint",
+   "series": null,
+   "part": null,
+   "checkpoint": true,
+   "nodes": [
+    {
+     "id": "cp-L1-4:test",
+     "type": "checkpoint",
+     "title": "Ripasso",
+     "units": [
+      "u-it-L1-16",
+      "u-it-L1-17",
+      "u-it-L1-18",
+      "u-it-L1-19",
+      "u-it-L1-20"
+     ],
+     "count": 15
+    }
+   ]
+  },
+  {
+   "id": "u-it-L1-21",
+   "level": 1,
+   "index": 25,
+   "title": "Un'idea per il futuro",
+   "title_en": "An idea for the future",
+   "series": "Il ristorante di Brzuchi",
+   "part": 1,
+   "nodes": [
+    {
+     "id": "it-L1-21:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L1-21",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L1-21:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "pronouns:L2",
+     "mode": "learn",
+     "count": 6
+    },
+    {
+     "id": "it-L1-21:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L1-21"
+    },
+    {
+     "id": "it-L1-21:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L1-21",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L1-21:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "restaurant",
+     "targets": [
+      "va bene",
+      "tranquilla",
+      "il porto",
+      "ci vuole"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L1-21:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L1-21",
+     "prompt_en": "Retell \"Un'idea per il futuro\" in 2–3 Italian sentences.",
+     "use": [
+      "va bene",
+      "tranquilla"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-it-L1-22",
+   "level": 1,
+   "index": 26,
+   "title": "Il nome e il menu",
+   "title_en": "The name and the menu",
+   "series": "Il ristorante di Brzuchi",
+   "part": 2,
+   "nodes": [
+    {
+     "id": "it-L1-22:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L1-22",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L1-22:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "pronouns:L2",
+     "mode": "practice",
+     "count": 6
+    },
+    {
+     "id": "it-L1-22:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L1-22"
+    },
+    {
+     "id": "it-L1-22:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L1-22",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L1-22:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "restaurant",
+     "targets": [
+      "la stella",
+      "qui si mangia",
+      "i secondi",
+      "hanno fame"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L1-22:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L1-22",
+     "prompt_en": "Retell \"Il nome e il menu\" in 2–3 Italian sentences.",
+     "use": [
+      "la stella",
+      "qui si mangia"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-it-L1-23",
+   "level": 1,
+   "index": 27,
+   "title": "Il primo giorno",
+   "title_en": "The first day",
+   "series": "Il ristorante di Brzuchi",
+   "part": 3,
+   "nodes": [
+    {
+     "id": "it-L1-23:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L1-23",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L1-23:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "pronouns:L3",
+     "mode": "learn",
+     "count": 6
+    },
+    {
+     "id": "it-L1-23:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L1-23"
+    },
+    {
+     "id": "it-L1-23:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L1-23",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L1-23:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "restaurant",
+     "targets": [
+      "mezzogiorno",
+      "vuoto",
+      "l'insegna",
+      "si fermano"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L1-23:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L1-23",
+     "prompt_en": "Retell \"Il primo giorno\" in 2–3 Italian sentences.",
+     "use": [
+      "mezzogiorno",
+      "vuoto"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-it-L1-24",
+   "level": 1,
+   "index": 28,
+   "title": "Un consiglio dalla nonna",
+   "title_en": "Advice from Grandma",
+   "series": "Il ristorante di Brzuchi",
+   "part": 4,
+   "nodes": [
+    {
+     "id": "it-L1-24:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L1-24",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L1-24:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "pronouns:L3",
+     "mode": "practice",
+     "count": 6
+    },
+    {
+     "id": "it-L1-24:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L1-24"
+    },
+    {
+     "id": "it-L1-24:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L1-24",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L1-24:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "restaurant",
+     "targets": [
+      "va bene",
+      "mi dispiace",
+      "ascolta",
+      "con calma"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L1-24:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L1-24",
+     "prompt_en": "Retell \"Un consiglio dalla nonna\" in 2–3 Italian sentences.",
+     "use": [
+      "va bene",
+      "mi dispiace"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-it-L1-25",
+   "level": 1,
+   "index": 29,
+   "title": "La squadra affamata",
+   "title_en": "The hungry team",
+   "series": "Il ristorante di Brzuchi",
+   "part": 5,
+   "nodes": [
+    {
+     "id": "it-L1-25:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L1-25",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L1-25:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "pronouns:L4",
+     "mode": "learn",
+     "count": 6
+    },
+    {
+     "id": "it-L1-25:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L1-25"
+    },
+    {
+     "id": "it-L1-25:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L1-25",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L1-25:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "restaurant",
+     "targets": [
+      "i giocatori",
+      "la partita",
+      "hanno una fame",
+      "il cuoco"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L1-25:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L1-25",
+     "prompt_en": "Retell \"La squadra affamata\" in 2–3 Italian sentences.",
+     "use": [
+      "i giocatori",
+      "la partita"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cp-L1-5",
+   "level": 1,
+   "index": 30,
+   "title": "Checkpoint",
+   "title_en": "Checkpoint",
+   "series": null,
+   "part": null,
+   "checkpoint": true,
+   "nodes": [
+    {
+     "id": "cp-L1-5:test",
+     "type": "checkpoint",
+     "title": "Ripasso",
+     "units": [
+      "u-it-L1-21",
+      "u-it-L1-22",
+      "u-it-L1-23",
+      "u-it-L1-24",
+      "u-it-L1-25"
+     ],
+     "count": 15
+    }
+   ]
+  },
+  {
+   "id": "u-it-L1-26",
+   "level": 1,
+   "index": 31,
+   "title": "Il video",
+   "title_en": "The video",
+   "series": "Il ristorante di Brzuchi",
+   "part": 6,
+   "nodes": [
+    {
+     "id": "it-L1-26:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L1-26",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L1-26:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "pronouns:L4",
+     "mode": "practice",
+     "count": 6
+    },
+    {
+     "id": "it-L1-26:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L1-26"
+    },
+    {
+     "id": "it-L1-26:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L1-26",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L1-26:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "restaurant",
+     "targets": [
+      "il braccio",
+      "il barattolo",
+      "alza",
+      "le visualizzazioni"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L1-26:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L1-26",
+     "prompt_en": "Retell \"Il video\" in 2–3 Italian sentences.",
+     "use": [
+      "il braccio",
+      "il barattolo"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-it-L1-27",
+   "level": 1,
+   "index": 32,
+   "title": "Il signore misterioso",
+   "title_en": "The mysterious gentleman",
+   "series": "Il ristorante di Brzuchi",
+   "part": 7,
+   "nodes": [
+    {
+     "id": "it-L1-27:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L1-27",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L1-27:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "pronouns:L5",
+     "mode": "learn",
+     "count": 6
+    },
+    {
+     "id": "it-L1-27:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L1-27"
+    },
+    {
+     "id": "it-L1-27:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L1-27",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L1-27:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "restaurant",
+     "targets": [
+      "grigio",
+      "da solo",
+      "non sorride mai",
+      "un po'"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L1-27:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L1-27",
+     "prompt_en": "Retell \"Il signore misterioso\" in 2–3 Italian sentences.",
+     "use": [
+      "grigio",
+      "da solo"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-it-L1-28",
+   "level": 1,
+   "index": 33,
+   "title": "La polizia alla porta",
+   "title_en": "The police at the door",
+   "series": "Il ristorante di Brzuchi",
+   "part": 8,
+   "nodes": [
+    {
+     "id": "it-L1-28:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L1-28",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L1-28:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "pronouns:L5",
+     "mode": "practice",
+     "count": 6
+    },
+    {
+     "id": "it-L1-28:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L1-28"
+    },
+    {
+     "id": "it-L1-28:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L1-28",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L1-28:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "restaurant",
+     "targets": [
+      "blocca",
+      "fino a",
+      "i poliziotti",
+      "la farina"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L1-28:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L1-28",
+     "prompt_en": "Retell \"La polizia alla porta\" in 2–3 Italian sentences.",
+     "use": [
+      "blocca",
+      "fino a"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-it-L1-29",
+   "level": 1,
+   "index": 34,
+   "title": "In televisione",
+   "title_en": "On television",
+   "series": "Il ristorante di Brzuchi",
+   "part": 9,
+   "nodes": [
+    {
+     "id": "it-L1-29:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L1-29",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L1-29:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "review",
+     "mode": "practice",
+     "count": 6
+    },
+    {
+     "id": "it-L1-29:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L1-29"
+    },
+    {
+     "id": "it-L1-29:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L1-29",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L1-29:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "restaurant",
+     "targets": [
+      "la telefonata",
+      "per sicurezza",
+      "le telecamere",
+      "la presentatrice"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L1-29:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L1-29",
+     "prompt_en": "Retell \"In televisione\" in 2–3 Italian sentences.",
+     "use": [
+      "la telefonata",
+      "per sicurezza"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-it-L1-30",
+   "level": 1,
+   "index": 35,
+   "title": "Un anno dopo",
+   "title_en": "One year later",
+   "series": "Il ristorante di Brzuchi",
+   "part": 10,
+   "nodes": [
+    {
+     "id": "it-L1-30:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L1-30",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L1-30:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "review",
+     "mode": "practice",
+     "count": 6
+    },
+    {
+     "id": "it-L1-30:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L1-30"
+    },
+    {
+     "id": "it-L1-30:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L1-30",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L1-30:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "restaurant",
+     "targets": [
+      "compie un anno",
+      "il campionato",
+      "a un certo punto",
+      "corre"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L1-30:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L1-30",
+     "prompt_en": "Retell \"Un anno dopo\" in 2–3 Italian sentences.",
+     "use": [
+      "compie un anno",
+      "il campionato"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cp-L1-6",
+   "level": 1,
+   "index": 36,
+   "title": "Checkpoint",
+   "title_en": "Checkpoint",
+   "series": null,
+   "part": null,
+   "checkpoint": true,
+   "nodes": [
+    {
+     "id": "cp-L1-6:test",
+     "type": "checkpoint",
+     "title": "Ripasso",
+     "units": [
+      "u-it-L1-26",
+      "u-it-L1-27",
+      "u-it-L1-28",
+      "u-it-L1-29",
+      "u-it-L1-30"
+     ],
+     "count": 15
+    }
+   ]
+  },
+  {
+   "id": "u-it-L2-01",
+   "level": 2,
+   "index": 37,
+   "title": "Max e la gondola",
+   "title_en": "Max and the gondola",
+   "series": null,
+   "part": null,
+   "nodes": [
+    {
+     "id": "it-L2-01:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L2-01",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L2-01:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "past:P1",
+     "mode": "learn",
+     "count": 6
+    },
+    {
+     "id": "it-L2-01:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L2-01"
+    },
+    {
+     "id": "it-L2-01:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L2-01",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L2-01:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "directions",
+     "targets": [
+      "il pesce",
+      "persi",
+      "ho fame",
+      "la gondola"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L2-01:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L2-01",
+     "prompt_en": "Retell \"Max e la gondola\" in 2–3 Italian sentences.",
+     "use": [
+      "il pesce",
+      "persi"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-it-L2-02",
+   "level": 2,
+   "index": 38,
+   "title": "La pasta perfetta",
+   "title_en": "The perfect pasta",
+   "series": null,
+   "part": null,
+   "nodes": [
+    {
+     "id": "it-L2-02:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L2-02",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L2-02:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "past:P1",
+     "mode": "practice",
+     "count": 6
+    },
+    {
+     "id": "it-L2-02:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L2-02"
+    },
+    {
+     "id": "it-L2-02:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L2-02",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L2-02:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "restaurant",
+     "targets": [
+      "cucinare",
+      "l'uovo",
+      "ha rotto",
+      "la padella"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L2-02:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L2-02",
+     "prompt_en": "Retell \"La pasta perfetta\" in 2–3 Italian sentences.",
+     "use": [
+      "cucinare",
+      "l'uovo"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-it-L2-03",
+   "level": 2,
+   "index": 39,
+   "title": "In farmacia",
+   "title_en": "At the pharmacy",
+   "series": null,
+   "part": null,
+   "nodes": [
+    {
+     "id": "it-L2-03:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L2-03",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L2-03:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "past:P1",
+     "mode": "practice",
+     "count": 6
+    },
+    {
+     "id": "it-L2-03:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L2-03"
+    },
+    {
+     "id": "it-L2-03:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L2-03",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L2-03:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "pharmacy",
+     "targets": [
+      "il mal di pancia",
+      "la farmacia",
+      "in braccio",
+      "sta male"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L2-03:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L2-03",
+     "prompt_en": "Retell \"In farmacia\" in 2–3 Italian sentences.",
+     "use": [
+      "il mal di pancia",
+      "la farmacia"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-it-L2-04",
+   "level": 2,
+   "index": 40,
+   "title": "Il picnic al parco",
+   "title_en": "The picnic in the park",
+   "series": null,
+   "part": null,
+   "nodes": [
+    {
+     "id": "it-L2-04:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L2-04",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L2-04:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "past:P2",
+     "mode": "learn",
+     "count": 6
+    },
+    {
+     "id": "it-L2-04:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L2-04"
+    },
+    {
+     "id": "it-L2-04:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L2-04",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L2-04:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "smallTalk",
+     "targets": [
+      "fa bel tempo",
+      "il cestino",
+      "il vento",
+      "vola via"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L2-04:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L2-04",
+     "prompt_en": "Retell \"Il picnic al parco\" in 2–3 Italian sentences.",
+     "use": [
+      "fa bel tempo",
+      "il cestino"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-it-L2-05",
+   "level": 2,
+   "index": 41,
+   "title": "La partita",
+   "title_en": "The match",
+   "series": null,
+   "part": null,
+   "nodes": [
+    {
+     "id": "it-L2-05:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L2-05",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L2-05:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "past:P2",
+     "mode": "practice",
+     "count": 6
+    },
+    {
+     "id": "it-L2-05:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L2-05"
+    },
+    {
+     "id": "it-L2-05:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L2-05",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L2-05:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "smallTalk",
+     "targets": [
+      "i biglietti",
+      "i giocatori",
+      "la porchetta",
+      "il primo tempo"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L2-05:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L2-05",
+     "prompt_en": "Retell \"La partita\" in 2–3 Italian sentences.",
+     "use": [
+      "i biglietti",
+      "i giocatori"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cp-L2-1",
+   "level": 2,
+   "index": 42,
+   "title": "Checkpoint",
+   "title_en": "Checkpoint",
+   "series": null,
+   "part": null,
+   "checkpoint": true,
+   "nodes": [
+    {
+     "id": "cp-L2-1:test",
+     "type": "checkpoint",
+     "title": "Ripasso",
+     "units": [
+      "u-it-L2-01",
+      "u-it-L2-02",
+      "u-it-L2-03",
+      "u-it-L2-04",
+      "u-it-L2-05"
+     ],
+     "count": 15
+    }
+   ]
+  },
+  {
+   "id": "u-it-L2-06",
+   "level": 2,
+   "index": 43,
+   "title": "Pioggia a Milano",
+   "title_en": "Rain in Milan",
+   "series": null,
+   "part": null,
+   "nodes": [
+    {
+     "id": "it-L2-06:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L2-06",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L2-06:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "past:P2",
+     "mode": "practice",
+     "count": 6
+    },
+    {
+     "id": "it-L2-06:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L2-06"
+    },
+    {
+     "id": "it-L2-06:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L2-06",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L2-06:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "smallTalk",
+     "targets": [
+      "piove",
+      "il Duomo",
+      "l'ombrello",
+      "il cartello"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L2-06:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L2-06",
+     "prompt_en": "Retell \"Pioggia a Milano\" in 2–3 Italian sentences.",
+     "use": [
+      "piove",
+      "il Duomo"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-it-L2-07",
+   "level": 2,
+   "index": 44,
+   "title": "La macchina rotta",
+   "title_en": "The broken-down car",
+   "series": null,
+   "part": null,
+   "nodes": [
+    {
+     "id": "it-L2-07:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L2-07",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L2-07:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "past:P3",
+     "mode": "learn",
+     "count": 6
+    },
+    {
+     "id": "it-L2-07:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L2-07"
+    },
+    {
+     "id": "it-L2-07:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L2-07",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L2-07:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "smallTalk",
+     "targets": [
+      "il meccanico",
+      "la trattoria",
+      "non ti preoccupare",
+      "di corsa"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L2-07:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L2-07",
+     "prompt_en": "Retell \"La macchina rotta\" in 2–3 Italian sentences.",
+     "use": [
+      "il meccanico",
+      "la trattoria"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-it-L2-08",
+   "level": 2,
+   "index": 45,
+   "title": "Una serata a teatro",
+   "title_en": "An evening at the theater",
+   "series": null,
+   "part": null,
+   "nodes": [
+    {
+     "id": "it-L2-08:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L2-08",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L2-08:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "past:P3",
+     "mode": "practice",
+     "count": 6
+    },
+    {
+     "id": "it-L2-08:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L2-08"
+    },
+    {
+     "id": "it-L2-08:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L2-08",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L2-08:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "smallTalk",
+     "targets": [
+      "la giacca",
+      "un po'",
+      "canta",
+      "il palco"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L2-08:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L2-08",
+     "prompt_en": "Retell \"Una serata a teatro\" in 2–3 Italian sentences.",
+     "use": [
+      "la giacca",
+      "un po'"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-it-L2-09",
+   "level": 2,
+   "index": 46,
+   "title": "Il cellulare di Max",
+   "title_en": "Max's phone",
+   "series": null,
+   "part": null,
+   "nodes": [
+    {
+     "id": "it-L2-09:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L2-09",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L2-09:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "past:P3",
+     "mode": "practice",
+     "count": 6
+    },
+    {
+     "id": "it-L2-09:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L2-09"
+    },
+    {
+     "id": "it-L2-09:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L2-09",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L2-09:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "smallTalk",
+     "targets": [
+      "tocca",
+      "lo schermo",
+      "la piuma",
+      "fai una foto"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L2-09:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L2-09",
+     "prompt_en": "Retell \"Il cellulare di Max\" in 2–3 Italian sentences.",
+     "use": [
+      "tocca",
+      "lo schermo"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-it-L2-10",
+   "level": 2,
+   "index": 47,
+   "title": "La gara di cucina",
+   "title_en": "The cooking contest",
+   "series": null,
+   "part": null,
+   "nodes": [
+    {
+     "id": "it-L2-10:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L2-10",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L2-10:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "past:P4",
+     "mode": "learn",
+     "count": 6
+    },
+    {
+     "id": "it-L2-10:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L2-10"
+    },
+    {
+     "id": "it-L2-10:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L2-10",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L2-10:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "restaurant",
+     "targets": [
+      "ha invitato",
+      "il giudice",
+      "tutte e due",
+      "i cuochi"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L2-10:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L2-10",
+     "prompt_en": "Retell \"La gara di cucina\" in 2–3 Italian sentences.",
+     "use": [
+      "ha invitato",
+      "il giudice"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cp-L2-2",
+   "level": 2,
+   "index": 48,
+   "title": "Checkpoint",
+   "title_en": "Checkpoint",
+   "series": null,
+   "part": null,
+   "checkpoint": true,
+   "nodes": [
+    {
+     "id": "cp-L2-2:test",
+     "type": "checkpoint",
+     "title": "Ripasso",
+     "units": [
+      "u-it-L2-06",
+      "u-it-L2-07",
+      "u-it-L2-08",
+      "u-it-L2-09",
+      "u-it-L2-10"
+     ],
+     "count": 15
+    }
+   ]
+  },
+  {
+   "id": "u-it-L2-11",
+   "level": 2,
+   "index": 49,
+   "title": "Il volo per Roma",
+   "title_en": "The flight to Rome",
+   "series": "Brzuchi e Max a Roma",
+   "part": 1,
+   "nodes": [
+    {
+     "id": "it-L2-11:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L2-11",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L2-11:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "past:P4",
+     "mode": "practice",
+     "count": 6
+    },
+    {
+     "id": "it-L2-11:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L2-11"
+    },
+    {
+     "id": "it-L2-11:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L2-11",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L2-11:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "station",
+     "targets": [
+      "l'aeroporto",
+      "pesa",
+      "va bene",
+      "la hostess"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L2-11:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L2-11",
+     "prompt_en": "Retell \"Il volo per Roma\" in 2–3 Italian sentences.",
+     "use": [
+      "l'aeroporto",
+      "pesa"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-it-L2-12",
+   "level": 2,
+   "index": 50,
+   "title": "La chiave della stanza",
+   "title_en": "The room key",
+   "series": "Brzuchi e Max a Roma",
+   "part": 2,
+   "nodes": [
+    {
+     "id": "it-L2-12:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L2-12",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L2-12:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "past:P4",
+     "mode": "practice",
+     "count": 6
+    },
+    {
+     "id": "it-L2-12:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L2-12"
+    },
+    {
+     "id": "it-L2-12:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L2-12",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L2-12:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "hotel",
+     "targets": [
+      "la stazione",
+      "la chiave",
+      "le tasche",
+      "scendono"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L2-12:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L2-12",
+     "prompt_en": "Retell \"La chiave della stanza\" in 2–3 Italian sentences.",
+     "use": [
+      "la stazione",
+      "la chiave"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-it-L2-13",
+   "level": 2,
+   "index": 51,
+   "title": "Un nuovo amico",
+   "title_en": "A new friend",
+   "series": "Brzuchi e Max a Roma",
+   "part": 3,
+   "nodes": [
+    {
+     "id": "it-L2-13:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L2-13",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L2-13:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "past:P5",
+     "mode": "learn",
+     "count": 6
+    },
+    {
+     "id": "it-L2-13:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L2-13"
+    },
+    {
+     "id": "it-L2-13:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L2-13",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L2-13:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "smallTalk",
+     "targets": [
+      "magro",
+      "a destra",
+      "a sinistra",
+      "l'emergenza"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L2-13:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L2-13",
+     "prompt_en": "Retell \"Un nuovo amico\" in 2–3 Italian sentences.",
+     "use": [
+      "magro",
+      "a destra"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-it-L2-14",
+   "level": 2,
+   "index": 52,
+   "title": "L'esame di italiano",
+   "title_en": "The Italian exam",
+   "series": "Brzuchi e Max a Roma",
+   "part": 4,
+   "nodes": [
+    {
+     "id": "it-L2-14:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L2-14",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L2-14:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "past:P5",
+     "mode": "practice",
+     "count": 6
+    },
+    {
+     "id": "it-L2-14:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L2-14"
+    },
+    {
+     "id": "it-L2-14:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L2-14",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L2-14:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "smallTalk",
+     "targets": [
+      "la penna",
+      "orale",
+      "ha fame",
+      "il quartiere"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L2-14:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L2-14",
+     "prompt_en": "Retell \"L'esame di italiano\" in 2–3 Italian sentences.",
+     "use": [
+      "la penna",
+      "orale"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-it-L2-15",
+   "level": 2,
+   "index": 53,
+   "title": "In banca",
+   "title_en": "At the bank",
+   "series": "Brzuchi e Max a Roma",
+   "part": 5,
+   "nodes": [
+    {
+     "id": "it-L2-15:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L2-15",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L2-15:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "past:P5",
+     "mode": "practice",
+     "count": 6
+    },
+    {
+     "id": "it-L2-15:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L2-15"
+    },
+    {
+     "id": "it-L2-15:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L2-15",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L2-15:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "market",
+     "targets": [
+      "i contanti",
+      "un po'",
+      "la cabina",
+      "eccessivo"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L2-15:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L2-15",
+     "prompt_en": "Retell \"In banca\" in 2–3 Italian sentences.",
+     "use": [
+      "i contanti",
+      "un po'"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cp-L2-3",
+   "level": 2,
+   "index": 54,
+   "title": "Checkpoint",
+   "title_en": "Checkpoint",
+   "series": null,
+   "part": null,
+   "checkpoint": true,
+   "nodes": [
+    {
+     "id": "cp-L2-3:test",
+     "type": "checkpoint",
+     "title": "Ripasso",
+     "units": [
+      "u-it-L2-11",
+      "u-it-L2-12",
+      "u-it-L2-13",
+      "u-it-L2-14",
+      "u-it-L2-15"
+     ],
+     "count": 15
+    }
+   ]
+  },
+  {
+   "id": "u-it-L2-16",
+   "level": 2,
+   "index": 55,
+   "title": "Il concerto in piazza",
+   "title_en": "The concert in the square",
+   "series": "Brzuchi e Max a Roma",
+   "part": 6,
+   "nodes": [
+    {
+     "id": "it-L2-16:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L2-16",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L2-16:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "past:P6",
+     "mode": "learn",
+     "count": 6
+    },
+    {
+     "id": "it-L2-16:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L2-16"
+    },
+    {
+     "id": "it-L2-16:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L2-16",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L2-16:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "smallTalk",
+     "targets": [
+      "gratis",
+      "la cantante",
+      "la fila",
+      "non riesce"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L2-16:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L2-16",
+     "prompt_en": "Retell \"Il concerto in piazza\" in 2–3 Italian sentences.",
+     "use": [
+      "gratis",
+      "la cantante"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-it-L2-17",
+   "level": 2,
+   "index": 56,
+   "title": "Il traffico di Roma",
+   "title_en": "Rome's traffic",
+   "series": "Brzuchi e Max a Roma",
+   "part": 7,
+   "nodes": [
+    {
+     "id": "it-L2-17:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L2-17",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L2-17:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "past:P6",
+     "mode": "practice",
+     "count": 6
+    },
+    {
+     "id": "it-L2-17:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L2-17"
+    },
+    {
+     "id": "it-L2-17:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L2-17",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L2-17:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "directions",
+     "targets": [
+      "la prenotazione",
+      "non si muove",
+      "l'autobus",
+      "in mezzo a"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L2-17:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L2-17",
+     "prompt_en": "Retell \"Il traffico di Roma\" in 2–3 Italian sentences.",
+     "use": [
+      "la prenotazione",
+      "non si muove"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-it-L2-18",
+   "level": 2,
+   "index": 57,
+   "title": "Il sogno di Brzuchi",
+   "title_en": "Brzuchi's dream",
+   "series": "Brzuchi e Max a Roma",
+   "part": 8,
+   "nodes": [
+    {
+     "id": "it-L2-18:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L2-18",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L2-18:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "past:P6",
+     "mode": "practice",
+     "count": 6
+    },
+    {
+     "id": "it-L2-18:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L2-18"
+    },
+    {
+     "id": "it-L2-18:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L2-18",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L2-18:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "smallTalk",
+     "targets": [
+      "meraviglioso",
+      "fatta di",
+      "gialli",
+      "lo zucchero"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L2-18:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L2-18",
+     "prompt_en": "Retell \"Il sogno di Brzuchi\" in 2–3 Italian sentences.",
+     "use": [
+      "meraviglioso",
+      "fatta di"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-it-L2-19",
+   "level": 2,
+   "index": 58,
+   "title": "Il matrimonio",
+   "title_en": "The wedding",
+   "series": "Brzuchi e Max a Roma",
+   "part": 9,
+   "nodes": [
+    {
+     "id": "it-L2-19:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L2-19",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L2-19:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "past:P7",
+     "mode": "learn",
+     "count": 6
+    },
+    {
+     "id": "it-L2-19:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L2-19"
+    },
+    {
+     "id": "it-L2-19:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L2-19",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L2-19:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "smallTalk",
+     "targets": [
+      "la sposa",
+      "lo sposo",
+      "il riso",
+      "alla fine"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L2-19:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L2-19",
+     "prompt_en": "Retell \"Il matrimonio\" in 2–3 Italian sentences.",
+     "use": [
+      "la sposa",
+      "lo sposo"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-it-L2-20",
+   "level": 2,
+   "index": 59,
+   "title": "Il ritorno",
+   "title_en": "The way home",
+   "series": "Brzuchi e Max a Roma",
+   "part": 10,
+   "nodes": [
+    {
+     "id": "it-L2-20:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L2-20",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L2-20:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "past:P7",
+     "mode": "practice",
+     "count": 6
+    },
+    {
+     "id": "it-L2-20:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L2-20"
+    },
+    {
+     "id": "it-L2-20:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L2-20",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L2-20:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "station",
+     "targets": [
+      "il biglietto",
+      "tristi",
+      "va bene",
+      "le gambe"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L2-20:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L2-20",
+     "prompt_en": "Retell \"Il ritorno\" in 2–3 Italian sentences.",
+     "use": [
+      "il biglietto",
+      "tristi"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cp-L2-4",
+   "level": 2,
+   "index": 60,
+   "title": "Checkpoint",
+   "title_en": "Checkpoint",
+   "series": null,
+   "part": null,
+   "checkpoint": true,
+   "nodes": [
+    {
+     "id": "cp-L2-4:test",
+     "type": "checkpoint",
+     "title": "Ripasso",
+     "units": [
+      "u-it-L2-16",
+      "u-it-L2-17",
+      "u-it-L2-18",
+      "u-it-L2-19",
+      "u-it-L2-20"
+     ],
+     "count": 15
+    }
+   ]
+  },
+  {
+   "id": "u-it-L2-21",
+   "level": 2,
+   "index": 61,
+   "title": "La proposta di Anna",
+   "title_en": "Anna's proposal",
+   "series": "Avventura in montagna",
+   "part": 1,
+   "nodes": [
+    {
+     "id": "it-L2-21:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L2-21",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L2-21:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "past:P7",
+     "mode": "practice",
+     "count": 6
+    },
+    {
+     "id": "it-L2-21:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L2-21"
+    },
+    {
+     "id": "it-L2-21:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L2-21",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L2-21:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "smallTalk",
+     "targets": [
+      "la guida alpina",
+      "il rifugio",
+      "la salsiccia",
+      "i canederli"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L2-21:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L2-21",
+     "prompt_en": "Retell \"La proposta di Anna\" in 2–3 Italian sentences.",
+     "use": [
+      "la guida alpina",
+      "il rifugio"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-it-L2-22",
+   "level": 2,
+   "index": 62,
+   "title": "Lo zaino",
+   "title_en": "The backpack",
+   "series": "Avventura in montagna",
+   "part": 2,
+   "nodes": [
+    {
+     "id": "it-L2-22:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L2-22",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L2-22:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "review",
+     "mode": "practice",
+     "count": 6
+    },
+    {
+     "id": "it-L2-22:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L2-22"
+    },
+    {
+     "id": "it-L2-22:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L2-22",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L2-22:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "smallTalk",
+     "targets": [
+      "lo zaino",
+      "la mappa",
+      "la lampada",
+      "ha sospirato"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L2-22:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L2-22",
+     "prompt_en": "Retell \"Lo zaino\" in 2–3 Italian sentences.",
+     "use": [
+      "lo zaino",
+      "la mappa"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-it-L2-23",
+   "level": 2,
+   "index": 63,
+   "title": "Il sentiero",
+   "title_en": "The trail",
+   "series": "Avventura in montagna",
+   "part": 3,
+   "nodes": [
+    {
+     "id": "it-L2-23:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L2-23",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L2-23:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "review",
+     "mode": "practice",
+     "count": 6
+    },
+    {
+     "id": "it-L2-23:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L2-23"
+    },
+    {
+     "id": "it-L2-23:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L2-23",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L2-23:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "directions",
+     "targets": [
+      "il sentiero",
+      "i boschi",
+      "fino a",
+      "la parete di roccia"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L2-23:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L2-23",
+     "prompt_en": "Retell \"Il sentiero\" in 2–3 Italian sentences.",
+     "use": [
+      "il sentiero",
+      "i boschi"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-it-L2-24",
+   "level": 2,
+   "index": 64,
+   "title": "La serata al rifugio",
+   "title_en": "The evening at the hut",
+   "series": "Avventura in montagna",
+   "part": 4,
+   "nodes": [
+    {
+     "id": "it-L2-24:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L2-24",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L2-24:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "review",
+     "mode": "practice",
+     "count": 6
+    },
+    {
+     "id": "it-L2-24:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L2-24"
+    },
+    {
+     "id": "it-L2-24:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L2-24",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L2-24:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "smallTalk",
+     "targets": [
+      "la polenta",
+      "i funghi",
+      "fuso",
+      "la fisarmonica"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L2-24:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L2-24",
+     "prompt_en": "Retell \"La serata al rifugio\" in 2–3 Italian sentences.",
+     "use": [
+      "la polenta",
+      "i funghi"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-it-L2-25",
+   "level": 2,
+   "index": 65,
+   "title": "Il temporale",
+   "title_en": "The storm",
+   "series": "Avventura in montagna",
+   "part": 5,
+   "nodes": [
+    {
+     "id": "it-L2-25:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L2-25",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L2-25:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "review",
+     "mode": "practice",
+     "count": 6
+    },
+    {
+     "id": "it-L2-25:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L2-25"
+    },
+    {
+     "id": "it-L2-25:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L2-25",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L2-25:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "smallTalk",
+     "targets": [
+      "all'improvviso",
+      "la cresta",
+      "non voleva più",
+      "la grotta"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L2-25:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L2-25",
+     "prompt_en": "Retell \"Il temporale\" in 2–3 Italian sentences.",
+     "use": [
+      "all'improvviso",
+      "la cresta"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cp-L2-5",
+   "level": 2,
+   "index": 66,
+   "title": "Checkpoint",
+   "title_en": "Checkpoint",
+   "series": null,
+   "part": null,
+   "checkpoint": true,
+   "nodes": [
+    {
+     "id": "cp-L2-5:test",
+     "type": "checkpoint",
+     "title": "Ripasso",
+     "units": [
+      "u-it-L2-21",
+      "u-it-L2-22",
+      "u-it-L2-23",
+      "u-it-L2-24",
+      "u-it-L2-25"
+     ],
+     "count": 15
+    }
+   ]
+  },
+  {
+   "id": "u-it-L2-26",
+   "level": 2,
+   "index": 67,
+   "title": "Il ladro di panini",
+   "title_en": "The sandwich thief",
+   "series": "Avventura in montagna",
+   "part": 6,
+   "nodes": [
+    {
+     "id": "it-L2-26:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L2-26",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L2-26:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "review",
+     "mode": "practice",
+     "count": 6
+    },
+    {
+     "id": "it-L2-26:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L2-26"
+    },
+    {
+     "id": "it-L2-26:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L2-26",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L2-26:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "smallTalk",
+     "targets": [
+      "il prato",
+      "i cetrioli",
+      "si è girato",
+      "di nuovo"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L2-26:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L2-26",
+     "prompt_en": "Retell \"Il ladro di panini\" in 2–3 Italian sentences.",
+     "use": [
+      "il prato",
+      "i cetrioli"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-it-L2-27",
+   "level": 2,
+   "index": 68,
+   "title": "Intorno al fuoco",
+   "title_en": "Around the fire",
+   "series": "Avventura in montagna",
+   "part": 7,
+   "nodes": [
+    {
+     "id": "it-L2-27:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L2-27",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L2-27:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "review",
+     "mode": "practice",
+     "count": 6
+    },
+    {
+     "id": "it-L2-27:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L2-27"
+    },
+    {
+     "id": "it-L2-27:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L2-27",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L2-27:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "smallTalk",
+     "targets": [
+      "all'aperto",
+      "le stelle",
+      "la legna",
+      "ha acceso"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L2-27:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L2-27",
+     "prompt_en": "Retell \"Intorno al fuoco\" in 2–3 Italian sentences.",
+     "use": [
+      "all'aperto",
+      "le stelle"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-it-L2-28",
+   "level": 2,
+   "index": 69,
+   "title": "L'incidente",
+   "title_en": "The accident",
+   "series": "Avventura in montagna",
+   "part": 8,
+   "nodes": [
+    {
+     "id": "it-L2-28:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L2-28",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L2-28:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "review",
+     "mode": "practice",
+     "count": 6
+    },
+    {
+     "id": "it-L2-28:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L2-28"
+    },
+    {
+     "id": "it-L2-28:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L2-28",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L2-28:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "pharmacy",
+     "targets": [
+      "la valle",
+      "è scivolata",
+      "all'improvviso",
+      "la caviglia"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L2-28:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L2-28",
+     "prompt_en": "Retell \"L'incidente\" in 2–3 Italian sentences.",
+     "use": [
+      "la valle",
+      "è scivolata"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-it-L2-29",
+   "level": 2,
+   "index": 70,
+   "title": "La cima",
+   "title_en": "The summit",
+   "series": "Avventura in montagna",
+   "part": 9,
+   "nodes": [
+    {
+     "id": "it-L2-29:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L2-29",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L2-29:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "review",
+     "mode": "practice",
+     "count": 6
+    },
+    {
+     "id": "it-L2-29:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L2-29"
+    },
+    {
+     "id": "it-L2-29:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L2-29",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L2-29:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "smallTalk",
+     "targets": [
+      "la cima",
+      "non importa",
+      "la sedia",
+      "la schiena"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L2-29:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L2-29",
+     "prompt_en": "Retell \"La cima\" in 2–3 Italian sentences.",
+     "use": [
+      "la cima",
+      "non importa"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-it-L2-30",
+   "level": 2,
+   "index": 71,
+   "title": "A casa",
+   "title_en": "Back home",
+   "series": "Avventura in montagna",
+   "part": 10,
+   "nodes": [
+    {
+     "id": "it-L2-30:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-L2-30",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-L2-30:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "review",
+     "mode": "practice",
+     "count": 6
+    },
+    {
+     "id": "it-L2-30:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-L2-30"
+    },
+    {
+     "id": "it-L2-30:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-L2-30",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-L2-30:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "station",
+     "targets": [
+      "sembrava",
+      "rumorosa",
+      "mi manca",
+      "l'ospite"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-L2-30:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-L2-30",
+     "prompt_en": "Retell \"A casa\" in 2–3 Italian sentences.",
+     "use": [
+      "sembrava",
+      "rumorosa"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cp-L2-6",
+   "level": 2,
+   "index": 72,
+   "title": "Checkpoint",
+   "title_en": "Checkpoint",
+   "series": null,
+   "part": null,
+   "checkpoint": true,
+   "nodes": [
+    {
+     "id": "cp-L2-6:test",
+     "type": "checkpoint",
+     "title": "Ripasso",
+     "units": [
+      "u-it-L2-26",
+      "u-it-L2-27",
+      "u-it-L2-28",
+      "u-it-L2-29",
+      "u-it-L2-30"
+     ],
+     "count": 15
+    }
+   ]
+  }
+ ]
+}
