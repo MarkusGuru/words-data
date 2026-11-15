@@ -65,6 +65,78 @@
   "animacy": "inan"
  },
  {
+  "id": "biegać",
+  "front": "biegać",
+  "lemma": "biegać",
+  "back": "run",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "jog"
+  ],
+  "definition": "to run regularly or around ('biegam rano' = I go running)",
+  "examples": [
+   "Biegam trzy razy w tygodniu."
+  ],
+  "examples_en": [
+   "I go running three times a week."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.54,
+  "share": 98.0,
+  "hint": "regularly, for exercise",
+  "hint_context": "go jogging",
+  "example_marks": [
+   {
+    "text": "Biegam",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf"
+ },
+ {
+  "id": "rachunek",
+  "front": "rachunek",
+  "lemma": "rachunek",
+  "back": "check",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "bill"
+  ],
+  "definition": "the bill in a restaurant; a bill to pay",
+  "examples": [
+   "Poprosimy rachunek, dziękujemy."
+  ],
+  "examples_en": [
+   "We'd like the check, please. Thank you."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.65,
+  "lemma_id": "rachunek",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Poprosimy rachunek, dziękujemy.",
+  "share": 75.0,
+  "hint": "to pay",
+  "hint_context": "ask for the check",
+  "example_marks": [
+   {
+    "text": "rachunek",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
   "id": "brzuch",
   "front": "brzuch",
   "lemma": "brzuch",
@@ -98,6 +170,39 @@
    }
   ],
   "animacy": "inan"
+ },
+ {
+  "id": "cicho",
+  "front": "cicho",
+  "lemma": "cicho",
+  "back": "quietly",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "softly"
+  ],
+  "definition": "with little noise ('Cicho!' = Quiet!)",
+  "examples": [
+   "Mów ciszej, dziecko śpi."
+  ],
+  "examples_en": [
+   "Speak more quietly, the baby's asleep."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 4.53,
+  "share": 98.0,
+  "hint": "little noise",
+  "hint_context": "be quiet",
+  "example_marks": [
+   {
+    "text": "ciszej",
+    "nth": 1
+   }
+  ]
  },
  {
   "id": "torba",
@@ -162,6 +267,39 @@
   ]
  },
  {
+  "id": "biec",
+  "front": "biec",
+  "lemma": "biec",
+  "back": "run",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to run (now, in one direction)",
+  "examples": [
+   "Biegnę, bo spóźnię się na autobus!"
+  ],
+  "examples_en": [
+   "I'm running because I'll miss the bus!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.5,
+  "share": 98.0,
+  "hint": "running now, one way",
+  "hint_context": "run to the bus",
+  "example_marks": [
+   {
+    "text": "Biegnę",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "pobiec"
+ },
+ {
   "id": "krzesło",
   "front": "krzesło",
   "lemma": "krzesło",
@@ -193,6 +331,40 @@
   ]
  },
  {
+  "id": "schody",
+  "front": "schody",
+  "lemma": "schody",
+  "back": "stairs",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "staircase"
+  ],
+  "definition": "a set of steps (plural only)",
+  "examples": [
+   "Uważaj, schody są śliskie!"
+  ],
+  "examples_en": [
+   "Careful, the stairs are slippery!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "",
+  "zipf": 4.49,
+  "share": 98.0,
+  "hint": "steps",
+  "hint_context": "go up the stairs",
+  "example_marks": [
+   {
+    "text": "schody",
+    "nth": 1
+   }
+  ],
+  "number": "pl"
+ },
+ {
   "id": "ser",
   "front": "ser",
   "lemma": "ser",
@@ -219,6 +391,38 @@
   "example_marks": [
    {
     "text": "serem",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
+  "id": "cukier",
+  "front": "cukier",
+  "lemma": "cukier",
+  "back": "sugar",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "sugar",
+  "examples": [
+   "Pijesz kawę z cukrem?"
+  ],
+  "examples_en": [
+   "Do you take your coffee with sugar?"
+  ],
+  "claude": true,
+  "topic": "food",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.48,
+  "share": 98.0,
+  "hint": "sweet",
+  "hint_context": "a spoon of sugar",
+  "example_marks": [
+   {
+    "text": "cukrem",
     "nth": 1
    }
   ],
@@ -254,6 +458,76 @@
     "nth": 1
    }
   ]
+ },
+ {
+  "id": "wyciągać",
+  "front": "wyciągać",
+  "lemma": "wyciągać",
+  "back": "pull out",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "take out"
+  ],
+  "definition": "to take or pull something out",
+  "examples": [
+   "Wyciąga z torby stary aparat."
+  ],
+  "examples_en": [
+   "He takes an old camera out of the bag."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.47,
+  "share": 98.0,
+  "hint": "out of a bag",
+  "hint_context": "pull out a key",
+  "example_marks": [
+   {
+    "text": "Wyciąga",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "wyciągnąć"
+ },
+ {
+  "id": "wyjeżdżać",
+  "front": "wyjeżdżać",
+  "lemma": "wyjeżdżać",
+  "back": "go away",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "leave"
+  ],
+  "definition": "to leave by vehicle, go on a trip",
+  "examples": [
+   "Jutro wyjeżdżamy na urlop."
+  ],
+  "examples_en": [
+   "Tomorrow we're going away on vacation."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.47,
+  "share": 98.0,
+  "hint": "leave on a trip",
+  "hint_context": "go away for the weekend",
+  "example_marks": [
+   {
+    "text": "wyjeżdżamy",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "wyjechać"
  },
  {
   "id": "ziemniak",
@@ -320,6 +594,70 @@
   "example_marks": [
    {
     "text": "ciasto",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "kolacja",
+  "front": "kolacja",
+  "lemma": "kolacja",
+  "back": "dinner",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "supper"
+  ],
+  "definition": "the evening meal",
+  "examples": [
+   "Kolacja jest o siódmej."
+  ],
+  "examples_en": [
+   "Dinner is at seven."
+  ],
+  "claude": true,
+  "topic": "food",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 4.46,
+  "share": 98.0,
+  "hint": "evening meal",
+  "hint_context": "have dinner",
+  "example_marks": [
+   {
+    "text": "Kolacja",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "powoli",
+  "front": "powoli",
+  "lemma": "powoli",
+  "back": "slowly",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "not fast; gradually",
+  "examples": [
+   "Proszę mówić powoli."
+  ],
+  "examples_en": [
+   "Please speak slowly."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 4.46,
+  "share": 98.0,
+  "hint": "not fast, gradually",
+  "hint_context": "speak slowly",
+  "example_marks": [
+   {
+    "text": "powoli",
     "nth": 1
    }
   ]
@@ -392,6 +730,77 @@
   ]
  },
  {
+  "id": "przyjeżdżać",
+  "front": "przyjeżdżać",
+  "lemma": "przyjeżdżać",
+  "back": "arrive",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "come"
+  ],
+  "definition": "to come by vehicle (regularly or in progress)",
+  "examples": [
+   "Pociąg przyjeżdża o ósmej."
+  ],
+  "examples_en": [
+   "The train arrives at eight."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.44,
+  "share": 98.0,
+  "hint": "by vehicle",
+  "hint_context": "the train arrives",
+  "example_marks": [
+   {
+    "text": "przyjeżdża",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "przyjechać"
+ },
+ {
+  "id": "płynąć",
+  "front": "płynąć",
+  "lemma": "płynąć",
+  "back": "swim",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "sail",
+   "flow"
+  ],
+  "definition": "to swim or sail in one direction (now)",
+  "examples": [
+   "Statek płynie do Gdańska."
+  ],
+  "examples_en": [
+   "The ship is sailing to Gdańsk."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.44,
+  "share": 98.0,
+  "hint": "in water, one direction",
+  "hint_context": "swim across",
+  "example_marks": [
+   {
+    "text": "płynie",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "popłynąć"
+ },
+ {
   "id": "para",
   "front": "para",
   "lemma": "para",
@@ -422,6 +831,70 @@
   "example_marks": [
    {
     "text": "para",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "oddychać",
+  "front": "oddychać",
+  "lemma": "oddychać",
+  "back": "breathe",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to breathe",
+  "examples": [
+   "Oddychaj spokojnie i głęboko."
+  ],
+  "examples_en": [
+   "Breathe calmly and deeply."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.43,
+  "share": 98.0,
+  "hint": "air in and out",
+  "hint_context": "breathe deeply",
+  "example_marks": [
+   {
+    "text": "Oddychaj",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "odetchnąć"
+ },
+ {
+  "id": "czekolada",
+  "front": "czekolada",
+  "lemma": "czekolada",
+  "back": "chocolate",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "chocolate",
+  "examples": [
+   "Kupiłem ci tabliczkę czekolady."
+  ],
+  "examples_en": [
+   "I bought you a bar of chocolate."
+  ],
+  "claude": true,
+  "topic": "food",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 4.41,
+  "share": 98.0,
+  "hint": "sweet",
+  "hint_context": "dark chocolate",
+  "example_marks": [
+   {
+    "text": "czekolady",
     "nth": 1
    }
   ]
@@ -458,6 +931,37 @@
   ]
  },
  {
+  "id": "szósty",
+  "front": "szósty",
+  "lemma": "szósty",
+  "back": "sixth",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "number six in order ('o szóstej' = at six)",
+  "examples": [
+   "Wstaję o szóstej."
+  ],
+  "examples_en": [
+   "I get up at six."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 4.4,
+  "share": 98.0,
+  "hint": "6th; at six",
+  "hint_context": "at six o'clock",
+  "example_marks": [
+   {
+    "text": "szóstej",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "jabłko",
   "front": "jabłko",
   "lemma": "jabłko",
@@ -484,6 +988,73 @@
   "example_marks": [
    {
     "text": "jabłko",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "piasek",
+  "front": "piasek",
+  "lemma": "piasek",
+  "back": "sand",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "sand",
+  "examples": [
+   "Mam piasek w butach."
+  ],
+  "examples_en": [
+   "I have sand in my shoes."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.37,
+  "share": 98.0,
+  "hint": "on the beach",
+  "hint_context": "in the sand",
+  "example_marks": [
+   {
+    "text": "piasek",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
+  "id": "wolno",
+  "front": "wolno",
+  "lemma": "wolno",
+  "back": "slowly",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "at low speed",
+  "examples": [
+   "Jedź wolniej, tu są dzieci."
+  ],
+  "examples_en": [
+   "Drive more slowly, there are kids here."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 4.54,
+  "lemma_id": "wolno",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Jedź wolniej, tu są dzieci.",
+  "share": 65.0,
+  "hint": "low speed",
+  "hint_context": "drive slowly",
+  "example_marks": [
+   {
+    "text": "wolniej",
     "nth": 1
    }
   ]
@@ -521,6 +1092,38 @@
    }
   ],
   "aspect": "impf"
+ },
+ {
+  "id": "portfel",
+  "front": "portfel",
+  "lemma": "portfel",
+  "back": "wallet",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a small case for money and cards",
+  "examples": [
+   "Zgubiłem portfel w tramwaju."
+  ],
+  "examples_en": [
+   "I lost my wallet on the tram."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.34,
+  "share": 98.0,
+  "hint": "for money",
+  "hint_context": "lose a wallet",
+  "example_marks": [
+   {
+    "text": "portfel",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
  },
  {
   "id": "gość#2",
@@ -592,6 +1195,45 @@
   ]
  },
  {
+  "id": "odpowiadać#2",
+  "front": "odpowiadać",
+  "lemma": "odpowiadać",
+  "back": "suit",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "be convenient"
+  ],
+  "definition": "'czy panu odpowiada?' = does it suit you?",
+  "examples": [
+   "Czy odpowiada panu jutro o dziesiątej?"
+  ],
+  "examples_en": [
+   "Does tomorrow at ten suit you?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.2,
+  "lemma_id": "odpowiadać",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Czy odpowiada panu jutro o dziesiątej?",
+  "share": 13.0,
+  "hint": "be convenient",
+  "hint_context": "does that suit you",
+  "example_marks": [
+   {
+    "text": "odpowiada",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "odpowiedzieć"
+ },
+ {
   "id": "kuchnia#2",
   "front": "kuchnia",
   "lemma": "kuchnia",
@@ -657,6 +1299,37 @@
   "example_marks": [
    {
     "text": "pyszna",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "ławka",
+  "front": "ławka",
+  "lemma": "ławka",
+  "back": "bench",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a long seat, e.g. in a park",
+  "examples": [
+   "Usiądźmy na chwilę na ławce."
+  ],
+  "examples_en": [
+   "Let's sit on the bench for a moment."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 4.31,
+  "share": 98.0,
+  "hint": "park seat",
+  "hint_context": "on a bench",
+  "example_marks": [
+   {
+    "text": "ławce",
     "nth": 1
    }
   ]
@@ -768,6 +1441,39 @@
   "aspect_pair": "pocałować"
  },
  {
+  "id": "skakać",
+  "front": "skakać",
+  "lemma": "skakać",
+  "back": "jump",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to jump",
+  "examples": [
+   "Dzieci skaczą na łóżku."
+  ],
+  "examples_en": [
+   "The kids are jumping on the bed."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.29,
+  "share": 98.0,
+  "hint": "leap",
+  "hint_context": "jump high",
+  "example_marks": [
+   {
+    "text": "skaczą",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "skoczyć"
+ },
+ {
   "id": "para#2",
   "front": "para",
   "lemma": "para",
@@ -798,6 +1504,68 @@
   "example_marks": [
    {
     "text": "parę",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "siódmy",
+  "front": "siódmy",
+  "lemma": "siódmy",
+  "back": "seventh",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "number seven in order ('o siódmej' = at seven)",
+  "examples": [
+   "Śniadanie jest od siódmej."
+  ],
+  "examples_en": [
+   "Breakfast starts at seven."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 4.27,
+  "share": 98.0,
+  "hint": "7th; at seven",
+  "hint_context": "at seven o'clock",
+  "example_marks": [
+   {
+    "text": "siódmej",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "dwanaście",
+  "front": "dwanaście",
+  "lemma": "dwanaście",
+  "back": "twelve",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "the number 12",
+  "examples": [
+   "Rok ma dwanaście miesięcy."
+  ],
+  "examples_en": [
+   "A year has twelve months."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Numeral",
+  "gender": "",
+  "zipf": 4.26,
+  "share": 98.0,
+  "hint": "number 12",
+  "hint_context": "twelve months",
+  "example_marks": [
+   {
+    "text": "dwanaście",
     "nth": 1
    }
   ]

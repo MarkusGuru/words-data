@@ -38,6 +38,75 @@
   "animacy": "inan"
  },
  {
+  "id": "ratownik",
+  "front": "ratownik",
+  "lemma": "ratownik",
+  "back": "lifeguard",
+  "band": 5,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "rescuer",
+   "paramedic"
+  ],
+  "definition": "a lifeguard; also a paramedic",
+  "examples": [
+   "Ratownik kazał nam wyjść z wody."
+  ],
+  "examples_en": [
+   "The lifeguard told us to get out of the water."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 3.89,
+  "share": 98.0,
+  "hint": "beach, rescue",
+  "hint_context": "call the lifeguard",
+  "example_marks": [
+   {
+    "text": "Ratownik",
+    "nth": 1
+   }
+  ],
+  "animacy": "pers"
+ },
+ {
+  "id": "kelner",
+  "front": "kelner",
+  "lemma": "kelner",
+  "back": "waiter",
+  "band": 5,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "server"
+  ],
+  "definition": "a man who serves in a restaurant",
+  "examples": [
+   "Kelner, poproszę rachunek!"
+  ],
+  "examples_en": [
+   "Waiter, the check please!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 3.86,
+  "share": 98.0,
+  "hint": "male server",
+  "hint_context": "call the waiter",
+  "example_marks": [
+   {
+    "text": "Kelner",
+    "nth": 1
+   }
+  ],
+  "animacy": "pers"
+ },
+ {
   "id": "buzia",
   "front": "buzia",
   "lemma": "buzia",
@@ -66,6 +135,39 @@
   "example_marks": [
    {
     "text": "buzią",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "śmietana",
+  "front": "śmietana",
+  "lemma": "śmietana",
+  "back": "cream",
+  "band": 5,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "sour cream"
+  ],
+  "definition": "dairy cream ('bita śmietana' = whipped cream)",
+  "examples": [
+   "Pierogi podajemy ze śmietaną."
+  ],
+  "examples_en": [
+   "We serve the pierogi with sour cream."
+  ],
+  "claude": true,
+  "topic": "food",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 3.82,
+  "share": 98.0,
+  "hint": "dairy, sour/whipped",
+  "hint_context": "whipped cream",
+  "example_marks": [
+   {
+    "text": "śmietaną",
     "nth": 1
    }
   ]
@@ -106,6 +208,40 @@
   ]
  },
  {
+  "id": "parasol",
+  "front": "parasol",
+  "lemma": "parasol",
+  "back": "umbrella",
+  "band": 5,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "beach umbrella"
+  ],
+  "definition": "an umbrella (against rain or sun)",
+  "examples": [
+   "Zapomniałem parasola, a pada deszcz."
+  ],
+  "examples_en": [
+   "I forgot my umbrella and it's raining."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 3.81,
+  "share": 98.0,
+  "hint": "rain or sun",
+  "hint_context": "open an umbrella",
+  "example_marks": [
+   {
+    "text": "parasola",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
   "id": "kolano#2",
   "front": "kolano",
   "lemma": "kolano",
@@ -136,6 +272,37 @@
   "example_marks": [
    {
     "text": "kolanach",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "świeczka",
+  "front": "świeczka",
+  "lemma": "świeczka",
+  "back": "candle",
+  "band": 5,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a small candle",
+  "examples": [
+   "Na torcie było trzydzieści świeczek."
+  ],
+  "examples_en": [
+   "There were thirty candles on the cake."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 3.79,
+  "share": 98.0,
+  "hint": "on a cake",
+  "hint_context": "blow out the candles",
+  "example_marks": [
+   {
+    "text": "świeczek",
     "nth": 1
    }
   ]
@@ -173,5 +340,102 @@
    }
   ],
   "animacy": "anim"
+ },
+ {
+  "id": "rezerwacja",
+  "front": "rezerwacja",
+  "lemma": "rezerwacja",
+  "back": "reservation",
+  "band": 5,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "booking"
+  ],
+  "definition": "a booking for a room, table or ticket",
+  "examples": [
+   "Mam rezerwację na dwie noce."
+  ],
+  "examples_en": [
+   "I have a reservation for two nights."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 3.74,
+  "share": 98.0,
+  "hint": "booking",
+  "hint_context": "make a reservation",
+  "example_marks": [
+   {
+    "text": "rezerwację",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "recepcja",
+  "front": "recepcja",
+  "lemma": "recepcja",
+  "back": "front desk",
+  "band": 5,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "reception"
+  ],
+  "definition": "the reception desk of a hotel or office",
+  "examples": [
+   "Klucz zostaw w recepcji."
+  ],
+  "examples_en": [
+   "Leave the key at the front desk."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 3.71,
+  "share": 98.0,
+  "hint": "hotel desk",
+  "hint_context": "ask at the front desk",
+  "example_marks": [
+   {
+    "text": "recepcji",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "sąsiadka",
+  "front": "sąsiadka",
+  "lemma": "sąsiadka",
+  "back": "neighbor",
+  "band": 5,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a woman who lives next door",
+  "examples": [
+   "Sąsiadka zawsze pyta o moją mamę."
+  ],
+  "examples_en": [
+   "The lady next door always asks about my mom."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 3.63,
+  "share": 98.0,
+  "hint": "woman next door",
+  "hint_context": "her neighbor",
+  "example_marks": [
+   {
+    "text": "Sąsiadka",
+    "nth": 1
+   }
+  ]
  }
 ]

@@ -178,6 +178,37 @@
   ]
  },
  {
+  "id": "smutny",
+  "front": "smutny",
+  "lemma": "smutny",
+  "back": "sad",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "unhappy",
+  "examples": [
+   "Dlaczego jesteś dziś taki smutny?"
+  ],
+  "examples_en": [
+   "Why are you so sad today?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 4.99,
+  "share": 98.0,
+  "hint": "unhappy",
+  "hint_context": "a sad story",
+  "example_marks": [
+   {
+    "text": "smutny",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "prosić",
   "front": "prosić",
   "lemma": "prosić",
@@ -252,6 +283,76 @@
   "animacy": "inan"
  },
  {
+  "id": "karta",
+  "front": "karta",
+  "lemma": "karta",
+  "back": "card",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "credit card"
+  ],
+  "definition": "a bank card; a playing card",
+  "examples": [
+   "Czy mogę zapłacić kartą?"
+  ],
+  "examples_en": [
+   "Can I pay by card?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 5.19,
+  "lemma_id": "karta",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Czy mogę zapłacić kartą?",
+  "share": 60.0,
+  "hint": "bank card",
+  "hint_context": "pay by card",
+  "example_marks": [
+   {
+    "text": "kartą",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "dodawać",
+  "front": "dodawać",
+  "lemma": "dodawać",
+  "back": "add",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to add (something or a remark)",
+  "examples": [
+   "Do zupy dodaję trochę pieprzu."
+  ],
+  "examples_en": [
+   "I add a little pepper to the soup."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.97,
+  "share": 98.0,
+  "hint": "put in, say more",
+  "hint_context": "add salt",
+  "example_marks": [
+   {
+    "text": "dodaję",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "dodać"
+ },
+ {
   "id": "kawa",
   "front": "kawa",
   "lemma": "kawa",
@@ -278,6 +379,37 @@
   "example_marks": [
    {
     "text": "kawę",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "lato",
+  "front": "lato",
+  "lemma": "lato",
+  "back": "summer",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "summer ('latem' = in summer)",
+  "examples": [
+   "To lato było bardzo gorące."
+  ],
+  "examples_en": [
+   "This summer was very hot."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 4.97,
+  "share": 98.0,
+  "hint": "season",
+  "hint_context": "in the summer",
+  "example_marks": [
+   {
+    "text": "lato",
     "nth": 1
    }
   ]
@@ -350,6 +482,37 @@
    }
   ],
   "animacy": "anim"
+ },
+ {
+  "id": "łóżko",
+  "front": "łóżko",
+  "lemma": "łóżko",
+  "back": "bed",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a piece of furniture for sleeping",
+  "examples": [
+   "Dzieci, do łóżka, już późno!"
+  ],
+  "examples_en": [
+   "Kids, off to bed, it's late!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 4.96,
+  "share": 98.0,
+  "hint": "for sleeping",
+  "hint_context": "go to bed",
+  "example_marks": [
+   {
+    "text": "łóżka",
+    "nth": 1
+   }
+  ]
  },
  {
   "id": "pewnie#2",
@@ -496,6 +659,75 @@
   "aspect_pair": "poprosić"
  },
  {
+  "id": "hotel",
+  "front": "hotel",
+  "lemma": "hotel",
+  "back": "hotel",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a hotel",
+  "examples": [
+   "Nasz hotel jest blisko dworca."
+  ],
+  "examples_en": [
+   "Our hotel is close to the train station."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.94,
+  "share": 98.0,
+  "hint": "place to stay",
+  "hint_context": "check into a hotel",
+  "example_marks": [
+   {
+    "text": "hotel",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
+  "id": "martwić się",
+  "front": "martwić się",
+  "lemma": "martwić się",
+  "back": "worry",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to be worried",
+  "examples": [
+   "Nie martw się, wszystko będzie dobrze."
+  ],
+  "examples_en": [
+   "Don't worry, everything will be fine."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.94,
+  "share": 98.0,
+  "hint": "be worried",
+  "hint_context": "don't worry",
+  "example_marks": [
+   {
+    "text": "martw",
+    "nth": 1
+   },
+   {
+    "text": "się",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "zmartwić się"
+ },
+ {
   "id": "iść#2",
   "front": "iść",
   "lemma": "iść",
@@ -570,6 +802,38 @@
     "nth": 1
    }
   ]
+ },
+ {
+  "id": "weekend",
+  "front": "weekend",
+  "lemma": "weekend",
+  "back": "weekend",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "Saturday and Sunday",
+  "examples": [
+   "Co robisz w weekend?"
+  ],
+  "examples_en": [
+   "What are you doing this weekend?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.93,
+  "share": 98.0,
+  "hint": "Sat and Sun",
+  "hint_context": "on the weekend",
+  "example_marks": [
+   {
+    "text": "weekend",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
  },
  {
   "id": "pan#3",
@@ -811,6 +1075,37 @@
   "animacy": "inan"
  },
  {
+  "id": "ryba",
+  "front": "ryba",
+  "lemma": "ryba",
+  "back": "fish",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a fish; fish as food",
+  "examples": [
+   "W piątek jemy rybę."
+  ],
+  "examples_en": [
+   "On Friday we eat fish."
+  ],
+  "claude": true,
+  "topic": "food",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 4.89,
+  "share": 98.0,
+  "hint": "animal, food",
+  "hint_context": "fish and chips",
+  "example_marks": [
+   {
+    "text": "rybę",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "sprzedawać",
   "front": "sprzedawać",
   "lemma": "sprzedawać",
@@ -842,6 +1137,41 @@
   ],
   "aspect": "impf",
   "aspect_pair": "sprzedać"
+ },
+ {
+  "id": "witać",
+  "front": "witać",
+  "lemma": "witać",
+  "back": "welcome",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "greet"
+  ],
+  "definition": "to welcome, to greet ('Witamy!' = Welcome!)",
+  "examples": [
+   "Witamy w Krakowie!"
+  ],
+  "examples_en": [
+   "Welcome to Kraków!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.88,
+  "share": 98.0,
+  "hint": "greet",
+  "hint_context": "welcome home",
+  "example_marks": [
+   {
+    "text": "Witamy",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "przywitać"
  },
  {
   "id": "albo#2",
@@ -914,6 +1244,43 @@
   ]
  },
  {
+  "id": "góra#2",
+  "front": "góra",
+  "lemma": "góra",
+  "back": "top",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "upstairs"
+  ],
+  "definition": "the upper part ('na górze' = upstairs, at the top)",
+  "examples": [
+   "Łazienka jest na górze."
+  ],
+  "examples_en": [
+   "The bathroom is upstairs."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 5.5,
+  "lemma_id": "góra",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Łazienka jest na górze.",
+  "share": 23.0,
+  "hint": "na górze",
+  "hint_context": "upstairs",
+  "example_marks": [
+   {
+    "text": "górze",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "sekunda",
   "front": "sekunda",
   "lemma": "sekunda",
@@ -979,6 +1346,39 @@
    }
   ],
   "animacy": "inan"
+ },
+ {
+  "id": "ciężko",
+  "front": "ciężko",
+  "lemma": "ciężko",
+  "back": "hard",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "heavily"
+  ],
+  "definition": "with great effort; seriously",
+  "examples": [
+   "Cały rok ciężko pracowaliśmy."
+  ],
+  "examples_en": [
+   "We worked hard all year."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 4.85,
+  "share": 98.0,
+  "hint": "with effort, heavily",
+  "hint_context": "work hard",
+  "example_marks": [
+   {
+    "text": "ciężko",
+    "nth": 1
+   }
+  ]
  },
  {
   "id": "śpiewać",
@@ -1050,6 +1450,38 @@
   "aspect_pair": "krzyknąć"
  },
  {
+  "id": "sąsiad",
+  "front": "sąsiad",
+  "lemma": "sąsiad",
+  "back": "neighbor",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a man who lives next door",
+  "examples": [
+   "Nasz sąsiad ma dużego psa."
+  ],
+  "examples_en": [
+   "Our neighbor has a big dog."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.84,
+  "share": 98.0,
+  "hint": "man next door",
+  "hint_context": "my neighbor",
+  "example_marks": [
+   {
+    "text": "sąsiad",
+    "nth": 1
+   }
+  ],
+  "animacy": "pers"
+ },
+ {
   "id": "tata",
   "front": "tata",
   "lemma": "tata",
@@ -1082,6 +1514,39 @@
    }
   ],
   "animacy": "pers"
+ },
+ {
+  "id": "daleko",
+  "front": "daleko",
+  "lemma": "daleko",
+  "back": "far",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "far away"
+  ],
+  "definition": "at a great distance",
+  "examples": [
+   "Czy dworzec jest daleko stąd?"
+  ],
+  "examples_en": [
+   "Is the station far from here?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 4.83,
+  "share": 98.0,
+  "hint": "great distance",
+  "hint_context": "far away",
+  "example_marks": [
+   {
+    "text": "daleko",
+    "nth": 1
+   }
+  ]
  },
  {
   "id": "czwarty",
@@ -1147,6 +1612,70 @@
   "animacy": "inan"
  },
  {
+  "id": "otwierać",
+  "front": "otwierać",
+  "lemma": "otwierać",
+  "back": "open",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to open (in progress or regularly)",
+  "examples": [
+   "Sklep otwierają o dziewiątej."
+  ],
+  "examples_en": [
+   "The store opens at nine."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.81,
+  "share": 98.0,
+  "hint": "open, habitually",
+  "hint_context": "open the door",
+  "example_marks": [
+   {
+    "text": "otwierają",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "otworzyć"
+ },
+ {
+  "id": "restauracja",
+  "front": "restauracja",
+  "lemma": "restauracja",
+  "back": "restaurant",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a restaurant",
+  "examples": [
+   "Znam dobrą restaurację na rynku."
+  ],
+  "examples_en": [
+   "I know a good restaurant on the main square."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 4.81,
+  "share": 98.0,
+  "hint": "eating out",
+  "hint_context": "a nice restaurant",
+  "example_marks": [
+   {
+    "text": "restaurację",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "sto",
   "front": "sto",
   "lemma": "sto",
@@ -1178,6 +1707,40 @@
     "nth": 1
    }
   ]
+ },
+ {
+  "id": "urodziny",
+  "front": "urodziny",
+  "lemma": "urodziny",
+  "back": "birthday",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "birthday party"
+  ],
+  "definition": "a birthday (plural only)",
+  "examples": [
+   "Kiedy masz urodziny?"
+  ],
+  "examples_en": [
+   "When is your birthday?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "",
+  "zipf": 4.81,
+  "share": 98.0,
+  "hint": "day you were born",
+  "hint_context": "happy birthday",
+  "example_marks": [
+   {
+    "text": "urodziny",
+    "nth": 1
+   }
+  ],
+  "number": "pl"
  },
  {
   "id": "śmiać się",
@@ -1215,6 +1778,42 @@
   ],
   "aspect": "impf",
   "aspect_pair": "zaśmiać się"
+ },
+ {
+  "id": "rynek#2",
+  "front": "rynek",
+  "lemma": "rynek",
+  "back": "market",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "the market in economics",
+  "examples": [
+   "Ceny na rynku ciągle rosną."
+  ],
+  "examples_en": [
+   "Prices on the market keep rising."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.35,
+  "lemma_id": "rynek",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Ceny na rynku ciągle rosną.",
+  "share": 28.0,
+  "hint": "economy",
+  "hint_context": "the housing market",
+  "example_marks": [
+   {
+    "text": "rynku",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
  },
  {
   "id": "obiad",
@@ -1404,7 +2003,7 @@
   "claude": true,
   "topic": "",
   "pos": "Noun",
-  "gender": "m",
+  "gender": "",
   "zipf": 4.78,
   "share": 98.0,
   "hint": "buying things",
@@ -1415,8 +2014,42 @@
     "nth": 1
    }
   ],
-  "animacy": "inan",
   "number": "pl"
+ },
+ {
+  "id": "karta#2",
+  "front": "karta",
+  "lemma": "karta",
+  "back": "menu",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "the menu in a restaurant",
+  "examples": [
+   "Poproszę kartę dań."
+  ],
+  "examples_en": [
+   "May I have the menu, please?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 5.19,
+  "lemma_id": "karta",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Poproszę kartę dań.",
+  "share": 38.0,
+  "hint": "in a restaurant",
+  "hint_context": "look at the menu",
+  "example_marks": [
+   {
+    "text": "kartę",
+    "nth": 1
+   }
+  ]
  },
  {
   "id": "zobaczyć#2",
@@ -1456,6 +2089,37 @@
   "aspect_pair": "widzieć"
  },
  {
+  "id": "przyjemność",
+  "front": "przyjemność",
+  "lemma": "przyjemność",
+  "back": "pleasure",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "pleasure ('z przyjemnością' = with pleasure)",
+  "examples": [
+   "Pomogę ci z przyjemnością."
+  ],
+  "examples_en": [
+   "I'll help you with pleasure."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 4.77,
+  "share": 98.0,
+  "hint": "enjoyment",
+  "hint_context": "with pleasure",
+  "example_marks": [
+   {
+    "text": "przyjemnością",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "ciężki#2",
   "front": "ciężki",
   "lemma": "ciężki",
@@ -1492,6 +2156,106 @@
     "nth": 1
    }
   ]
+ },
+ {
+  "id": "ogród",
+  "front": "ogród",
+  "lemma": "ogród",
+  "back": "garden",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "yard"
+  ],
+  "definition": "the land around a house with grass, flowers, etc.",
+  "examples": [
+   "Dzieci bawią się w ogrodzie."
+  ],
+  "examples_en": [
+   "The kids are playing in the yard."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.76,
+  "share": 98.0,
+  "hint": "around a house",
+  "hint_context": "in the garden",
+  "example_marks": [
+   {
+    "text": "ogrodzie",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
+  "id": "zimny",
+  "front": "zimny",
+  "lemma": "zimny",
+  "back": "cold",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "having a low temperature",
+  "examples": [
+   "Poproszę zimne piwo."
+  ],
+  "examples_en": [
+   "A cold beer, please."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 4.76,
+  "share": 98.0,
+  "hint": "adjective: low temperature",
+  "hint_context": "cold water",
+  "example_marks": [
+   {
+    "text": "zimne",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "oddawać",
+  "front": "oddawać",
+  "lemma": "oddawać",
+  "back": "give back",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "return"
+  ],
+  "definition": "to give back (in progress or regularly)",
+  "examples": [
+   "Zawsze oddaję książki na czas."
+  ],
+  "examples_en": [
+   "I always return books on time."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.75,
+  "share": 98.0,
+  "hint": "return to owner",
+  "hint_context": "give it back",
+  "example_marks": [
+   {
+    "text": "oddaję",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "oddać"
  },
  {
   "id": "owoc",
@@ -1592,6 +2356,72 @@
   ]
  },
  {
+  "id": "reszta#2",
+  "front": "reszta",
+  "lemma": "reszta",
+  "back": "change",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "money given back when paying",
+  "examples": [
+   "Reszty nie trzeba."
+  ],
+  "examples_en": [
+   "Keep the change."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 5.25,
+  "lemma_id": "reszta",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Reszty nie trzeba.",
+  "share": 28.0,
+  "hint": "money back",
+  "hint_context": "keep the change",
+  "example_marks": [
+   {
+    "text": "Reszty",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "piąty",
+  "front": "piąty",
+  "lemma": "piąty",
+  "back": "fifth",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "number five in order ('o piątej' = at five o'clock)",
+  "examples": [
+   "Spotkajmy się o piątej."
+  ],
+  "examples_en": [
+   "Let's meet at five."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 4.7,
+  "share": 98.0,
+  "hint": "5th; at five",
+  "hint_context": "at five o'clock",
+  "example_marks": [
+   {
+    "text": "piątej",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "pani#3",
   "front": "pani",
   "lemma": "pani",
@@ -1629,6 +2459,40 @@
   ]
  },
  {
+  "id": "smak",
+  "front": "smak",
+  "lemma": "smak",
+  "back": "taste",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "flavor"
+  ],
+  "definition": "the taste of food",
+  "examples": [
+   "Ta zupa ma dziwny smak."
+  ],
+  "examples_en": [
+   "This soup has a strange taste."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.69,
+  "share": 98.0,
+  "hint": "of food",
+  "hint_context": "a sweet taste",
+  "example_marks": [
+   {
+    "text": "smak",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
   "id": "przynosić",
   "front": "przynosić",
   "lemma": "przynosić",
@@ -1660,6 +2524,69 @@
   ],
   "aspect": "impf",
   "aspect_pair": "przynieść"
+ },
+ {
+  "id": "uśmiech",
+  "front": "uśmiech",
+  "lemma": "uśmiech",
+  "back": "smile",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a smile (noun)",
+  "examples": [
+   "Ona ma piękny uśmiech."
+  ],
+  "examples_en": [
+   "She has a beautiful smile."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.67,
+  "share": 98.0,
+  "hint": "noun: a smile",
+  "hint_context": "with a smile",
+  "example_marks": [
+   {
+    "text": "uśmiech",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
+  "id": "śniadanie",
+  "front": "śniadanie",
+  "lemma": "śniadanie",
+  "back": "breakfast",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "the first meal of the day",
+  "examples": [
+   "Na śniadanie jem jajecznicę."
+  ],
+  "examples_en": [
+   "For breakfast I have scrambled eggs."
+  ],
+  "claude": true,
+  "topic": "food",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 4.67,
+  "share": 98.0,
+  "hint": "morning meal",
+  "hint_context": "have breakfast",
+  "example_marks": [
+   {
+    "text": "śniadanie",
+    "nth": 1
+   }
+  ]
  },
  {
   "id": "patrzeć",
@@ -1695,6 +2622,37 @@
   ],
   "aspect": "impf",
   "aspect_pair": "popatrzeć"
+ },
+ {
+  "id": "plaża",
+  "front": "plaża",
+  "lemma": "plaża",
+  "back": "beach",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a sandy beach",
+  "examples": [
+   "Cały dzień leżeliśmy na plaży."
+  ],
+  "examples_en": [
+   "We lay on the beach all day."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 4.66,
+  "share": 98.0,
+  "hint": "sand by the sea",
+  "hint_context": "on the beach",
+  "example_marks": [
+   {
+    "text": "plaży",
+    "nth": 1
+   }
+  ]
  },
  {
   "id": "podnosić",
@@ -1806,6 +2764,37 @@
   ]
  },
  {
+  "id": "pizza",
+  "front": "pizza",
+  "lemma": "pizza",
+  "back": "pizza",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "pizza",
+  "examples": [
+   "Zamówmy pizzę na kolację."
+  ],
+  "examples_en": [
+   "Let's order pizza for dinner."
+  ],
+  "claude": true,
+  "topic": "food",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 4.63,
+  "share": 98.0,
+  "hint": "food",
+  "hint_context": "order pizza",
+  "example_marks": [
+   {
+    "text": "pizzę",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "poprosić",
   "front": "poprosić",
   "lemma": "poprosić",
@@ -1843,6 +2832,37 @@
   ],
   "aspect": "pf",
   "aspect_pair": "prosić"
+ },
+ {
+  "id": "kieszeń",
+  "front": "kieszeń",
+  "lemma": "kieszeń",
+  "back": "pocket",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a pocket in clothes",
+  "examples": [
+   "Klucze mam w kieszeni."
+  ],
+  "examples_en": [
+   "I have the keys in my pocket."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 4.62,
+  "share": 98.0,
+  "hint": "in clothes",
+  "hint_context": "in my pocket",
+  "example_marks": [
+   {
+    "text": "kieszeni",
+    "nth": 1
+   }
+  ]
  },
  {
   "id": "drogi#2",
@@ -2091,6 +3111,37 @@
   ]
  },
  {
+  "id": "niespodzianka",
+  "front": "niespodzianka",
+  "lemma": "niespodzianka",
+  "back": "surprise",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "something unexpected, often pleasant",
+  "examples": [
+   "Mam dla ciebie niespodziankę!"
+  ],
+  "examples_en": [
+   "I have a surprise for you!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 4.58,
+  "share": 98.0,
+  "hint": "unexpected",
+  "hint_context": "a surprise party",
+  "example_marks": [
+   {
+    "text": "niespodziankę",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "miasteczko",
   "front": "miasteczko",
   "lemma": "miasteczko",
@@ -2224,5 +3275,38 @@
   ],
   "aspect": "impf",
   "aspect_pair": "zatańczyć"
+ },
+ {
+  "id": "łamać",
+  "front": "łamać",
+  "lemma": "łamać",
+  "back": "break",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to break (in progress)",
+  "examples": [
+   "Gałąź łamie się pod ciężarem śniegu."
+  ],
+  "examples_en": [
+   "The branch is breaking under the weight of the snow."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.56,
+  "share": 98.0,
+  "hint": "snap, crack",
+  "hint_context": "break a rule",
+  "example_marks": [
+   {
+    "text": "łamie",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "złamać"
  }
 ]

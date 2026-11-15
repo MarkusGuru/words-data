@@ -33,6 +33,75 @@
   ]
  },
  {
+  "id": "recepcjonistka",
+  "front": "recepcjonistka",
+  "lemma": "recepcjonistka",
+  "back": "receptionist",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a woman who works at a front desk",
+  "examples": [
+   "Recepcjonistka dała nam mapę miasta."
+  ],
+  "examples_en": [
+   "The receptionist gave us a map of the city."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 2.86,
+  "share": 98.0,
+  "hint": "at the front desk",
+  "hint_context": "ask the receptionist",
+  "example_marks": [
+   {
+    "text": "Recepcjonistka",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "bać się",
+  "front": "bać się",
+  "lemma": "bać się",
+  "back": "be afraid",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "fear"
+  ],
+  "definition": "to be afraid of (+ genitive)",
+  "examples": [
+   "Nie bój się, pies nie gryzie."
+  ],
+  "examples_en": [
+   "Don't be afraid, the dog doesn't bite."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": -0.02,
+  "share": 98.0,
+  "hint": "fear",
+  "hint_context": "afraid of the dark",
+  "example_marks": [
+   {
+    "text": "bój",
+    "nth": 1
+   },
+   {
+    "text": "się",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf"
+ },
+ {
   "id": "wnuczek",
   "front": "wnuczek",
   "lemma": "wnuczek",
@@ -65,5 +134,76 @@
    }
   ],
   "animacy": "pers"
+ },
+ {
+  "id": "lody",
+  "front": "lody",
+  "lemma": "lody",
+  "back": "ice cream",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "ice cream (plural only)",
+  "examples": [
+   "Dzieci chcą lody czekoladowe."
+  ],
+  "examples_en": [
+   "The kids want chocolate ice cream."
+  ],
+  "claude": true,
+  "topic": "food",
+  "pos": "Noun",
+  "gender": "",
+  "zipf": -0.76,
+  "share": 98.0,
+  "hint": "frozen dessert",
+  "hint_context": "an ice cream cone",
+  "example_marks": [
+   {
+    "text": "lody",
+    "nth": 1
+   }
+  ],
+  "number": "pl"
+ },
+ {
+  "id": "kłaść się",
+  "front": "kłaść się",
+  "lemma": "kłaść się",
+  "back": "lie down",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "go to bed"
+  ],
+  "definition": "to lie down (in progress or regularly)",
+  "examples": [
+   "Zwykle kładę się spać o jedenastej."
+  ],
+  "examples_en": [
+   "I usually go to bed at eleven."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": -2.17,
+  "share": 98.0,
+  "hint": "lie down, go to bed",
+  "hint_context": "lie down",
+  "example_marks": [
+   {
+    "text": "kładę",
+    "nth": 1
+   },
+   {
+    "text": "się",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "położyć się"
  }
 ]

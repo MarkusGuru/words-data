@@ -1,5 +1,112 @@
 [
  {
+  "id": "bigos",
+  "front": "bigos",
+  "lemma": "bigos",
+  "back": "bigos",
+  "band": 6,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "hunter's stew"
+  ],
+  "definition": "a stew of sauerkraut, cabbage and meat",
+  "examples": [
+   "Bigos jest najlepszy na drugi dzień."
+  ],
+  "examples_en": [
+   "Bigos is best on the second day."
+  ],
+  "claude": true,
+  "topic": "food",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 3.55,
+  "share": 98.0,
+  "hint": "Polish stew",
+  "hint_context": "a pot of bigos",
+  "example_marks": [
+   {
+    "text": "Bigos",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
+  "id": "zaopiekować się",
+  "front": "zaopiekować się",
+  "lemma": "zaopiekować się",
+  "back": "look after",
+  "band": 6,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "take care of"
+  ],
+  "definition": "to take care of, once (+ instrumental)",
+  "examples": [
+   "Zaopiekujesz się kotem, kiedy wyjedziemy?"
+  ],
+  "examples_en": [
+   "Will you look after the cat while we're away?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 3.55,
+  "share": 98.0,
+  "hint": "take care of",
+  "hint_context": "look after the kids",
+  "example_marks": [
+   {
+    "text": "Zaopiekujesz",
+    "nth": 1
+   },
+   {
+    "text": "się",
+    "nth": 1
+   }
+  ],
+  "aspect": "pf",
+  "aspect_pair": "opiekować się"
+ },
+ {
+  "id": "grzecznie",
+  "front": "grzecznie",
+  "lemma": "grzecznie",
+  "back": "nicely",
+  "band": 6,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "politely",
+   "well-behaved"
+  ],
+  "definition": "politely; (of children) well",
+  "examples": [
+   "Dzieci siedziały grzecznie przy stole."
+  ],
+  "examples_en": [
+   "The kids sat nicely at the table."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 3.54,
+  "share": 98.0,
+  "hint": "polite, well-behaved",
+  "hint_context": "ask politely",
+  "example_marks": [
+   {
+    "text": "grzecznie",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "filiżanka",
   "front": "filiżanka",
   "lemma": "filiżanka",
@@ -31,6 +138,107 @@
     "nth": 1
    }
   ]
+ },
+ {
+  "id": "dmuchać",
+  "front": "dmuchać",
+  "lemma": "dmuchać",
+  "back": "blow",
+  "band": 6,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to blow air",
+  "examples": [
+   "Dmuchaj na zupę, jest gorąca."
+  ],
+  "examples_en": [
+   "Blow on the soup, it's hot."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 3.4,
+  "share": 98.0,
+  "hint": "air from the mouth",
+  "hint_context": "blow out candles",
+  "example_marks": [
+   {
+    "text": "Dmuchaj",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "dmuchnąć"
+ },
+ {
+  "id": "wspaniale",
+  "front": "wspaniale",
+  "lemma": "wspaniale",
+  "back": "wonderful",
+  "band": 6,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "great",
+   "wonderfully"
+  ],
+  "definition": "very well, splendidly",
+  "examples": [
+   "Wspaniale dziś wyglądasz!"
+  ],
+  "examples_en": [
+   "You look wonderful today!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 3.39,
+  "share": 98.0,
+  "hint": "splendid",
+  "hint_context": "that's wonderful",
+  "example_marks": [
+   {
+    "text": "Wspaniale",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "żurek",
+  "front": "żurek",
+  "lemma": "żurek",
+  "back": "żurek",
+  "band": 6,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "sour rye soup"
+  ],
+  "definition": "a sour rye soup, often with sausage and egg",
+  "examples": [
+   "Na Wielkanoc zawsze jemy żurek."
+  ],
+  "examples_en": [
+   "At Easter we always have żurek."
+  ],
+  "claude": true,
+  "topic": "food",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 3.32,
+  "share": 98.0,
+  "hint": "Polish soup",
+  "hint_context": "a bowl of żurek",
+  "example_marks": [
+   {
+    "text": "żurek",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
  },
  {
   "id": "klaskać",
@@ -66,5 +274,37 @@
   ],
   "aspect": "impf",
   "aspect_pair": "klasnąć"
+ },
+ {
+  "id": "gofr",
+  "front": "gofr",
+  "lemma": "gofr",
+  "back": "waffle",
+  "band": 6,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a waffle (sold at the seaside with cream and fruit)",
+  "examples": [
+   "Nad morzem zawsze jemy gofry."
+  ],
+  "examples_en": [
+   "At the seaside we always eat waffles."
+  ],
+  "claude": true,
+  "topic": "food",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 3.3,
+  "share": 98.0,
+  "hint": "seaside snack",
+  "hint_context": "waffles with cream",
+  "example_marks": [
+   {
+    "text": "gofry",
+    "nth": 1
+   }
+  ],
+  "animacy": "anim"
  }
 ]

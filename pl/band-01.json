@@ -5374,6 +5374,40 @@
   ]
  },
  {
+  "id": "problem",
+  "front": "problem",
+  "lemma": "problem",
+  "back": "problem",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "issue"
+  ],
+  "definition": "a difficulty ('nie ma problemu' = no problem)",
+  "examples": [
+   "Mamy mały problem z samochodem."
+  ],
+  "examples_en": [
+   "We have a small problem with the car."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.91,
+  "share": 98.0,
+  "hint": "difficulty",
+  "hint_context": "no problem",
+  "example_marks": [
+   {
+    "text": "problem",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
   "id": "sprawa",
   "front": "sprawa",
   "lemma": "sprawa",
@@ -5873,6 +5907,40 @@
   ]
  },
  {
+  "id": "wielki",
+  "front": "wielki",
+  "lemma": "wielki",
+  "back": "great",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "huge",
+   "big"
+  ],
+  "definition": "very big; great in importance",
+  "examples": [
+   "To był dla nas wielki dzień."
+  ],
+  "examples_en": [
+   "It was a great day for us."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 5.86,
+  "share": 98.0,
+  "hint": "very big, important",
+  "hint_context": "a great honor",
+  "example_marks": [
+   {
+    "text": "wielki",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "kiedy",
   "front": "kiedy",
   "lemma": "kiedy",
@@ -5937,6 +6005,39 @@
    }
   ],
   "animacy": "inan"
+ },
+ {
+  "id": "znaleźć",
+  "front": "znaleźć",
+  "lemma": "znaleźć",
+  "back": "find",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to find, once",
+  "examples": [
+   "Znalazłem twój telefon pod kanapą."
+  ],
+  "examples_en": [
+   "I found your phone under the couch."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.85,
+  "share": 98.0,
+  "hint": "discover",
+  "hint_context": "find the keys",
+  "example_marks": [
+   {
+    "text": "Znalazłem",
+    "nth": 1
+   }
+  ],
+  "aspect": "pf",
+  "aspect_pair": "znajdować"
  },
  {
   "id": "człowiek#2",
@@ -7192,6 +7293,39 @@
   ]
  },
  {
+  "id": "pisać",
+  "front": "pisać",
+  "lemma": "pisać",
+  "back": "write",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to write (in progress or regularly)",
+  "examples": [
+   "Piszę list do babci."
+  ],
+  "examples_en": [
+   "I'm writing a letter to Grandma."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.76,
+  "share": 98.0,
+  "hint": "with a pen or keyboard",
+  "hint_context": "write a message",
+  "example_marks": [
+   {
+    "text": "Piszę",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "napisać"
+ },
+ {
   "id": "oni",
   "front": "oni",
   "lemma": "oni",
@@ -7254,6 +7388,40 @@
     "nth": 1
    }
   ]
+ },
+ {
+  "id": "wyglądać",
+  "front": "wyglądać",
+  "lemma": "wyglądać",
+  "back": "look",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "seem"
+  ],
+  "definition": "to have a certain appearance",
+  "examples": [
+   "Wyglądasz na zmęczonego."
+  ],
+  "examples_en": [
+   "You look tired."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.75,
+  "share": 98.0,
+  "hint": "appearance",
+  "hint_context": "you look great",
+  "example_marks": [
+   {
+    "text": "Wyglądasz",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf"
  },
  {
   "id": "mały",
@@ -9679,6 +9847,38 @@
   "aspect_pair": "dostawać"
  },
  {
+  "id": "numer",
+  "front": "numer",
+  "lemma": "numer",
+  "back": "number",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a number of a room, phone, house, etc.",
+  "examples": [
+   "Podaj mi swój numer telefonu."
+  ],
+  "examples_en": [
+   "Give me your phone number."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.6,
+  "share": 98.0,
+  "hint": "phone, room, house",
+  "hint_context": "phone number",
+  "example_marks": [
+   {
+    "text": "numer",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
   "id": "woda",
   "front": "woda",
   "lemma": "woda",
@@ -10127,6 +10327,39 @@
   "aspect_pair": "zapamiętać"
  },
  {
+  "id": "szybko",
+  "front": "szybko",
+  "lemma": "szybko",
+  "back": "quickly",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "fast"
+  ],
+  "definition": "at high speed; soon",
+  "examples": [
+   "Chodź szybko, autobus odjeżdża!"
+  ],
+  "examples_en": [
+   "Come quickly, the bus is leaving!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 5.56,
+  "share": 98.0,
+  "hint": "adverb: at speed",
+  "hint_context": "come quickly",
+  "example_marks": [
+   {
+    "text": "szybko",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "złoty",
   "front": "złoty",
   "lemma": "złoty",
@@ -10305,6 +10538,41 @@
   ]
  },
  {
+  "id": "działać",
+  "front": "działać",
+  "lemma": "działać",
+  "back": "work",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "function"
+  ],
+  "definition": "to function, to be in working order",
+  "examples": [
+   "Telewizor znowu nie działa."
+  ],
+  "examples_en": [
+   "The TV isn't working again."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.54,
+  "share": 98.0,
+  "hint": "machine: function",
+  "hint_context": "it doesn't work",
+  "example_marks": [
+   {
+    "text": "działa",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "zadziałać"
+ },
+ {
   "id": "przez#5",
   "front": "przez",
   "lemma": "przez",
@@ -10478,6 +10746,37 @@
   ]
  },
  {
+  "id": "minuta",
+  "front": "minuta",
+  "lemma": "minuta",
+  "back": "minute",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "sixty seconds",
+  "examples": [
+   "Autobus będzie za pięć minut."
+  ],
+  "examples_en": [
+   "The bus will be here in five minutes."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 5.52,
+  "share": 98.0,
+  "hint": "60 seconds",
+  "hint_context": "in five minutes",
+  "example_marks": [
+   {
+    "text": "minut",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "pomóc",
   "front": "pomóc",
   "lemma": "pomóc",
@@ -10646,6 +10945,113 @@
   ]
  },
  {
+  "id": "próbować",
+  "front": "próbować",
+  "lemma": "próbować",
+  "back": "try",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "taste"
+  ],
+  "definition": "to try; to taste food",
+  "examples": [
+   "Próbuję otworzyć ten słoik."
+  ],
+  "examples_en": [
+   "I'm trying to open this jar."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.51,
+  "share": 98.0,
+  "hint": "attempt, taste",
+  "hint_context": "try again",
+  "example_marks": [
+   {
+    "text": "Próbuję",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "spróbować"
+ },
+ {
+  "id": "czuć",
+  "front": "czuć",
+  "lemma": "czuć",
+  "back": "feel",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to feel ('czuć się' = feel well/bad)",
+  "examples": [
+   "Jak się dziś czujesz?"
+  ],
+  "examples_en": [
+   "How are you feeling today?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.64,
+  "lemma_id": "czuć",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Jak się dziś czujesz?",
+  "share": 70.0,
+  "hint": "sensation, mood",
+  "hint_context": "feel good",
+  "example_marks": [
+   {
+    "text": "czujesz",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "poczuć"
+ },
+ {
+  "id": "zaczynać",
+  "front": "zaczynać",
+  "lemma": "zaczynać",
+  "back": "start",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "begin"
+  ],
+  "definition": "to begin (in progress or regularly)",
+  "examples": [
+   "Lekcje zaczynają się o ósmej."
+  ],
+  "examples_en": [
+   "Classes start at eight."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.49,
+  "share": 98.0,
+  "hint": "begin",
+  "hint_context": "start work",
+  "example_marks": [
+   {
+    "text": "zaczynają",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "zacząć"
+ },
+ {
   "id": "strona#3",
   "front": "strona",
   "lemma": "strona",
@@ -10792,6 +11198,41 @@
   ]
  },
  {
+  "id": "szukać",
+  "front": "szukać",
+  "lemma": "szukać",
+  "back": "look for",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "search"
+  ],
+  "definition": "to try to find (+ genitive)",
+  "examples": [
+   "Szukam kluczy od samochodu."
+  ],
+  "examples_en": [
+   "I'm looking for the car keys."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.47,
+  "share": 98.0,
+  "hint": "try to find",
+  "hint_context": "look for a job",
+  "example_marks": [
+   {
+    "text": "Szukam",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "poszukać"
+ },
+ {
   "id": "pewnie",
   "front": "pewnie",
   "lemma": "pewnie",
@@ -10936,6 +11377,40 @@
   "aspect_pair": "kupować"
  },
  {
+  "id": "przyjaciel",
+  "front": "przyjaciel",
+  "lemma": "przyjaciel",
+  "back": "friend",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "close friend"
+  ],
+  "definition": "a close friend (man)",
+  "examples": [
+   "To mój najlepszy przyjaciel ze szkoły."
+  ],
+  "examples_en": [
+   "He's my best friend from school."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.45,
+  "share": 98.0,
+  "hint": "close friend",
+  "hint_context": "best friend",
+  "example_marks": [
+   {
+    "text": "przyjaciel",
+    "nth": 1
+   }
+  ],
+  "animacy": "pers"
+ },
+ {
   "id": "drugi#2",
   "front": "drugi",
   "lemma": "drugi",
@@ -11036,6 +11511,39 @@
   "example_marks": [
    {
     "text": "od",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "wciąż",
+  "front": "wciąż",
+  "lemma": "wciąż",
+  "back": "still",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "constantly"
+  ],
+  "definition": "continuing; again and again",
+  "examples": [
+   "Wciąż nie mam od niego wiadomości."
+  ],
+  "examples_en": [
+   "I still haven't heard from him."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 5.43,
+  "share": 98.0,
+  "hint": "still, constantly",
+  "hint_context": "still waiting",
+  "example_marks": [
+   {
+    "text": "Wciąż",
     "nth": 1
    }
   ]
@@ -11150,6 +11658,37 @@
   ]
  },
  {
+  "id": "długi",
+  "front": "długi",
+  "lemma": "długi",
+  "back": "long",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "of great length or duration",
+  "examples": [
+   "To była długa podróż."
+  ],
+  "examples_en": [
+   "It was a long trip."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 5.41,
+  "share": 98.0,
+  "hint": "length, time",
+  "hint_context": "a long day",
+  "example_marks": [
+   {
+    "text": "długa",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "jeden~adjective#3",
   "front": "jeden",
   "lemma": "jeden",
@@ -11220,6 +11759,42 @@
   ],
   "aspect": "impf",
   "aspect_pair": "zamieszkać"
+ },
+ {
+  "id": "wrócić",
+  "front": "wrócić",
+  "lemma": "wrócić",
+  "back": "come back",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "return",
+   "get back"
+  ],
+  "definition": "to return, once",
+  "examples": [
+   "Wrócę do domu przed północą."
+  ],
+  "examples_en": [
+   "I'll be back home before midnight."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.4,
+  "share": 98.0,
+  "hint": "return, once",
+  "hint_context": "be right back",
+  "example_marks": [
+   {
+    "text": "Wrócę",
+    "nth": 1
+   }
+  ],
+  "aspect": "pf",
+  "aspect_pair": "wracać"
  },
  {
   "id": "zostać#4",
@@ -11365,6 +11940,41 @@
   "animacy": "inan"
  },
  {
+  "id": "góra",
+  "front": "góra",
+  "lemma": "góra",
+  "back": "mountain",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a mountain ('w górach' = in the mountains)",
+  "examples": [
+   "Co roku jeździmy w góry."
+  ],
+  "examples_en": [
+   "Every year we go to the mountains."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 5.5,
+  "lemma_id": "góra",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Co roku jeździmy w góry.",
+  "share": 75.0,
+  "hint": "high land",
+  "hint_context": "climb a mountain",
+  "example_marks": [
+   {
+    "text": "góry",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "tylko#3",
   "front": "tylko",
   "lemma": "tylko",
@@ -11397,6 +12007,37 @@
   "example_marks": [
    {
     "text": "Tylko",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "niestety",
+  "front": "niestety",
+  "lemma": "niestety",
+  "back": "unfortunately",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "expresses regret",
+  "examples": [
+   "Niestety nie mogę przyjść."
+  ],
+  "examples_en": [
+   "Unfortunately I can't come."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 5.38,
+  "share": 98.0,
+  "hint": "regret",
+  "hint_context": "unfortunately not",
+  "example_marks": [
+   {
+    "text": "Niestety",
     "nth": 1
    }
   ]
@@ -11646,6 +12287,39 @@
   "example_marks": [
    {
     "text": "ale",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "następny",
+  "front": "następny",
+  "lemma": "następny",
+  "back": "next",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "following"
+  ],
+  "definition": "coming after this one",
+  "examples": [
+   "Wysiadamy na następnym przystanku."
+  ],
+  "examples_en": [
+   "We're getting off at the next stop."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 5.36,
+  "share": 98.0,
+  "hint": "coming after",
+  "hint_context": "next time",
+  "example_marks": [
+   {
+    "text": "następnym",
     "nth": 1
    }
   ]
@@ -12255,6 +12929,38 @@
   ]
  },
  {
+  "id": "pies",
+  "front": "pies",
+  "lemma": "pies",
+  "back": "dog",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a dog",
+  "examples": [
+   "Mój pies boi się burzy."
+  ],
+  "examples_en": [
+   "My dog is afraid of thunderstorms."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.31,
+  "share": 98.0,
+  "hint": "animal",
+  "hint_context": "walk the dog",
+  "example_marks": [
+   {
+    "text": "pies",
+    "nth": 1
+   }
+  ],
+  "animacy": "anim"
+ },
+ {
   "id": "miejsce#2",
   "front": "miejsce",
   "lemma": "miejsce",
@@ -12507,6 +13213,44 @@
   ]
  },
  {
+  "id": "nazywać się",
+  "front": "nazywać się",
+  "lemma": "nazywać się",
+  "back": "be called",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "be named"
+  ],
+  "definition": "'nazywam się ...' = my name is ...",
+  "examples": [
+   "Nazywam się Anna Kowalska."
+  ],
+  "examples_en": [
+   "My name is Anna Kowalska."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.27,
+  "share": 98.0,
+  "hint": "name",
+  "hint_context": "my name is",
+  "example_marks": [
+   {
+    "text": "Nazywam",
+    "nth": 1
+   },
+   {
+    "text": "się",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf"
+ },
+ {
   "id": "trzeci",
   "front": "trzeci",
   "lemma": "trzeci",
@@ -12536,6 +13280,42 @@
     "nth": 1
    }
   ]
+ },
+ {
+  "id": "wchodzić",
+  "front": "wchodzić",
+  "lemma": "wchodzić",
+  "back": "go in",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "enter",
+   "come in"
+  ],
+  "definition": "to go into a place (in progress or regularly)",
+  "examples": [
+   "Wchodź, nie stój w drzwiach!"
+  ],
+  "examples_en": [
+   "Come in, don't stand in the doorway!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.27,
+  "share": 98.0,
+  "hint": "enter",
+  "hint_context": "come in",
+  "example_marks": [
+   {
+    "text": "Wchodź",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "wejść"
  },
  {
   "id": "wychodzić",
@@ -12643,6 +13423,39 @@
     "nth": 1
    }
   ]
+ },
+ {
+  "id": "sprawdzić",
+  "front": "sprawdzić",
+  "lemma": "sprawdzić",
+  "back": "check",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to check, once",
+  "examples": [
+   "Sprawdzę, o której jest pociąg."
+  ],
+  "examples_en": [
+   "I'll check what time the train is."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.26,
+  "share": 98.0,
+  "hint": "verify",
+  "hint_context": "check the time",
+  "example_marks": [
+   {
+    "text": "Sprawdzę",
+    "nth": 1
+   }
+  ],
+  "aspect": "pf",
+  "aspect_pair": "sprawdzać"
  },
  {
   "id": "jaki#2",
@@ -12897,6 +13710,39 @@
   "aspect_pair": "podziękować"
  },
  {
+  "id": "widać",
+  "front": "widać",
+  "lemma": "widać",
+  "back": "you can see",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "visible"
+  ],
+  "definition": "impersonal: something can be seen",
+  "examples": [
+   "Z okna widać morze."
+  ],
+  "examples_en": [
+   "You can see the sea from the window."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 5.22,
+  "share": 98.0,
+  "hint": "impersonal: visible",
+  "hint_context": "you can see it",
+  "example_marks": [
+   {
+    "text": "widać",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "blisko",
   "front": "blisko",
   "lemma": "blisko",
@@ -13097,6 +13943,44 @@
   ]
  },
  {
+  "id": "rynek",
+  "front": "rynek",
+  "lemma": "rynek",
+  "back": "main square",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "market square"
+  ],
+  "definition": "the old central square of a Polish town",
+  "examples": [
+   "Spotkajmy się na rynku pod ratuszem."
+  ],
+  "examples_en": [
+   "Let's meet on the main square by the town hall."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.35,
+  "lemma_id": "rynek",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Spotkajmy się na rynku pod ratuszem.",
+  "share": 70.0,
+  "hint": "old town center",
+  "hint_context": "on the main square",
+  "example_marks": [
+   {
+    "text": "rynku",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
   "id": "grać",
   "front": "grać",
   "lemma": "grać",
@@ -13272,6 +14156,39 @@
   "aspect_pair": "dawać"
  },
  {
+  "id": "nazwisko",
+  "front": "nazwisko",
+  "lemma": "nazwisko",
+  "back": "last name",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "surname"
+  ],
+  "definition": "family name",
+  "examples": [
+   "Jak ma pan na nazwisko?"
+  ],
+  "examples_en": [
+   "What's your last name, sir?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 5.17,
+  "share": 98.0,
+  "hint": "family name",
+  "hint_context": "first and last name",
+  "example_marks": [
+   {
+    "text": "nazwisko",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "silny",
   "front": "silny",
   "lemma": "silny",
@@ -13300,6 +14217,39 @@
   "example_marks": [
    {
     "text": "silny",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "szybki",
+  "front": "szybki",
+  "lemma": "szybki",
+  "back": "fast",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "quick"
+  ],
+  "definition": "moving or happening with speed",
+  "examples": [
+   "To bardzo szybki pociąg."
+  ],
+  "examples_en": [
+   "This is a very fast train."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 5.17,
+  "share": 98.0,
+  "hint": "adjective: speedy",
+  "hint_context": "a fast car",
+  "example_marks": [
+   {
+    "text": "szybki",
     "nth": 1
    }
   ]
@@ -13410,6 +14360,104 @@
   ]
  },
  {
+  "id": "gotowy",
+  "front": "gotowy",
+  "lemma": "gotowy",
+  "back": "ready",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "prepared, finished",
+  "examples": [
+   "Obiad gotowy, chodźcie do stołu!"
+  ],
+  "examples_en": [
+   "Lunch is ready, come to the table!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 5.15,
+  "share": 98.0,
+  "hint": "prepared",
+  "hint_context": "are you ready",
+  "example_marks": [
+   {
+    "text": "gotowy",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "polecać",
+  "front": "polecać",
+  "lemma": "polecać",
+  "back": "recommend",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to recommend",
+  "examples": [
+   "Polecam tę książkę, jest świetna."
+  ],
+  "examples_en": [
+   "I recommend this book, it's great."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.15,
+  "share": 98.0,
+  "hint": "suggest something good",
+  "hint_context": "I recommend it",
+  "example_marks": [
+   {
+    "text": "Polecam",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "polecić"
+ },
+ {
+  "id": "ładny",
+  "front": "ładny",
+  "lemma": "ładny",
+  "back": "pretty",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "nice",
+   "lovely"
+  ],
+  "definition": "pleasant to look at; nice",
+  "examples": [
+   "Masz bardzo ładną sukienkę."
+  ],
+  "examples_en": [
+   "You have a very pretty dress."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 5.15,
+  "share": 98.0,
+  "hint": "nice to look at",
+  "hint_context": "a pretty house",
+  "example_marks": [
+   {
+    "text": "ładną",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "gość",
   "front": "gość",
   "lemma": "gość",
@@ -13477,6 +14525,109 @@
     "nth": 1
    }
   ]
+ },
+ {
+  "id": "drzwi",
+  "front": "drzwi",
+  "lemma": "drzwi",
+  "back": "door",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a door (plural only)",
+  "examples": [
+   "Zamknij drzwi, jest zimno."
+  ],
+  "examples_en": [
+   "Close the door, it's cold."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "",
+  "zipf": 5.14,
+  "share": 98.0,
+  "hint": "entrance",
+  "hint_context": "open the door",
+  "example_marks": [
+   {
+    "text": "drzwi",
+    "nth": 1
+   }
+  ],
+  "number": "pl"
+ },
+ {
+  "id": "odpowiadać",
+  "front": "odpowiadać",
+  "lemma": "odpowiadać",
+  "back": "answer",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "reply"
+  ],
+  "definition": "to answer (in progress or regularly)",
+  "examples": [
+   "Dlaczego nie odpowiadasz na moje wiadomości?"
+  ],
+  "examples_en": [
+   "Why aren't you answering my messages?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.2,
+  "lemma_id": "odpowiadać",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Dlaczego nie odpowiadasz na moje wiadomości?",
+  "share": 85.0,
+  "hint": "reply",
+  "hint_context": "answer a question",
+  "example_marks": [
+   {
+    "text": "odpowiadasz",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "odpowiedzieć"
+ },
+ {
+  "id": "park",
+  "front": "park",
+  "lemma": "park",
+  "back": "park",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a public park",
+  "examples": [
+   "W niedzielę idziemy na spacer do parku."
+  ],
+  "examples_en": [
+   "On Sunday we go for a walk in the park."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.13,
+  "share": 98.0,
+  "hint": "green area",
+  "hint_context": "in the park",
+  "example_marks": [
+   {
+    "text": "parku",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
  },
  {
   "id": "pole",
@@ -13570,6 +14721,72 @@
     "nth": 1
    }
   ]
+ },
+ {
+  "id": "krok",
+  "front": "krok",
+  "lemma": "krok",
+  "back": "step",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a step (walking; also a stage)",
+  "examples": [
+   "Zrób krok do przodu."
+  ],
+  "examples_en": [
+   "Take a step forward."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.12,
+  "share": 98.0,
+  "hint": "walking",
+  "hint_context": "step by step",
+  "example_marks": [
+   {
+    "text": "krok",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
+  "id": "spać",
+  "front": "spać",
+  "lemma": "spać",
+  "back": "sleep",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "be asleep"
+  ],
+  "definition": "to sleep",
+  "examples": [
+   "Dobrze spałeś tej nocy?"
+  ],
+  "examples_en": [
+   "Did you sleep well last night?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.12,
+  "share": 98.0,
+  "hint": "be asleep",
+  "hint_context": "go to sleep",
+  "example_marks": [
+   {
+    "text": "spałeś",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf"
  },
  {
   "id": "wieczór",
@@ -13675,6 +14892,40 @@
   "aspect": "impf"
  },
  {
+  "id": "mocno",
+  "front": "mocno",
+  "lemma": "mocno",
+  "back": "hard",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "strongly",
+   "tight"
+  ],
+  "definition": "with force",
+  "examples": [
+   "Trzymaj się mocno!"
+  ],
+  "examples_en": [
+   "Hold on tight!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 5.11,
+  "share": 98.0,
+  "hint": "with force, strongly",
+  "hint_context": "hold tight",
+  "example_marks": [
+   {
+    "text": "mocno",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "zostawać",
   "front": "zostawać",
   "lemma": "zostawać",
@@ -13710,6 +14961,43 @@
   "aspect_pair": "zostać"
  },
  {
+  "id": "reszta",
+  "front": "reszta",
+  "lemma": "reszta",
+  "back": "rest",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "remainder"
+  ],
+  "definition": "what is left",
+  "examples": [
+   "Resztę ciasta zjemy jutro."
+  ],
+  "examples_en": [
+   "We'll eat the rest of the cake tomorrow."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 5.25,
+  "lemma_id": "reszta",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Resztę ciasta zjemy jutro.",
+  "share": 70.0,
+  "hint": "what is left",
+  "hint_context": "the rest of the day",
+  "example_marks": [
+   {
+    "text": "Resztę",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "słońce",
   "front": "słońce",
   "lemma": "słońce",
@@ -13743,6 +15031,43 @@
   ]
  },
  {
+  "id": "czuć#2",
+  "front": "czuć",
+  "lemma": "czuć",
+  "back": "smell",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to perceive a smell",
+  "examples": [
+   "Czuję zapach kawy."
+  ],
+  "examples_en": [
+   "I smell coffee."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.64,
+  "lemma_id": "czuć",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Czuję zapach kawy.",
+  "share": 28.0,
+  "hint": "with the nose",
+  "hint_context": "smell it",
+  "example_marks": [
+   {
+    "text": "Czuję",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "poczuć"
+ },
+ {
   "id": "podróż",
   "front": "podróż",
   "lemma": "podróż",
@@ -13774,6 +15099,40 @@
     "nth": 1
    }
   ]
+ },
+ {
+  "id": "umieć",
+  "front": "umieć",
+  "lemma": "umieć",
+  "back": "can",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "know how to"
+  ],
+  "definition": "to know how to do something (a skill)",
+  "examples": [
+   "Umiesz pływać na plecach?"
+  ],
+  "examples_en": [
+   "Can you swim on your back?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.09,
+  "share": 98.0,
+  "hint": "know how to, skill",
+  "hint_context": "can you swim",
+  "example_marks": [
+   {
+    "text": "Umiesz",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf"
  },
  {
   "id": "powietrze",
@@ -13918,6 +15277,39 @@
   ]
  },
  {
+  "id": "morze",
+  "front": "morze",
+  "lemma": "morze",
+  "back": "sea",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "seaside"
+  ],
+  "definition": "the sea ('nad morze' = to the seaside)",
+  "examples": [
+   "W sierpniu jedziemy nad morze."
+  ],
+  "examples_en": [
+   "In August we're going to the seaside."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 5.05,
+  "share": 98.0,
+  "hint": "salt water",
+  "hint_context": "by the sea",
+  "example_marks": [
+   {
+    "text": "morze",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "okno",
   "front": "okno",
   "lemma": "okno",
@@ -13978,6 +15370,41 @@
     "nth": 1
    }
   ]
+ },
+ {
+  "id": "zostawić",
+  "front": "zostawić",
+  "lemma": "zostawić",
+  "back": "leave",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "leave behind"
+  ],
+  "definition": "to leave something or someone somewhere",
+  "examples": [
+   "Zostawiłam okulary w samochodzie."
+  ],
+  "examples_en": [
+   "I left my glasses in the car."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.03,
+  "share": 98.0,
+  "hint": "leave behind",
+  "hint_context": "leave a message",
+  "example_marks": [
+   {
+    "text": "Zostawiłam",
+    "nth": 1
+   }
+  ],
+  "aspect": "pf",
+  "aspect_pair": "zostawiać"
  },
  {
   "id": "miejsce#3",
@@ -14121,5 +15548,38 @@
     "nth": 1
    }
   ]
+ },
+ {
+  "id": "płacić",
+  "front": "płacić",
+  "lemma": "płacić",
+  "back": "pay",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to pay (in progress or regularly)",
+  "examples": [
+   "Płacę kartą czy gotówką?"
+  ],
+  "examples_en": [
+   "Shall I pay by card or in cash?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.01,
+  "share": 98.0,
+  "hint": "money",
+  "hint_context": "pay the bill",
+  "example_marks": [
+   {
+    "text": "Płacę",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "zapłacić"
  }
 ]

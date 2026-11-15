@@ -1,5 +1,38 @@
 [
  {
+  "id": "wzdychać",
+  "front": "wzdychać",
+  "lemma": "wzdychać",
+  "back": "sigh",
+  "band": 7,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to sigh",
+  "examples": [
+   "Mama wzdycha i zaczyna sprzątać."
+  ],
+  "examples_en": [
+   "Mom sighs and starts cleaning."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 3.22,
+  "share": 98.0,
+  "hint": "breath of tiredness",
+  "hint_context": "sigh deeply",
+  "example_marks": [
+   {
+    "text": "wzdycha",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "westchnąć"
+ },
+ {
   "id": "kelnerka",
   "front": "kelnerka",
   "lemma": "kelnerka",

@@ -72,6 +72,72 @@
   "aspect_pair": "puścić"
  },
  {
+  "id": "kanapa",
+  "front": "kanapa",
+  "lemma": "kanapa",
+  "back": "couch",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "sofa"
+  ],
+  "definition": "a long soft seat for several people",
+  "examples": [
+   "Tata zasnął na kanapie przed telewizorem."
+  ],
+  "examples_en": [
+   "Dad fell asleep on the couch in front of the TV."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 4.23,
+  "share": 98.0,
+  "hint": "furniture, sofa",
+  "hint_context": "sit on the couch",
+  "example_marks": [
+   {
+    "text": "kanapie",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "winda",
+  "front": "winda",
+  "lemma": "winda",
+  "back": "elevator",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "lift"
+  ],
+  "definition": "a lift in a building",
+  "examples": [
+   "Jedziemy windą na piąte piętro."
+  ],
+  "examples_en": [
+   "We take the elevator to the sixth floor."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 4.22,
+  "share": 98.0,
+  "hint": "in a building",
+  "hint_context": "take the elevator",
+  "example_marks": [
+   {
+    "text": "windą",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "młody#2",
   "front": "młody",
   "lemma": "młody",
@@ -215,6 +281,40 @@
   "animacy": "inan"
  },
  {
+  "id": "szafka",
+  "front": "szafka",
+  "lemma": "szafka",
+  "back": "cupboard",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "cabinet",
+   "locker"
+  ],
+  "definition": "a small cupboard or cabinet",
+  "examples": [
+   "Kubki są w szafce nad zlewem."
+  ],
+  "examples_en": [
+   "The mugs are in the cupboard above the sink."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 4.16,
+  "share": 98.0,
+  "hint": "small storage",
+  "hint_context": "in the cupboard",
+  "example_marks": [
+   {
+    "text": "szafce",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "talerz",
   "front": "talerz",
   "lemma": "talerz",
@@ -249,6 +349,131 @@
   "animacy": "inan"
  },
  {
+  "id": "walizka",
+  "front": "walizka",
+  "lemma": "walizka",
+  "back": "suitcase",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a case for clothes when traveling",
+  "examples": [
+   "Spakowałeś już walizkę?"
+  ],
+  "examples_en": [
+   "Have you packed your suitcase yet?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 4.15,
+  "share": 98.0,
+  "hint": "for travel",
+  "hint_context": "pack a suitcase",
+  "example_marks": [
+   {
+    "text": "walizkę",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "dziesiąty",
+  "front": "dziesiąty",
+  "lemma": "dziesiąty",
+  "back": "tenth",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "number ten in order ('o dziesiątej' = at ten)",
+  "examples": [
+   "Sklep otwierają o dziesiątej."
+  ],
+  "examples_en": [
+   "The store opens at ten."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 4.13,
+  "share": 98.0,
+  "hint": "10th; at ten",
+  "hint_context": "at ten o'clock",
+  "example_marks": [
+   {
+    "text": "dziesiątej",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "gorąco",
+  "front": "gorąco",
+  "lemma": "gorąco",
+  "back": "hot",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "'jest gorąco' = it's hot",
+  "examples": [
+   "W lipcu jest bardzo gorąco."
+  ],
+  "examples_en": [
+   "In July it's very hot."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 4.13,
+  "share": 98.0,
+  "hint": "weather: it's hot",
+  "hint_context": "it's hot today",
+  "example_marks": [
+   {
+    "text": "gorąco",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "balkon",
+  "front": "balkon",
+  "lemma": "balkon",
+  "back": "balcony",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a platform on the outside of a building",
+  "examples": [
+   "Latem pijemy kawę na balkonie."
+  ],
+  "examples_en": [
+   "In summer we drink coffee on the balcony."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.1,
+  "share": 98.0,
+  "hint": "outside a flat",
+  "hint_context": "on the balcony",
+  "example_marks": [
+   {
+    "text": "balkonie",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
   "id": "kiełbasa",
   "front": "kiełbasa",
   "lemma": "kiełbasa",
@@ -277,6 +502,43 @@
   "example_marks": [
    {
     "text": "kiełbasa",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "wolno#2",
+  "front": "wolno",
+  "lemma": "wolno",
+  "back": "be allowed",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "may"
+  ],
+  "definition": "'wolno' = it is allowed ('nie wolno' = it's forbidden)",
+  "examples": [
+   "Tu nie wolno palić."
+  ],
+  "examples_en": [
+   "Smoking isn't allowed here."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 4.54,
+  "lemma_id": "wolno",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Tu nie wolno palić.",
+  "share": 33.0,
+  "hint": "permitted, nie wolno",
+  "hint_context": "not allowed",
+  "example_marks": [
+   {
+    "text": "wolno",
     "nth": 1
    }
   ]
@@ -351,6 +613,40 @@
   "animacy": "inan"
  },
  {
+  "id": "grill",
+  "front": "grill",
+  "lemma": "grill",
+  "back": "grill",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "barbecue"
+  ],
+  "definition": "a grill; 'z grilla' = grilled",
+  "examples": [
+   "W sobotę robimy grilla w ogrodzie."
+  ],
+  "examples_en": [
+   "On Saturday we're having a barbecue in the yard."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.04,
+  "share": 98.0,
+  "hint": "barbecue",
+  "hint_context": "grilled food",
+  "example_marks": [
+   {
+    "text": "grilla",
+    "nth": 1
+   }
+  ],
+  "animacy": "anim"
+ },
+ {
   "id": "pieróg",
   "front": "pieróg",
   "lemma": "pieróg",
@@ -379,6 +675,44 @@
   "example_marks": [
    {
     "text": "pierogi",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
+  "id": "rachunek#2",
+  "front": "rachunek",
+  "lemma": "rachunek",
+  "back": "account",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "bank account"
+  ],
+  "definition": "a bank account",
+  "examples": [
+   "Przelej pieniądze na mój rachunek."
+  ],
+  "examples_en": [
+   "Transfer the money to my account."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.65,
+  "lemma_id": "rachunek",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Przelej pieniądze na mój rachunek.",
+  "share": 23.0,
+  "hint": "at the bank",
+  "hint_context": "bank account",
+  "example_marks": [
+   {
+    "text": "rachunek",
     "nth": 1
    }
   ],
@@ -445,6 +779,71 @@
   "example_marks": [
    {
     "text": "Wigilię",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "cukierek",
+  "front": "cukierek",
+  "lemma": "cukierek",
+  "back": "candy",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "sweet"
+  ],
+  "definition": "a piece of candy",
+  "examples": [
+   "Babcia zawsze ma w torebce cukierki."
+  ],
+  "examples_en": [
+   "Grandma always has candy in her purse."
+  ],
+  "claude": true,
+  "topic": "food",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 3.94,
+  "share": 98.0,
+  "hint": "a sweet",
+  "hint_context": "a piece of candy",
+  "example_marks": [
+   {
+    "text": "cukierki",
+    "nth": 1
+   }
+  ],
+  "animacy": "anim"
+ },
+ {
+  "id": "mąka",
+  "front": "mąka",
+  "lemma": "mąka",
+  "back": "flour",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "flour for baking",
+  "examples": [
+   "Do ciasta potrzebuję kilo mąki."
+  ],
+  "examples_en": [
+   "I need a kilo of flour for the cake."
+  ],
+  "claude": true,
+  "topic": "food",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 3.94,
+  "share": 98.0,
+  "hint": "for baking",
+  "hint_context": "a bag of flour",
+  "example_marks": [
+   {
+    "text": "mąki",
     "nth": 1
    }
   ]
