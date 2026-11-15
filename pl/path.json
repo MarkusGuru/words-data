@@ -12,7 +12,13 @@
     "u-pl-L1-03",
     "u-pl-L1-04",
     "u-pl-L1-05",
-    "cp-pl-L1-1"
+    "cp-pl-L1-1",
+    "u-pl-L1-06",
+    "u-pl-L1-07",
+    "u-pl-L1-08",
+    "u-pl-L1-09",
+    "u-pl-L1-10",
+    "cp-pl-L1-2"
    ]
   }
  ],
@@ -342,6 +348,336 @@
       "u-pl-L1-03",
       "u-pl-L1-04",
       "u-pl-L1-05"
+     ],
+     "count": 15
+    }
+   ]
+  },
+  {
+   "id": "u-pl-L1-06",
+   "level": 1,
+   "index": 7,
+   "title": "Hotel w górach",
+   "title_en": "A hotel in the mountains",
+   "series": null,
+   "part": null,
+   "nodes": [
+    {
+     "id": "pl-L1-06:words",
+     "type": "words",
+     "title": "Słowa",
+     "story": "pl-L1-06",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "pl-L1-06:story",
+     "type": "story",
+     "title": "Opowiadanie",
+     "story": "pl-L1-06"
+    },
+    {
+     "id": "pl-L1-06:sentences",
+     "type": "sentences",
+     "title": "Zdania",
+     "story": "pl-L1-06",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "pl-L1-06:speak",
+     "type": "speak",
+     "title": "Mów",
+     "scenario": "hotel",
+     "targets": [
+      "hotel",
+      "pokój",
+      "śniadanie",
+      "rezerwacja"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "pl-L1-06:write",
+     "type": "write",
+     "title": "Pisz",
+     "story": "pl-L1-06",
+     "prompt_en": "Retell \"Hotel w górach\" in 2–3 Polish sentences.",
+     "use": [
+      "hotel",
+      "łóżko"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-pl-L1-07",
+   "level": 1,
+   "index": 8,
+   "title": "Nad morzem",
+   "title_en": "At the seaside",
+   "series": null,
+   "part": null,
+   "nodes": [
+    {
+     "id": "pl-L1-07:words",
+     "type": "words",
+     "title": "Słowa",
+     "story": "pl-L1-07",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "pl-L1-07:story",
+     "type": "story",
+     "title": "Opowiadanie",
+     "story": "pl-L1-07"
+    },
+    {
+     "id": "pl-L1-07:sentences",
+     "type": "sentences",
+     "title": "Zdania",
+     "story": "pl-L1-07",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "pl-L1-07:speak",
+     "type": "speak",
+     "title": "Mów",
+     "scenario": "beach",
+     "targets": [
+      "morze",
+      "plaża",
+      "lody",
+      "woda"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "pl-L1-07:write",
+     "type": "write",
+     "title": "Pisz",
+     "story": "pl-L1-07",
+     "prompt_en": "Retell \"Nad morzem\" in 2–3 Polish sentences.",
+     "use": [
+      "morze",
+      "ryba"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-pl-L1-08",
+   "level": 1,
+   "index": 9,
+   "title": "W restauracji",
+   "title_en": "At the restaurant",
+   "series": null,
+   "part": null,
+   "nodes": [
+    {
+     "id": "pl-L1-08:words",
+     "type": "words",
+     "title": "Słowa",
+     "story": "pl-L1-08",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "pl-L1-08:story",
+     "type": "story",
+     "title": "Opowiadanie",
+     "story": "pl-L1-08"
+    },
+    {
+     "id": "pl-L1-08:sentences",
+     "type": "sentences",
+     "title": "Zdania",
+     "story": "pl-L1-08",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "pl-L1-08:speak",
+     "type": "speak",
+     "title": "Mów",
+     "scenario": "restaurant",
+     "targets": [
+      "kelner",
+      "rachunek",
+      "poprosić",
+      "polecać"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "pl-L1-08:write",
+     "type": "write",
+     "title": "Pisz",
+     "story": "pl-L1-08",
+     "prompt_en": "Retell \"W restauracji\" in 2–3 Polish sentences.",
+     "use": [
+      "rachunek",
+      "płacić"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-pl-L1-09",
+   "level": 1,
+   "index": 10,
+   "title": "Pies w parku",
+   "title_en": "A dog in the park",
+   "series": null,
+   "part": null,
+   "nodes": [
+    {
+     "id": "pl-L1-09:words",
+     "type": "words",
+     "title": "Słowa",
+     "story": "pl-L1-09",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "pl-L1-09:story",
+     "type": "story",
+     "title": "Opowiadanie",
+     "story": "pl-L1-09"
+    },
+    {
+     "id": "pl-L1-09:sentences",
+     "type": "sentences",
+     "title": "Zdania",
+     "story": "pl-L1-09",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "pl-L1-09:speak",
+     "type": "speak",
+     "title": "Mów",
+     "scenario": "park",
+     "targets": [
+      "pies",
+      "park",
+      "biec",
+      "spać"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "pl-L1-09:write",
+     "type": "write",
+     "title": "Pisz",
+     "story": "pl-L1-09",
+     "prompt_en": "Retell \"Pies w parku\" in 2–3 Polish sentences.",
+     "use": [
+      "pies",
+      "kiełbasa"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-pl-L1-10",
+   "level": 1,
+   "index": 11,
+   "title": "Urodziny Maksia",
+   "title_en": "Maksiu's birthday",
+   "series": null,
+   "part": null,
+   "nodes": [
+    {
+     "id": "pl-L1-10:words",
+     "type": "words",
+     "title": "Słowa",
+     "story": "pl-L1-10",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "pl-L1-10:story",
+     "type": "story",
+     "title": "Opowiadanie",
+     "story": "pl-L1-10"
+    },
+    {
+     "id": "pl-L1-10:sentences",
+     "type": "sentences",
+     "title": "Zdania",
+     "story": "pl-L1-10",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "pl-L1-10:speak",
+     "type": "speak",
+     "title": "Mów",
+     "scenario": "birthday",
+     "targets": [
+      "urodziny",
+      "tort",
+      "sto",
+      "dziękować"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "pl-L1-10:write",
+     "type": "write",
+     "title": "Pisz",
+     "story": "pl-L1-10",
+     "prompt_en": "Retell \"Urodziny Maksia\" in 2–3 Polish sentences.",
+     "use": [
+      "urodziny",
+      "tort"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cp-pl-L1-2",
+   "level": 1,
+   "index": 12,
+   "title": "Powtórka",
+   "title_en": "Checkpoint",
+   "series": null,
+   "part": null,
+   "checkpoint": true,
+   "nodes": [
+    {
+     "id": "cp-pl-L1-2:test",
+     "type": "checkpoint",
+     "title": "Powtórka",
+     "units": [
+      "u-pl-L1-06",
+      "u-pl-L1-07",
+      "u-pl-L1-08",
+      "u-pl-L1-09",
+      "u-pl-L1-10"
      ],
      "count": 15
     }
