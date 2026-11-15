@@ -1,0 +1,28 @@
+{
+ "schema": 1,
+ "lang": "pl",
+ "brzuchi": {
+  "path_1": "Dalej! A potem jemy.",
+  "path_2": "Jestem głodny… słówek!",
+  "hangry": "Jestem głodny… słówek!",
+  "wrong_1": "Spokojnie, spróbuj jeszcze raz!",
+  "wrong_2": "Człowiek uczy się na błędach!",
+  "halfway": "Jesteśmy w połowie! 💪",
+  "end_pizza": "To zasługuje na pierogi! 🥟",
+  "end_left_early": "Już koniec? A ja wciąż jestem głodny!"
+ },
+ "max": {
+  "path_1": "Łatwizna dla Prezydenta!",
+  "path_2": "Jeszcze jedno, mistrzu!",
+  "praise_1": "Ale siła!",
+  "praise_2": "Brawo!",
+  "streak_5": "Pięć z rzędu! 🎉",
+  "halfway": "Jesteśmy w połowie! 💪",
+  "end_good": "Kawał dobrej roboty!",
+  "end_retry": "Jutro znowu, jeszcze silniejsi!"
+ },
+ "names": {
+  "brzuchi": "Brzuchi",
+  "max": "Maksiu"
+ }
+}
