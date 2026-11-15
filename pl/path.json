@@ -1,0 +1,351 @@
+{
+ "schema": 1,
+ "pair": "pl-en",
+ "title": "Podróż",
+ "sections": [
+  {
+   "level": 1,
+   "title": "Poziom 1",
+   "units": [
+    "u-pl-L1-01",
+    "u-pl-L1-02",
+    "u-pl-L1-03",
+    "u-pl-L1-04",
+    "u-pl-L1-05",
+    "cp-pl-L1-1"
+   ]
+  }
+ ],
+ "units": [
+  {
+   "id": "u-pl-L1-01",
+   "level": 1,
+   "index": 1,
+   "title": "Kawiarnia o poranku",
+   "title_en": "The café in the morning",
+   "series": null,
+   "part": null,
+   "nodes": [
+    {
+     "id": "pl-L1-01:words",
+     "type": "words",
+     "title": "Słowa",
+     "story": "pl-L1-01",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "pl-L1-01:story",
+     "type": "story",
+     "title": "Opowiadanie",
+     "story": "pl-L1-01"
+    },
+    {
+     "id": "pl-L1-01:sentences",
+     "type": "sentences",
+     "title": "Zdania",
+     "story": "pl-L1-01",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "pl-L1-01:speak",
+     "type": "speak",
+     "title": "Mów",
+     "scenario": "cafe",
+     "targets": [
+      "kawa",
+      "herbata",
+      "proszę",
+      "dziękować"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "pl-L1-01:write",
+     "type": "write",
+     "title": "Pisz",
+     "story": "pl-L1-01",
+     "prompt_en": "Retell \"Kawiarnia o poranku\" in 2–3 Polish sentences.",
+     "use": [
+      "kawa",
+      "pączek"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-pl-L1-02",
+   "level": 1,
+   "index": 2,
+   "title": "Na targu",
+   "title_en": "At the market",
+   "series": null,
+   "part": null,
+   "nodes": [
+    {
+     "id": "pl-L1-02:words",
+     "type": "words",
+     "title": "Słowa",
+     "story": "pl-L1-02",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "pl-L1-02:story",
+     "type": "story",
+     "title": "Opowiadanie",
+     "story": "pl-L1-02"
+    },
+    {
+     "id": "pl-L1-02:sentences",
+     "type": "sentences",
+     "title": "Zdania",
+     "story": "pl-L1-02",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "pl-L1-02:speak",
+     "type": "speak",
+     "title": "Mów",
+     "scenario": "market",
+     "targets": [
+      "chleb",
+      "ile",
+      "proszę",
+      "kupić"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "pl-L1-02:write",
+     "type": "write",
+     "title": "Pisz",
+     "story": "pl-L1-02",
+     "prompt_en": "Retell \"Na targu\" in 2–3 Polish sentences.",
+     "use": [
+      "kupić",
+      "chleb"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-pl-L1-03",
+   "level": 1,
+   "index": 3,
+   "title": "Pociągiem do Krakowa",
+   "title_en": "By train to Kraków",
+   "series": null,
+   "part": null,
+   "nodes": [
+    {
+     "id": "pl-L1-03:words",
+     "type": "words",
+     "title": "Słowa",
+     "story": "pl-L1-03",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "pl-L1-03:story",
+     "type": "story",
+     "title": "Opowiadanie",
+     "story": "pl-L1-03"
+    },
+    {
+     "id": "pl-L1-03:sentences",
+     "type": "sentences",
+     "title": "Zdania",
+     "story": "pl-L1-03",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "pl-L1-03:speak",
+     "type": "speak",
+     "title": "Mów",
+     "scenario": "train",
+     "targets": [
+      "pociąg",
+      "bilet",
+      "gdzie",
+      "jechać"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "pl-L1-03:write",
+     "type": "write",
+     "title": "Pisz",
+     "story": "pl-L1-03",
+     "prompt_en": "Retell \"Pociągiem do Krakowa\" in 2–3 Polish sentences.",
+     "use": [
+      "jechać",
+      "pociąg"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-pl-L1-04",
+   "level": 1,
+   "index": 4,
+   "title": "Obiad u babci",
+   "title_en": "Lunch at Grandma's",
+   "series": null,
+   "part": null,
+   "nodes": [
+    {
+     "id": "pl-L1-04:words",
+     "type": "words",
+     "title": "Słowa",
+     "story": "pl-L1-04",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "pl-L1-04:story",
+     "type": "story",
+     "title": "Opowiadanie",
+     "story": "pl-L1-04"
+    },
+    {
+     "id": "pl-L1-04:sentences",
+     "type": "sentences",
+     "title": "Zdania",
+     "story": "pl-L1-04",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "pl-L1-04:speak",
+     "type": "speak",
+     "title": "Mów",
+     "scenario": "family_lunch",
+     "targets": [
+      "babcia",
+      "obiad",
+      "dziękować",
+      "jeszcze"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "pl-L1-04:write",
+     "type": "write",
+     "title": "Pisz",
+     "story": "pl-L1-04",
+     "prompt_en": "Retell \"Obiad u babci\" in 2–3 Polish sentences.",
+     "use": [
+      "babcia",
+      "jeść"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-pl-L1-05",
+   "level": 1,
+   "index": 5,
+   "title": "Wesele",
+   "title_en": "The wedding reception",
+   "series": null,
+   "part": null,
+   "nodes": [
+    {
+     "id": "pl-L1-05:words",
+     "type": "words",
+     "title": "Słowa",
+     "story": "pl-L1-05",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "pl-L1-05:story",
+     "type": "story",
+     "title": "Opowiadanie",
+     "story": "pl-L1-05"
+    },
+    {
+     "id": "pl-L1-05:sentences",
+     "type": "sentences",
+     "title": "Zdania",
+     "story": "pl-L1-05",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "pl-L1-05:speak",
+     "type": "speak",
+     "title": "Mów",
+     "scenario": "wedding",
+     "targets": [
+      "wesele",
+      "ślub",
+      "dziękować",
+      "zdrowie"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "pl-L1-05:write",
+     "type": "write",
+     "title": "Pisz",
+     "story": "pl-L1-05",
+     "prompt_en": "Retell \"Wesele\" in 2–3 Polish sentences.",
+     "use": [
+      "wesele",
+      "tańczyć"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cp-pl-L1-1",
+   "level": 1,
+   "index": 6,
+   "title": "Powtórka",
+   "title_en": "Checkpoint",
+   "series": null,
+   "part": null,
+   "checkpoint": true,
+   "nodes": [
+    {
+     "id": "cp-pl-L1-1:test",
+     "type": "checkpoint",
+     "title": "Powtórka",
+     "units": [
+      "u-pl-L1-01",
+      "u-pl-L1-02",
+      "u-pl-L1-03",
+      "u-pl-L1-04",
+      "u-pl-L1-05"
+     ],
+     "count": 15
+    }
+   ]
+  }
+ ]
+}
