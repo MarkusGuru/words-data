@@ -1,0 +1,69 @@
+[
+ {
+  "id": "drożdżówka",
+  "front": "drożdżówka",
+  "lemma": "drożdżówka",
+  "back": "sweet roll",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "bun"
+  ],
+  "definition": "a sweet yeast bun, often with cheese or fruit",
+  "examples": [
+   "Kupiłam w piekarni dwie drożdżówki z serem."
+  ],
+  "examples_en": [
+   "I bought two cheese sweet rolls at the bakery."
+  ],
+  "claude": true,
+  "topic": "food",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 2.91,
+  "share": 98.0,
+  "hint": "sweet yeast bun",
+  "hint_context": "a sweet roll",
+  "example_marks": [
+   {
+    "text": "drożdżówki",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "wnuczek",
+  "front": "wnuczek",
+  "lemma": "wnuczek",
+  "back": "grandson",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "grandchild"
+  ],
+  "definition": "grandson (affectionate form of 'wnuk')",
+  "examples": [
+   "Babcia czeka na wnuczka z ciastem."
+  ],
+  "examples_en": [
+   "Grandma is waiting for her grandson with cake."
+  ],
+  "claude": true,
+  "topic": "family",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": -0.69,
+  "share": 98.0,
+  "hint": "grandchild, boy",
+  "hint_context": "her little grandson",
+  "example_marks": [
+   {
+    "text": "wnuczka",
+    "nth": 1
+   }
+  ],
+  "animacy": "pers"
+ }
+]

@@ -1,5 +1,424 @@
 [
  {
+  "id": "przepraszać#2",
+  "front": "przepraszać",
+  "lemma": "przepraszać",
+  "back": "excuse me",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "'przepraszam' to get attention or ask a stranger",
+  "examples": [
+   "Przepraszam, gdzie jest dworzec?"
+  ],
+  "examples_en": [
+   "Excuse me, where is the train station?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.55,
+  "lemma_id": "przepraszać",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Przepraszam, gdzie jest dworzec?",
+  "share": 48.0,
+  "hint": "to get attention",
+  "hint_context": "excuse me, sir",
+  "example_marks": [
+   {
+    "text": "Przepraszam",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "przeprosić"
+ },
+ {
+  "id": "puszczać",
+  "front": "puszczać",
+  "lemma": "puszczać",
+  "back": "let go",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "release"
+  ],
+  "definition": "to stop holding (in progress)",
+  "examples": [
+   "Nie puszczaj mojej ręki!"
+  ],
+  "examples_en": [
+   "Don't let go of my hand!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.24,
+  "share": 98.0,
+  "hint": "stop holding",
+  "hint_context": "let go of my hand",
+  "example_marks": [
+   {
+    "text": "puszczaj",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "puścić"
+ },
+ {
+  "id": "młody#2",
+  "front": "młody",
+  "lemma": "młody",
+  "back": "newlywed",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "the bride and groom"
+  ],
+  "definition": "'młoda para' = the newlyweds; 'pan młody' = groom",
+  "examples": [
+   "Pan młody bardzo się denerwuje."
+  ],
+  "examples_en": [
+   "The groom is very nervous."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 5.3,
+  "lemma_id": "młody",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Pan młody bardzo się denerwuje.",
+  "share": 8.0,
+  "hint": "wedding: groom/bride",
+  "hint_context": "the bride and groom",
+  "example_marks": [
+   {
+    "text": "młody",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "uśmiechać się",
+  "front": "uśmiechać się",
+  "lemma": "uśmiechać się",
+  "back": "smile",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to smile",
+  "examples": [
+   "Dziecko uśmiecha się do mamy."
+  ],
+  "examples_en": [
+   "The baby is smiling at its mom."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.19,
+  "share": 98.0,
+  "hint": "happy face",
+  "hint_context": "smile at someone",
+  "example_marks": [
+   {
+    "text": "uśmiecha",
+    "nth": 1
+   },
+   {
+    "text": "się",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "uśmiechnąć się"
+ },
+ {
+  "id": "siadać",
+  "front": "siadać",
+  "lemma": "siadać",
+  "back": "sit down",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "take a seat"
+  ],
+  "definition": "to take a seat",
+  "examples": [
+   "Siadajcie, zupa już jest na stole!"
+  ],
+  "examples_en": [
+   "Sit down, the soup's already on the table!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.18,
+  "share": 98.0,
+  "hint": "take a seat",
+  "hint_context": "sit down, please",
+  "example_marks": [
+   {
+    "text": "Siadajcie",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "usiąść"
+ },
+ {
+  "id": "tort",
+  "front": "tort",
+  "lemma": "tort",
+  "back": "cake",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "layer cake"
+  ],
+  "definition": "a large layered cake for birthdays, weddings, etc.",
+  "examples": [
+   "Na urodziny mama zawsze robi tort czekoladowy."
+  ],
+  "examples_en": [
+   "Mom always makes a chocolate layer cake for birthdays."
+  ],
+  "claude": true,
+  "topic": "food",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.18,
+  "share": 98.0,
+  "hint": "layer cake, celebration",
+  "hint_context": "a birthday cake",
+  "example_marks": [
+   {
+    "text": "tort",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
+  "id": "talerz",
+  "front": "talerz",
+  "lemma": "talerz",
+  "back": "plate",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "dish"
+  ],
+  "definition": "a flat dish for food; also a plateful",
+  "examples": [
+   "Połóż talerze na stole, proszę."
+  ],
+  "examples_en": [
+   "Put the plates on the table, please."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.16,
+  "share": 98.0,
+  "hint": "dish",
+  "hint_context": "a plate of soup",
+  "example_marks": [
+   {
+    "text": "talerze",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
+  "id": "kiełbasa",
+  "front": "kiełbasa",
+  "lemma": "kiełbasa",
+  "back": "sausage",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "kielbasa"
+  ],
+  "definition": "sausage, especially Polish smoked sausage",
+  "examples": [
+   "Na grillu jest kiełbasa i chleb."
+  ],
+  "examples_en": [
+   "There's sausage and bread on the grill."
+  ],
+  "claude": true,
+  "topic": "food",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 4.07,
+  "share": 98.0,
+  "hint": "Polish sausage",
+  "hint_context": "grilled sausage",
+  "example_marks": [
+   {
+    "text": "kiełbasa",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "ciasto#2",
+  "front": "ciasto",
+  "lemma": "ciasto",
+  "back": "dough",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "the mixture of flour and water before baking",
+  "examples": [
+   "Ciasto na pierogi musi być miękkie."
+  ],
+  "examples_en": [
+   "The dough for pierogi has to be soft."
+  ],
+  "claude": true,
+  "topic": "food",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 4.61,
+  "lemma_id": "ciasto",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Ciasto na pierogi musi być miękkie.",
+  "share": 28.0,
+  "hint": "before baking",
+  "hint_context": "knead the dough",
+  "example_marks": [
+   {
+    "text": "Ciasto",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "pączek",
+  "front": "pączek",
+  "lemma": "pączek",
+  "back": "doughnut",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "Polish doughnut"
+  ],
+  "definition": "a round fried doughnut, usually filled with jam",
+  "examples": [
+   "W tłusty czwartek każdy je pączki."
+  ],
+  "examples_en": [
+   "On Fat Thursday everyone eats doughnuts."
+  ],
+  "claude": true,
+  "topic": "food",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.07,
+  "share": 95.0,
+  "hint": "fried, with jam",
+  "hint_context": "a jam doughnut",
+  "example_marks": [
+   {
+    "text": "pączki",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
+  "id": "pieróg",
+  "front": "pieróg",
+  "lemma": "pieróg",
+  "back": "pierogi",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "dumpling"
+  ],
+  "definition": "a filled dumpling (usually plural 'pierogi')",
+  "examples": [
+   "Na Wigilię jemy pierogi z kapustą i grzybami."
+  ],
+  "examples_en": [
+   "On Christmas Eve we eat pierogi with cabbage and mushrooms."
+  ],
+  "claude": true,
+  "topic": "food",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.03,
+  "share": 98.0,
+  "hint": "filled dumplings",
+  "hint_context": "pierogi with cheese",
+  "example_marks": [
+   {
+    "text": "pierogi",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
+  "id": "kochanie",
+  "front": "kochanie",
+  "lemma": "kochanie",
+  "back": "darling",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "honey",
+   "sweetheart"
+  ],
+  "definition": "term of endearment",
+  "examples": [
+   "Kochanie, gdzie są moje klucze?"
+  ],
+  "examples_en": [
+   "Honey, where are my keys?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 4.0,
+  "share": 98.0,
+  "hint": "term of endearment",
+  "hint_context": "honey, I'm home",
+  "example_marks": [
+   {
+    "text": "Kochanie",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "Wigilia",
   "front": "Wigilia",
   "lemma": "Wigilia",
@@ -29,5 +448,39 @@
     "nth": 1
    }
   ]
+ },
+ {
+  "id": "stolik",
+  "front": "stolik",
+  "lemma": "stolik",
+  "back": "table",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "small table"
+  ],
+  "definition": "a small table, e.g. in a café or restaurant",
+  "examples": [
+   "Czy ten stolik jest wolny?"
+  ],
+  "examples_en": [
+   "Is this table free?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 3.93,
+  "share": 98.0,
+  "hint": "small, café table",
+  "hint_context": "a table for two",
+  "example_marks": [
+   {
+    "text": "stolik",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
  }
 ]

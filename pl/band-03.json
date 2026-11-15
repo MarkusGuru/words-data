@@ -1,5 +1,70 @@
 [
  {
+  "id": "jajko",
+  "front": "jajko",
+  "lemma": "jajko",
+  "back": "egg",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "an egg, especially a hen's egg as food",
+  "examples": [
+   "Na śniadanie jem dwa jajka."
+  ],
+  "examples_en": [
+   "I eat two eggs for breakfast."
+  ],
+  "claude": true,
+  "topic": "food",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 4.55,
+  "share": 98.0,
+  "hint": "food",
+  "hint_context": "a boiled egg",
+  "example_marks": [
+   {
+    "text": "jajka",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "targ",
+  "front": "targ",
+  "lemma": "targ",
+  "back": "market",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "marketplace"
+  ],
+  "definition": "an open-air market",
+  "examples": [
+   "W sobotę kupujemy warzywa na targu."
+  ],
+  "examples_en": [
+   "On Saturday we buy vegetables at the market."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.55,
+  "share": 98.0,
+  "hint": "open-air market",
+  "hint_context": "the farmers market",
+  "example_marks": [
+   {
+    "text": "targu",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
   "id": "brzuch",
   "front": "brzuch",
   "lemma": "brzuch",
@@ -29,6 +94,265 @@
   "example_marks": [
    {
     "text": "brzuch",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
+  "id": "torba",
+  "front": "torba",
+  "lemma": "torba",
+  "back": "bag",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a bag for carrying things",
+  "examples": [
+   "Zapomniałam torby z zakupami."
+  ],
+  "examples_en": [
+   "I forgot the bag with the groceries."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 4.53,
+  "share": 98.0,
+  "hint": "for carrying",
+  "hint_context": "a shopping bag",
+  "example_marks": [
+   {
+    "text": "torby",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "rano~noun",
+  "front": "rano",
+  "lemma": "rano",
+  "back": "morning",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "the morning ('do rana' = until morning)",
+  "examples": [
+   "Tańczyliśmy do rana."
+  ],
+  "examples_en": [
+   "We danced until morning."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 5.25,
+  "share": 18.0,
+  "hint": "do rana",
+  "hint_context": "until morning",
+  "example_marks": [
+   {
+    "text": "rana",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "krzesło",
+  "front": "krzesło",
+  "lemma": "krzesło",
+  "back": "chair",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a seat with a back for one person",
+  "examples": [
+   "Przynieś jeszcze dwa krzesła z kuchni."
+  ],
+  "examples_en": [
+   "Bring two more chairs from the kitchen."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 4.5,
+  "share": 98.0,
+  "hint": "seat",
+  "hint_context": "pull up a chair",
+  "example_marks": [
+   {
+    "text": "krzesła",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "ser",
+  "front": "ser",
+  "lemma": "ser",
+  "back": "cheese",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "food made from milk ('biały ser' = farmer's cheese)",
+  "examples": [
+   "Poproszę kanapkę z serem i pomidorem."
+  ],
+  "examples_en": [
+   "A cheese and tomato sandwich, please."
+  ],
+  "claude": true,
+  "topic": "food",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.49,
+  "share": 98.0,
+  "hint": "dairy",
+  "hint_context": "bread and cheese",
+  "example_marks": [
+   {
+    "text": "serem",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
+  "id": "masło",
+  "front": "masło",
+  "lemma": "masło",
+  "back": "butter",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "the yellow fat made from cream",
+  "examples": [
+   "Posmaruj chleb masłem."
+  ],
+  "examples_en": [
+   "Spread butter on the bread."
+  ],
+  "claude": true,
+  "topic": "food",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 4.47,
+  "share": 98.0,
+  "hint": "dairy",
+  "hint_context": "bread and butter",
+  "example_marks": [
+   {
+    "text": "masłem",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "ziemniak",
+  "front": "ziemniak",
+  "lemma": "ziemniak",
+  "back": "potato",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a potato",
+  "examples": [
+   "Obierz ziemniaki na obiad."
+  ],
+  "examples_en": [
+   "Peel the potatoes for lunch."
+  ],
+  "claude": true,
+  "topic": "food",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.47,
+  "share": 98.0,
+  "hint": "vegetable",
+  "hint_context": "mashed potatoes",
+  "example_marks": [
+   {
+    "text": "ziemniaki",
+    "nth": 1
+   }
+  ],
+  "animacy": "anim"
+ },
+ {
+  "id": "ciasto",
+  "front": "ciasto",
+  "lemma": "ciasto",
+  "back": "cake",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "pastry"
+  ],
+  "definition": "a sweet baked dish (sheet cake, cheesecake, etc.)",
+  "examples": [
+   "Babcia upiekła ciasto ze śliwkami."
+  ],
+  "examples_en": [
+   "Grandma baked a plum cake."
+  ],
+  "claude": true,
+  "topic": "food",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 4.61,
+  "lemma_id": "ciasto",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Babcia upiekła ciasto ze śliwkami.",
+  "share": 70.0,
+  "hint": "sweet baked dish, any",
+  "hint_context": "a piece of cake",
+  "example_marks": [
+   {
+    "text": "ciasto",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "tramwaj",
+  "front": "tramwaj",
+  "lemma": "tramwaj",
+  "back": "tram",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "streetcar"
+  ],
+  "definition": "a streetcar running on rails in a city",
+  "examples": [
+   "Do centrum jedziemy tramwajem."
+  ],
+  "examples_en": [
+   "We take the tram downtown."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.46,
+  "share": 98.0,
+  "hint": "city rail",
+  "hint_context": "take the tram",
+  "example_marks": [
+   {
+    "text": "tramwajem",
     "nth": 1
    }
   ],
@@ -68,6 +392,276 @@
   ]
  },
  {
+  "id": "para",
+  "front": "para",
+  "lemma": "para",
+  "back": "couple",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "two people in a relationship ('młoda para' = newlyweds)",
+  "examples": [
+   "Młoda para tańczy pierwszy taniec."
+  ],
+  "examples_en": [
+   "The newlyweds are dancing their first dance."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 4.73,
+  "lemma_id": "para",
+  "sense_index": 1,
+  "sense_count": 3,
+  "cue": "Młoda para tańczy pierwszy taniec.",
+  "share": 50.0,
+  "hint": "two people together",
+  "hint_context": "a young couple",
+  "example_marks": [
+   {
+    "text": "para",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "głodny",
+  "front": "głodny",
+  "lemma": "głodny",
+  "back": "hungry",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "wanting food",
+  "examples": [
+   "Jestem głodny, kiedy jest obiad?"
+  ],
+  "examples_en": [
+   "I'm hungry, when is lunch?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 4.41,
+  "share": 98.0,
+  "hint": "wanting food",
+  "hint_context": "I'm hungry",
+  "example_marks": [
+   {
+    "text": "głodny",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "jabłko",
+  "front": "jabłko",
+  "lemma": "jabłko",
+  "back": "apple",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "the round fruit of the apple tree",
+  "examples": [
+   "Zjedz jabłko zamiast cukierków."
+  ],
+  "examples_en": [
+   "Eat an apple instead of candy."
+  ],
+  "claude": true,
+  "topic": "food",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 4.38,
+  "share": 98.0,
+  "hint": "fruit",
+  "hint_context": "an apple a day",
+  "example_marks": [
+   {
+    "text": "jabłko",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "wisieć",
+  "front": "wisieć",
+  "lemma": "wisieć",
+  "back": "hang",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "be hanging"
+  ],
+  "definition": "to be hanging",
+  "examples": [
+   "Twój płaszcz wisi w przedpokoju."
+  ],
+  "examples_en": [
+   "Your coat is hanging in the entryway."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.36,
+  "share": 98.0,
+  "hint": "be hanging",
+  "hint_context": "hang on the wall",
+  "example_marks": [
+   {
+    "text": "wisi",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf"
+ },
+ {
+  "id": "gość#2",
+  "front": "gość",
+  "lemma": "gość",
+  "back": "guy",
+  "band": 3,
+  "kind": "word",
+  "register": "informal",
+  "alts": [
+   "dude"
+  ],
+  "definition": "a man (colloquial)",
+  "examples": [
+   "To bardzo fajny gość."
+  ],
+  "examples_en": [
+   "He's a really nice guy."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.21,
+  "lemma_id": "gość",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "To bardzo fajny gość.",
+  "share": 13.0,
+  "hint": "colloquial: a man",
+  "hint_context": "a nice guy",
+  "example_marks": [
+   {
+    "text": "gość",
+    "nth": 1
+   }
+  ],
+  "animacy": "pers"
+ },
+ {
+  "id": "kanapka",
+  "front": "kanapka",
+  "lemma": "kanapka",
+  "back": "sandwich",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a slice of bread with something on it",
+  "examples": [
+   "Zrobiłam ci kanapki do pracy."
+  ],
+  "examples_en": [
+   "I made you sandwiches for work."
+  ],
+  "claude": true,
+  "topic": "food",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 4.33,
+  "share": 98.0,
+  "hint": "bread with topping",
+  "hint_context": "a ham sandwich",
+  "example_marks": [
+   {
+    "text": "kanapki",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "kuchnia#2",
+  "front": "kuchnia",
+  "lemma": "kuchnia",
+  "back": "cuisine",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "food"
+  ],
+  "definition": "a style of cooking",
+  "examples": [
+   "Kocham kuchnię włoską."
+  ],
+  "examples_en": [
+   "I love Italian cuisine."
+  ],
+  "claude": true,
+  "topic": "food",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 4.86,
+  "lemma_id": "kuchnia",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Kocham kuchnię włoską.",
+  "share": 28.0,
+  "hint": "style of cooking",
+  "hint_context": "Polish cuisine",
+  "example_marks": [
+   {
+    "text": "kuchnię",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "pyszny",
+  "front": "pyszny",
+  "lemma": "pyszny",
+  "back": "delicious",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "tasty"
+  ],
+  "definition": "tasting very good",
+  "examples": [
+   "Zupa była pyszna, dziękuję!"
+  ],
+  "examples_en": [
+   "The soup was delicious, thank you!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 4.31,
+  "share": 98.0,
+  "hint": "very tasty",
+  "hint_context": "delicious food",
+  "example_marks": [
+   {
+    "text": "pyszna",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "zamek#2",
   "front": "zamek",
   "lemma": "zamek",
@@ -102,5 +696,247 @@
    }
   ],
   "animacy": "inan"
+ },
+ {
+  "id": "światło#2",
+  "front": "światło",
+  "lemma": "światło",
+  "back": "traffic light",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "lights"
+  ],
+  "definition": "'światła' = traffic lights",
+  "examples": [
+   "Skręć w lewo na światłach."
+  ],
+  "examples_en": [
+   "Turn left at the lights."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 5.18,
+  "lemma_id": "światło",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Skręć w lewo na światłach.",
+  "share": 13.0,
+  "hint": "on the road",
+  "hint_context": "stop at the lights",
+  "example_marks": [
+   {
+    "text": "światłach",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "całować",
+  "front": "całować",
+  "lemma": "całować",
+  "back": "kiss",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to kiss",
+  "examples": [
+   "Mama całuje dzieci na dobranoc."
+  ],
+  "examples_en": [
+   "Mom kisses the kids good night."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.3,
+  "share": 98.0,
+  "hint": "with the lips",
+  "hint_context": "kiss goodnight",
+  "example_marks": [
+   {
+    "text": "całuje",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "pocałować"
+ },
+ {
+  "id": "para#2",
+  "front": "para",
+  "lemma": "para",
+  "back": "pair",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "two matching things",
+  "examples": [
+   "Kupiłem nową parę butów."
+  ],
+  "examples_en": [
+   "I bought a new pair of shoes."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 4.73,
+  "lemma_id": "para",
+  "sense_index": 2,
+  "sense_count": 3,
+  "cue": "Kupiłem nową parę butów.",
+  "share": 35.0,
+  "hint": "two of a kind",
+  "hint_context": "a pair of shoes",
+  "example_marks": [
+   {
+    "text": "parę",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "krem",
+  "front": "krem",
+  "lemma": "krem",
+  "back": "cream",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a sweet cream filling; also skin cream",
+  "examples": [
+   "To ciasto jest z kremem waniliowym."
+  ],
+  "examples_en": [
+   "This cake has vanilla cream."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.26,
+  "share": 98.0,
+  "hint": "filling or lotion",
+  "hint_context": "cake with cream",
+  "example_marks": [
+   {
+    "text": "kremem",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
+  "id": "świecić",
+  "front": "świecić",
+  "lemma": "świecić",
+  "back": "shine",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to give light",
+  "examples": [
+   "Na niebie świecą gwiazdy."
+  ],
+  "examples_en": [
+   "The stars are shining in the sky."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.26,
+  "share": 98.0,
+  "hint": "give light",
+  "hint_context": "the sun is shining",
+  "example_marks": [
+   {
+    "text": "świecą",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "zaświecić"
+ },
+ {
+  "id": "przepraszać",
+  "front": "przepraszać",
+  "lemma": "przepraszać",
+  "back": "sorry",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "I apologize"
+  ],
+  "definition": "'przepraszam' = I'm sorry",
+  "examples": [
+   "Przepraszam za spóźnienie!"
+  ],
+  "examples_en": [
+   "Sorry I'm late!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.55,
+  "lemma_id": "przepraszać",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Przepraszam za spóźnienie!",
+  "share": 50.0,
+  "hint": "apology",
+  "hint_context": "sorry I'm late",
+  "example_marks": [
+   {
+    "text": "Przepraszam",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "przeprosić"
+ },
+ {
+  "id": "kawiarnia",
+  "front": "kawiarnia",
+  "lemma": "kawiarnia",
+  "back": "café",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "coffee shop"
+  ],
+  "definition": "a place that serves coffee and cake",
+  "examples": [
+   "Spotkajmy się w kawiarni na rynku."
+  ],
+  "examples_en": [
+   "Let's meet at the café on the main square."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 4.25,
+  "share": 98.0,
+  "hint": "coffee and cake",
+  "hint_context": "a cozy café",
+  "example_marks": [
+   {
+    "text": "kawiarni",
+    "nth": 1
+   }
+  ]
  }
 ]

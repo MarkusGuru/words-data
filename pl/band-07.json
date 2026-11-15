@@ -1,0 +1,35 @@
+[
+ {
+  "id": "kelnerka",
+  "front": "kelnerka",
+  "lemma": "kelnerka",
+  "back": "waitress",
+  "band": 7,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "server"
+  ],
+  "definition": "a woman who serves in a restaurant or café",
+  "examples": [
+   "Kelnerka przyniosła nam kartę."
+  ],
+  "examples_en": [
+   "The waitress brought us the menu."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 3.01,
+  "share": 98.0,
+  "hint": "female server",
+  "hint_context": "ask the waitress",
+  "example_marks": [
+   {
+    "text": "Kelnerka",
+    "nth": 1
+   }
+  ]
+ }
+]

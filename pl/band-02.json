@@ -37,6 +37,43 @@
   ]
  },
  {
+  "id": "grać#2",
+  "front": "grać",
+  "lemma": "grać",
+  "back": "play",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to play an instrument or music ('grać na' + locative)",
+  "examples": [
+   "Mój brat gra na gitarze."
+  ],
+  "examples_en": [
+   "My brother plays the guitar."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.41,
+  "lemma_id": "grać",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Mój brat gra na gitarze.",
+  "share": 38.0,
+  "hint": "instrument, music",
+  "hint_context": "play the piano",
+  "example_marks": [
+   {
+    "text": "gra",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "zagrać"
+ },
+ {
   "id": "pani",
   "front": "pani",
   "lemma": "pani",
@@ -108,6 +145,39 @@
   "aspect_pair": "wypić"
  },
  {
+  "id": "sala",
+  "front": "sala",
+  "lemma": "sala",
+  "back": "hall",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "room"
+  ],
+  "definition": "a large room for events, classes, etc.",
+  "examples": [
+   "Wesele będzie w dużej sali przy lesie."
+  ],
+  "examples_en": [
+   "The reception will be in a big hall by the forest."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 4.99,
+  "share": 98.0,
+  "hint": "large room for events",
+  "hint_context": "a wedding hall",
+  "example_marks": [
+   {
+    "text": "sali",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "prosić",
   "front": "prosić",
   "lemma": "prosić",
@@ -148,6 +218,71 @@
   "aspect_pair": "poprosić"
  },
  {
+  "id": "palec",
+  "front": "palec",
+  "lemma": "palec",
+  "back": "finger",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "toe"
+  ],
+  "definition": "a finger (also a toe: 'palec u nogi')",
+  "examples": [
+   "Skaleczyłem się w palec."
+  ],
+  "examples_en": [
+   "I cut my finger."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.98,
+  "share": 98.0,
+  "hint": "on the hand",
+  "hint_context": "point a finger",
+  "example_marks": [
+   {
+    "text": "palec",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
+  "id": "kawa",
+  "front": "kawa",
+  "lemma": "kawa",
+  "back": "coffee",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "the drink made from roasted coffee beans",
+  "examples": [
+   "Rano piję kawę z mlekiem."
+  ],
+  "examples_en": [
+   "In the morning I drink coffee with milk."
+  ],
+  "claude": true,
+  "topic": "food",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 4.97,
+  "share": 98.0,
+  "hint": "the drink",
+  "hint_context": "a cup of coffee",
+  "example_marks": [
+   {
+    "text": "kawę",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "bo~particle",
   "front": "bo",
   "lemma": "bo",
@@ -180,6 +315,41 @@
     "nth": 1
    }
   ]
+ },
+ {
+  "id": "kawałek",
+  "front": "kawałek",
+  "lemma": "kawałek",
+  "back": "piece",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "bit",
+   "slice"
+  ],
+  "definition": "a part of something ('kawałek ciasta' = a piece of cake)",
+  "examples": [
+   "Weź jeszcze kawałek ciasta!"
+  ],
+  "examples_en": [
+   "Have another piece of cake!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.96,
+  "share": 98.0,
+  "hint": "part of something",
+  "hint_context": "a piece of cake",
+  "example_marks": [
+   {
+    "text": "kawałek",
+    "nth": 1
+   }
+  ],
+  "animacy": "anim"
  },
  {
   "id": "pewnie#2",
@@ -217,6 +387,74 @@
     "nth": 1
    }
   ]
+ },
+ {
+  "id": "kupować",
+  "front": "kupować",
+  "lemma": "kupować",
+  "back": "buy",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to buy (regularly or in progress)",
+  "examples": [
+   "Zawsze kupujemy chleb w tej piekarni."
+  ],
+  "examples_en": [
+   "We always buy bread at this bakery."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.95,
+  "share": 98.0,
+  "hint": "buy, habitually",
+  "hint_context": "where do you buy",
+  "example_marks": [
+   {
+    "text": "kupujemy",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "kupić"
+ },
+ {
+  "id": "przychodzić",
+  "front": "przychodzić",
+  "lemma": "przychodzić",
+  "back": "come",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "arrive"
+  ],
+  "definition": "to come or arrive (regularly or in progress)",
+  "examples": [
+   "Listonosz przychodzi codziennie o dziesiątej."
+  ],
+  "examples_en": [
+   "The mailman comes every day at ten."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.95,
+  "share": 98.0,
+  "hint": "arrive, regularly",
+  "hint_context": "comes every day",
+  "example_marks": [
+   {
+    "text": "przychodzi",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "przyjść"
  },
  {
   "id": "prosić#2",
@@ -297,6 +535,43 @@
   "aspect_pair": "pójść"
  },
  {
+  "id": "mały#2",
+  "front": "mały",
+  "lemma": "mały",
+  "back": "little",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "young"
+  ],
+  "definition": "young (of a child)",
+  "examples": [
+   "Kiedy byłem mały, bałem się psów."
+  ],
+  "examples_en": [
+   "When I was little, I was afraid of dogs."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 5.81,
+  "lemma_id": "mały",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Kiedy byłem mały, bałem się psów.",
+  "share": 13.0,
+  "hint": "young child",
+  "hint_context": "when I was little",
+  "example_marks": [
+   {
+    "text": "mały",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "pan#3",
   "front": "pan",
   "lemma": "pan",
@@ -333,6 +608,37 @@
    }
   ],
   "animacy": "pers"
+ },
+ {
+  "id": "sobota",
+  "front": "sobota",
+  "lemma": "sobota",
+  "back": "Saturday",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "the day after Friday",
+  "examples": [
+   "W sobotę jedziemy na wesele."
+  ],
+  "examples_en": [
+   "On Saturday we're going to a wedding."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 4.91,
+  "share": 98.0,
+  "hint": "day of the week",
+  "hint_context": "on Saturday",
+  "example_marks": [
+   {
+    "text": "sobotę",
+    "nth": 1
+   }
+  ]
  },
  {
   "id": "język#2",
@@ -406,6 +712,38 @@
   ]
  },
  {
+  "id": "kosztować",
+  "front": "kosztować",
+  "lemma": "kosztować",
+  "back": "cost",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to have a price",
+  "examples": [
+   "Bilet kosztuje dwadzieścia złotych."
+  ],
+  "examples_en": [
+   "The ticket costs twenty zloty."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.9,
+  "share": 98.0,
+  "hint": "have a price",
+  "hint_context": "how much does it cost",
+  "example_marks": [
+   {
+    "text": "kosztuje",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf"
+ },
+ {
   "id": "ręka#2",
   "front": "ręka",
   "lemma": "ręka",
@@ -439,6 +777,71 @@
     "nth": 1
    }
   ]
+ },
+ {
+  "id": "pociąg",
+  "front": "pociąg",
+  "lemma": "pociąg",
+  "back": "train",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a railway train",
+  "examples": [
+   "Pociąg do Gdańska ma opóźnienie."
+  ],
+  "examples_en": [
+   "The train to Gdańsk is delayed."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.89,
+  "share": 98.0,
+  "hint": "railway",
+  "hint_context": "catch the train",
+  "example_marks": [
+   {
+    "text": "Pociąg",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
+  "id": "sprzedawać",
+  "front": "sprzedawać",
+  "lemma": "sprzedawać",
+  "back": "sell",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to sell (regularly or in progress)",
+  "examples": [
+   "Sąsiad sprzedaje swój stary samochód."
+  ],
+  "examples_en": [
+   "Our neighbor is selling his old car."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.89,
+  "share": 98.0,
+  "hint": "for money",
+  "hint_context": "sell a car",
+  "example_marks": [
+   {
+    "text": "sprzedaje",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "sprzedać"
  },
  {
   "id": "albo#2",
@@ -511,6 +914,39 @@
   ]
  },
  {
+  "id": "sekunda",
+  "front": "sekunda",
+  "lemma": "sekunda",
+  "back": "second",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "moment"
+  ],
+  "definition": "one sixtieth of a minute; a short moment",
+  "examples": [
+   "Poczekaj sekundę, zaraz wracam."
+  ],
+  "examples_en": [
+   "Wait a second, I'll be right back."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 4.87,
+  "share": 98.0,
+  "hint": "unit of time",
+  "hint_context": "just a second",
+  "example_marks": [
+   {
+    "text": "sekundę",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "ślub",
   "front": "ślub",
   "lemma": "ślub",
@@ -545,6 +981,75 @@
   "animacy": "inan"
  },
  {
+  "id": "śpiewać",
+  "front": "śpiewać",
+  "lemma": "śpiewać",
+  "back": "sing",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to sing",
+  "examples": [
+   "Babcia śpiewa kolędy przy choince."
+  ],
+  "examples_en": [
+   "Grandma sings Christmas carols by the tree."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.85,
+  "share": 98.0,
+  "hint": "with your voice",
+  "hint_context": "sing a song",
+  "example_marks": [
+   {
+    "text": "śpiewa",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "zaśpiewać"
+ },
+ {
+  "id": "krzyczeć",
+  "front": "krzyczeć",
+  "lemma": "krzyczeć",
+  "back": "shout",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "yell",
+   "scream"
+  ],
+  "definition": "to shout, to yell",
+  "examples": [
+   "Nie krzycz, dziecko śpi!"
+  ],
+  "examples_en": [
+   "Don't shout, the baby's sleeping!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.84,
+  "share": 98.0,
+  "hint": "loud voice",
+  "hint_context": "don't shout",
+  "example_marks": [
+   {
+    "text": "krzycz",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "krzyknąć"
+ },
+ {
   "id": "tata",
   "front": "tata",
   "lemma": "tata",
@@ -577,6 +1082,341 @@
    }
   ],
   "animacy": "pers"
+ },
+ {
+  "id": "czwarty",
+  "front": "czwarty",
+  "lemma": "czwarty",
+  "back": "fourth",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "number four in order",
+  "examples": [
+   "Pociąg odjeżdża z czwartego peronu."
+  ],
+  "examples_en": [
+   "The train leaves from platform four."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 4.82,
+  "share": 98.0,
+  "hint": "4th in order",
+  "hint_context": "the fourth floor",
+  "example_marks": [
+   {
+    "text": "czwartego",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "nos",
+  "front": "nos",
+  "lemma": "nos",
+  "back": "nose",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "the nose",
+  "examples": [
+   "Mam katar i czerwony nos."
+  ],
+  "examples_en": [
+   "I have a runny nose and it's red."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.81,
+  "share": 98.0,
+  "hint": "on the face",
+  "hint_context": "a red nose",
+  "example_marks": [
+   {
+    "text": "nos",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
+  "id": "sto",
+  "front": "sto",
+  "lemma": "sto",
+  "back": "hundred",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "one hundred"
+  ],
+  "definition": "the number 100 ('Sto lat!' = birthday song)",
+  "examples": [
+   "Ta kamienica ma sto lat."
+  ],
+  "examples_en": [
+   "This apartment building is a hundred years old."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Numeral",
+  "gender": "",
+  "zipf": 4.81,
+  "share": 98.0,
+  "hint": "number 100",
+  "hint_context": "a hundred years",
+  "example_marks": [
+   {
+    "text": "sto",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "śmiać się",
+  "front": "śmiać się",
+  "lemma": "śmiać się",
+  "back": "laugh",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to laugh ('śmiać się z' = laugh at)",
+  "examples": [
+   "Wszyscy śmiali się z jego żartu."
+  ],
+  "examples_en": [
+   "Everyone laughed at his joke."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.81,
+  "share": 98.0,
+  "hint": "out loud",
+  "hint_context": "laugh at a joke",
+  "example_marks": [
+   {
+    "text": "śmiali",
+    "nth": 1
+   },
+   {
+    "text": "się",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "zaśmiać się"
+ },
+ {
+  "id": "obiad",
+  "front": "obiad",
+  "lemma": "obiad",
+  "back": "lunch",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "dinner"
+  ],
+  "definition": "the main hot meal of the day, eaten around 1–4 p.m.",
+  "examples": [
+   "O której jest obiad?"
+  ],
+  "examples_en": [
+   "What time is lunch?"
+  ],
+  "claude": true,
+  "topic": "food",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.79,
+  "share": 98.0,
+  "hint": "main meal, early afternoon",
+  "hint_context": "Sunday lunch",
+  "example_marks": [
+   {
+    "text": "obiad",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
+  "id": "pusty",
+  "front": "pusty",
+  "lemma": "pusty",
+  "back": "empty",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "containing nothing",
+  "examples": [
+   "Lodówka jest pusta, musimy zrobić zakupy."
+  ],
+  "examples_en": [
+   "The fridge is empty, we have to go shopping."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 4.79,
+  "share": 98.0,
+  "hint": "nothing inside",
+  "hint_context": "an empty glass",
+  "example_marks": [
+   {
+    "text": "pusta",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "stół",
+  "front": "stół",
+  "lemma": "stół",
+  "back": "table",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a table (the main piece of furniture)",
+  "examples": [
+   "Cała rodzina siedzi przy stole."
+  ],
+  "examples_en": [
+   "The whole family is sitting at the table."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.79,
+  "share": 98.0,
+  "hint": "furniture, dining table",
+  "hint_context": "at the table",
+  "example_marks": [
+   {
+    "text": "stole",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
+  "id": "duży#2",
+  "front": "duży",
+  "lemma": "duży",
+  "back": "grown-up",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "big"
+  ],
+  "definition": "older, no longer small (of a child)",
+  "examples": [
+   "Jesteś już duży, sam się ubierz."
+  ],
+  "examples_en": [
+   "You're a big boy now, get dressed by yourself."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 5.87,
+  "lemma_id": "duży",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Jesteś już duży, sam się ubierz.",
+  "share": 8.0,
+  "hint": "child: big now",
+  "hint_context": "you're a big boy now",
+  "example_marks": [
+   {
+    "text": "duży",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "babcia",
+  "front": "babcia",
+  "lemma": "babcia",
+  "back": "grandma",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "grandmother"
+  ],
+  "definition": "grandmother (everyday word)",
+  "examples": [
+   "Jedziemy na święta do babci."
+  ],
+  "examples_en": [
+   "We're going to Grandma's for Christmas."
+  ],
+  "claude": true,
+  "topic": "family",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 4.78,
+  "share": 98.0,
+  "hint": "grandmother",
+  "hint_context": "Grandma's house",
+  "example_marks": [
+   {
+    "text": "babci",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "zakupy",
+  "front": "zakupy",
+  "lemma": "zakupy",
+  "back": "shopping",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "groceries"
+  ],
+  "definition": "'robić zakupy' = do the shopping; also the things bought",
+  "examples": [
+   "Robię zakupy w sobotę rano."
+  ],
+  "examples_en": [
+   "I do the shopping on Saturday morning."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.78,
+  "share": 98.0,
+  "hint": "buying things",
+  "hint_context": "go shopping",
+  "example_marks": [
+   {
+    "text": "zakupy",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan",
+  "number": "pl"
  },
  {
   "id": "zobaczyć#2",
@@ -616,6 +1456,142 @@
   "aspect_pair": "widzieć"
  },
  {
+  "id": "ciężki#2",
+  "front": "ciężki",
+  "lemma": "ciężki",
+  "back": "hard",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "difficult",
+   "tough"
+  ],
+  "definition": "difficult, demanding",
+  "examples": [
+   "To był ciężki tydzień w pracy."
+  ],
+  "examples_en": [
+   "It was a tough week at work."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 5.24,
+  "lemma_id": "ciężki",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "To był ciężki tydzień w pracy.",
+  "share": 33.0,
+  "hint": "difficult",
+  "hint_context": "a hard day",
+  "example_marks": [
+   {
+    "text": "ciężki",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "owoc",
+  "front": "owoc",
+  "lemma": "owoc",
+  "back": "fruit",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a fruit (plural 'owoce' = fruit in general)",
+  "examples": [
+   "Dzieci powinny jeść dużo owoców."
+  ],
+  "examples_en": [
+   "Kids should eat a lot of fruit."
+  ],
+  "claude": true,
+  "topic": "food",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.75,
+  "share": 98.0,
+  "hint": "apples, pears…",
+  "hint_context": "fresh fruit",
+  "example_marks": [
+   {
+    "text": "owoców",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
+  "id": "kuchnia",
+  "front": "kuchnia",
+  "lemma": "kuchnia",
+  "back": "kitchen",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "the room where food is cooked",
+  "examples": [
+   "Mama jest w kuchni i gotuje."
+  ],
+  "examples_en": [
+   "Mom is in the kitchen cooking."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 4.86,
+  "lemma_id": "kuchnia",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Mama jest w kuchni i gotuje.",
+  "share": 70.0,
+  "hint": "the room",
+  "hint_context": "in the kitchen",
+  "example_marks": [
+   {
+    "text": "kuchni",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "herbata",
+  "front": "herbata",
+  "lemma": "herbata",
+  "back": "tea",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "the drink made from tea leaves",
+  "examples": [
+   "Napijesz się herbaty z cytryną?"
+  ],
+  "examples_en": [
+   "Would you like some tea with lemon?"
+  ],
+  "claude": true,
+  "topic": "food",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 4.71,
+  "share": 98.0,
+  "hint": "the drink",
+  "hint_context": "tea with lemon",
+  "example_marks": [
+   {
+    "text": "herbaty",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "pani#3",
   "front": "pani",
   "lemma": "pani",
@@ -651,6 +1627,110 @@
     "nth": 1
    }
   ]
+ },
+ {
+  "id": "przynosić",
+  "front": "przynosić",
+  "lemma": "przynosić",
+  "back": "bring",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to bring (carry here), in progress or regularly",
+  "examples": [
+   "Kelner przynosi nam kartę."
+  ],
+  "examples_en": [
+   "The waiter brings us the menu."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.67,
+  "share": 98.0,
+  "hint": "carry here",
+  "hint_context": "bring the menu",
+  "example_marks": [
+   {
+    "text": "przynosi",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "przynieść"
+ },
+ {
+  "id": "patrzeć",
+  "front": "patrzeć",
+  "lemma": "patrzeć",
+  "back": "look",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "watch"
+  ],
+  "definition": "to look at something ('patrzeć na' + accusative)",
+  "examples": [
+   "Dziadek patrzy przez okno na ogród."
+  ],
+  "examples_en": [
+   "Grandpa is looking out the window at the garden."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.66,
+  "share": 98.0,
+  "hint": "look at, watch",
+  "hint_context": "look at me",
+  "example_marks": [
+   {
+    "text": "patrzy",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "popatrzeć"
+ },
+ {
+  "id": "podnosić",
+  "front": "podnosić",
+  "lemma": "podnosić",
+  "back": "lift",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "raise",
+   "pick up"
+  ],
+  "definition": "to raise something up (in progress or regularly)",
+  "examples": [
+   "Nie podnoś tego, to za ciężkie!"
+  ],
+  "examples_en": [
+   "Don't lift that, it's too heavy!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.66,
+  "share": 98.0,
+  "hint": "raise up",
+  "hint_context": "lift a box",
+  "example_marks": [
+   {
+    "text": "podnoś",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "podnieść"
  },
  {
   "id": "pokój#2",
@@ -726,6 +1806,45 @@
   ]
  },
  {
+  "id": "poprosić",
+  "front": "poprosić",
+  "lemma": "poprosić",
+  "back": "I'd like",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "can I have"
+  ],
+  "definition": "'poproszę ...' = polite way to order or ask for something",
+  "examples": [
+   "Poproszę kawę z mlekiem."
+  ],
+  "examples_en": [
+   "A coffee with milk, please."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.92,
+  "lemma_id": "poprosić",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Poproszę kawę z mlekiem.",
+  "share": 50.0,
+  "hint": "ordering: poproszę",
+  "hint_context": "I'd like a coffee",
+  "example_marks": [
+   {
+    "text": "Poproszę",
+    "nth": 1
+   }
+  ],
+  "aspect": "pf",
+  "aspect_pair": "prosić"
+ },
+ {
   "id": "drogi#2",
   "front": "drogi",
   "lemma": "drogi",
@@ -761,6 +1880,45 @@
   ]
  },
  {
+  "id": "poprosić#2",
+  "front": "poprosić",
+  "lemma": "poprosić",
+  "back": "ask for",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "request"
+  ],
+  "definition": "to ask someone for something, once",
+  "examples": [
+   "Poprosiłem sąsiada o pomoc."
+  ],
+  "examples_en": [
+   "I asked my neighbor for help."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.92,
+  "lemma_id": "poprosić",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Poprosiłem sąsiada o pomoc.",
+  "share": 48.0,
+  "hint": "make a request, once",
+  "hint_context": "ask for help",
+  "example_marks": [
+   {
+    "text": "Poprosiłem",
+    "nth": 1
+   }
+  ],
+  "aspect": "pf",
+  "aspect_pair": "prosić"
+ },
+ {
   "id": "chleb",
   "front": "chleb",
   "lemma": "chleb",
@@ -791,6 +1949,212 @@
    }
   ],
   "animacy": "inan"
+ },
+ {
+  "id": "zamówić",
+  "front": "zamówić",
+  "lemma": "zamówić",
+  "back": "order",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "book"
+  ],
+  "definition": "to order food, a taxi, tickets, etc.",
+  "examples": [
+   "Zamówiłem pizzę na kolację."
+  ],
+  "examples_en": [
+   "I ordered pizza for dinner."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.61,
+  "share": 98.0,
+  "hint": "food, a taxi",
+  "hint_context": "order a pizza",
+  "example_marks": [
+   {
+    "text": "Zamówiłem",
+    "nth": 1
+   }
+  ],
+  "aspect": "pf",
+  "aspect_pair": "zamawiać"
+ },
+ {
+  "id": "kolano",
+  "front": "kolano",
+  "lemma": "kolano",
+  "back": "knee",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "the joint in the middle of the leg",
+  "examples": [
+   "Boli mnie kolano po bieganiu."
+  ],
+  "examples_en": [
+   "My knee hurts after running."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 4.67,
+  "lemma_id": "kolano",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Boli mnie kolano po bieganiu.",
+  "share": 85.0,
+  "hint": "leg joint",
+  "hint_context": "a sore knee",
+  "example_marks": [
+   {
+    "text": "kolano",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "północ",
+  "front": "północ",
+  "lemma": "północ",
+  "back": "midnight",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "twelve o'clock at night",
+  "examples": [
+   "Fajerwerki są dokładnie o północy."
+  ],
+  "examples_en": [
+   "The fireworks are exactly at midnight."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 4.9,
+  "lemma_id": "północ",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Fajerwerki są dokładnie o północy.",
+  "share": 50.0,
+  "hint": "12 at night",
+  "hint_context": "at midnight",
+  "example_marks": [
+   {
+    "text": "północy",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "północ#2",
+  "front": "północ",
+  "lemma": "północ",
+  "back": "north",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "the direction; the northern part",
+  "examples": [
+   "Gdańsk leży na północy Polski."
+  ],
+  "examples_en": [
+   "Gdańsk is in the north of Poland."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 4.9,
+  "lemma_id": "północ",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Gdańsk leży na północy Polski.",
+  "share": 48.0,
+  "hint": "direction",
+  "hint_context": "in the north",
+  "example_marks": [
+   {
+    "text": "północy",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "miasteczko",
+  "front": "miasteczko",
+  "lemma": "miasteczko",
+  "back": "small town",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "town"
+  ],
+  "definition": "a small town",
+  "examples": [
+   "Moja babcia mieszka w małym miasteczku na Mazurach."
+  ],
+  "examples_en": [
+   "My grandma lives in a small town in Masuria."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 4.57,
+  "share": 98.0,
+  "hint": "small, not a city",
+  "hint_context": "a sleepy small town",
+  "example_marks": [
+   {
+    "text": "miasteczku",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "piętro",
+  "front": "piętro",
+  "lemma": "piętro",
+  "back": "floor",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "story"
+  ],
+  "definition": "a level of a building ('pierwsze piętro' = US second floor)",
+  "examples": [
+   "Mieszkamy na trzecim piętrze."
+  ],
+  "examples_en": [
+   "We live on the fourth floor."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 4.57,
+  "share": 98.0,
+  "hint": "level of a building",
+  "hint_context": "on the third floor",
+  "example_marks": [
+   {
+    "text": "piętrze",
+    "nth": 1
+   }
+  ]
  },
  {
   "id": "zamek",
@@ -827,5 +2191,38 @@
    }
   ],
   "animacy": "inan"
+ },
+ {
+  "id": "tańczyć",
+  "front": "tańczyć",
+  "lemma": "tańczyć",
+  "back": "dance",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to dance",
+  "examples": [
+   "Na weselu tańczyliśmy do rana."
+  ],
+  "examples_en": [
+   "At the reception we danced until morning."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.56,
+  "share": 98.0,
+  "hint": "move to music",
+  "hint_context": "dance all night",
+  "example_marks": [
+   {
+    "text": "tańczyliśmy",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "zatańczyć"
  }
 ]

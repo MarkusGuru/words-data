@@ -5133,6 +5133,38 @@
   "aspect_pair": "zostawać"
  },
  {
+  "id": "koniec",
+  "front": "koniec",
+  "lemma": "koniec",
+  "back": "end",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "the last part ('na końcu' = at the end, finally)",
+  "examples": [
+   "Na końcu filmu wszyscy płakali."
+  ],
+  "examples_en": [
+   "At the end of the movie everyone cried."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.92,
+  "share": 98.0,
+  "hint": "last part",
+  "hint_context": "the end of the day",
+  "example_marks": [
+   {
+    "text": "końcu",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
   "id": "miasto",
   "front": "miasto",
   "lemma": "miasto",
@@ -6265,6 +6297,43 @@
   "aspect_pair": "stanąć"
  },
  {
+  "id": "duży",
+  "front": "duży",
+  "lemma": "duży",
+  "back": "big",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "large"
+  ],
+  "definition": "large in size or amount",
+  "examples": [
+   "Kupiliśmy duży stół do salonu."
+  ],
+  "examples_en": [
+   "We bought a big table for the living room."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 5.87,
+  "lemma_id": "duży",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Kupiliśmy duży stół do salonu.",
+  "share": 90.0,
+  "hint": "size",
+  "hint_context": "a big house",
+  "example_marks": [
+   {
+    "text": "duży",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "mówić#2",
   "front": "mówić",
   "lemma": "mówić",
@@ -7187,6 +7256,43 @@
   ]
  },
  {
+  "id": "mały",
+  "front": "mały",
+  "lemma": "mały",
+  "back": "small",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "little"
+  ],
+  "definition": "not big",
+  "examples": [
+   "Mamy mały dom z ogrodem."
+  ],
+  "examples_en": [
+   "We have a small house with a garden."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 5.81,
+  "lemma_id": "mały",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Mamy mały dom z ogrodem.",
+  "share": 85.0,
+  "hint": "size",
+  "hint_context": "a small house",
+  "example_marks": [
+   {
+    "text": "mały",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "co#2",
   "front": "co",
   "lemma": "co",
@@ -7250,6 +7356,41 @@
   "example_marks": [
    {
     "text": "co",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "drugi",
+  "front": "drugi",
+  "lemma": "drugi",
+  "back": "second",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "number two in order",
+  "examples": [
+   "Mieszkam na drugim piętrze."
+  ],
+  "examples_en": [
+   "I live on the third floor."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 5.92,
+  "lemma_id": "drugi",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Mieszkam na drugim piętrze.",
+  "share": 65.0,
+  "hint": "2nd in order",
+  "hint_context": "the second time",
+  "example_marks": [
+   {
+    "text": "drugim",
     "nth": 1
    }
   ]
@@ -7800,6 +7941,37 @@
   "example_marks": [
    {
     "text": "przez",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "trzy",
+  "front": "trzy",
+  "lemma": "trzy",
+  "back": "three",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "the number 3 (trzej + male persons)",
+  "examples": [
+   "Mamy trzy koty."
+  ],
+  "examples_en": [
+   "We have three cats."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Numeral",
+  "gender": "",
+  "zipf": 5.71,
+  "share": 98.0,
+  "hint": "number 3",
+  "hint_context": "three cats",
+  "example_marks": [
+   {
+    "text": "trzy",
     "nth": 1
    }
   ]
@@ -8940,6 +9112,39 @@
   ]
  },
  {
+  "id": "dawać",
+  "front": "dawać",
+  "lemma": "dawać",
+  "back": "give",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to give (repeatedly or in progress)",
+  "examples": [
+   "Babcia zawsze daje nam pieniądze na lody."
+  ],
+  "examples_en": [
+   "Grandma always gives us money for ice cream."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.63,
+  "share": 98.0,
+  "hint": "give, habitually",
+  "hint_context": "she always gives",
+  "example_marks": [
+   {
+    "text": "daje",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "dać"
+ },
+ {
   "id": "pieniądze",
   "front": "pieniądze",
   "lemma": "pieniądze",
@@ -9406,6 +9611,39 @@
   "aspect_pair": "robić"
  },
  {
+  "id": "brać",
+  "front": "brać",
+  "lemma": "brać",
+  "back": "take",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to take (repeatedly or in progress)",
+  "examples": [
+   "Zawsze biorę parasol, kiedy jadę w góry."
+  ],
+  "examples_en": [
+   "I always take an umbrella when I go to the mountains."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.6,
+  "share": 98.0,
+  "hint": "take, habitually",
+  "hint_context": "take the bus",
+  "example_marks": [
+   {
+    "text": "biorę",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "wziąć"
+ },
+ {
   "id": "dostać",
   "front": "dostać",
   "lemma": "dostać",
@@ -9724,6 +9962,41 @@
   "aspect_pair": "brać"
  },
  {
+  "id": "godzina",
+  "front": "godzina",
+  "lemma": "godzina",
+  "back": "hour",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "sixty minutes",
+  "examples": [
+   "Czekam na ciebie już godzinę!"
+  ],
+  "examples_en": [
+   "I've been waiting for you for an hour!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 5.79,
+  "lemma_id": "godzina",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Czekam na ciebie już godzinę!",
+  "share": 60.0,
+  "hint": "60 minutes",
+  "hint_context": "an hour ago",
+  "example_marks": [
+   {
+    "text": "godzinę",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "stary",
   "front": "stary",
   "lemma": "stary",
@@ -9852,6 +10125,38 @@
   ],
   "aspect": "impf",
   "aspect_pair": "zapamiętać"
+ },
+ {
+  "id": "złoty",
+  "front": "złoty",
+  "lemma": "złoty",
+  "back": "zloty",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "the Polish currency (PLN)",
+  "examples": [
+   "Bilet kosztuje czterdzieści złotych."
+  ],
+  "examples_en": [
+   "The ticket costs forty zloty."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.56,
+  "share": 98.0,
+  "hint": "Polish currency",
+  "hint_context": "ten zloty",
+  "example_marks": [
+   {
+    "text": "złotych",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
  },
  {
   "id": "czy~conjunction#2",
@@ -10072,6 +10377,69 @@
   ]
  },
  {
+  "id": "kościół",
+  "front": "kościół",
+  "lemma": "kościół",
+  "back": "church",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a Christian church (building or institution)",
+  "examples": [
+   "W niedzielę idziemy do kościoła."
+  ],
+  "examples_en": [
+   "On Sunday we go to church."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.53,
+  "share": 98.0,
+  "hint": "building, Mass",
+  "hint_context": "go to church",
+  "example_marks": [
+   {
+    "text": "kościoła",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
+  "id": "pełny",
+  "front": "pełny",
+  "lemma": "pełny",
+  "back": "full",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "filled completely",
+  "examples": [
+   "Autobus był pełny ludzi."
+  ],
+  "examples_en": [
+   "The bus was full of people."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 5.53,
+  "share": 98.0,
+  "hint": "filled",
+  "hint_context": "a full glass",
+  "example_marks": [
+   {
+    "text": "pełny",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "swój#2",
   "front": "swój",
   "lemma": "swój",
@@ -10105,6 +10473,72 @@
   "example_marks": [
    {
     "text": "swój",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "pomóc",
+  "front": "pomóc",
+  "lemma": "pomóc",
+  "back": "help",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to help, once",
+  "examples": [
+   "Możesz mi pomóc z walizką?"
+  ],
+  "examples_en": [
+   "Can you help me with my suitcase?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.52,
+  "share": 98.0,
+  "hint": "help, once",
+  "hint_context": "help me",
+  "example_marks": [
+   {
+    "text": "pomóc",
+    "nth": 1
+   }
+  ],
+  "aspect": "pf",
+  "aspect_pair": "pomagać"
+ },
+ {
+  "id": "prawie",
+  "front": "prawie",
+  "lemma": "prawie",
+  "back": "almost",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "nearly"
+  ],
+  "definition": "not quite",
+  "examples": [
+   "Jest prawie północ, idź spać."
+  ],
+  "examples_en": [
+   "It's almost midnight, go to bed."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 5.52,
+  "share": 98.0,
+  "hint": "not quite",
+  "hint_context": "almost done",
+  "example_marks": [
+   {
+    "text": "prawie",
     "nth": 1
    }
   ]
@@ -10500,6 +10934,43 @@
   ],
   "aspect": "pf",
   "aspect_pair": "kupować"
+ },
+ {
+  "id": "drugi#2",
+  "front": "drugi",
+  "lemma": "drugi",
+  "back": "other",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "the other one"
+  ],
+  "definition": "the other of two ('po drugiej stronie' = on the other side)",
+  "examples": [
+   "Jedna córka mieszka tu, a druga w Anglii."
+  ],
+  "examples_en": [
+   "One daughter lives here and the other in England."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 5.92,
+  "lemma_id": "drugi",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Jedna córka mieszka tu, a druga w Anglii.",
+  "share": 33.0,
+  "hint": "the other of two",
+  "hint_context": "the other one",
+  "example_marks": [
+   {
+    "text": "druga",
+    "nth": 1
+   }
+  ]
  },
  {
   "id": "co~conjunction",
@@ -10926,6 +11397,78 @@
   "example_marks": [
    {
     "text": "Tylko",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "pytać",
+  "front": "pytać",
+  "lemma": "pytać",
+  "back": "ask",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "inquire"
+  ],
+  "definition": "to ask a question ('pytać o' = ask about)",
+  "examples": [
+   "Dzieci ciągle pytają, kiedy przyjdzie Mikołaj."
+  ],
+  "examples_en": [
+   "The kids keep asking when Santa will come."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.38,
+  "share": 98.0,
+  "hint": "ask a question",
+  "hint_context": "ask about",
+  "example_marks": [
+   {
+    "text": "pytają",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "zapytać"
+ },
+ {
+  "id": "godzina#2",
+  "front": "godzina",
+  "lemma": "godzina",
+  "back": "time",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "o'clock"
+  ],
+  "definition": "time of day ('o której godzinie?' = at what time?)",
+  "examples": [
+   "O której godzinie zaczyna się film?"
+  ],
+  "examples_en": [
+   "What time does the movie start?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 5.79,
+  "lemma_id": "godzina",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "O której godzinie zaczyna się film?",
+  "share": 38.0,
+  "hint": "clock time",
+  "hint_context": "what time is it",
+  "example_marks": [
+   {
+    "text": "godzinie",
     "nth": 1
    }
   ]
@@ -11436,6 +11979,71 @@
   "aspect_pair": "przychodzić"
  },
  {
+  "id": "razem",
+  "front": "razem",
+  "lemma": "razem",
+  "back": "together",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "with each other, jointly",
+  "examples": [
+   "Na święta zawsze jesteśmy razem."
+  ],
+  "examples_en": [
+   "At Christmas we're always together."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 5.33,
+  "share": 98.0,
+  "hint": "with each other",
+  "hint_context": "all together",
+  "example_marks": [
+   {
+    "text": "razem",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "siedzieć",
+  "front": "siedzieć",
+  "lemma": "siedzieć",
+  "back": "sit",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "be sitting"
+  ],
+  "definition": "to be in a sitting position",
+  "examples": [
+   "Cały wieczór siedzimy w kuchni i rozmawiamy."
+  ],
+  "examples_en": [
+   "We sit in the kitchen all evening and talk."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.33,
+  "share": 98.0,
+  "hint": "be seated",
+  "hint_context": "sit at the table",
+  "example_marks": [
+   {
+    "text": "siedzimy",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf"
+ },
+ {
   "id": "jechać",
   "front": "jechać",
   "lemma": "jechać",
@@ -11614,6 +12222,37 @@
    }
   ],
   "animacy": "pers"
+ },
+ {
+  "id": "muzyka",
+  "front": "muzyka",
+  "lemma": "muzyka",
+  "back": "music",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "music",
+  "examples": [
+   "Jaką muzykę lubisz?"
+  ],
+  "examples_en": [
+   "What kind of music do you like?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 5.31,
+  "share": 98.0,
+  "hint": "sounds, songs",
+  "hint_context": "listen to music",
+  "example_marks": [
+   {
+    "text": "muzykę",
+    "nth": 1
+   }
+  ]
  },
  {
   "id": "miejsce#2",
@@ -11868,6 +12507,107 @@
   ]
  },
  {
+  "id": "trzeci",
+  "front": "trzeci",
+  "lemma": "trzeci",
+  "back": "third",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "number three in order",
+  "examples": [
+   "To już trzeci kawałek ciasta!"
+  ],
+  "examples_en": [
+   "That's already the third piece of cake!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 5.27,
+  "share": 98.0,
+  "hint": "3rd in order",
+  "hint_context": "the third time",
+  "example_marks": [
+   {
+    "text": "trzeci",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "wychodzić",
+  "front": "wychodzić",
+  "lemma": "wychodzić",
+  "back": "go out",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "leave"
+  ],
+  "definition": "to leave a place (on foot), in progress or regularly",
+  "examples": [
+   "Wychodzę na chwilę do sklepu."
+  ],
+  "examples_en": [
+   "I'm going out to the store for a moment."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.27,
+  "share": 98.0,
+  "hint": "leave a place",
+  "hint_context": "go out tonight",
+  "example_marks": [
+   {
+    "text": "Wychodzę",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "wyjść"
+ },
+ {
+  "id": "młody",
+  "front": "młody",
+  "lemma": "młody",
+  "back": "young",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "not old",
+  "examples": [
+   "Mój młodszy brat ma dziesięć lat."
+  ],
+  "examples_en": [
+   "My younger brother is ten."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 5.3,
+  "lemma_id": "młody",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Mój młodszy brat ma dziesięć lat.",
+  "share": 90.0,
+  "hint": "not old",
+  "hint_context": "a young man",
+  "example_marks": [
+   {
+    "text": "młodszy",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "bo#2",
   "front": "bo",
   "lemma": "bo",
@@ -11942,6 +12682,40 @@
   ]
  },
  {
+  "id": "trwać",
+  "front": "trwać",
+  "lemma": "trwać",
+  "back": "last",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "take"
+  ],
+  "definition": "to go on for a certain time",
+  "examples": [
+   "Film trwa dwie godziny."
+  ],
+  "examples_en": [
+   "The movie lasts two hours."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.24,
+  "share": 98.0,
+  "hint": "go on for some time",
+  "hint_context": "it lasts an hour",
+  "example_marks": [
+   {
+    "text": "trwa",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf"
+ },
+ {
   "id": "ale~noun#2",
   "front": "ale",
   "lemma": "ale",
@@ -11978,6 +12752,42 @@
     "nth": 1
    }
   ]
+ },
+ {
+  "id": "wracać",
+  "front": "wracać",
+  "lemma": "wracać",
+  "back": "come back",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "return",
+   "go back"
+  ],
+  "definition": "to return (in progress or regularly)",
+  "examples": [
+   "O której wracasz z pracy?"
+  ],
+  "examples_en": [
+   "What time are you coming back from work?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.23,
+  "share": 98.0,
+  "hint": "return, in progress",
+  "hint_context": "come back home",
+  "example_marks": [
+   {
+    "text": "wracasz",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "wrócić"
  },
  {
   "id": "człowiek#5",
@@ -12087,6 +12897,40 @@
   "aspect_pair": "podziękować"
  },
  {
+  "id": "blisko",
+  "front": "blisko",
+  "lemma": "blisko",
+  "back": "close",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "near",
+   "nearby"
+  ],
+  "definition": "at a short distance",
+  "examples": [
+   "Sklep jest blisko, możemy iść pieszo."
+  ],
+  "examples_en": [
+   "The store is close, we can walk."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 5.21,
+  "share": 98.0,
+  "hint": "short distance",
+  "hint_context": "close to home",
+  "example_marks": [
+   {
+    "text": "blisko",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "jeść",
   "front": "jeść",
   "lemma": "jeść",
@@ -12120,6 +12964,104 @@
   "aspect_pair": "zjeść"
  },
  {
+  "id": "las",
+  "front": "las",
+  "lemma": "las",
+  "back": "forest",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "woods"
+  ],
+  "definition": "a large area covered with trees",
+  "examples": [
+   "W niedzielę idziemy na spacer do lasu."
+  ],
+  "examples_en": [
+   "On Sunday we go for a walk in the woods."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.21,
+  "share": 98.0,
+  "hint": "many trees",
+  "hint_context": "in the woods",
+  "example_marks": [
+   {
+    "text": "lasu",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
+  "id": "ogromny",
+  "front": "ogromny",
+  "lemma": "ogromny",
+  "back": "huge",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "enormous"
+  ],
+  "definition": "very big",
+  "examples": [
+   "Mają ogromny ogród za domem."
+  ],
+  "examples_en": [
+   "They have a huge garden behind the house."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 5.21,
+  "share": 98.0,
+  "hint": "very big",
+  "hint_context": "a huge cake",
+  "example_marks": [
+   {
+    "text": "ogromny",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "pięć",
+  "front": "pięć",
+  "lemma": "pięć",
+  "back": "five",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "the number 5 (+ genitive plural)",
+  "examples": [
+   "Za pięć minut wychodzimy."
+  ],
+  "examples_en": [
+   "We're leaving in five minutes."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Numeral",
+  "gender": "",
+  "zipf": 5.21,
+  "share": 98.0,
+  "hint": "number 5",
+  "hint_context": "five minutes",
+  "example_marks": [
+   {
+    "text": "pięć",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "sprawa#2",
   "front": "sprawa",
   "lemma": "sprawa",
@@ -12150,6 +13092,76 @@
   "example_marks": [
    {
     "text": "Sprawa",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "grać",
+  "front": "grać",
+  "lemma": "grać",
+  "back": "play",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to play a game or sport ('grać w' + accusative)",
+  "examples": [
+   "Dzieci grają w piłkę w ogrodzie."
+  ],
+  "examples_en": [
+   "The kids are playing soccer in the yard."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.41,
+  "lemma_id": "grać",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Dzieci grają w piłkę w ogrodzie.",
+  "share": 60.0,
+  "hint": "game, sport",
+  "hint_context": "play soccer",
+  "example_marks": [
+   {
+    "text": "grają",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "zagrać"
+ },
+ {
+  "id": "najpierw",
+  "front": "najpierw",
+  "lemma": "najpierw",
+  "back": "first",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "at first"
+  ],
+  "definition": "before anything else",
+  "examples": [
+   "Najpierw umyj ręce, potem jedz."
+  ],
+  "examples_en": [
+   "First wash your hands, then eat."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 5.18,
+  "share": 98.0,
+  "hint": "before anything else",
+  "hint_context": "first things first",
+  "example_marks": [
+   {
+    "text": "Najpierw",
     "nth": 1
    }
   ]
@@ -12260,6 +13272,72 @@
   "aspect_pair": "dawać"
  },
  {
+  "id": "silny",
+  "front": "silny",
+  "lemma": "silny",
+  "back": "strong",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "powerful"
+  ],
+  "definition": "having great physical power; intense",
+  "examples": [
+   "Max jest bardzo silny."
+  ],
+  "examples_en": [
+   "Max is very strong."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 5.17,
+  "share": 98.0,
+  "hint": "physical power",
+  "hint_context": "a strong man",
+  "example_marks": [
+   {
+    "text": "silny",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "rano",
+  "front": "rano",
+  "lemma": "rano",
+  "back": "in the morning",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "early"
+  ],
+  "definition": "in the morning",
+  "examples": [
+   "Wstaję codziennie o szóstej rano."
+  ],
+  "examples_en": [
+   "I get up at six in the morning every day."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 5.25,
+  "share": 80.0,
+  "hint": "time of day",
+  "hint_context": "early in the morning",
+  "example_marks": [
+   {
+    "text": "rano",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "dobry#2",
   "front": "dobry",
   "lemma": "dobry",
@@ -12327,6 +13405,403 @@
   "example_marks": [
    {
     "text": "za",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "gość",
+  "front": "gość",
+  "lemma": "gość",
+  "back": "guest",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "visitor"
+  ],
+  "definition": "a person invited to a home or event",
+  "examples": [
+   "Na weselu było dwustu gości."
+  ],
+  "examples_en": [
+   "There were two hundred guests at the reception."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.21,
+  "lemma_id": "gość",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Na weselu było dwustu gości.",
+  "share": 85.0,
+  "hint": "invited person",
+  "hint_context": "wedding guests",
+  "example_marks": [
+   {
+    "text": "gości",
+    "nth": 1
+   }
+  ],
+  "animacy": "pers"
+ },
+ {
+  "id": "drzewo",
+  "front": "drzewo",
+  "lemma": "drzewo",
+  "back": "tree",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a tree",
+  "examples": [
+   "Za domem rośnie stare drzewo."
+  ],
+  "examples_en": [
+   "An old tree grows behind the house."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 5.14,
+  "share": 98.0,
+  "hint": "plant",
+  "hint_context": "an apple tree",
+  "example_marks": [
+   {
+    "text": "drzewo",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "pole",
+  "front": "pole",
+  "lemma": "pole",
+  "back": "field",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "an open area of farmland",
+  "examples": [
+   "Za wsią są pola i łąki."
+  ],
+  "examples_en": [
+   "Beyond the village there are fields and meadows."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 5.13,
+  "share": 98.0,
+  "hint": "farmland",
+  "hint_context": "a wheat field",
+  "example_marks": [
+   {
+    "text": "pola",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "pół",
+  "front": "pół",
+  "lemma": "pół",
+  "back": "half",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "one half ('pół godziny' = half an hour)",
+  "examples": [
+   "Poproszę pół kilo jabłek."
+  ],
+  "examples_en": [
+   "Half a kilo of apples, please."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Numeral",
+  "gender": "",
+  "zipf": 5.13,
+  "share": 98.0,
+  "hint": "one half",
+  "hint_context": "half an hour",
+  "example_marks": [
+   {
+    "text": "pół",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "jedzenie",
+  "front": "jedzenie",
+  "lemma": "jedzenie",
+  "back": "food",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "things to eat; also the act of eating",
+  "examples": [
+   "Jedzenie w tej restauracji jest świetne."
+  ],
+  "examples_en": [
+   "The food at this restaurant is great."
+  ],
+  "claude": true,
+  "topic": "food",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 5.12,
+  "share": 98.0,
+  "hint": "things to eat",
+  "hint_context": "good food",
+  "example_marks": [
+   {
+    "text": "Jedzenie",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "wieczór",
+  "front": "wieczór",
+  "lemma": "wieczór",
+  "back": "evening",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "night"
+  ],
+  "definition": "the time between afternoon and night ('wieczorem' = in the evening)",
+  "examples": [
+   "Wieczorem oglądamy razem film."
+  ],
+  "examples_en": [
+   "In the evening we watch a movie together."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.12,
+  "share": 98.0,
+  "hint": "after afternoon",
+  "hint_context": "in the evening",
+  "example_marks": [
+   {
+    "text": "Wieczorem",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
+  "id": "światło",
+  "front": "światło",
+  "lemma": "światło",
+  "back": "light",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "light; a lamp",
+  "examples": [
+   "Zgaś światło, idziemy spać."
+  ],
+  "examples_en": [
+   "Turn off the light, we're going to bed."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 5.18,
+  "lemma_id": "światło",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Zgaś światło, idziemy spać.",
+  "share": 85.0,
+  "hint": "brightness, a lamp",
+  "hint_context": "turn on the light",
+  "example_marks": [
+   {
+    "text": "światło",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "leżeć",
+  "front": "leżeć",
+  "lemma": "leżeć",
+  "back": "lie",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "be lying"
+  ],
+  "definition": "to be in a lying position; to be located",
+  "examples": [
+   "Klucze leżą na stole w kuchni."
+  ],
+  "examples_en": [
+   "The keys are lying on the kitchen table."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.11,
+  "share": 98.0,
+  "hint": "be lying flat",
+  "hint_context": "lie on the beach",
+  "example_marks": [
+   {
+    "text": "leżą",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf"
+ },
+ {
+  "id": "zostawać",
+  "front": "zostawać",
+  "lemma": "zostawać",
+  "back": "stay",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "remain"
+  ],
+  "definition": "to stay (in progress or regularly)",
+  "examples": [
+   "Zostaję w domu, bo pada."
+  ],
+  "examples_en": [
+   "I'm staying home because it's raining."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.11,
+  "share": 98.0,
+  "hint": "be staying, ongoing",
+  "hint_context": "stay home",
+  "example_marks": [
+   {
+    "text": "Zostaję",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "zostać"
+ },
+ {
+  "id": "słońce",
+  "front": "słońce",
+  "lemma": "słońce",
+  "back": "sun",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "sunshine"
+  ],
+  "definition": "the sun; sunshine",
+  "examples": [
+   "Dziś świeci słońce, chodźmy na spacer."
+  ],
+  "examples_en": [
+   "The sun is shining today, let's go for a walk."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 5.1,
+  "share": 98.0,
+  "hint": "in the sky",
+  "hint_context": "the sun is shining",
+  "example_marks": [
+   {
+    "text": "słońce",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "podróż",
+  "front": "podróż",
+  "lemma": "podróż",
+  "back": "trip",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "journey"
+  ],
+  "definition": "a journey, travel",
+  "examples": [
+   "Życzę wam szczęśliwej podróży!"
+  ],
+  "examples_en": [
+   "Have a good trip!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 5.09,
+  "share": 98.0,
+  "hint": "travel",
+  "hint_context": "a long trip",
+  "example_marks": [
+   {
+    "text": "podróży",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "powietrze",
+  "front": "powietrze",
+  "lemma": "powietrze",
+  "back": "air",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "the air we breathe",
+  "examples": [
+   "W górach jest czyste powietrze."
+  ],
+  "examples_en": [
+   "The air is clean in the mountains."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 5.08,
+  "share": 98.0,
+  "hint": "what we breathe",
+  "hint_context": "fresh air",
+  "example_marks": [
+   {
+    "text": "powietrze",
     "nth": 1
    }
   ]
@@ -12406,6 +13881,103 @@
   ],
   "aspect": "impf",
   "aspect_pair": "pójść"
+ },
+ {
+  "id": "ciężki",
+  "front": "ciężki",
+  "lemma": "ciężki",
+  "back": "heavy",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "of great weight",
+  "examples": [
+   "Ta walizka jest bardzo ciężka."
+  ],
+  "examples_en": [
+   "This suitcase is very heavy."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 5.24,
+  "lemma_id": "ciężki",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Ta walizka jest bardzo ciężka.",
+  "share": 65.0,
+  "hint": "weight",
+  "hint_context": "a heavy bag",
+  "example_marks": [
+   {
+    "text": "ciężka",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "okno",
+  "front": "okno",
+  "lemma": "okno",
+  "back": "window",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "an opening with glass in a wall",
+  "examples": [
+   "Otwórz okno, jest bardzo duszno."
+  ],
+  "examples_en": [
+   "Open the window, it's very stuffy."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 5.04,
+  "share": 98.0,
+  "hint": "glass in a wall",
+  "hint_context": "by the window",
+  "example_marks": [
+   {
+    "text": "okno",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "niedziela",
+  "front": "niedziela",
+  "lemma": "niedziela",
+  "back": "Sunday",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "the day after Saturday",
+  "examples": [
+   "W niedzielę sklepy są zamknięte."
+  ],
+  "examples_en": [
+   "On Sunday the stores are closed."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 5.03,
+  "share": 98.0,
+  "hint": "day of the week",
+  "hint_context": "on Sunday",
+  "example_marks": [
+   {
+    "text": "niedzielę",
+    "nth": 1
+   }
+  ]
  },
  {
   "id": "miejsce#3",
@@ -12516,5 +14088,38 @@
    }
   ],
   "animacy": "pers"
+ },
+ {
+  "id": "nagle",
+  "front": "nagle",
+  "lemma": "nagle",
+  "back": "suddenly",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "all of a sudden"
+  ],
+  "definition": "unexpectedly and quickly",
+  "examples": [
+   "Nagle zaczęło padać."
+  ],
+  "examples_en": [
+   "Suddenly it started to rain."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 5.01,
+  "share": 98.0,
+  "hint": "unexpectedly",
+  "hint_context": "suddenly",
+  "example_marks": [
+   {
+    "text": "Nagle",
+    "nth": 1
+   }
+  ]
  }
 ]

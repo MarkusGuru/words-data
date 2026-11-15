@@ -36,5 +36,142 @@
    }
   ],
   "animacy": "inan"
+ },
+ {
+  "id": "buzia",
+  "front": "buzia",
+  "lemma": "buzia",
+  "back": "mouth",
+  "band": 5,
+  "kind": "word",
+  "register": "informal",
+  "alts": [
+   "face"
+  ],
+  "definition": "mouth or face (affectionate, often to children)",
+  "examples": [
+   "Nie mów z pełną buzią!"
+  ],
+  "examples_en": [
+   "Don't talk with your mouth full!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 3.82,
+  "share": 98.0,
+  "hint": "affectionate, kids",
+  "hint_context": "open your mouth",
+  "example_marks": [
+   {
+    "text": "buzią",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "para#3",
+  "front": "para",
+  "lemma": "para",
+  "back": "steam",
+  "band": 5,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "water vapor",
+  "examples": [
+   "Z garnka leci para."
+  ],
+  "examples_en": [
+   "Steam is coming out of the pot."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 4.73,
+  "lemma_id": "para",
+  "sense_index": 3,
+  "sense_count": 3,
+  "cue": "Z garnka leci para.",
+  "share": 12.0,
+  "hint": "hot vapor",
+  "hint_context": "steam from the pot",
+  "example_marks": [
+   {
+    "text": "para",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "kolano#2",
+  "front": "kolano",
+  "lemma": "kolano",
+  "back": "lap",
+  "band": 5,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "'na kolanach' = on one's lap",
+  "examples": [
+   "Kot śpi babci na kolanach."
+  ],
+  "examples_en": [
+   "The cat is sleeping on Grandma's lap."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 4.67,
+  "lemma_id": "kolano",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Kot śpi babci na kolanach.",
+  "share": 13.0,
+  "hint": "na kolanach",
+  "hint_context": "sit on my lap",
+  "example_marks": [
+   {
+    "text": "kolanach",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "kotlet",
+  "front": "kotlet",
+  "lemma": "kotlet",
+  "back": "cutlet",
+  "band": 5,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "chop"
+  ],
+  "definition": "a fried slice of meat ('kotlet schabowy' = breaded pork cutlet)",
+  "examples": [
+   "W niedzielę na obiad jest kotlet schabowy."
+  ],
+  "examples_en": [
+   "On Sunday there's breaded pork cutlet for lunch."
+  ],
+  "claude": true,
+  "topic": "food",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 3.76,
+  "share": 98.0,
+  "hint": "fried meat",
+  "hint_context": "a pork cutlet",
+  "example_marks": [
+   {
+    "text": "kotlet",
+    "nth": 1
+   }
+  ],
+  "animacy": "anim"
  }
 ]

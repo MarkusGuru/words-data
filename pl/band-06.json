@@ -1,0 +1,70 @@
+[
+ {
+  "id": "filiżanka",
+  "front": "filiżanka",
+  "lemma": "filiżanka",
+  "back": "cup",
+  "band": 6,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "teacup"
+  ],
+  "definition": "a small cup with a saucer",
+  "examples": [
+   "Poproszę filiżankę gorącej czekolady."
+  ],
+  "examples_en": [
+   "A cup of hot chocolate, please."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 3.53,
+  "share": 98.0,
+  "hint": "small, with saucer",
+  "hint_context": "a cup of coffee",
+  "example_marks": [
+   {
+    "text": "filiżankę",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "klaskać",
+  "front": "klaskać",
+  "lemma": "klaskać",
+  "back": "clap",
+  "band": 6,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "applaud"
+  ],
+  "definition": "to clap one's hands",
+  "examples": [
+   "Po koncercie wszyscy klaszczą."
+  ],
+  "examples_en": [
+   "After the concert everyone claps."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 3.31,
+  "share": 98.0,
+  "hint": "hands, applause",
+  "hint_context": "clap your hands",
+  "example_marks": [
+   {
+    "text": "klaszczą",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "klasnąć"
+ }
+]
