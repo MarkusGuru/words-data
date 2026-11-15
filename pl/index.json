@@ -20,17 +20,17 @@
   {
    "band": 1,
    "file": "band-01.json",
-   "count": 63
+   "count": 352
   },
   {
    "band": 2,
    "file": "band-02.json",
-   "count": 10
+   "count": 23
   },
   {
    "band": 3,
    "file": "band-03.json",
-   "count": 5
+   "count": 3
   },
   {
    "band": 4,

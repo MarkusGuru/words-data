@@ -1,42 +1,5 @@
 [
  {
-  "id": "pani#2",
-  "front": "pani",
-  "lemma": "pani",
-  "back": "Mrs.",
-  "band": 2,
-  "kind": "word",
-  "register": "neutral",
-  "alts": [
-   "Ms."
-  ],
-  "definition": "title before a woman's surname or first name",
-  "examples": [
-   "Pani Kowalska uczy nas angielskiego."
-  ],
-  "examples_en": [
-   "Mrs. Kowalska teaches us English."
-  ],
-  "claude": true,
-  "topic": "",
-  "pos": "Noun",
-  "gender": "f",
-  "zipf": 5.65,
-  "lemma_id": "pani",
-  "sense_index": 2,
-  "sense_count": 3,
-  "cue": "Pani Kowalska uczy nas angielskiego.",
-  "share": 22.0,
-  "hint": "title + name",
-  "hint_context": "Mrs. Smith",
-  "example_marks": [
-   {
-    "text": "Pani",
-    "nth": 1
-   }
-  ]
- },
- {
   "id": "szczęście#2",
   "front": "szczęście",
   "lemma": "szczęście",
@@ -74,43 +37,42 @@
   ]
  },
  {
-  "id": "iść#2",
-  "front": "iść",
-  "lemma": "iść",
-  "back": "go",
+  "id": "pani",
+  "front": "pani",
+  "lemma": "pani",
+  "back": "you (formal, to a woman)",
   "band": 2,
   "kind": "word",
   "register": "neutral",
   "alts": [
-   "be going"
+   "ma'am",
+   "madam"
   ],
-  "definition": "to proceed or develop (how something is going)",
+  "definition": "polite way to address a woman, used with a 3rd-person verb",
   "examples": [
-   "Jak ci idzie w nowej pracy?"
+   "Czy pani mieszka tu od dawna?"
   ],
   "examples_en": [
-   "How's it going at your new job?"
+   "Have you lived here long, ma'am?"
   ],
   "claude": true,
   "topic": "",
-  "pos": "Verb",
-  "gender": "",
-  "zipf": 5.8,
-  "lemma_id": "iść",
-  "sense_index": 2,
-  "sense_count": 2,
-  "cue": "Jak ci idzie w nowej pracy?",
-  "share": 15.0,
-  "hint": "progress",
-  "hint_context": "how's it going",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 5.29,
+  "lemma_id": "pani",
+  "sense_index": 1,
+  "sense_count": 3,
+  "cue": "Czy pani mieszka tu od dawna?",
+  "share": 50.0,
+  "hint": "polite, to a woman",
+  "hint_context": "excuse me, ma'am",
   "example_marks": [
    {
-    "text": "idzie",
+    "text": "pani",
     "nth": 1
    }
-  ],
-  "aspect": "impf",
-  "aspect_pair": "pójść"
+  ]
  },
  {
   "id": "pić",
@@ -132,7 +94,7 @@
   "topic": "",
   "pos": "Verb",
   "gender": "",
-  "zipf": 4.98,
+  "zipf": 5.0,
   "share": 97.0,
   "hint": "liquid",
   "hint_context": "drink coffee",
@@ -144,6 +106,233 @@
   ],
   "aspect": "impf",
   "aspect_pair": "wypić"
+ },
+ {
+  "id": "prosić",
+  "front": "prosić",
+  "lemma": "prosić",
+  "back": "please",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "here you are",
+   "you're welcome"
+  ],
+  "definition": "'proszę': the polite word when asking, offering, or answering thanks",
+  "examples": [
+   "Proszę dwie kawy i sernik."
+  ],
+  "examples_en": [
+   "Two coffees and a cheesecake, please."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.28,
+  "lemma_id": "prosić",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Proszę dwie kawy i sernik.",
+  "share": 50.0,
+  "hint": "polite request",
+  "hint_context": "two coffees, please",
+  "example_marks": [
+   {
+    "text": "Proszę",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "poprosić"
+ },
+ {
+  "id": "bo~particle",
+  "front": "bo",
+  "lemma": "bo",
+  "back": "but",
+  "band": 2,
+  "kind": "word",
+  "register": "informal",
+  "alts": [
+   "though",
+   "sure"
+  ],
+  "definition": "emphasizes a concession: true enough, but...; repeated word + 'but'",
+  "examples": [
+   "Ładny, bo ładny, ale drogi."
+  ],
+  "examples_en": [
+   "Sure, it's nice, but it's expensive."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Particle",
+  "gender": "",
+  "zipf": 6.35,
+  "share": 4.0,
+  "hint": "concessive, 'sure but'",
+  "hint_context": "nice, but expensive",
+  "example_marks": [
+   {
+    "text": "bo",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "pewnie#2",
+  "front": "pewnie",
+  "lemma": "pewnie",
+  "back": "sure",
+  "band": 2,
+  "kind": "word",
+  "register": "informal",
+  "alts": [
+   "of course"
+  ],
+  "definition": "casual yes",
+  "examples": [
+   "Pewnie, chodźmy razem!"
+  ],
+  "examples_en": [
+   "Sure, let's go together!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 5.58,
+  "lemma_id": "pewnie",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Pewnie, chodźmy razem!",
+  "share": 23.0,
+  "hint": "casual yes",
+  "hint_context": "sure, why not",
+  "example_marks": [
+   {
+    "text": "Pewnie",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "prosić#2",
+  "front": "prosić",
+  "lemma": "prosić",
+  "back": "ask",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "request"
+  ],
+  "definition": "to ask someone to do or give something",
+  "examples": [
+   "Prosił mnie o pomoc przy przeprowadzce."
+  ],
+  "examples_en": [
+   "He asked me for help with the move."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.28,
+  "lemma_id": "prosić",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Prosił mnie o pomoc przy przeprowadzce.",
+  "share": 45.0,
+  "hint": "for a favor",
+  "hint_context": "ask for help",
+  "example_marks": [
+   {
+    "text": "Prosił",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "poprosić"
+ },
+ {
+  "id": "iść#2",
+  "front": "iść",
+  "lemma": "iść",
+  "back": "go",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "be going"
+  ],
+  "definition": "to proceed or develop (how something is going)",
+  "examples": [
+   "Jak ci idzie w nowej pracy?"
+  ],
+  "examples_en": [
+   "How's it going at your new job?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.75,
+  "lemma_id": "iść",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Jak ci idzie w nowej pracy?",
+  "share": 15.0,
+  "hint": "progress",
+  "hint_context": "how's it going",
+  "example_marks": [
+   {
+    "text": "idzie",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "pójść"
+ },
+ {
+  "id": "pan#3",
+  "front": "pan",
+  "lemma": "pan",
+  "back": "gentleman",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "man"
+  ],
+  "definition": "a man (polite word)",
+  "examples": [
+   "Ten pan pyta o drogę na dworzec."
+  ],
+  "examples_en": [
+   "This gentleman is asking the way to the station."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.61,
+  "lemma_id": "pan",
+  "sense_index": 3,
+  "sense_count": 3,
+  "cue": "Ten pan pyta o drogę na dworzec.",
+  "share": 20.0,
+  "hint": "polite: a man",
+  "hint_context": "this gentleman",
+  "example_marks": [
+   {
+    "text": "pan",
+    "nth": 1
+   }
+  ],
+  "animacy": "pers"
  },
  {
   "id": "język#2",
@@ -165,7 +354,7 @@
   "topic": "",
   "pos": "Noun",
   "gender": "m",
-  "zipf": 5.63,
+  "zipf": 5.64,
   "lemma_id": "język",
   "sense_index": 2,
   "sense_count": 2,
@@ -180,6 +369,41 @@
    }
   ],
   "animacy": "inan"
+ },
+ {
+  "id": "chyba#2",
+  "front": "chyba",
+  "lemma": "chyba",
+  "back": "unless",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "'chyba że' = unless",
+  "examples": [
+   "Przyjdę, chyba że będzie padać."
+  ],
+  "examples_en": [
+   "I'll come, unless it rains."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Particle",
+  "gender": "",
+  "zipf": 5.99,
+  "lemma_id": "chyba",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Przyjdę, chyba że będzie padać.",
+  "share": 8.0,
+  "hint": "chyba że",
+  "hint_context": "unless it rains",
+  "example_marks": [
+   {
+    "text": "chyba",
+    "nth": 1
+   }
+  ]
  },
  {
   "id": "ręka#2",
@@ -201,7 +425,7 @@
   "topic": "",
   "pos": "Noun",
   "gender": "f",
-  "zipf": 5.57,
+  "zipf": 5.59,
   "lemma_id": "ręka",
   "sense_index": 2,
   "sense_count": 2,
@@ -212,6 +436,76 @@
   "example_marks": [
    {
     "text": "rękę",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "albo#2",
+  "front": "albo",
+  "lemma": "albo",
+  "back": "either ... or",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "'albo ..., albo ...'",
+  "examples": [
+   "Albo teraz, albo nigdy!"
+  ],
+  "examples_en": [
+   "It's now or never!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Conjunction",
+  "gender": "",
+  "zipf": 5.87,
+  "lemma_id": "albo",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Albo teraz, albo nigdy!",
+  "share": 10.0,
+  "hint": "albo ..., albo ...",
+  "hint_context": "either now or never",
+  "example_marks": [
+   {
+    "text": "Albo",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "on#2",
+  "front": "on",
+  "lemma": "on",
+  "back": "it",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "refers to a masculine noun (thing)",
+  "examples": [
+   "Gdzie jest mój telefon? On ciągle gdzieś znika."
+  ],
+  "examples_en": [
+   "Where's my phone? It keeps disappearing."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Pronoun",
+  "gender": "",
+  "zipf": 5.96,
+  "lemma_id": "on",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Gdzie jest mój telefon? On ciągle gdzieś znika.",
+  "share": 8.0,
+  "hint": "masculine thing",
+  "hint_context": "where is it",
+  "example_marks": [
+   {
+    "text": "On",
     "nth": 1
    }
   ]
@@ -251,36 +545,109 @@
   "animacy": "inan"
  },
  {
-  "id": "drogi#2",
-  "front": "drogi",
-  "lemma": "drogi",
-  "back": "dear",
+  "id": "tata",
+  "front": "tata",
+  "lemma": "tata",
+  "back": "dad",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "father"
+  ],
+  "definition": "father (everyday word)",
+  "examples": [
+   "Tata naprawia samochód w garażu."
+  ],
+  "examples_en": [
+   "Dad is fixing the car in the garage."
+  ],
+  "claude": true,
+  "topic": "family",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.84,
+  "share": 98.0,
+  "hint": "father, everyday",
+  "hint_context": "ask Dad",
+  "example_marks": [
+   {
+    "text": "Tata",
+    "nth": 1
+   }
+  ],
+  "animacy": "pers"
+ },
+ {
+  "id": "zobaczyć#2",
+  "front": "zobaczyć",
+  "lemma": "zobaczyć",
+  "back": "look",
   "band": 2,
   "kind": "word",
   "register": "neutral",
   "alts": [],
-  "definition": "loved; also the greeting in letters and speeches",
+  "definition": "imperative 'zobacz!' = look!",
   "examples": [
-   "Drodzy goście, witamy na naszym weselu!"
+   "Zobacz, jaki piękny zachód słońca!"
   ],
   "examples_en": [
-   "Dear guests, welcome to our wedding reception!"
+   "Look, what a beautiful sunset!"
   ],
   "claude": true,
   "topic": "",
-  "pos": "Adjective",
+  "pos": "Verb",
   "gender": "",
-  "zipf": 5.34,
-  "lemma_id": "drogi",
+  "zipf": 5.65,
+  "lemma_id": "zobaczyć",
   "sense_index": 2,
   "sense_count": 2,
-  "cue": "Drodzy goście, witamy na naszym weselu!",
-  "share": 25.0,
-  "hint": "beloved; greeting",
-  "hint_context": "Dear guests",
+  "cue": "Zobacz, jaki piękny zachód słońca!",
+  "share": 13.0,
+  "hint": "zobacz! – look!",
+  "hint_context": "look at that",
   "example_marks": [
    {
-    "text": "Drodzy",
+    "text": "Zobacz",
+    "nth": 1
+   }
+  ],
+  "aspect": "pf",
+  "aspect_pair": "widzieć"
+ },
+ {
+  "id": "pani#3",
+  "front": "pani",
+  "lemma": "pani",
+  "back": "lady",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "woman"
+  ],
+  "definition": "a woman (polite word)",
+  "examples": [
+   "Ta pani sprzedaje najlepsze truskawki na targu."
+  ],
+  "examples_en": [
+   "This lady sells the best strawberries at the market."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 5.29,
+  "lemma_id": "pani",
+  "sense_index": 3,
+  "sense_count": 3,
+  "cue": "Ta pani sprzedaje najlepsze truskawki na targu.",
+  "share": 25.0,
+  "hint": "polite: a woman",
+  "hint_context": "this lady",
+  "example_marks": [
+   {
+    "text": "pani",
     "nth": 1
    }
   ]
@@ -305,7 +672,7 @@
   "topic": "",
   "pos": "Noun",
   "gender": "m",
-  "zipf": 5.38,
+  "zipf": 5.39,
   "lemma_id": "pokój",
   "sense_index": 2,
   "sense_count": 2,
@@ -320,6 +687,78 @@
    }
   ],
   "animacy": "inan"
+ },
+ {
+  "id": "pani#2",
+  "front": "pani",
+  "lemma": "pani",
+  "back": "Mrs.",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "Ms."
+  ],
+  "definition": "title before a woman's surname or first name",
+  "examples": [
+   "Pani Kowalska uczy nas angielskiego."
+  ],
+  "examples_en": [
+   "Mrs. Kowalska teaches us English."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 5.29,
+  "lemma_id": "pani",
+  "sense_index": 2,
+  "sense_count": 3,
+  "cue": "Pani Kowalska uczy nas angielskiego.",
+  "share": 22.0,
+  "hint": "title + name",
+  "hint_context": "Mrs. Smith",
+  "example_marks": [
+   {
+    "text": "Pani",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "drogi#2",
+  "front": "drogi",
+  "lemma": "drogi",
+  "back": "dear",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "loved; also the greeting in letters and speeches",
+  "examples": [
+   "Drodzy goście, witamy na naszym weselu!"
+  ],
+  "examples_en": [
+   "Dear guests, welcome to our wedding reception!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 5.21,
+  "lemma_id": "drogi",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Drodzy goście, witamy na naszym weselu!",
+  "share": 25.0,
+  "hint": "beloved; greeting",
+  "hint_context": "Dear guests",
+  "example_marks": [
+   {
+    "text": "Drodzy",
+    "nth": 1
+   }
+  ]
  },
  {
   "id": "chleb",
@@ -341,13 +780,49 @@
   "topic": "",
   "pos": "Noun",
   "gender": "m",
-  "zipf": 4.6,
+  "zipf": 4.61,
   "share": 98.0,
   "hint": "food",
   "hint_context": "a loaf of bread",
   "example_marks": [
    {
     "text": "chleb",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
+  "id": "zamek",
+  "front": "zamek",
+  "lemma": "zamek",
+  "back": "castle",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a large fortified building, often medieval",
+  "examples": [
+   "W Krakowie zwiedziliśmy zamek na Wawelu."
+  ],
+  "examples_en": [
+   "In Kraków we visited the castle on Wawel Hill."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.82,
+  "lemma_id": "zamek",
+  "sense_index": 1,
+  "sense_count": 3,
+  "cue": "W Krakowie zwiedziliśmy zamek na Wawelu.",
+  "share": 55.0,
+  "hint": "fortress",
+  "hint_context": "a medieval castle",
+  "example_marks": [
+   {
+    "text": "zamek",
     "nth": 1
    }
   ],

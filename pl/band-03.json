@@ -1,41 +1,5 @@
 [
  {
-  "id": "zamek",
-  "front": "zamek",
-  "lemma": "zamek",
-  "back": "castle",
-  "band": 3,
-  "kind": "word",
-  "register": "neutral",
-  "alts": [],
-  "definition": "a large fortified building, often medieval",
-  "examples": [
-   "W Krakowie zwiedziliśmy zamek na Wawelu."
-  ],
-  "examples_en": [
-   "In Kraków we visited the castle on Wawel Hill."
-  ],
-  "claude": true,
-  "topic": "",
-  "pos": "Noun",
-  "gender": "m",
-  "zipf": 4.8,
-  "lemma_id": "zamek",
-  "sense_index": 1,
-  "sense_count": 3,
-  "cue": "W Krakowie zwiedziliśmy zamek na Wawelu.",
-  "share": 55.0,
-  "hint": "fortress",
-  "hint_context": "a medieval castle",
-  "example_marks": [
-   {
-    "text": "zamek",
-    "nth": 1
-   }
-  ],
-  "animacy": "inan"
- },
- {
   "id": "brzuch",
   "front": "brzuch",
   "lemma": "brzuch",
@@ -92,7 +56,7 @@
   "topic": "family",
   "pos": "Noun",
   "gender": "n",
-  "zipf": 4.44,
+  "zipf": 4.46,
   "share": 97.0,
   "hint": "the party after",
   "hint_context": "dance at the reception",
@@ -102,42 +66,6 @@
     "nth": 1
    }
   ]
- },
- {
-  "id": "czas#2",
-  "front": "czas",
-  "lemma": "czas",
-  "back": "tense",
-  "band": 3,
-  "kind": "word",
-  "register": "neutral",
-  "alts": [],
-  "definition": "grammatical form of a verb that shows time",
-  "examples": [
-   "W języku polskim są tylko trzy czasy."
-  ],
-  "examples_en": [
-   "Polish has only three tenses."
-  ],
-  "claude": true,
-  "topic": "grammar",
-  "pos": "Noun",
-  "gender": "m",
-  "zipf": 6.32,
-  "lemma_id": "czas",
-  "sense_index": 2,
-  "sense_count": 2,
-  "cue": "W języku polskim są tylko trzy czasy.",
-  "share": 1.0,
-  "hint": "grammar",
-  "hint_context": "the past tense",
-  "example_marks": [
-   {
-    "text": "czasy",
-    "nth": 1
-   }
-  ],
-  "animacy": "inan"
  },
  {
   "id": "zamek#2",
@@ -159,7 +87,7 @@
   "topic": "",
   "pos": "Noun",
   "gender": "m",
-  "zipf": 4.8,
+  "zipf": 4.82,
   "lemma_id": "zamek",
   "sense_index": 2,
   "sense_count": 3,
