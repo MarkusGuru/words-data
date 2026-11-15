@@ -1,0 +1,46 @@
+{
+ "schema": 1,
+ "pair": "pl-en",
+ "license": "CC-BY-SA-4.0",
+ "attribution": "Polish-English word list. Lemmas, forms and senses informed by Wiktionary via kaikki.org (CC BY-SA). Frequency from wordfreq. Cards written and reviewed with Claude (Anthropic).",
+ "language": {
+  "code": "pl",
+  "name": "Polish",
+  "native": "polski",
+  "tts": "pl-PL",
+  "speech": true,
+  "front_style": "bare",
+  "genders": [
+   "m",
+   "f",
+   "n"
+  ]
+ },
+ "bands": [
+  {
+   "band": 1,
+   "file": "band-01.json",
+   "count": 63
+  },
+  {
+   "band": 2,
+   "file": "band-02.json",
+   "count": 10
+  },
+  {
+   "band": 3,
+   "file": "band-03.json",
+   "count": 5
+  },
+  {
+   "band": 4,
+   "file": "band-04.json",
+   "count": 1
+  },
+  {
+   "band": 5,
+   "file": "band-05.json",
+   "count": 1
+  }
+ ]
+}

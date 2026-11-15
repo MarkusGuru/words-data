@@ -1,0 +1,33 @@
+[
+ {
+  "id": "Wigilia",
+  "front": "Wigilia",
+  "lemma": "Wigilia",
+  "back": "Christmas Eve",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "December 24, with a meatless family supper",
+  "examples": [
+   "Na Wigilię zawsze jemy barszcz z uszkami."
+  ],
+  "examples_en": [
+   "On Christmas Eve we always eat borscht with mushroom dumplings."
+  ],
+  "claude": true,
+  "topic": "holidays",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 4.03,
+  "share": 90.0,
+  "hint": "Dec 24 supper",
+  "hint_context": "Christmas Eve dinner",
+  "example_marks": [
+   {
+    "text": "Wigilię",
+    "nth": 1
+   }
+  ]
+ }
+]

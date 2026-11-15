@@ -1,0 +1,40 @@
+[
+ {
+  "id": "zamek#3",
+  "front": "zamek",
+  "lemma": "zamek",
+  "back": "zipper",
+  "band": 5,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "zip"
+  ],
+  "definition": "a fastener with interlocking teeth on clothes or bags",
+  "examples": [
+   "Zepsuł mi się zamek w kurtce."
+  ],
+  "examples_en": [
+   "The zipper on my jacket broke."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.8,
+  "lemma_id": "zamek",
+  "sense_index": 3,
+  "sense_count": 3,
+  "cue": "Zepsuł mi się zamek w kurtce.",
+  "share": 12.0,
+  "hint": "on a jacket",
+  "hint_context": "zip up a jacket",
+  "example_marks": [
+   {
+    "text": "zamek",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ }
+]

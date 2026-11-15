@@ -1,0 +1,178 @@
+[
+ {
+  "id": "zamek",
+  "front": "zamek",
+  "lemma": "zamek",
+  "back": "castle",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a large fortified building, often medieval",
+  "examples": [
+   "W Krakowie zwiedziliśmy zamek na Wawelu."
+  ],
+  "examples_en": [
+   "In Kraków we visited the castle on Wawel Hill."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.8,
+  "lemma_id": "zamek",
+  "sense_index": 1,
+  "sense_count": 3,
+  "cue": "W Krakowie zwiedziliśmy zamek na Wawelu.",
+  "share": 55.0,
+  "hint": "fortress",
+  "hint_context": "a medieval castle",
+  "example_marks": [
+   {
+    "text": "zamek",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
+  "id": "brzuch",
+  "front": "brzuch",
+  "lemma": "brzuch",
+  "back": "belly",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "stomach",
+   "tummy"
+  ],
+  "definition": "the front part of the body below the chest",
+  "examples": [
+   "Brzuchi ma ogromny brzuch i ciągle jest głodny."
+  ],
+  "examples_en": [
+   "Brzuchi has a huge belly and is always hungry."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.53,
+  "share": 98.0,
+  "hint": "body part",
+  "hint_context": "a full belly",
+  "example_marks": [
+   {
+    "text": "brzuch",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
+  "id": "wesele",
+  "front": "wesele",
+  "lemma": "wesele",
+  "back": "wedding reception",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "wedding party"
+  ],
+  "definition": "the party with dinner and dancing after a wedding",
+  "examples": [
+   "Polskie wesele trwa często dwa dni."
+  ],
+  "examples_en": [
+   "A Polish wedding reception often lasts two days."
+  ],
+  "claude": true,
+  "topic": "family",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 4.44,
+  "share": 97.0,
+  "hint": "the party after",
+  "hint_context": "dance at the reception",
+  "example_marks": [
+   {
+    "text": "wesele",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "czas#2",
+  "front": "czas",
+  "lemma": "czas",
+  "back": "tense",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "grammatical form of a verb that shows time",
+  "examples": [
+   "W języku polskim są tylko trzy czasy."
+  ],
+  "examples_en": [
+   "Polish has only three tenses."
+  ],
+  "claude": true,
+  "topic": "grammar",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 6.32,
+  "lemma_id": "czas",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "W języku polskim są tylko trzy czasy.",
+  "share": 1.0,
+  "hint": "grammar",
+  "hint_context": "the past tense",
+  "example_marks": [
+   {
+    "text": "czasy",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
+  "id": "zamek#2",
+  "front": "zamek",
+  "lemma": "zamek",
+  "back": "lock",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a device that locks a door, lid or case",
+  "examples": [
+   "Klucz utknął w zamku i nie mogę otworzyć drzwi."
+  ],
+  "examples_en": [
+   "The key got stuck in the lock and I can't open the door."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.8,
+  "lemma_id": "zamek",
+  "sense_index": 2,
+  "sense_count": 3,
+  "cue": "Klucz utknął w zamku i nie mogę otworzyć drzwi.",
+  "share": 30.0,
+  "hint": "on a door",
+  "hint_context": "key in the lock",
+  "example_marks": [
+   {
+    "text": "zamku",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ }
+]

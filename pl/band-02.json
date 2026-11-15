@@ -1,0 +1,356 @@
+[
+ {
+  "id": "pani#2",
+  "front": "pani",
+  "lemma": "pani",
+  "back": "Mrs.",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "Ms."
+  ],
+  "definition": "title before a woman's surname or first name",
+  "examples": [
+   "Pani Kowalska uczy nas angielskiego."
+  ],
+  "examples_en": [
+   "Mrs. Kowalska teaches us English."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 5.65,
+  "lemma_id": "pani",
+  "sense_index": 2,
+  "sense_count": 3,
+  "cue": "Pani Kowalska uczy nas angielskiego.",
+  "share": 22.0,
+  "hint": "title + name",
+  "hint_context": "Mrs. Smith",
+  "example_marks": [
+   {
+    "text": "Pani",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "szczęście#2",
+  "front": "szczęście",
+  "lemma": "szczęście",
+  "back": "happiness",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "joy"
+  ],
+  "definition": "the state of being happy",
+  "examples": [
+   "Życzymy wam dużo szczęścia na nowej drodze życia!"
+  ],
+  "examples_en": [
+   "We wish you lots of happiness in your new life together!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 5.31,
+  "lemma_id": "szczęście",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Życzymy wam dużo szczęścia na nowej drodze życia!",
+  "share": 48.0,
+  "hint": "joy",
+  "hint_context": "wish you happiness",
+  "example_marks": [
+   {
+    "text": "szczęścia",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "iść#2",
+  "front": "iść",
+  "lemma": "iść",
+  "back": "go",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "be going"
+  ],
+  "definition": "to proceed or develop (how something is going)",
+  "examples": [
+   "Jak ci idzie w nowej pracy?"
+  ],
+  "examples_en": [
+   "How's it going at your new job?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.8,
+  "lemma_id": "iść",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Jak ci idzie w nowej pracy?",
+  "share": 15.0,
+  "hint": "progress",
+  "hint_context": "how's it going",
+  "example_marks": [
+   {
+    "text": "idzie",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "pójść"
+ },
+ {
+  "id": "pić",
+  "front": "pić",
+  "lemma": "pić",
+  "back": "drink",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to take a liquid into the mouth and swallow it",
+  "examples": [
+   "Rano zawsze piję czarną kawę."
+  ],
+  "examples_en": [
+   "In the morning I always drink black coffee."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.98,
+  "share": 97.0,
+  "hint": "liquid",
+  "hint_context": "drink coffee",
+  "example_marks": [
+   {
+    "text": "piję",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "wypić"
+ },
+ {
+  "id": "język#2",
+  "front": "język",
+  "lemma": "język",
+  "back": "tongue",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "the muscle in the mouth used for tasting and speaking",
+  "examples": [
+   "Oparzyłem sobie język gorącą zupą."
+  ],
+  "examples_en": [
+   "I burned my tongue on the hot soup."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.63,
+  "lemma_id": "język",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Oparzyłem sobie język gorącą zupą.",
+  "share": 18.0,
+  "hint": "in the mouth",
+  "hint_context": "burn your tongue",
+  "example_marks": [
+   {
+    "text": "język",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
+  "id": "ręka#2",
+  "front": "ręka",
+  "lemma": "ręka",
+  "back": "arm",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "the whole upper limb, from shoulder to fingers",
+  "examples": [
+   "Złamał rękę na nartach."
+  ],
+  "examples_en": [
+   "He broke his arm skiing."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 5.57,
+  "lemma_id": "ręka",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Złamał rękę na nartach.",
+  "share": 20.0,
+  "hint": "the whole limb",
+  "hint_context": "break an arm",
+  "example_marks": [
+   {
+    "text": "rękę",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "ślub",
+  "front": "ślub",
+  "lemma": "ślub",
+  "back": "wedding",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "marriage ceremony"
+  ],
+  "definition": "the ceremony in which two people marry",
+  "examples": [
+   "Ślub jest w sobotę o czternastej w kościele."
+  ],
+  "examples_en": [
+   "The wedding is on Saturday at 2 p.m. in church."
+  ],
+  "claude": true,
+  "topic": "family",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.88,
+  "share": 95.0,
+  "hint": "the ceremony",
+  "hint_context": "a church wedding",
+  "example_marks": [
+   {
+    "text": "Ślub",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
+  "id": "drogi#2",
+  "front": "drogi",
+  "lemma": "drogi",
+  "back": "dear",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "loved; also the greeting in letters and speeches",
+  "examples": [
+   "Drodzy goście, witamy na naszym weselu!"
+  ],
+  "examples_en": [
+   "Dear guests, welcome to our wedding reception!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 5.34,
+  "lemma_id": "drogi",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Drodzy goście, witamy na naszym weselu!",
+  "share": 25.0,
+  "hint": "beloved; greeting",
+  "hint_context": "Dear guests",
+  "example_marks": [
+   {
+    "text": "Drodzy",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "pokój#2",
+  "front": "pokój",
+  "lemma": "pokój",
+  "back": "peace",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "freedom from war or conflict",
+  "examples": [
+   "Po wojnie wszyscy chcieli tylko pokoju."
+  ],
+  "examples_en": [
+   "After the war, everyone just wanted peace."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.38,
+  "lemma_id": "pokój",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Po wojnie wszyscy chcieli tylko pokoju.",
+  "share": 18.0,
+  "hint": "no war",
+  "hint_context": "world peace",
+  "example_marks": [
+   {
+    "text": "pokoju",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
+  "id": "chleb",
+  "front": "chleb",
+  "lemma": "chleb",
+  "back": "bread",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a baked food made from flour, water and yeast",
+  "examples": [
+   "Kup świeży chleb w piekarni na rogu."
+  ],
+  "examples_en": [
+   "Buy fresh bread at the bakery on the corner."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.6,
+  "share": 98.0,
+  "hint": "food",
+  "hint_context": "a loaf of bread",
+  "example_marks": [
+   {
+    "text": "chleb",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ }
+]

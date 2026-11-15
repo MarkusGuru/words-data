@@ -1,0 +1,2263 @@
+[
+ {
+  "id": "być",
+  "front": "być",
+  "lemma": "być",
+  "back": "be",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to exist, or to have a quality, identity or location",
+  "examples": [
+   "Jestem w domu, możesz zadzwonić."
+  ],
+  "examples_en": [
+   "I'm at home, you can call."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 7.44,
+  "share": 97.0,
+  "hint": "exist, be somewhere",
+  "hint_context": "I am at home",
+  "example_marks": [
+   {
+    "text": "Jestem",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf"
+ },
+ {
+  "id": "mieć",
+  "front": "mieć",
+  "lemma": "mieć",
+  "back": "have",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "own",
+   "have got"
+  ],
+  "definition": "to possess, own or hold",
+  "examples": [
+   "Mamy dwa koty i jednego psa."
+  ],
+  "examples_en": [
+   "We have two cats and one dog."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.96,
+  "lemma_id": "mieć",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Mamy dwa koty i jednego psa.",
+  "share": 85.0,
+  "hint": "possess",
+  "hint_context": "have two cats",
+  "example_marks": [
+   {
+    "text": "Mamy",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf"
+ },
+ {
+  "id": "móc",
+  "front": "móc",
+  "lemma": "móc",
+  "back": "can",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "be able to"
+  ],
+  "definition": "to be able or allowed to do something",
+  "examples": [
+   "Nie mogę dziś przyjść, jestem chory."
+  ],
+  "examples_en": [
+   "I can't come today, I'm sick."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.69,
+  "lemma_id": "móc",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Nie mogę dziś przyjść, jestem chory.",
+  "share": 80.0,
+  "hint": "be able to",
+  "hint_context": "I can't come",
+  "example_marks": [
+   {
+    "text": "mogę",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf"
+ },
+ {
+  "id": "bardzo",
+  "front": "bardzo",
+  "lemma": "bardzo",
+  "back": "very",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to a high degree (with adjectives and adverbs)",
+  "examples": [
+   "Jest dziś bardzo zimno."
+  ],
+  "examples_en": [
+   "It's very cold today."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 6.48,
+  "lemma_id": "bardzo",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Jest dziś bardzo zimno.",
+  "share": 75.0,
+  "hint": "with adjectives",
+  "hint_context": "very cold",
+  "example_marks": [
+   {
+    "text": "bardzo",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "chcieć",
+  "front": "chcieć",
+  "lemma": "chcieć",
+  "back": "want",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to wish for or desire something",
+  "examples": [
+   "Chcesz jeszcze kawałek ciasta?"
+  ],
+  "examples_en": [
+   "Do you want another piece of cake?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.36,
+  "share": 98.0,
+  "hint": "desire",
+  "hint_context": "do you want some",
+  "example_marks": [
+   {
+    "text": "Chcesz",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf"
+ },
+ {
+  "id": "wiedzieć",
+  "front": "wiedzieć",
+  "lemma": "wiedzieć",
+  "back": "know",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to have information about a fact",
+  "examples": [
+   "Nie wiem, gdzie są moje klucze."
+  ],
+  "examples_en": [
+   "I don't know where my keys are."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.35,
+  "share": 98.0,
+  "hint": "a fact",
+  "hint_context": "know where it is",
+  "example_marks": [
+   {
+    "text": "wiem",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf"
+ },
+ {
+  "id": "już",
+  "front": "już",
+  "lemma": "już",
+  "back": "already",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "before now, or sooner than expected",
+  "examples": [
+   "Pociąg już przyjechał."
+  ],
+  "examples_en": [
+   "The train has already arrived."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 6.44,
+  "lemma_id": "już",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Pociąg już przyjechał.",
+  "share": 70.0,
+  "hint": "sooner than expected",
+  "hint_context": "already here",
+  "example_marks": [
+   {
+    "text": "już",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "czas",
+  "front": "czas",
+  "lemma": "czas",
+  "back": "time",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "the passing of events; a period available for something",
+  "examples": [
+   "Nie mam teraz czasu, zadzwonię później."
+  ],
+  "examples_en": [
+   "I don't have time now, I'll call later."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 6.32,
+  "lemma_id": "czas",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Nie mam teraz czasu, zadzwonię później.",
+  "share": 92.0,
+  "hint": "duration",
+  "hint_context": "no time now",
+  "example_marks": [
+   {
+    "text": "czasu",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
+  "id": "dzień",
+  "front": "dzień",
+  "lemma": "dzień",
+  "back": "day",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a period of 24 hours; the time of daylight",
+  "examples": [
+   "To był bardzo długi dzień."
+  ],
+  "examples_en": [
+   "It was a very long day."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 6.27,
+  "share": 96.0,
+  "hint": "24 hours",
+  "hint_context": "a long day",
+  "example_marks": [
+   {
+    "text": "dzień",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
+  "id": "nowy",
+  "front": "nowy",
+  "lemma": "nowy",
+  "back": "new",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "recently made, bought or begun",
+  "examples": [
+   "Kupiłam sobie nowy telefon."
+  ],
+  "examples_en": [
+   "I bought myself a new phone."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 6.19,
+  "share": 98.0,
+  "hint": "not old",
+  "hint_context": "a new phone",
+  "example_marks": [
+   {
+    "text": "nowy",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "musieć",
+  "front": "musieć",
+  "lemma": "musieć",
+  "back": "must",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "have to"
+  ],
+  "definition": "to be obliged or compelled to do something",
+  "examples": [
+   "Muszę już iść, jest późno."
+  ],
+  "examples_en": [
+   "I have to go now, it's late."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.17,
+  "share": 97.0,
+  "hint": "obligation",
+  "hint_context": "I have to go",
+  "example_marks": [
+   {
+    "text": "Muszę",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf"
+ },
+ {
+  "id": "dobry",
+  "front": "dobry",
+  "lemma": "dobry",
+  "back": "good",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "fine"
+  ],
+  "definition": "of high quality; pleasant; suitable",
+  "examples": [
+   "To był naprawdę dobry film."
+  ],
+  "examples_en": [
+   "That was a really good movie."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 6.18,
+  "lemma_id": "dobry",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "To był naprawdę dobry film.",
+  "share": 85.0,
+  "hint": "high quality",
+  "hint_context": "a good movie",
+  "example_marks": [
+   {
+    "text": "dobry",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "dziecko",
+  "front": "dziecko",
+  "lemma": "dziecko",
+  "back": "child",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "kid"
+  ],
+  "definition": "a young human being; a son or daughter",
+  "examples": [
+   "Mają troje dzieci i dużego psa."
+  ],
+  "examples_en": [
+   "They have three children and a big dog."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 6.07,
+  "share": 98.0,
+  "hint": "young person",
+  "hint_context": "three children",
+  "example_marks": [
+   {
+    "text": "dzieci",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "powiedzieć",
+  "front": "powiedzieć",
+  "lemma": "powiedzieć",
+  "back": "say",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "tell"
+  ],
+  "definition": "to express something in words, once",
+  "examples": [
+   "Powiedz mi szczerze, co o tym myślisz."
+  ],
+  "examples_en": [
+   "Tell me honestly what you think about it."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.04,
+  "share": 97.0,
+  "hint": "say once, tell",
+  "hint_context": "tell me the truth",
+  "example_marks": [
+   {
+    "text": "Powiedz",
+    "nth": 1
+   }
+  ],
+  "aspect": "pf",
+  "aspect_pair": "mówić"
+ },
+ {
+  "id": "mieć#2",
+  "front": "mieć",
+  "lemma": "mieć",
+  "back": "be supposed to",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "should"
+  ],
+  "definition": "to be expected or obliged to do something",
+  "examples": [
+   "Mam być u babci o szóstej."
+  ],
+  "examples_en": [
+   "I'm supposed to be at Grandma's at six."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.96,
+  "lemma_id": "mieć",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Mam być u babci o szóstej.",
+  "share": 10.0,
+  "hint": "expected to",
+  "hint_context": "I'm supposed to go",
+  "example_marks": [
+   {
+    "text": "Mam",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf"
+ },
+ {
+  "id": "zostać",
+  "front": "zostać",
+  "lemma": "zostać",
+  "back": "stay",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "remain"
+  ],
+  "definition": "to remain in a place or state",
+  "examples": [
+   "Zostań u nas na noc, jest już późno."
+  ],
+  "examples_en": [
+   "Stay with us overnight, it's already late."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.31,
+  "lemma_id": "zostać",
+  "sense_index": 1,
+  "sense_count": 4,
+  "cue": "Zostań u nas na noc, jest już późno.",
+  "share": 40.0,
+  "hint": "not leave",
+  "hint_context": "stay overnight",
+  "example_marks": [
+   {
+    "text": "Zostań",
+    "nth": 1
+   }
+  ],
+  "aspect": "pf",
+  "aspect_pair": "zostawać"
+ },
+ {
+  "id": "miasto",
+  "front": "miasto",
+  "lemma": "miasto",
+  "back": "city",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "town"
+  ],
+  "definition": "a large town; an urban area",
+  "examples": [
+   "Mieszkamy w centrum miasta, blisko rynku."
+  ],
+  "examples_en": [
+   "We live in the city center, near the main square."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 5.92,
+  "share": 98.0,
+  "hint": "urban area",
+  "hint_context": "in the city",
+  "example_marks": [
+   {
+    "text": "miasta",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "mówić",
+  "front": "mówić",
+  "lemma": "mówić",
+  "back": "speak",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "talk"
+  ],
+  "definition": "to use one's voice or a language; to talk",
+  "examples": [
+   "Czy mówisz trochę po polsku?"
+  ],
+  "examples_en": [
+   "Do you speak a little Polish?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.17,
+  "lemma_id": "mówić",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Czy mówisz trochę po polsku?",
+  "share": 55.0,
+  "hint": "talk, a language",
+  "hint_context": "speak Polish",
+  "example_marks": [
+   {
+    "text": "mówisz",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "powiedzieć"
+ },
+ {
+  "id": "sprawa",
+  "front": "sprawa",
+  "lemma": "sprawa",
+  "back": "matter",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "issue",
+   "affair"
+  ],
+  "definition": "a situation or subject that has to be dealt with",
+  "examples": [
+   "Mam do ciebie ważną sprawę."
+  ],
+  "examples_en": [
+   "I have an important matter to discuss with you."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 6.02,
+  "lemma_id": "sprawa",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Mam do ciebie ważną sprawę.",
+  "share": 75.0,
+  "hint": "issue to handle",
+  "hint_context": "an important matter",
+  "example_marks": [
+   {
+    "text": "sprawę",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "móc#2",
+  "front": "móc",
+  "lemma": "móc",
+  "back": "might",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "may",
+   "could"
+  ],
+  "definition": "expressing that something is possible",
+  "examples": [
+   "Jutro może padać, weź parasol."
+  ],
+  "examples_en": [
+   "It might rain tomorrow, take an umbrella."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.69,
+  "lemma_id": "móc",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Jutro może padać, weź parasol.",
+  "share": 15.0,
+  "hint": "be possible",
+  "hint_context": "it might rain",
+  "example_marks": [
+   {
+    "text": "może",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf"
+ },
+ {
+  "id": "bardzo#2",
+  "front": "bardzo",
+  "lemma": "bardzo",
+  "back": "very much",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "a lot",
+   "really"
+  ],
+  "definition": "to a high degree (with verbs)",
+  "examples": [
+   "Bardzo dziękuję za pomoc!"
+  ],
+  "examples_en": [
+   "Thank you very much for your help!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 6.48,
+  "lemma_id": "bardzo",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Bardzo dziękuję za pomoc!",
+  "share": 24.0,
+  "hint": "with verbs",
+  "hint_context": "thanks very much",
+  "example_marks": [
+   {
+    "text": "Bardzo",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "jeszcze",
+  "front": "jeszcze",
+  "lemma": "jeszcze",
+  "back": "still",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "continuing up to now",
+  "examples": [
+   "Jeszcze śpi, obudź go za godzinę."
+  ],
+  "examples_en": [
+   "He's still asleep, wake him in an hour."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 6.2,
+  "lemma_id": "jeszcze",
+  "sense_index": 1,
+  "sense_count": 3,
+  "cue": "Jeszcze śpi, obudź go za godzinę.",
+  "share": 45.0,
+  "hint": "continuing",
+  "hint_context": "he's still asleep",
+  "example_marks": [
+   {
+    "text": "Jeszcze",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "jeść",
+  "front": "jeść",
+  "lemma": "jeść",
+  "back": "eat",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to put food in the mouth and swallow it",
+  "examples": [
+   "Brzuchi je bez przerwy od rana."
+  ],
+  "examples_en": [
+   "Brzuchi has been eating nonstop since morning."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.86,
+  "share": 98.0,
+  "hint": "food",
+  "hint_context": "eat breakfast",
+  "example_marks": [
+   {
+    "text": "je",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "zjeść"
+ },
+ {
+  "id": "kobieta",
+  "front": "kobieta",
+  "lemma": "kobieta",
+  "back": "woman",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "lady"
+  ],
+  "definition": "an adult female human",
+  "examples": [
+   "Ta kobieta pracuje w szpitalu."
+  ],
+  "examples_en": [
+   "That woman works at the hospital."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 5.86,
+  "share": 98.0,
+  "hint": "adult female",
+  "hint_context": "a young woman",
+  "example_marks": [
+   {
+    "text": "kobieta",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "już#2",
+  "front": "już",
+  "lemma": "już",
+  "back": "anymore",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "no longer"
+  ],
+  "definition": "(with negation) no longer",
+  "examples": [
+   "Już tam nie mieszkam."
+  ],
+  "examples_en": [
+   "I don't live there anymore."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 6.44,
+  "lemma_id": "już",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Już tam nie mieszkam.",
+  "share": 25.0,
+  "hint": "no longer",
+  "hint_context": "not anymore",
+  "example_marks": [
+   {
+    "text": "Już",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "zrobić",
+  "front": "zrobić",
+  "lemma": "zrobić",
+  "back": "do",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to carry out and complete an action",
+  "examples": [
+   "Zrobiłem już wszystkie zadania."
+  ],
+  "examples_en": [
+   "I've already done all the assignments."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.04,
+  "lemma_id": "zrobić",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Zrobiłem już wszystkie zadania.",
+  "share": 60.0,
+  "hint": "get done, once",
+  "hint_context": "I've done it",
+  "example_marks": [
+   {
+    "text": "Zrobiłem",
+    "nth": 1
+   }
+  ],
+  "aspect": "pf",
+  "aspect_pair": "robić"
+ },
+ {
+  "id": "robić",
+  "front": "robić",
+  "lemma": "robić",
+  "back": "do",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to carry out an action or activity (ongoing or habitual)",
+  "examples": [
+   "Co robisz w weekend?"
+  ],
+  "examples_en": [
+   "What are you doing this weekend?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.03,
+  "lemma_id": "robić",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Co robisz w weekend?",
+  "share": 60.0,
+  "hint": "be doing, ongoing",
+  "hint_context": "what are you doing",
+  "example_marks": [
+   {
+    "text": "robisz",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "zrobić"
+ },
+ {
+  "id": "mówić#2",
+  "front": "mówić",
+  "lemma": "mówić",
+  "back": "say",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "tell"
+  ],
+  "definition": "to express something in words (ongoing or repeated)",
+  "examples": [
+   "Babcia zawsze mówi, że jestem za chudy."
+  ],
+  "examples_en": [
+   "Grandma always says I'm too thin."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.17,
+  "lemma_id": "mówić",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Babcia zawsze mówi, że jestem za chudy.",
+  "share": 42.0,
+  "hint": "keep saying",
+  "hint_context": "she always says",
+  "example_marks": [
+   {
+    "text": "mówi",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "powiedzieć"
+ },
+ {
+  "id": "rodzina",
+  "front": "rodzina",
+  "lemma": "rodzina",
+  "back": "family",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "parents and children; relatives",
+  "examples": [
+   "Na święta cała rodzina przyjeżdża do nas."
+  ],
+  "examples_en": [
+   "For the holidays the whole family comes to our place."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 5.78,
+  "share": 98.0,
+  "hint": "relatives",
+  "hint_context": "the whole family",
+  "example_marks": [
+   {
+    "text": "rodzina",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "zostać#2",
+  "front": "zostać",
+  "lemma": "zostać",
+  "back": "be (passive)",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "get"
+  ],
+  "definition": "auxiliary of the passive: something was done",
+  "examples": [
+   "Most został zbudowany w XIX wieku."
+  ],
+  "examples_en": [
+   "The bridge was built in the 19th century."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.31,
+  "lemma_id": "zostać",
+  "sense_index": 2,
+  "sense_count": 4,
+  "cue": "Most został zbudowany w XIX wieku.",
+  "share": 25.0,
+  "hint": "passive: was done",
+  "hint_context": "it was built",
+  "example_marks": [
+   {
+    "text": "został",
+    "nth": 1
+   }
+  ],
+  "aspect": "pf",
+  "aspect_pair": "zostawać"
+ },
+ {
+  "id": "iść",
+  "front": "iść",
+  "lemma": "iść",
+  "back": "go",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "walk"
+  ],
+  "definition": "to move on foot; to be on one's way (now, one direction)",
+  "examples": [
+   "Idę do sklepu, coś ci kupić?"
+  ],
+  "examples_en": [
+   "I'm going to the store, can I get you anything?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.8,
+  "lemma_id": "iść",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Idę do sklepu, coś ci kupić?",
+  "share": 80.0,
+  "hint": "on foot, now",
+  "hint_context": "going to the store",
+  "example_marks": [
+   {
+    "text": "Idę",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "pójść"
+ },
+ {
+  "id": "dom",
+  "front": "dom",
+  "lemma": "dom",
+  "back": "house",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "building"
+  ],
+  "definition": "a building that people live in",
+  "examples": [
+   "Kupili stary dom na wsi."
+  ],
+  "examples_en": [
+   "They bought an old house in the country."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.94,
+  "lemma_id": "dom",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Kupili stary dom na wsi.",
+  "share": 55.0,
+  "hint": "the building",
+  "hint_context": "buy a house",
+  "example_marks": [
+   {
+    "text": "dom",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
+  "id": "znać",
+  "front": "znać",
+  "lemma": "znać",
+  "back": "know",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "be familiar with"
+  ],
+  "definition": "to be acquainted with a person, place or thing",
+  "examples": [
+   "Znasz moją siostrę?"
+  ],
+  "examples_en": [
+   "Do you know my sister?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.69,
+  "share": 97.0,
+  "hint": "a person, a place",
+  "hint_context": "know my sister",
+  "example_marks": [
+   {
+    "text": "Znasz",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf"
+ },
+ {
+  "id": "lubić",
+  "front": "lubić",
+  "lemma": "lubić",
+  "back": "like",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to find someone or something pleasant",
+  "examples": [
+   "Lubię chodzić po górach latem."
+  ],
+  "examples_en": [
+   "I like hiking in the mountains in summer."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.66,
+  "share": 98.0,
+  "hint": "enjoy",
+  "hint_context": "I like it",
+  "example_marks": [
+   {
+    "text": "Lubię",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "polubić"
+ },
+ {
+  "id": "jeszcze#3",
+  "front": "jeszcze",
+  "lemma": "jeszcze",
+  "back": "more",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "another",
+   "else"
+  ],
+  "definition": "in addition; one more",
+  "examples": [
+   "Poproszę jeszcze jedno piwo."
+  ],
+  "examples_en": [
+   "One more beer, please."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 6.2,
+  "lemma_id": "jeszcze",
+  "sense_index": 3,
+  "sense_count": 3,
+  "cue": "Poproszę jeszcze jedno piwo.",
+  "share": 28.0,
+  "hint": "additional",
+  "hint_context": "one more, please",
+  "example_marks": [
+   {
+    "text": "jeszcze",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "dziękować",
+  "front": "dziękować",
+  "lemma": "dziękować",
+  "back": "thank",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to express gratitude",
+  "examples": [
+   "Dziękuję za zaproszenie na wesele!"
+  ],
+  "examples_en": [
+   "Thank you for the invitation to the wedding!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.64,
+  "share": 98.0,
+  "hint": "gratitude",
+  "hint_context": "thank you for",
+  "example_marks": [
+   {
+    "text": "Dziękuję",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "podziękować"
+ },
+ {
+  "id": "zostać#3",
+  "front": "zostać",
+  "lemma": "zostać",
+  "back": "become",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to begin to be something (+ instrumental)",
+  "examples": [
+   "Chce zostać lekarzem jak jego tata."
+  ],
+  "examples_en": [
+   "He wants to become a doctor like his dad."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.31,
+  "lemma_id": "zostać",
+  "sense_index": 3,
+  "sense_count": 4,
+  "cue": "Chce zostać lekarzem jak jego tata.",
+  "share": 20.0,
+  "hint": "turn into",
+  "hint_context": "become a doctor",
+  "example_marks": [
+   {
+    "text": "zostać",
+    "nth": 1
+   }
+  ],
+  "aspect": "pf",
+  "aspect_pair": "zostawać"
+ },
+ {
+  "id": "jeszcze#2",
+  "front": "jeszcze",
+  "lemma": "jeszcze",
+  "back": "yet",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "(with negation) up to now",
+  "examples": [
+   "Jeszcze nie jadłem obiadu."
+  ],
+  "examples_en": [
+   "I haven't had lunch yet."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 6.2,
+  "lemma_id": "jeszcze",
+  "sense_index": 2,
+  "sense_count": 3,
+  "cue": "Jeszcze nie jadłem obiadu.",
+  "share": 25.0,
+  "hint": "not yet",
+  "hint_context": "not yet",
+  "example_marks": [
+   {
+    "text": "Jeszcze",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "woda",
+  "front": "woda",
+  "lemma": "woda",
+  "back": "water",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "the clear liquid of rain, rivers and drinking",
+  "examples": [
+   "Poproszę szklankę wody bez gazu."
+  ],
+  "examples_en": [
+   "A glass of still water, please."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 5.6,
+  "share": 98.0,
+  "hint": "liquid",
+  "hint_context": "a glass of water",
+  "example_marks": [
+   {
+    "text": "wody",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "stary",
+  "front": "stary",
+  "lemma": "stary",
+  "back": "old",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "elderly"
+  ],
+  "definition": "having lived or existed for a long time",
+  "examples": [
+   "Mój dziadek jest już bardzo stary."
+  ],
+  "examples_en": [
+   "My grandpa is very old now."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 5.64,
+  "share": 88.0,
+  "hint": "not young or new",
+  "hint_context": "an old man",
+  "example_marks": [
+   {
+    "text": "stary",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "zrobić#2",
+  "front": "zrobić",
+  "lemma": "zrobić",
+  "back": "make",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "prepare"
+  ],
+  "definition": "to produce or prepare something, once and completely",
+  "examples": [
+   "Zaraz zrobię ci gorącą herbatę."
+  ],
+  "examples_en": [
+   "I'll make you a hot tea right away."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.04,
+  "lemma_id": "zrobić",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Zaraz zrobię ci gorącą herbatę.",
+  "share": 35.0,
+  "hint": "make once, finish",
+  "hint_context": "I'll make tea",
+  "example_marks": [
+   {
+    "text": "zrobię",
+    "nth": 1
+   }
+  ],
+  "aspect": "pf",
+  "aspect_pair": "robić"
+ },
+ {
+  "id": "robić#2",
+  "front": "robić",
+  "lemma": "robić",
+  "back": "make",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "prepare"
+  ],
+  "definition": "to produce or prepare something (ongoing or habitual)",
+  "examples": [
+   "Mama robi najlepsze pierogi na świecie."
+  ],
+  "examples_en": [
+   "Mom makes the best pierogi in the world."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.03,
+  "lemma_id": "robić",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Mama robi najlepsze pierogi na świecie.",
+  "share": 35.0,
+  "hint": "make habitually",
+  "hint_context": "Mom makes pierogi",
+  "example_marks": [
+   {
+    "text": "robi",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "zrobić"
+ },
+ {
+  "id": "dom#2",
+  "front": "dom",
+  "lemma": "dom",
+  "back": "home",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "the place where one lives; one's household",
+  "examples": [
+   "Wracam do domu po pracy."
+  ],
+  "examples_en": [
+   "I go home after work."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.94,
+  "lemma_id": "dom",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Wracam do domu po pracy.",
+  "share": 43.0,
+  "hint": "where you live",
+  "hint_context": "go home",
+  "example_marks": [
+   {
+    "text": "domu",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
+  "id": "pan",
+  "front": "pan",
+  "lemma": "pan",
+  "back": "you (formal, to a man)",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "sir"
+  ],
+  "definition": "polite way to address a man, used with a 3rd-person verb",
+  "examples": [
+   "Czy może mi pan pomóc?"
+  ],
+  "examples_en": [
+   "Could you help me, sir?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.86,
+  "lemma_id": "pan",
+  "sense_index": 1,
+  "sense_count": 3,
+  "cue": "Czy może mi pan pomóc?",
+  "share": 50.0,
+  "hint": "polite, to a man",
+  "hint_context": "can you help me, sir",
+  "example_marks": [
+   {
+    "text": "pan",
+    "nth": 1
+   }
+  ],
+  "animacy": "pers"
+ },
+ {
+  "id": "język",
+  "front": "język",
+  "lemma": "język",
+  "back": "language",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a system of communication used by a people or nation",
+  "examples": [
+   "Polski to trudny, ale piękny język."
+  ],
+  "examples_en": [
+   "Polish is a difficult but beautiful language."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.63,
+  "lemma_id": "język",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Polski to trudny, ale piękny język.",
+  "share": 80.0,
+  "hint": "Polish, English…",
+  "hint_context": "learn a language",
+  "example_marks": [
+   {
+    "text": "język",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
+  "id": "kochać",
+  "front": "kochać",
+  "lemma": "kochać",
+  "back": "love",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to feel deep affection for someone",
+  "examples": [
+   "Kocham cię najbardziej na świecie."
+  ],
+  "examples_en": [
+   "I love you more than anything in the world."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.54,
+  "share": 98.0,
+  "hint": "deep affection",
+  "hint_context": "I love you",
+  "example_marks": [
+   {
+    "text": "Kocham",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "pokochać"
+ },
+ {
+  "id": "ręka",
+  "front": "ręka",
+  "lemma": "ręka",
+  "back": "hand",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "the part of the body at the end of the arm",
+  "examples": [
+   "Umyj ręce przed jedzeniem!"
+  ],
+  "examples_en": [
+   "Wash your hands before eating!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 5.57,
+  "lemma_id": "ręka",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Umyj ręce przed jedzeniem!",
+  "share": 75.0,
+  "hint": "with fingers",
+  "hint_context": "wash your hands",
+  "example_marks": [
+   {
+    "text": "ręce",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "prosić",
+  "front": "prosić",
+  "lemma": "prosić",
+  "back": "please",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "here you are",
+   "you're welcome"
+  ],
+  "definition": "'proszę': the polite word when asking, offering, or answering thanks",
+  "examples": [
+   "Proszę dwie kawy i sernik."
+  ],
+  "examples_en": [
+   "Two coffees and a cheesecake, please."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.7,
+  "lemma_id": "prosić",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Proszę dwie kawy i sernik.",
+  "share": 50.0,
+  "hint": "polite request",
+  "hint_context": "two coffees, please",
+  "example_marks": [
+   {
+    "text": "Proszę",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "poprosić"
+ },
+ {
+  "id": "zostać#4",
+  "front": "zostać",
+  "lemma": "zostać",
+  "back": "be left",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "remain"
+  ],
+  "definition": "to be left over",
+  "examples": [
+   "Zostało nam tylko trochę chleba."
+  ],
+  "examples_en": [
+   "We only have a little bread left."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.31,
+  "lemma_id": "zostać",
+  "sense_index": 4,
+  "sense_count": 4,
+  "cue": "Zostało nam tylko trochę chleba.",
+  "share": 12.0,
+  "hint": "left over",
+  "hint_context": "there's some left",
+  "example_marks": [
+   {
+    "text": "Zostało",
+    "nth": 1
+   }
+  ],
+  "aspect": "pf",
+  "aspect_pair": "zostawać"
+ },
+ {
+  "id": "prosić#2",
+  "front": "prosić",
+  "lemma": "prosić",
+  "back": "ask",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "request"
+  ],
+  "definition": "to ask someone to do or give something",
+  "examples": [
+   "Prosił mnie o pomoc przy przeprowadzce."
+  ],
+  "examples_en": [
+   "He asked me for help with the move."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.7,
+  "lemma_id": "prosić",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Prosił mnie o pomoc przy przeprowadzce.",
+  "share": 45.0,
+  "hint": "for a favor",
+  "hint_context": "ask for help",
+  "example_marks": [
+   {
+    "text": "Prosił",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "poprosić"
+ },
+ {
+  "id": "pani",
+  "front": "pani",
+  "lemma": "pani",
+  "back": "you (formal, to a woman)",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "ma'am",
+   "madam"
+  ],
+  "definition": "polite way to address a woman, used with a 3rd-person verb",
+  "examples": [
+   "Czy pani mieszka tu od dawna?"
+  ],
+  "examples_en": [
+   "Have you lived here long, ma'am?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 5.65,
+  "lemma_id": "pani",
+  "sense_index": 1,
+  "sense_count": 3,
+  "cue": "Czy pani mieszka tu od dawna?",
+  "share": 50.0,
+  "hint": "polite, to a woman",
+  "hint_context": "excuse me, ma'am",
+  "example_marks": [
+   {
+    "text": "pani",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "zdrowie",
+  "front": "zdrowie",
+  "lemma": "zdrowie",
+  "back": "health",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "the state of being well in body and mind (Na zdrowie! = Cheers!)",
+  "examples": [
+   "Najważniejsze jest zdrowie, reszta się ułoży."
+  ],
+  "examples_en": [
+   "Health is what matters most; the rest will work out."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 5.36,
+  "share": 95.0,
+  "hint": "being well",
+  "hint_context": "good health",
+  "example_marks": [
+   {
+    "text": "zdrowie",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "droga",
+  "front": "droga",
+  "lemma": "droga",
+  "back": "road",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a way for vehicles between places",
+  "examples": [
+   "Droga do Zakopanego jest zawsze zakorkowana."
+  ],
+  "examples_en": [
+   "The road to Zakopane is always jammed."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 5.63,
+  "lemma_id": "droga",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Droga do Zakopanego jest zawsze zakorkowana.",
+  "share": 50.0,
+  "hint": "for cars",
+  "hint_context": "a busy road",
+  "example_marks": [
+   {
+    "text": "Droga",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "jechać",
+  "front": "jechać",
+  "lemma": "jechać",
+  "back": "go",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "drive",
+   "ride"
+  ],
+  "definition": "to travel by vehicle (now, one direction)",
+  "examples": [
+   "Jutro jedziemy pociągiem do Gdańska."
+  ],
+  "examples_en": [
+   "Tomorrow we're going to Gdańsk by train."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.31,
+  "share": 97.0,
+  "hint": "by car, train, bus",
+  "hint_context": "go by train",
+  "example_marks": [
+   {
+    "text": "jedziemy",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "pojechać"
+ },
+ {
+  "id": "droga#2",
+  "front": "droga",
+  "lemma": "droga",
+  "back": "way",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "route"
+  ],
+  "definition": "the route to a place",
+  "examples": [
+   "Czy może mi pani pokazać drogę na dworzec?"
+  ],
+  "examples_en": [
+   "Could you show me the way to the station, ma'am?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 5.63,
+  "lemma_id": "droga",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Czy może mi pani pokazać drogę na dworzec?",
+  "share": 45.0,
+  "hint": "route",
+  "hint_context": "ask the way",
+  "example_marks": [
+   {
+    "text": "drogę",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "pokój",
+  "front": "pokój",
+  "lemma": "pokój",
+  "back": "room",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a separate part of a house or apartment",
+  "examples": [
+   "Mój pokój ma duże okno na ogród."
+  ],
+  "examples_en": [
+   "My room has a big window facing the yard."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.38,
+  "lemma_id": "pokój",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Mój pokój ma duże okno na ogród.",
+  "share": 80.0,
+  "hint": "in a house",
+  "hint_context": "my room",
+  "example_marks": [
+   {
+    "text": "pokój",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
+  "id": "dobry#2",
+  "front": "dobry",
+  "lemma": "dobry",
+  "back": "kind",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "good-hearted"
+  ],
+  "definition": "caring and generous toward others",
+  "examples": [
+   "Twoja mama to bardzo dobra kobieta."
+  ],
+  "examples_en": [
+   "Your mom is a very kind woman."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 6.18,
+  "lemma_id": "dobry",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Twoja mama to bardzo dobra kobieta.",
+  "share": 12.0,
+  "hint": "a nice person",
+  "hint_context": "a kind person",
+  "example_marks": [
+   {
+    "text": "dobra",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "pan#2",
+  "front": "pan",
+  "lemma": "pan",
+  "back": "Mr.",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "title before a man's surname",
+  "examples": [
+   "Pan Kowalski już na pana czeka."
+  ],
+  "examples_en": [
+   "Mr. Kowalski is already waiting for you."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.86,
+  "lemma_id": "pan",
+  "sense_index": 2,
+  "sense_count": 3,
+  "cue": "Pan Kowalski już na pana czeka.",
+  "share": 25.0,
+  "hint": "title + surname",
+  "hint_context": "Mr. Smith",
+  "example_marks": [
+   {
+    "text": "Pan",
+    "nth": 1
+   }
+  ],
+  "animacy": "pers"
+ },
+ {
+  "id": "sprawa#2",
+  "front": "sprawa",
+  "lemma": "sprawa",
+  "back": "case",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a legal case in court",
+  "examples": [
+   "Sprawa trafi do sądu w przyszłym roku."
+  ],
+  "examples_en": [
+   "The case will go to court next year."
+  ],
+  "claude": true,
+  "topic": "law",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 6.02,
+  "lemma_id": "sprawa",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Sprawa trafi do sądu w przyszłym roku.",
+  "share": 15.0,
+  "hint": "in court",
+  "hint_context": "a court case",
+  "example_marks": [
+   {
+    "text": "Sprawa",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "drogi",
+  "front": "drogi",
+  "lemma": "drogi",
+  "back": "expensive",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "costly"
+  ],
+  "definition": "costing a lot of money",
+  "examples": [
+   "W Warszawie mieszkania są bardzo drogie."
+  ],
+  "examples_en": [
+   "Apartments in Warsaw are very expensive."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 5.34,
+  "lemma_id": "drogi",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "W Warszawie mieszkania są bardzo drogie.",
+  "share": 70.0,
+  "hint": "costly",
+  "hint_context": "an expensive car",
+  "example_marks": [
+   {
+    "text": "drogie",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "pan#3",
+  "front": "pan",
+  "lemma": "pan",
+  "back": "gentleman",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "man"
+  ],
+  "definition": "a man (polite word)",
+  "examples": [
+   "Ten pan pyta o drogę na dworzec."
+  ],
+  "examples_en": [
+   "This gentleman is asking the way to the station."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.86,
+  "lemma_id": "pan",
+  "sense_index": 3,
+  "sense_count": 3,
+  "cue": "Ten pan pyta o drogę na dworzec.",
+  "share": 20.0,
+  "hint": "polite: a man",
+  "hint_context": "this gentleman",
+  "example_marks": [
+   {
+    "text": "pan",
+    "nth": 1
+   }
+  ],
+  "animacy": "pers"
+ },
+ {
+  "id": "pani#3",
+  "front": "pani",
+  "lemma": "pani",
+  "back": "lady",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "woman"
+  ],
+  "definition": "a woman (polite word)",
+  "examples": [
+   "Ta pani sprzedaje najlepsze truskawki na targu."
+  ],
+  "examples_en": [
+   "This lady sells the best strawberries at the market."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 5.65,
+  "lemma_id": "pani",
+  "sense_index": 3,
+  "sense_count": 3,
+  "cue": "Ta pani sprzedaje najlepsze truskawki na targu.",
+  "share": 25.0,
+  "hint": "polite: a woman",
+  "hint_context": "this lady",
+  "example_marks": [
+   {
+    "text": "pani",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "szczęście",
+  "front": "szczęście",
+  "lemma": "szczęście",
+  "back": "luck",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "good fortune"
+  ],
+  "definition": "good fortune; chance success",
+  "examples": [
+   "Miałeś dużo szczęścia, że zdążyłeś na pociąg."
+  ],
+  "examples_en": [
+   "You were really lucky you made the train."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 5.31,
+  "lemma_id": "szczęście",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Miałeś dużo szczęścia, że zdążyłeś na pociąg.",
+  "share": 50.0,
+  "hint": "good fortune",
+  "hint_context": "good luck",
+  "example_marks": [
+   {
+    "text": "szczęścia",
+    "nth": 1
+   }
+  ]
+ }
+]
