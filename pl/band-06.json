@@ -1,5 +1,101 @@
 [
  {
+  "id": "szalik",
+  "front": "szalik",
+  "lemma": "szalik",
+  "back": "scarf",
+  "band": 6,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a scarf worn round the neck",
+  "examples": [
+   "Babcia zrobiła mi ciepły szalik."
+  ],
+  "examples_en": [
+   "Grandma knitted me a warm scarf."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 3.58,
+  "share": 98.0,
+  "hint": "around the neck",
+  "hint_context": "a warm scarf",
+  "example_marks": [
+   {
+    "text": "szalik",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
+  "id": "przymierzać",
+  "front": "przymierzać",
+  "lemma": "przymierzać",
+  "back": "try on",
+  "band": 6,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to try on clothes",
+  "examples": [
+   "Przymierzam już trzecią sukienkę."
+  ],
+  "examples_en": [
+   "I'm already trying on my third dress."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 3.56,
+  "share": 98.0,
+  "hint": "clothes",
+  "hint_context": "try on a dress",
+  "example_marks": [
+   {
+    "text": "Przymierzam",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "przymierzyć"
+ },
+ {
+  "id": "trzysta",
+  "front": "trzysta",
+  "lemma": "trzysta",
+  "back": "three hundred",
+  "band": 6,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "the number 300",
+  "examples": [
+   "Bilet kosztował trzysta złotych."
+  ],
+  "examples_en": [
+   "The ticket cost three hundred zloty."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Numeral",
+  "gender": "",
+  "zipf": 3.56,
+  "share": 98.0,
+  "hint": "number 300",
+  "hint_context": "three hundred zloty",
+  "example_marks": [
+   {
+    "text": "trzysta",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "bigos",
   "front": "bigos",
   "lemma": "bigos",
@@ -140,6 +236,41 @@
   ]
  },
  {
+  "id": "wycierać",
+  "front": "wycierać",
+  "lemma": "wycierać",
+  "back": "wipe",
+  "band": 6,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "dry"
+  ],
+  "definition": "to wipe or dry",
+  "examples": [
+   "Wycieram naczynia po obiedzie."
+  ],
+  "examples_en": [
+   "I dry the dishes after lunch."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 3.43,
+  "share": 98.0,
+  "hint": "clean with a cloth",
+  "hint_context": "wipe the table",
+  "example_marks": [
+   {
+    "text": "Wycieram",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "wytrzeć"
+ },
+ {
   "id": "dmuchać",
   "front": "dmuchać",
   "lemma": "dmuchać",
@@ -173,6 +304,39 @@
   "aspect_pair": "dmuchnąć"
  },
  {
+  "id": "smutno",
+  "front": "smutno",
+  "lemma": "smutno",
+  "back": "sad",
+  "band": 6,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "sadly"
+  ],
+  "definition": "'smutno mi' = I feel sad",
+  "examples": [
+   "Smutno mi, że już wyjeżdżasz."
+  ],
+  "examples_en": [
+   "I'm sad that you're leaving already."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 3.4,
+  "share": 98.0,
+  "hint": "feel sad (adverb)",
+  "hint_context": "I feel sad",
+  "example_marks": [
+   {
+    "text": "Smutno",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "wspaniale",
   "front": "wspaniale",
   "lemma": "wspaniale",
@@ -202,6 +366,39 @@
   "example_marks": [
    {
     "text": "Wspaniale",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "kasjerka",
+  "front": "kasjerka",
+  "lemma": "kasjerka",
+  "back": "cashier",
+  "band": 6,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "ticket clerk"
+  ],
+  "definition": "a woman who works at a checkout or ticket office",
+  "examples": [
+   "Kasjerka wydała mi za mało reszty."
+  ],
+  "examples_en": [
+   "The cashier gave me too little change."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 3.38,
+  "share": 98.0,
+  "hint": "at the checkout",
+  "hint_context": "ask the cashier",
+  "example_marks": [
+   {
+    "text": "Kasjerka",
     "nth": 1
    }
   ]
@@ -302,6 +499,38 @@
   "example_marks": [
    {
     "text": "gofry",
+    "nth": 1
+   }
+  ],
+  "animacy": "anim"
+ },
+ {
+  "id": "bałwan",
+  "front": "bałwan",
+  "lemma": "bałwan",
+  "back": "snowman",
+  "band": 6,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a snowman",
+  "examples": [
+   "Dzieci lepią bałwana w ogrodzie."
+  ],
+  "examples_en": [
+   "The kids are building a snowman in the yard."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 3.29,
+  "share": 98.0,
+  "hint": "made of snow",
+  "hint_context": "build a snowman",
+  "example_marks": [
+   {
+    "text": "bałwana",
     "nth": 1
    }
   ],

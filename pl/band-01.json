@@ -4592,6 +4592,37 @@
   ]
  },
  {
+  "id": "oko",
+  "front": "oko",
+  "lemma": "oko",
+  "back": "eye",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "the eye (plural 'oczy')",
+  "examples": [
+   "Ona ma piękne niebieskie oczy."
+  ],
+  "examples_en": [
+   "She has beautiful blue eyes."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 5.97,
+  "share": 98.0,
+  "hint": "for seeing",
+  "hint_context": "blue eyes",
+  "example_marks": [
+   {
+    "text": "oczy",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "ten~pronoun#2",
   "front": "ten",
   "lemma": "ten",
@@ -5198,6 +5229,40 @@
   ]
  },
  {
+  "id": "wy",
+  "front": "wy",
+  "lemma": "wy",
+  "back": "you (plural)",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "you all",
+   "you guys"
+  ],
+  "definition": "second person plural",
+  "examples": [
+   "Wy też jedziecie na wesele?"
+  ],
+  "examples_en": [
+   "Are you guys going to the wedding too?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Pronoun",
+  "gender": "",
+  "zipf": 5.92,
+  "share": 98.0,
+  "hint": "several people",
+  "hint_context": "you all",
+  "example_marks": [
+   {
+    "text": "Wy",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "zawsze",
   "front": "zawsze",
   "lemma": "zawsze",
@@ -5406,6 +5471,39 @@
    }
   ],
   "animacy": "inan"
+ },
+ {
+  "id": "zdjęcie",
+  "front": "zdjęcie",
+  "lemma": "zdjęcie",
+  "back": "photo",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "picture"
+  ],
+  "definition": "a photograph ('robić zdjęcie' = take a picture)",
+  "examples": [
+   "Zrób nam zdjęcie, proszę."
+  ],
+  "examples_en": [
+   "Take a picture of us, please."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 5.91,
+  "share": 98.0,
+  "hint": "photograph",
+  "hint_context": "take a photo",
+  "example_marks": [
+   {
+    "text": "zdjęcie",
+    "nth": 1
+   }
+  ]
  },
  {
   "id": "sprawa",
@@ -9333,7 +9431,7 @@
   "claude": true,
   "topic": "",
   "pos": "Noun",
-  "gender": "m",
+  "gender": "",
   "zipf": 5.63,
   "share": 98.0,
   "hint": "cash",
@@ -9344,7 +9442,6 @@
     "nth": 1
    }
   ],
-  "animacy": "inan",
   "number": "pl"
  },
  {
@@ -9942,6 +10039,37 @@
   "example_marks": [
    {
     "text": "nad",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "głowa",
+  "front": "głowa",
+  "lemma": "głowa",
+  "back": "head",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "the head",
+  "examples": [
+   "Boli mnie głowa."
+  ],
+  "examples_en": [
+   "I have a headache."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 5.59,
+  "share": 98.0,
+  "hint": "body part",
+  "hint_context": "a headache",
+  "example_marks": [
+   {
+    "text": "głowa",
     "nth": 1
    }
   ]
@@ -10980,6 +11108,38 @@
   "aspect_pair": "spróbować"
  },
  {
+  "id": "potrzebować",
+  "front": "potrzebować",
+  "lemma": "potrzebować",
+  "back": "need",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to need (+ genitive)",
+  "examples": [
+   "Potrzebuję twojej pomocy."
+  ],
+  "examples_en": [
+   "I need your help."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.5,
+  "share": 98.0,
+  "hint": "require",
+  "hint_context": "I need help",
+  "example_marks": [
+   {
+    "text": "Potrzebuję",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf"
+ },
+ {
   "id": "czuć",
   "front": "czuć",
   "lemma": "czuć",
@@ -11015,6 +11175,40 @@
   ],
   "aspect": "impf",
   "aspect_pair": "poczuć"
+ },
+ {
+  "id": "samochód",
+  "front": "samochód",
+  "lemma": "samochód",
+  "back": "car",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "automobile"
+  ],
+  "definition": "a car",
+  "examples": [
+   "Jedziemy do babci samochodem."
+  ],
+  "examples_en": [
+   "We're driving to Grandma's."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.49,
+  "share": 98.0,
+  "hint": "automobile",
+  "hint_context": "by car",
+  "example_marks": [
+   {
+    "text": "samochodem",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
  },
  {
   "id": "zaczynać",
@@ -11270,6 +11464,39 @@
   ]
  },
  {
+  "id": "wysoki",
+  "front": "wysoki",
+  "lemma": "wysoki",
+  "back": "tall",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "high"
+  ],
+  "definition": "of great height",
+  "examples": [
+   "Mój brat jest bardzo wysoki."
+  ],
+  "examples_en": [
+   "My brother is very tall."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 5.46,
+  "share": 98.0,
+  "hint": "height",
+  "hint_context": "a tall man",
+  "example_marks": [
+   {
+    "text": "wysoki",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "dalej",
   "front": "dalej",
   "lemma": "dalej",
@@ -11474,6 +11701,40 @@
   "example_marks": [
    {
     "text": "co",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "dopiero",
+  "front": "dopiero",
+  "lemma": "dopiero",
+  "back": "only",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "not until",
+   "just"
+  ],
+  "definition": "no earlier than; only now",
+  "examples": [
+   "Wrócił dopiero o północy."
+  ],
+  "examples_en": [
+   "He didn't get back until midnight."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Particle",
+  "gender": "",
+  "zipf": 5.44,
+  "share": 98.0,
+  "hint": "not until, no earlier",
+  "hint_context": "only just",
+  "example_marks": [
+   {
+    "text": "dopiero",
     "nth": 1
    }
   ]
@@ -12439,6 +12700,40 @@
   ]
  },
  {
+  "id": "doktor",
+  "front": "doktor",
+  "lemma": "doktor",
+  "back": "doctor",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "Dr."
+  ],
+  "definition": "title and form of address ('panie doktorze', 'pani doktor')",
+  "examples": [
+   "Dzień dobry, pani doktor."
+  ],
+  "examples_en": [
+   "Good morning, Doctor."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.35,
+  "share": 98.0,
+  "hint": "title, form of address",
+  "hint_context": "Doctor Smith",
+  "example_marks": [
+   {
+    "text": "doktor",
+    "nth": 1
+   }
+  ],
+  "animacy": "pers"
+ },
+ {
   "id": "inny#3",
   "front": "inny",
   "lemma": "inny",
@@ -12618,6 +12913,40 @@
   ]
  },
  {
+  "id": "lekarz",
+  "front": "lekarz",
+  "lemma": "lekarz",
+  "back": "doctor",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "physician"
+  ],
+  "definition": "a doctor (man, or in general)",
+  "examples": [
+   "Musisz iść do lekarza."
+  ],
+  "examples_en": [
+   "You have to go to the doctor."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.33,
+  "share": 98.0,
+  "hint": "physician, man",
+  "hint_context": "see a doctor",
+  "example_marks": [
+   {
+    "text": "lekarza",
+    "nth": 1
+   }
+  ],
+  "animacy": "pers"
+ },
+ {
   "id": "przyjść",
   "front": "przyjść",
   "lemma": "przyjść",
@@ -12786,6 +13115,40 @@
     "nth": 1
    }
   ]
+ },
+ {
+  "id": "sklep",
+  "front": "sklep",
+  "lemma": "sklep",
+  "back": "store",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "shop"
+  ],
+  "definition": "a store",
+  "examples": [
+   "Sklep na rogu jest otwarty do dziesiątej."
+  ],
+  "examples_en": [
+   "The store on the corner is open until ten."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.32,
+  "share": 98.0,
+  "hint": "where you buy",
+  "hint_context": "go to the store",
+  "example_marks": [
+   {
+    "text": "Sklep",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
  },
  {
   "id": "przy#3",
@@ -13251,6 +13614,100 @@
   "aspect": "impf"
  },
  {
+  "id": "poważny",
+  "front": "poważny",
+  "lemma": "poważny",
+  "back": "serious",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "important, not funny",
+  "examples": [
+   "Mamy poważny problem."
+  ],
+  "examples_en": [
+   "We have a serious problem."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 5.27,
+  "share": 98.0,
+  "hint": "important, not joking",
+  "hint_context": "a serious problem",
+  "example_marks": [
+   {
+    "text": "poważny",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "specjalny",
+  "front": "specjalny",
+  "lemma": "specjalny",
+  "back": "special",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "particular, out of the ordinary",
+  "examples": [
+   "Mam dla ciebie specjalny prezent."
+  ],
+  "examples_en": [
+   "I have a special present for you."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 5.27,
+  "share": 98.0,
+  "hint": "out of the ordinary",
+  "hint_context": "nothing special",
+  "example_marks": [
+   {
+    "text": "specjalny",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "styczeń",
+  "front": "styczeń",
+  "lemma": "styczeń",
+  "back": "January",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "the first month",
+  "examples": [
+   "W styczniu jest najzimniej."
+  ],
+  "examples_en": [
+   "January is the coldest."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.27,
+  "share": 98.0,
+  "hint": "month",
+  "hint_context": "in January",
+  "example_marks": [
+   {
+    "text": "styczniu",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
   "id": "trzeci",
   "front": "trzeci",
   "lemma": "trzeci",
@@ -13425,6 +13882,68 @@
   ]
  },
  {
+  "id": "piosenka",
+  "front": "piosenka",
+  "lemma": "piosenka",
+  "back": "song",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a song",
+  "examples": [
+   "To moja ulubiona piosenka."
+  ],
+  "examples_en": [
+   "This is my favorite song."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 5.26,
+  "share": 98.0,
+  "hint": "music with words",
+  "hint_context": "sing a song",
+  "example_marks": [
+   {
+    "text": "piosenka",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "połowa",
+  "front": "połowa",
+  "lemma": "połowa",
+  "back": "half",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "one of two equal parts (noun)",
+  "examples": [
+   "Połowa gości już poszła."
+  ],
+  "examples_en": [
+   "Half the guests have already left."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 5.26,
+  "share": 98.0,
+  "hint": "noun: half of something",
+  "hint_context": "half of the cake",
+  "example_marks": [
+   {
+    "text": "Połowa",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "sprawdzić",
   "front": "sprawdzić",
   "lemma": "sprawdzić",
@@ -13456,6 +13975,39 @@
   ],
   "aspect": "pf",
   "aspect_pair": "sprawdzać"
+ },
+ {
+  "id": "słuchać",
+  "front": "słuchać",
+  "lemma": "słuchać",
+  "back": "listen",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to listen (+ genitive)",
+  "examples": [
+   "Słuchaj, mam dla ciebie dobrą wiadomość!"
+  ],
+  "examples_en": [
+   "Listen, I've got good news for you!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.26,
+  "share": 98.0,
+  "hint": "with your ears",
+  "hint_context": "listen to music",
+  "example_marks": [
+   {
+    "text": "Słuchaj",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "posłuchać"
  },
  {
   "id": "jaki#2",
@@ -13493,6 +14045,38 @@
     "nth": 1
    }
   ]
+ },
+ {
+  "id": "listopad",
+  "front": "listopad",
+  "lemma": "listopad",
+  "back": "November",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "the eleventh month",
+  "examples": [
+   "W listopadzie często pada deszcz."
+  ],
+  "examples_en": [
+   "It often rains in November."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.24,
+  "share": 98.0,
+  "hint": "month",
+  "hint_context": "in November",
+  "example_marks": [
+   {
+    "text": "listopadzie",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
  },
  {
   "id": "trwać",
@@ -13777,6 +14361,39 @@
   ]
  },
  {
+  "id": "idealny",
+  "front": "idealny",
+  "lemma": "idealny",
+  "back": "perfect",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "ideal"
+  ],
+  "definition": "without fault; exactly right",
+  "examples": [
+   "To idealne miejsce na piknik."
+  ],
+  "examples_en": [
+   "It's the perfect place for a picnic."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 5.21,
+  "share": 98.0,
+  "hint": "exactly right",
+  "hint_context": "the perfect gift",
+  "example_marks": [
+   {
+    "text": "idealne",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "jeść",
   "front": "jeść",
   "lemma": "jeść",
@@ -13906,6 +14523,40 @@
     "nth": 1
    }
   ]
+ },
+ {
+  "id": "woleć",
+  "front": "woleć",
+  "lemma": "woleć",
+  "back": "prefer",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "would rather"
+  ],
+  "definition": "to like better",
+  "examples": [
+   "Wolę herbatę niż kawę."
+  ],
+  "examples_en": [
+   "I prefer tea to coffee."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.21,
+  "share": 98.0,
+  "hint": "like better",
+  "hint_context": "I'd rather",
+  "example_marks": [
+   {
+    "text": "Wolę",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf"
  },
  {
   "id": "sprawa#2",
@@ -14217,6 +14868,39 @@
   "example_marks": [
    {
     "text": "silny",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "stacja",
+  "front": "stacja",
+  "lemma": "stacja",
+  "back": "station",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "stop"
+  ],
+  "definition": "a stop on a line; also a gas or metro station",
+  "examples": [
+   "Wysiadamy na następnej stacji."
+  ],
+  "examples_en": [
+   "We're getting off at the next station."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 5.17,
+  "share": 98.0,
+  "hint": "stop on a line, metro, gas",
+  "hint_context": "the next station",
+  "example_marks": [
+   {
+    "text": "stacji",
     "nth": 1
    }
   ]
@@ -14559,6 +15243,37 @@
   "number": "pl"
  },
  {
+  "id": "wczoraj",
+  "front": "wczoraj",
+  "lemma": "wczoraj",
+  "back": "yesterday",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "on the day before today",
+  "examples": [
+   "Wczoraj było bardzo zimno."
+  ],
+  "examples_en": [
+   "It was very cold yesterday."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 5.14,
+  "share": 98.0,
+  "hint": "day before today",
+  "hint_context": "yesterday evening",
+  "example_marks": [
+   {
+    "text": "Wczoraj",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "odpowiadać",
   "front": "odpowiadać",
   "lemma": "odpowiadać",
@@ -14692,6 +15407,40 @@
   ]
  },
  {
+  "id": "źle",
+  "front": "źle",
+  "lemma": "źle",
+  "back": "badly",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "bad",
+   "wrong"
+  ],
+  "definition": "in a bad way ('źle się czuję' = I don't feel well)",
+  "examples": [
+   "Źle spałem tej nocy."
+  ],
+  "examples_en": [
+   "I slept badly last night."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 5.13,
+  "share": 98.0,
+  "hint": "not well",
+  "hint_context": "feel bad",
+  "example_marks": [
+   {
+    "text": "Źle",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "jedzenie",
   "front": "jedzenie",
   "lemma": "jedzenie",
@@ -14753,6 +15502,39 @@
    }
   ],
   "animacy": "inan"
+ },
+ {
+  "id": "mieszkanie",
+  "front": "mieszkanie",
+  "lemma": "mieszkanie",
+  "back": "apartment",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "flat"
+  ],
+  "definition": "an apartment",
+  "examples": [
+   "Szukamy większego mieszkania."
+  ],
+  "examples_en": [
+   "We're looking for a bigger apartment."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 5.12,
+  "share": 98.0,
+  "hint": "home in a building",
+  "hint_context": "rent an apartment",
+  "example_marks": [
+   {
+    "text": "mieszkania",
+    "nth": 1
+   }
+  ]
  },
  {
   "id": "spać",

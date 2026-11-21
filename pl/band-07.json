@@ -33,6 +33,147 @@
   "aspect_pair": "westchnąć"
  },
  {
+  "id": "lekarka",
+  "front": "lekarka",
+  "lemma": "lekarka",
+  "back": "doctor",
+  "band": 7,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "physician"
+  ],
+  "definition": "a woman doctor",
+  "examples": [
+   "Moja lekarka jest bardzo miła."
+  ],
+  "examples_en": [
+   "My doctor is very nice."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 3.17,
+  "share": 98.0,
+  "hint": "physician, woman",
+  "hint_context": "a woman doctor",
+  "example_marks": [
+   {
+    "text": "lekarka",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "lepić",
+  "front": "lepić",
+  "lemma": "lepić",
+  "back": "make",
+  "band": 7,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "mold",
+   "build"
+  ],
+  "definition": "to shape with the hands (pierogi, a snowman)",
+  "examples": [
+   "Babcia lepi pierogi w kuchni."
+  ],
+  "examples_en": [
+   "Grandma is making pierogi in the kitchen."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 3.08,
+  "share": 98.0,
+  "hint": "shape by hand",
+  "hint_context": "make pierogi",
+  "example_marks": [
+   {
+    "text": "lepi",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "ulepić"
+ },
+ {
+  "id": "kichać",
+  "front": "kichać",
+  "lemma": "kichać",
+  "back": "sneeze",
+  "band": 7,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to sneeze",
+  "examples": [
+   "Kot kicha od rana."
+  ],
+  "examples_en": [
+   "The cat's been sneezing since morning."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 3.07,
+  "share": 98.0,
+  "hint": "nose",
+  "hint_context": "sneeze loudly",
+  "example_marks": [
+   {
+    "text": "kicha",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "kichnąć"
+ },
+ {
+  "id": "suchar",
+  "front": "suchar",
+  "lemma": "suchar",
+  "back": "rusk",
+  "band": 7,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "zwieback",
+   "cracker"
+  ],
+  "definition": "a dry toasted biscuit",
+  "examples": [
+   "Przy chorym brzuchu jem tylko suchary."
+  ],
+  "examples_en": [
+   "When my stomach is upset I eat only rusks."
+  ],
+  "claude": true,
+  "topic": "food",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 3.18,
+  "lemma_id": "suchar",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Przy chorym brzuchu jem tylko suchary.",
+  "share": 70.0,
+  "hint": "dry biscuit",
+  "hint_context": "tea and rusks",
+  "example_marks": [
+   {
+    "text": "suchary",
+    "nth": 1
+   }
+  ],
+  "animacy": "anim"
+ },
+ {
   "id": "kelnerka",
   "front": "kelnerka",
   "lemma": "kelnerka",

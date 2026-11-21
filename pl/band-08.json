@@ -1,5 +1,38 @@
 [
  {
+  "id": "sprzedawczyni",
+  "front": "sprzedawczyni",
+  "lemma": "sprzedawczyni",
+  "back": "saleswoman",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "sales clerk"
+  ],
+  "definition": "a woman who sells in a store",
+  "examples": [
+   "Sprzedawczyni poleciła mi ten sweter."
+  ],
+  "examples_en": [
+   "The sales clerk recommended this sweater to me."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 2.97,
+  "share": 98.0,
+  "hint": "woman in a store",
+  "hint_context": "ask the sales clerk",
+  "example_marks": [
+   {
+    "text": "Sprzedawczyni",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "drożdżówka",
   "front": "drożdżówka",
   "lemma": "drożdżówka",
@@ -62,6 +95,77 @@
     "nth": 1
    }
   ]
+ },
+ {
+  "id": "kaszleć",
+  "front": "kaszleć",
+  "lemma": "kaszleć",
+  "back": "cough",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to cough",
+  "examples": [
+   "Od tygodnia kaszlę i mam katar."
+  ],
+  "examples_en": [
+   "I've been coughing and had a runny nose for a week."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 2.74,
+  "share": 98.0,
+  "hint": "illness",
+  "hint_context": "cough a lot",
+  "example_marks": [
+   {
+    "text": "kaszlę",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "kaszlnąć"
+ },
+ {
+  "id": "suchar#2",
+  "front": "suchar",
+  "lemma": "suchar",
+  "back": "lame joke",
+  "band": 8,
+  "kind": "word",
+  "register": "informal",
+  "alts": [
+   "dad joke"
+  ],
+  "definition": "a corny joke (colloquial)",
+  "examples": [
+   "Tata znowu opowiada suchary."
+  ],
+  "examples_en": [
+   "Dad's telling his corny jokes again."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 3.18,
+  "lemma_id": "suchar",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Tata znowu opowiada suchary.",
+  "share": 28.0,
+  "hint": "colloquial: corny joke",
+  "hint_context": "a dad joke",
+  "example_marks": [
+   {
+    "text": "suchary",
+    "nth": 1
+   }
+  ],
+  "animacy": "anim"
  },
  {
   "id": "bać się",

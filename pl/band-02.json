@@ -415,6 +415,70 @@
   ]
  },
  {
+  "id": "sześć",
+  "front": "sześć",
+  "lemma": "sześć",
+  "back": "six",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "the number 6",
+  "examples": [
+   "Mamy sześć krzeseł i ośmiu gości."
+  ],
+  "examples_en": [
+   "We have six chairs and eight guests."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Numeral",
+  "gender": "",
+  "zipf": 4.97,
+  "share": 98.0,
+  "hint": "number 6",
+  "hint_context": "six chairs",
+  "example_marks": [
+   {
+    "text": "sześć",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "wreszcie",
+  "front": "wreszcie",
+  "lemma": "wreszcie",
+  "back": "finally",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "at last"
+  ],
+  "definition": "after a long time",
+  "examples": [
+   "Wreszcie jesteś! Czekamy od godziny."
+  ],
+  "examples_en": [
+   "You're finally here! We've been waiting for an hour."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 4.97,
+  "share": 98.0,
+  "hint": "at last",
+  "hint_context": "finally!",
+  "example_marks": [
+   {
+    "text": "Wreszcie",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "bo~particle",
   "front": "bo",
   "lemma": "bo",
@@ -482,6 +546,40 @@
    }
   ],
   "animacy": "anim"
+ },
+ {
+  "id": "usta",
+  "front": "usta",
+  "lemma": "usta",
+  "back": "mouth",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "lips"
+  ],
+  "definition": "the mouth, the lips (plural only)",
+  "examples": [
+   "Nie mów z pełnymi ustami."
+  ],
+  "examples_en": [
+   "Don't talk with your mouth full."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "",
+  "zipf": 4.96,
+  "share": 98.0,
+  "hint": "lips, neutral word",
+  "hint_context": "wipe your mouth",
+  "example_marks": [
+   {
+    "text": "ustami",
+    "nth": 1
+   }
+  ],
+  "number": "pl"
  },
  {
   "id": "łóżko",
@@ -620,6 +718,41 @@
   "aspect_pair": "przyjść"
  },
  {
+  "id": "zjeść",
+  "front": "zjeść",
+  "lemma": "zjeść",
+  "back": "eat",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "eat up"
+  ],
+  "definition": "to eat, to finish eating, once",
+  "examples": [
+   "Zjedz zupę, zanim wystygnie."
+  ],
+  "examples_en": [
+   "Eat your soup before it gets cold."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.95,
+  "share": 98.0,
+  "hint": "eat up, once",
+  "hint_context": "eat it all",
+  "example_marks": [
+   {
+    "text": "Zjedz",
+    "nth": 1
+   }
+  ],
+  "aspect": "pf",
+  "aspect_pair": "jeść"
+ },
+ {
   "id": "prosić#2",
   "front": "prosić",
   "lemma": "prosić",
@@ -657,6 +790,41 @@
   ],
   "aspect": "impf",
   "aspect_pair": "poprosić"
+ },
+ {
+  "id": "boleć",
+  "front": "boleć",
+  "lemma": "boleć",
+  "back": "hurt",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "ache"
+  ],
+  "definition": "'boli mnie ...' = my ... hurts",
+  "examples": [
+   "Boli mnie ząb."
+  ],
+  "examples_en": [
+   "I have a toothache."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.94,
+  "share": 98.0,
+  "hint": "pain",
+  "hint_context": "my head hurts",
+  "example_marks": [
+   {
+    "text": "Boli",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "zaboleć"
  },
  {
   "id": "hotel",
@@ -726,6 +894,39 @@
   ],
   "aspect": "impf",
   "aspect_pair": "zmartwić się"
+ },
+ {
+  "id": "wizyta",
+  "front": "wizyta",
+  "lemma": "wizyta",
+  "back": "appointment",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "visit"
+  ],
+  "definition": "an appointment (doctor) or a visit",
+  "examples": [
+   "Mam wizytę u dentysty o trzeciej."
+  ],
+  "examples_en": [
+   "I have a dentist appointment at three."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 4.94,
+  "share": 98.0,
+  "hint": "doctor, visit",
+  "hint_context": "make an appointment",
+  "example_marks": [
+   {
+    "text": "wizytę",
+    "nth": 1
+   }
+  ]
  },
  {
   "id": "iść#2",
@@ -802,6 +1003,38 @@
     "nth": 1
    }
   ]
+ },
+ {
+  "id": "strach",
+  "front": "strach",
+  "lemma": "strach",
+  "back": "fear",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "fear ('ze strachu' = out of fear)",
+  "examples": [
+   "Dziecko płakało ze strachu."
+  ],
+  "examples_en": [
+   "The child was crying out of fear."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.93,
+  "share": 98.0,
+  "hint": "noun: being afraid",
+  "hint_context": "shaking with fear",
+  "example_marks": [
+   {
+    "text": "strachu",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
  },
  {
   "id": "weekend",
@@ -976,6 +1209,69 @@
   ]
  },
  {
+  "id": "bilet",
+  "front": "bilet",
+  "lemma": "bilet",
+  "back": "ticket",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a ticket for travel or an event",
+  "examples": [
+   "Kupiłeś już bilety na koncert?"
+  ],
+  "examples_en": [
+   "Have you bought the concert tickets yet?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.9,
+  "share": 98.0,
+  "hint": "travel, event",
+  "hint_context": "a train ticket",
+  "example_marks": [
+   {
+    "text": "bilety",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
+  "id": "gorący",
+  "front": "gorący",
+  "lemma": "gorący",
+  "back": "hot",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "having a high temperature",
+  "examples": [
+   "Uważaj, herbata jest gorąca!"
+  ],
+  "examples_en": [
+   "Careful, the tea is hot!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 4.9,
+  "share": 98.0,
+  "hint": "adjective: high temperature",
+  "hint_context": "hot tea",
+  "example_marks": [
+   {
+    "text": "gorąca",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "kosztować",
   "front": "kosztować",
   "lemma": "kosztować",
@@ -1041,6 +1337,41 @@
     "nth": 1
    }
   ]
+ },
+ {
+  "id": "jeździć",
+  "front": "jeździć",
+  "lemma": "jeździć",
+  "back": "go",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "drive",
+   "ride"
+  ],
+  "definition": "to travel by vehicle regularly or in various directions",
+  "examples": [
+   "Do pracy jeżdżę rowerem."
+  ],
+  "examples_en": [
+   "I ride my bike to work."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.89,
+  "share": 98.0,
+  "hint": "by vehicle, regularly",
+  "hint_context": "drive to work",
+  "example_marks": [
+   {
+    "text": "jeżdżę",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf"
  },
  {
   "id": "pociąg",
@@ -1137,6 +1468,74 @@
   ],
   "aspect": "impf",
   "aspect_pair": "sprzedać"
+ },
+ {
+  "id": "dochodzić",
+  "front": "dochodzić",
+  "lemma": "dochodzić",
+  "back": "reach",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "get to"
+  ],
+  "definition": "to arrive at a place on foot",
+  "examples": [
+   "Dochodzimy już do domu."
+  ],
+  "examples_en": [
+   "We're almost home."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.88,
+  "share": 98.0,
+  "hint": "arrive on foot",
+  "hint_context": "get to the top",
+  "example_marks": [
+   {
+    "text": "Dochodzimy",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "dojść"
+ },
+ {
+  "id": "radość",
+  "front": "radość",
+  "lemma": "radość",
+  "back": "joy",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "happiness"
+  ],
+  "definition": "great happiness",
+  "examples": [
+   "Dzieci skakały z radości."
+  ],
+  "examples_en": [
+   "The children jumped for joy."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 4.88,
+  "share": 98.0,
+  "hint": "great happiness",
+  "hint_context": "jump for joy",
+  "example_marks": [
+   {
+    "text": "radości",
+    "nth": 1
+   }
+  ]
  },
  {
   "id": "witać",
@@ -1348,6 +1747,72 @@
   "animacy": "inan"
  },
  {
+  "id": "ciepły",
+  "front": "ciepły",
+  "lemma": "ciepły",
+  "back": "warm",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "pleasantly hot",
+  "examples": [
+   "Załóż ciepły sweter."
+  ],
+  "examples_en": [
+   "Put on a warm sweater."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 4.86,
+  "share": 98.0,
+  "hint": "adjective: pleasantly hot",
+  "hint_context": "a warm jacket",
+  "example_marks": [
+   {
+    "text": "ciepły",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "lekki",
+  "front": "lekki",
+  "lemma": "lekki",
+  "back": "light",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "not heavy",
+  "examples": [
+   "Ta walizka jest lekka."
+  ],
+  "examples_en": [
+   "This suitcase is light."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 4.94,
+  "lemma_id": "lekki",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Ta walizka jest lekka.",
+  "share": 80.0,
+  "hint": "not heavy",
+  "hint_context": "a light bag",
+  "example_marks": [
+   {
+    "text": "lekka",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "ciężko",
   "front": "ciężko",
   "lemma": "ciężko",
@@ -1448,6 +1913,38 @@
   ],
   "aspect": "impf",
   "aspect_pair": "krzyknąć"
+ },
+ {
+  "id": "poniedziałek",
+  "front": "poniedziałek",
+  "lemma": "poniedziałek",
+  "back": "Monday",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "the first day of the week",
+  "examples": [
+   "W poniedziałek wracam do pracy."
+  ],
+  "examples_en": [
+   "On Monday I'm going back to work."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.84,
+  "share": 98.0,
+  "hint": "day of the week",
+  "hint_context": "on Monday",
+  "example_marks": [
+   {
+    "text": "poniedziałek",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
  },
  {
   "id": "sąsiad",
@@ -1575,6 +2072,40 @@
   "example_marks": [
    {
     "text": "czwartego",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "ubranie",
+  "front": "ubranie",
+  "lemma": "ubranie",
+  "back": "clothes",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "clothing",
+   "outfit"
+  ],
+  "definition": "clothes ('ubrania' = clothing in general)",
+  "examples": [
+   "Spakuj ubrania na trzy dni."
+  ],
+  "examples_en": [
+   "Pack clothes for three days."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 4.82,
+  "share": 98.0,
+  "hint": "what you wear",
+  "hint_context": "warm clothes",
+  "example_marks": [
+   {
+    "text": "ubrania",
     "nth": 1
    }
   ]
@@ -1913,6 +2444,43 @@
   "animacy": "inan"
  },
  {
+  "id": "kasa",
+  "front": "kasa",
+  "lemma": "kasa",
+  "back": "checkout",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "register"
+  ],
+  "definition": "the place where you pay in a store",
+  "examples": [
+   "Zapłać przy kasie numer dwa."
+  ],
+  "examples_en": [
+   "Pay at checkout two."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 5.08,
+  "lemma_id": "kasa",
+  "sense_index": 1,
+  "sense_count": 3,
+  "cue": "Zapłać przy kasie numer dwa.",
+  "share": 50.0,
+  "hint": "pay in a store",
+  "hint_context": "at the checkout",
+  "example_marks": [
+   {
+    "text": "kasie",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "duży#2",
   "front": "duży",
   "lemma": "duży",
@@ -1983,6 +2551,38 @@
   ]
  },
  {
+  "id": "plecy",
+  "front": "plecy",
+  "lemma": "plecy",
+  "back": "back",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "the back of the body (plural only)",
+  "examples": [
+   "Po pracy w ogrodzie bolą mnie plecy."
+  ],
+  "examples_en": [
+   "My back hurts after working in the garden."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "",
+  "zipf": 4.78,
+  "share": 98.0,
+  "hint": "body part",
+  "hint_context": "a sore back",
+  "example_marks": [
+   {
+    "text": "plecy",
+    "nth": 1
+   }
+  ],
+  "number": "pl"
+ },
+ {
   "id": "zakupy",
   "front": "zakupy",
   "lemma": "zakupy",
@@ -2015,6 +2615,37 @@
    }
   ],
   "number": "pl"
+ },
+ {
+  "id": "zima",
+  "front": "zima",
+  "lemma": "zima",
+  "back": "winter",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "winter ('zimą' = in winter)",
+  "examples": [
+   "Zimą jeździmy na narty."
+  ],
+  "examples_en": [
+   "In winter we go skiing."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 4.78,
+  "share": 98.0,
+  "hint": "season",
+  "hint_context": "in the winter",
+  "example_marks": [
+   {
+    "text": "Zimą",
+    "nth": 1
+   }
+  ]
  },
  {
   "id": "karta#2",
@@ -2158,6 +2789,37 @@
   ]
  },
  {
+  "id": "dziesięć",
+  "front": "dziesięć",
+  "lemma": "dziesięć",
+  "back": "ten",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "the number 10",
+  "examples": [
+   "Czekam już dziesięć minut."
+  ],
+  "examples_en": [
+   "I've been waiting ten minutes already."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Numeral",
+  "gender": "",
+  "zipf": 4.76,
+  "share": 98.0,
+  "hint": "number 10",
+  "hint_context": "ten minutes",
+  "example_marks": [
+   {
+    "text": "dziesięć",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "ogród",
   "front": "ogród",
   "lemma": "ogród",
@@ -2290,6 +2952,73 @@
   "animacy": "inan"
  },
  {
+  "id": "dzwonić",
+  "front": "dzwonić",
+  "lemma": "dzwonić",
+  "back": "call",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "phone",
+   "ring"
+  ],
+  "definition": "to phone someone ('dzwonić do' + genitive); to ring",
+  "examples": [
+   "Dzwonię do mamy co niedzielę."
+  ],
+  "examples_en": [
+   "I call my mom every Sunday."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.73,
+  "share": 98.0,
+  "hint": "by phone",
+  "hint_context": "call me",
+  "example_marks": [
+   {
+    "text": "Dzwonię",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "zadzwonić"
+ },
+ {
+  "id": "niemożliwy",
+  "front": "niemożliwy",
+  "lemma": "niemożliwy",
+  "back": "impossible",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "that cannot be done or be true",
+  "examples": [
+   "To niemożliwe, przecież widziałem go wczoraj!"
+  ],
+  "examples_en": [
+   "That's impossible, I saw him yesterday!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 4.73,
+  "share": 98.0,
+  "hint": "cannot be",
+  "hint_context": "that's impossible",
+  "example_marks": [
+   {
+    "text": "niemożliwe",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "kuchnia",
   "front": "kuchnia",
   "lemma": "kuchnia",
@@ -2351,6 +3080,40 @@
   "example_marks": [
    {
     "text": "herbaty",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "tablica",
+  "front": "tablica",
+  "lemma": "tablica",
+  "back": "board",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "display",
+   "blackboard"
+  ],
+  "definition": "a board: departures board, blackboard, sign",
+  "examples": [
+   "Sprawdź na tablicy, z którego peronu odjeżdża pociąg."
+  ],
+  "examples_en": [
+   "Check on the board which platform the train leaves from."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 4.71,
+  "share": 98.0,
+  "hint": "display, blackboard",
+  "hint_context": "departures board",
+  "example_marks": [
+   {
+    "text": "tablicy",
     "nth": 1
    }
   ]
@@ -2457,6 +3220,38 @@
     "nth": 1
    }
   ]
+ },
+ {
+  "id": "rozmiar",
+  "front": "rozmiar",
+  "lemma": "rozmiar",
+  "back": "size",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "the size of clothes, shoes, etc.",
+  "examples": [
+   "Jaki rozmiar butów pan nosi?"
+  ],
+  "examples_en": [
+   "What shoe size do you wear, sir?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.69,
+  "share": 98.0,
+  "hint": "clothes, shoes",
+  "hint_context": "the right size",
+  "example_marks": [
+   {
+    "text": "rozmiar",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
  },
  {
   "id": "smak",
@@ -2764,6 +3559,39 @@
   ]
  },
  {
+  "id": "głośno",
+  "front": "głośno",
+  "lemma": "głośno",
+  "back": "loudly",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "loud"
+  ],
+  "definition": "with a lot of noise",
+  "examples": [
+   "Sąsiedzi zawsze słuchają muzyki bardzo głośno."
+  ],
+  "examples_en": [
+   "The neighbors always play music very loud."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 4.63,
+  "share": 98.0,
+  "hint": "lots of noise",
+  "hint_context": "speak loudly",
+  "example_marks": [
+   {
+    "text": "głośno",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "pizza",
   "front": "pizza",
   "lemma": "pizza",
@@ -2834,6 +3662,43 @@
   "aspect_pair": "prosić"
  },
  {
+  "id": "budzić się",
+  "front": "budzić się",
+  "lemma": "budzić się",
+  "back": "wake up",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to wake up (in progress or regularly)",
+  "examples": [
+   "Codziennie budzę się o szóstej."
+  ],
+  "examples_en": [
+   "I wake up at six every day."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.62,
+  "share": 98.0,
+  "hint": "stop sleeping",
+  "hint_context": "wake up early",
+  "example_marks": [
+   {
+    "text": "budzę",
+    "nth": 1
+   },
+   {
+    "text": "się",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "obudzić się"
+ },
+ {
   "id": "kieszeń",
   "front": "kieszeń",
   "lemma": "kieszeń",
@@ -2860,6 +3725,40 @@
   "example_marks": [
    {
     "text": "kieszeni",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "kula",
+  "front": "kula",
+  "lemma": "kula",
+  "back": "ball",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "sphere",
+   "snowball"
+  ],
+  "definition": "a ball or sphere ('kula śnieżna' = snowball)",
+  "examples": [
+   "Dzieci rzucają się kulami śniegowymi."
+  ],
+  "examples_en": [
+   "The kids are throwing snowballs at each other."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 4.62,
+  "share": 98.0,
+  "hint": "round shape",
+  "hint_context": "a snowball",
+  "example_marks": [
+   {
+    "text": "kulami",
     "nth": 1
    }
   ]
@@ -3006,6 +3905,41 @@
   "aspect_pair": "zamawiać"
  },
  {
+  "id": "zdążyć",
+  "front": "zdążyć",
+  "lemma": "zdążyć",
+  "back": "make it",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "be in time"
+  ],
+  "definition": "to manage in time",
+  "examples": [
+   "Zdążyłeś na autobus?"
+  ],
+  "examples_en": [
+   "Did you make the bus?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.61,
+  "share": 98.0,
+  "hint": "in time",
+  "hint_context": "make it on time",
+  "example_marks": [
+   {
+    "text": "Zdążyłeś",
+    "nth": 1
+   }
+  ],
+  "aspect": "pf",
+  "aspect_pair": "zdążać"
+ },
+ {
   "id": "kolano",
   "front": "kolano",
   "lemma": "kolano",
@@ -3076,6 +4010,43 @@
   ]
  },
  {
+  "id": "południe",
+  "front": "południe",
+  "lemma": "południe",
+  "back": "noon",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "midday"
+  ],
+  "definition": "twelve o'clock in the day ('w południe' = at noon)",
+  "examples": [
+   "Spotkajmy się w południe."
+  ],
+  "examples_en": [
+   "Let's meet at noon."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 4.93,
+  "lemma_id": "południe",
+  "sense_index": 1,
+  "sense_count": 3,
+  "cue": "Spotkajmy się w południe.",
+  "share": 45.0,
+  "hint": "12 in the day",
+  "hint_context": "at noon",
+  "example_marks": [
+   {
+    "text": "południe",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "północ#2",
   "front": "północ",
   "lemma": "północ",
@@ -3111,6 +4082,40 @@
   ]
  },
  {
+  "id": "wesoły",
+  "front": "wesoły",
+  "lemma": "wesoły",
+  "back": "cheerful",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "merry",
+   "happy"
+  ],
+  "definition": "in a good mood; cheerful",
+  "examples": [
+   "Życzymy wam wesołych świąt!"
+  ],
+  "examples_en": [
+   "We wish you a merry Christmas!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 4.59,
+  "share": 98.0,
+  "hint": "good mood",
+  "hint_context": "a cheerful song",
+  "example_marks": [
+   {
+    "text": "wesołych",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "niespodzianka",
   "front": "niespodzianka",
   "lemma": "niespodzianka",
@@ -3140,6 +4145,38 @@
     "nth": 1
    }
   ]
+ },
+ {
+  "id": "śnieg",
+  "front": "śnieg",
+  "lemma": "śnieg",
+  "back": "snow",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "snow ('pada śnieg' = it's snowing)",
+  "examples": [
+   "Pada śnieg, dzieci są szczęśliwe."
+  ],
+  "examples_en": [
+   "It's snowing and the kids are happy."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.58,
+  "share": 98.0,
+  "hint": "white, cold",
+  "hint_context": "it's snowing",
+  "example_marks": [
+   {
+    "text": "śnieg",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
  },
  {
   "id": "miasteczko",
@@ -3242,6 +4279,74 @@
    }
   ],
   "animacy": "inan"
+ },
+ {
+  "id": "kasa#2",
+  "front": "kasa",
+  "lemma": "kasa",
+  "back": "ticket office",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "box office"
+  ],
+  "definition": "the place where tickets are sold",
+  "examples": [
+   "Kasa biletowa jest otwarta od szóstej."
+  ],
+  "examples_en": [
+   "The ticket office is open from six."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 5.08,
+  "lemma_id": "kasa",
+  "sense_index": 2,
+  "sense_count": 3,
+  "cue": "Kasa biletowa jest otwarta od szóstej.",
+  "share": 30.0,
+  "hint": "buy tickets",
+  "hint_context": "at the ticket office",
+  "example_marks": [
+   {
+    "text": "Kasa",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "dziura",
+  "front": "dziura",
+  "lemma": "dziura",
+  "back": "hole",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a hole",
+  "examples": [
+   "Masz dziurę w skarpetce."
+  ],
+  "examples_en": [
+   "You have a hole in your sock."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 4.56,
+  "share": 98.0,
+  "hint": "opening, gap",
+  "hint_context": "a hole in the road",
+  "example_marks": [
+   {
+    "text": "dziurę",
+    "nth": 1
+   }
+  ]
  },
  {
   "id": "tańczyć",

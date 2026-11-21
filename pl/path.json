@@ -18,7 +18,13 @@
     "u-pl-L1-08",
     "u-pl-L1-09",
     "u-pl-L1-10",
-    "cp-pl-L1-2"
+    "cp-pl-L1-2",
+    "u-pl-L1-11",
+    "u-pl-L1-12",
+    "u-pl-L1-13",
+    "u-pl-L1-14",
+    "u-pl-L1-15",
+    "cp-pl-L1-3"
    ]
   }
  ],
@@ -678,6 +684,336 @@
       "u-pl-L1-08",
       "u-pl-L1-09",
       "u-pl-L1-10"
+     ],
+     "count": 15
+    }
+   ]
+  },
+  {
+   "id": "u-pl-L1-11",
+   "level": 1,
+   "index": 13,
+   "title": "Na dworcu",
+   "title_en": "At the train station",
+   "series": null,
+   "part": null,
+   "nodes": [
+    {
+     "id": "pl-L1-11:words",
+     "type": "words",
+     "title": "Słowa",
+     "story": "pl-L1-11",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "pl-L1-11:story",
+     "type": "story",
+     "title": "Opowiadanie",
+     "story": "pl-L1-11"
+    },
+    {
+     "id": "pl-L1-11:sentences",
+     "type": "sentences",
+     "title": "Zdania",
+     "story": "pl-L1-11",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "pl-L1-11:speak",
+     "type": "speak",
+     "title": "Mów",
+     "scenario": "train_station",
+     "targets": [
+      "bilet",
+      "pociąg",
+      "peron",
+      "ile"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "pl-L1-11:write",
+     "type": "write",
+     "title": "Pisz",
+     "story": "pl-L1-11",
+     "prompt_en": "Retell \"Na dworcu\" in 2–3 Polish sentences.",
+     "use": [
+      "bilet",
+      "pociąg"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-pl-L1-12",
+   "level": 1,
+   "index": 14,
+   "title": "Nowa kurtka",
+   "title_en": "A new jacket",
+   "series": null,
+   "part": null,
+   "nodes": [
+    {
+     "id": "pl-L1-12:words",
+     "type": "words",
+     "title": "Słowa",
+     "story": "pl-L1-12",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "pl-L1-12:story",
+     "type": "story",
+     "title": "Opowiadanie",
+     "story": "pl-L1-12"
+    },
+    {
+     "id": "pl-L1-12:sentences",
+     "type": "sentences",
+     "title": "Zdania",
+     "story": "pl-L1-12",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "pl-L1-12:speak",
+     "type": "speak",
+     "title": "Mów",
+     "scenario": "clothes_shop",
+     "targets": [
+      "kurtka",
+      "rozmiar",
+      "szukać",
+      "ile"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "pl-L1-12:write",
+     "type": "write",
+     "title": "Pisz",
+     "story": "pl-L1-12",
+     "prompt_en": "Retell \"Nowa kurtka\" in 2–3 Polish sentences.",
+     "use": [
+      "kurtka",
+      "kupować"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-pl-L1-13",
+   "level": 1,
+   "index": 15,
+   "title": "U lekarza",
+   "title_en": "At the doctor's",
+   "series": null,
+   "part": null,
+   "nodes": [
+    {
+     "id": "pl-L1-13:words",
+     "type": "words",
+     "title": "Słowa",
+     "story": "pl-L1-13",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "pl-L1-13:story",
+     "type": "story",
+     "title": "Opowiadanie",
+     "story": "pl-L1-13"
+    },
+    {
+     "id": "pl-L1-13:sentences",
+     "type": "sentences",
+     "title": "Zdania",
+     "story": "pl-L1-13",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "pl-L1-13:speak",
+     "type": "speak",
+     "title": "Mów",
+     "scenario": "doctor",
+     "targets": [
+      "lekarz",
+      "boleć",
+      "brzuch",
+      "czuć"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "pl-L1-13:write",
+     "type": "write",
+     "title": "Pisz",
+     "story": "pl-L1-13",
+     "prompt_en": "Retell \"U lekarza\" in 2–3 Polish sentences.",
+     "use": [
+      "boleć",
+      "herbata"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-pl-L1-14",
+   "level": 1,
+   "index": 16,
+   "title": "Zima w górach",
+   "title_en": "Winter in the mountains",
+   "series": null,
+   "part": null,
+   "nodes": [
+    {
+     "id": "pl-L1-14:words",
+     "type": "words",
+     "title": "Słowa",
+     "story": "pl-L1-14",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "pl-L1-14:story",
+     "type": "story",
+     "title": "Opowiadanie",
+     "story": "pl-L1-14"
+    },
+    {
+     "id": "pl-L1-14:sentences",
+     "type": "sentences",
+     "title": "Zdania",
+     "story": "pl-L1-14",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "pl-L1-14:speak",
+     "type": "speak",
+     "title": "Mów",
+     "scenario": "winter",
+     "targets": [
+      "śnieg",
+      "zima",
+      "zimno",
+      "ciepło"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "pl-L1-14:write",
+     "type": "write",
+     "title": "Pisz",
+     "story": "pl-L1-14",
+     "prompt_en": "Retell \"Zima w górach\" in 2–3 Polish sentences.",
+     "use": [
+      "śnieg",
+      "góra"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-pl-L1-15",
+   "level": 1,
+   "index": 17,
+   "title": "Przeprowadzka",
+   "title_en": "Moving day",
+   "series": null,
+   "part": null,
+   "nodes": [
+    {
+     "id": "pl-L1-15:words",
+     "type": "words",
+     "title": "Słowa",
+     "story": "pl-L1-15",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "pl-L1-15:story",
+     "type": "story",
+     "title": "Opowiadanie",
+     "story": "pl-L1-15"
+    },
+    {
+     "id": "pl-L1-15:sentences",
+     "type": "sentences",
+     "title": "Zdania",
+     "story": "pl-L1-15",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "pl-L1-15:speak",
+     "type": "speak",
+     "title": "Mów",
+     "scenario": "moving",
+     "targets": [
+      "mieszkanie",
+      "pomóc",
+      "ciężki",
+      "piętro"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "pl-L1-15:write",
+     "type": "write",
+     "title": "Pisz",
+     "story": "pl-L1-15",
+     "prompt_en": "Retell \"Przeprowadzka\" in 2–3 Polish sentences.",
+     "use": [
+      "mieszkanie",
+      "pomóc"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cp-pl-L1-3",
+   "level": 1,
+   "index": 18,
+   "title": "Powtórka",
+   "title_en": "Checkpoint",
+   "series": null,
+   "part": null,
+   "checkpoint": true,
+   "nodes": [
+    {
+     "id": "cp-pl-L1-3:test",
+     "type": "checkpoint",
+     "title": "Powtórka",
+     "units": [
+      "u-pl-L1-11",
+      "u-pl-L1-12",
+      "u-pl-L1-13",
+      "u-pl-L1-14",
+      "u-pl-L1-15"
      ],
      "count": 15
     }

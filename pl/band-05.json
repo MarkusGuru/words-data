@@ -1,5 +1,103 @@
 [
  {
+  "id": "marchewka",
+  "front": "marchewka",
+  "lemma": "marchewka",
+  "back": "carrot",
+  "band": 5,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a carrot",
+  "examples": [
+   "Kroję marchewkę do zupy."
+  ],
+  "examples_en": [
+   "I'm chopping a carrot for the soup."
+  ],
+  "claude": true,
+  "topic": "food",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 3.91,
+  "share": 98.0,
+  "hint": "orange vegetable",
+  "hint_context": "a carrot",
+  "example_marks": [
+   {
+    "text": "marchewkę",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "narty",
+  "front": "narty",
+  "lemma": "narty",
+  "back": "skis",
+  "band": 5,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "skiing"
+  ],
+  "definition": "skis ('jeździć na nartach' = to ski)",
+  "examples": [
+   "Zimą jeździmy na nartach w Alpach."
+  ],
+  "examples_en": [
+   "In winter we ski in the Alps."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "",
+  "zipf": 3.91,
+  "share": 98.0,
+  "hint": "winter sport",
+  "hint_context": "go skiing",
+  "example_marks": [
+   {
+    "text": "nartach",
+    "nth": 1
+   }
+  ],
+  "number": "pl"
+ },
+ {
+  "id": "rękawiczka",
+  "front": "rękawiczka",
+  "lemma": "rękawiczka",
+  "back": "glove",
+  "band": 5,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "mitten"
+  ],
+  "definition": "a glove",
+  "examples": [
+   "Zgubiłem jedną rękawiczkę."
+  ],
+  "examples_en": [
+   "I lost one glove."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 3.91,
+  "share": 98.0,
+  "hint": "for the hand",
+  "hint_context": "a pair of gloves",
+  "example_marks": [
+   {
+    "text": "rękawiczkę",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "zamek#3",
   "front": "zamek",
   "lemma": "zamek",
@@ -38,6 +136,39 @@
   "animacy": "inan"
  },
  {
+  "id": "powrotny",
+  "front": "powrotny",
+  "lemma": "powrotny",
+  "back": "return",
+  "band": 5,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "round-trip"
+  ],
+  "definition": "for the way back ('bilet powrotny' = round-trip ticket)",
+  "examples": [
+   "Kupiłem bilet powrotny do Krakowa."
+  ],
+  "examples_en": [
+   "I bought a round-trip ticket to Kraków."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 3.89,
+  "share": 98.0,
+  "hint": "for the way back",
+  "hint_context": "a round-trip ticket",
+  "example_marks": [
+   {
+    "text": "powrotny",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "ratownik",
   "front": "ratownik",
   "lemma": "ratownik",
@@ -73,6 +204,71 @@
   "animacy": "pers"
  },
  {
+  "id": "pianino",
+  "front": "pianino",
+  "lemma": "pianino",
+  "back": "piano",
+  "band": 5,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "upright piano"
+  ],
+  "definition": "an upright piano",
+  "examples": [
+   "Moja siostra gra na pianinie."
+  ],
+  "examples_en": [
+   "My sister plays the piano."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 3.88,
+  "share": 98.0,
+  "hint": "instrument",
+  "hint_context": "play the piano",
+  "example_marks": [
+   {
+    "text": "pianinie",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "słoik",
+  "front": "słoik",
+  "lemma": "słoik",
+  "back": "jar",
+  "band": 5,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a glass jar",
+  "examples": [
+   "Babcia dała nam słoiki z ogórkami."
+  ],
+  "examples_en": [
+   "Grandma gave us jars of pickles."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 3.87,
+  "share": 98.0,
+  "hint": "glass container",
+  "hint_context": "a jar of jam",
+  "example_marks": [
+   {
+    "text": "słoiki",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
   "id": "kelner",
   "front": "kelner",
   "lemma": "kelner",
@@ -105,6 +301,42 @@
    }
   ],
   "animacy": "pers"
+ },
+ {
+  "id": "pękać",
+  "front": "pękać",
+  "lemma": "pękać",
+  "back": "crack",
+  "band": 5,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "burst",
+   "split"
+  ],
+  "definition": "to crack, to split",
+  "examples": [
+   "Lód na jeziorze pęka."
+  ],
+  "examples_en": [
+   "The ice on the lake is cracking."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 3.83,
+  "share": 98.0,
+  "hint": "split open",
+  "hint_context": "the glass cracks",
+  "example_marks": [
+   {
+    "text": "pęka",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "pęknąć"
  },
  {
   "id": "buzia",
@@ -242,6 +474,78 @@
   "animacy": "inan"
  },
  {
+  "id": "przychodnia",
+  "front": "przychodnia",
+  "lemma": "przychodnia",
+  "back": "clinic",
+  "band": 5,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "doctor's office"
+  ],
+  "definition": "an outpatient clinic",
+  "examples": [
+   "Przychodnia jest otwarta od ósmej."
+  ],
+  "examples_en": [
+   "The clinic opens at eight."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 3.81,
+  "share": 98.0,
+  "hint": "outpatient doctors",
+  "hint_context": "call the clinic",
+  "example_marks": [
+   {
+    "text": "Przychodnia",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "umawiać się",
+  "front": "umawiać się",
+  "lemma": "umawiać się",
+  "back": "make an appointment",
+  "band": 5,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "arrange to meet"
+  ],
+  "definition": "to arrange a meeting or appointment",
+  "examples": [
+   "Umawiam się z lekarzem na piątek."
+  ],
+  "examples_en": [
+   "I'm making an appointment with the doctor for Friday."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 3.8,
+  "share": 98.0,
+  "hint": "arrange a time",
+  "hint_context": "make an appointment",
+  "example_marks": [
+   {
+    "text": "Umawiam",
+    "nth": 1
+   },
+   {
+    "text": "się",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "umówić się"
+ },
+ {
   "id": "kolano#2",
   "front": "kolano",
   "lemma": "kolano",
@@ -275,6 +579,40 @@
     "nth": 1
    }
   ]
+ },
+ {
+  "id": "dżem",
+  "front": "dżem",
+  "lemma": "dżem",
+  "back": "jam",
+  "band": 5,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "jelly"
+  ],
+  "definition": "fruit jam",
+  "examples": [
+   "Na śniadanie jem chleb z dżemem."
+  ],
+  "examples_en": [
+   "For breakfast I have bread with jam."
+  ],
+  "claude": true,
+  "topic": "food",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 3.79,
+  "share": 98.0,
+  "hint": "fruit spread",
+  "hint_context": "strawberry jam",
+  "example_marks": [
+   {
+    "text": "dżemem",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
  },
  {
   "id": "świeczka",
@@ -342,6 +680,43 @@
   "animacy": "anim"
  },
  {
+  "id": "schronisko#2",
+  "front": "schronisko",
+  "lemma": "schronisko",
+  "back": "shelter",
+  "band": 5,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "animal shelter"
+  ],
+  "definition": "an animal shelter",
+  "examples": [
+   "Wzięliśmy psa ze schroniska."
+  ],
+  "examples_en": [
+   "We adopted a dog from the shelter."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 4.29,
+  "lemma_id": "schronisko",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Wzięliśmy psa ze schroniska.",
+  "share": 28.0,
+  "hint": "for animals",
+  "hint_context": "adopt from a shelter",
+  "example_marks": [
+   {
+    "text": "schroniska",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "rezerwacja",
   "front": "rezerwacja",
   "lemma": "rezerwacja",
@@ -373,6 +748,38 @@
     "nth": 1
    }
   ]
+ },
+ {
+  "id": "peron",
+  "front": "peron",
+  "lemma": "peron",
+  "back": "platform",
+  "band": 5,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a railway platform",
+  "examples": [
+   "Pociąg odjeżdża z peronu trzeciego."
+  ],
+  "examples_en": [
+   "The train leaves from platform three."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 3.72,
+  "share": 98.0,
+  "hint": "at the station",
+  "hint_context": "on the platform",
+  "example_marks": [
+   {
+    "text": "peronu",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
  },
  {
   "id": "recepcja",
@@ -434,6 +841,73 @@
   "example_marks": [
    {
     "text": "Sąsiadka",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "wjeżdżać",
+  "front": "wjeżdżać",
+  "lemma": "wjeżdżać",
+  "back": "drive in",
+  "band": 5,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "pull in",
+   "enter"
+  ],
+  "definition": "to come in by vehicle",
+  "examples": [
+   "Pociąg wjeżdża na peron drugi."
+  ],
+  "examples_en": [
+   "The train is pulling into platform two."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 3.62,
+  "share": 98.0,
+  "hint": "enter by vehicle",
+  "hint_context": "pull into the station",
+  "example_marks": [
+   {
+    "text": "wjeżdża",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "wjechać"
+ },
+ {
+  "id": "poczekalnia",
+  "front": "poczekalnia",
+  "lemma": "poczekalnia",
+  "back": "waiting room",
+  "band": 5,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a waiting room",
+  "examples": [
+   "Proszę poczekać w poczekalni."
+  ],
+  "examples_en": [
+   "Please wait in the waiting room."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 3.6,
+  "share": 98.0,
+  "hint": "at a doctor's, station",
+  "hint_context": "in the waiting room",
+  "example_marks": [
+   {
+    "text": "poczekalni",
     "nth": 1
    }
   ]

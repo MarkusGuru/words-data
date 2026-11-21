@@ -105,6 +105,38 @@
   ]
  },
  {
+  "id": "meble",
+  "front": "meble",
+  "lemma": "meble",
+  "back": "furniture",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "furniture (usually plural)",
+  "examples": [
+   "Kupiliśmy nowe meble do kuchni."
+  ],
+  "examples_en": [
+   "We bought new furniture for the kitchen."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "",
+  "zipf": 4.23,
+  "share": 98.0,
+  "hint": "tables, chairs…",
+  "hint_context": "new furniture",
+  "example_marks": [
+   {
+    "text": "meble",
+    "nth": 1
+   }
+  ],
+  "number": "pl"
+ },
+ {
   "id": "winda",
   "front": "winda",
   "lemma": "winda",
@@ -136,6 +168,41 @@
     "nth": 1
    }
   ]
+ },
+ {
+  "id": "wołać",
+  "front": "wołać",
+  "lemma": "wołać",
+  "back": "call",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "shout for"
+  ],
+  "definition": "to call someone with your voice",
+  "examples": [
+   "Mama woła nas na obiad."
+  ],
+  "examples_en": [
+   "Mom is calling us for lunch."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.22,
+  "share": 98.0,
+  "hint": "shout for someone",
+  "hint_context": "call the kids",
+  "example_marks": [
+   {
+    "text": "woła",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "zawołać"
  },
  {
   "id": "młody#2",
@@ -170,6 +237,109 @@
   "example_marks": [
    {
     "text": "młody",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "lekki#2",
+  "front": "lekki",
+  "lemma": "lekki",
+  "back": "easy",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "simple"
+  ],
+  "definition": "not difficult",
+  "examples": [
+   "To nie był lekki egzamin."
+  ],
+  "examples_en": [
+   "It wasn't an easy exam."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 4.94,
+  "lemma_id": "lekki",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "To nie był lekki egzamin.",
+  "share": 18.0,
+  "hint": "not difficult",
+  "hint_context": "an easy job",
+  "example_marks": [
+   {
+    "text": "lekki",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "południe#3",
+  "front": "południe",
+  "lemma": "południe",
+  "back": "afternoon",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "'po południu' = in the afternoon",
+  "examples": [
+   "Po południu idziemy na spacer."
+  ],
+  "examples_en": [
+   "In the afternoon we go for a walk."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 4.93,
+  "lemma_id": "południe",
+  "sense_index": 3,
+  "sense_count": 3,
+  "cue": "Po południu idziemy na spacer.",
+  "share": 18.0,
+  "hint": "po południu",
+  "hint_context": "in the afternoon",
+  "example_marks": [
+   {
+    "text": "południu",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "opóźnienie",
+  "front": "opóźnienie",
+  "lemma": "opóźnienie",
+  "back": "delay",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a delay ('mieć opóźnienie' = be late)",
+  "examples": [
+   "Samolot ma dwie godziny opóźnienia."
+  ],
+  "examples_en": [
+   "The plane is two hours late."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 4.19,
+  "share": 98.0,
+  "hint": "being late",
+  "hint_context": "a long delay",
+  "example_marks": [
+   {
+    "text": "opóźnienia",
     "nth": 1
    }
   ]
@@ -380,6 +550,44 @@
   ]
  },
  {
+  "id": "schronisko",
+  "front": "schronisko",
+  "lemma": "schronisko",
+  "back": "mountain hut",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "hostel",
+   "lodge"
+  ],
+  "definition": "a mountain hut or hostel",
+  "examples": [
+   "Nocowaliśmy w schronisku w górach."
+  ],
+  "examples_en": [
+   "We spent the night in a mountain hut."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 4.29,
+  "lemma_id": "schronisko",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Nocowaliśmy w schronisku w górach.",
+  "share": 70.0,
+  "hint": "in the mountains",
+  "hint_context": "a mountain hut",
+  "example_marks": [
+   {
+    "text": "schronisku",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "dziesiąty",
   "front": "dziesiąty",
   "lemma": "dziesiąty",
@@ -442,6 +650,41 @@
   ]
  },
  {
+  "id": "wagon",
+  "front": "wagon",
+  "lemma": "wagon",
+  "back": "car",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "railroad car",
+   "carriage"
+  ],
+  "definition": "a railway car ('wagon restauracyjny' = dining car)",
+  "examples": [
+   "Nasze miejsca są w wagonie numer sześć."
+  ],
+  "examples_en": [
+   "Our seats are in car number six."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.13,
+  "share": 98.0,
+  "hint": "train car",
+  "hint_context": "the dining car",
+  "example_marks": [
+   {
+    "text": "wagonie",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
   "id": "balkon",
   "front": "balkon",
   "lemma": "balkon",
@@ -472,6 +715,74 @@
    }
   ],
   "animacy": "inan"
+ },
+ {
+  "id": "odpoczywać",
+  "front": "odpoczywać",
+  "lemma": "odpoczywać",
+  "back": "rest",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "relax"
+  ],
+  "definition": "to rest, to relax",
+  "examples": [
+   "W weekend odpoczywam w ogrodzie."
+  ],
+  "examples_en": [
+   "On the weekend I relax in the garden."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.1,
+  "share": 98.0,
+  "hint": "relax, take a break",
+  "hint_context": "rest a bit",
+  "example_marks": [
+   {
+    "text": "odpoczywam",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "odpocząć"
+ },
+ {
+  "id": "krzywy",
+  "front": "krzywy",
+  "lemma": "krzywy",
+  "back": "crooked",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "bent"
+  ],
+  "definition": "not straight",
+  "examples": [
+   "Ta linia jest zupełnie krzywa."
+  ],
+  "examples_en": [
+   "This line is completely crooked."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 4.09,
+  "share": 98.0,
+  "hint": "not straight",
+  "hint_context": "a crooked line",
+  "example_marks": [
+   {
+    "text": "krzywa",
+    "nth": 1
+   }
+  ]
  },
  {
   "id": "kiełbasa",
@@ -613,6 +924,37 @@
   "animacy": "inan"
  },
  {
+  "id": "dziewiąty",
+  "front": "dziewiąty",
+  "lemma": "dziewiąty",
+  "back": "ninth",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "number nine in order ('o dziewiątej' = at nine)",
+  "examples": [
+   "Pociąg odjeżdża o dziewiątej."
+  ],
+  "examples_en": [
+   "The train leaves at nine."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 4.05,
+  "share": 98.0,
+  "hint": "9th; at nine",
+  "hint_context": "at nine o'clock",
+  "example_marks": [
+   {
+    "text": "dziewiątej",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "grill",
   "front": "grill",
   "lemma": "grill",
@@ -645,6 +987,38 @@
    }
   ],
   "animacy": "anim"
+ },
+ {
+  "id": "koc",
+  "front": "koc",
+  "lemma": "koc",
+  "back": "blanket",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a warm blanket",
+  "examples": [
+   "Przykryj się kocem, jest zimno."
+  ],
+  "examples_en": [
+   "Cover yourself with a blanket, it's cold."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.04,
+  "share": 98.0,
+  "hint": "warm cover",
+  "hint_context": "a wool blanket",
+  "example_marks": [
+   {
+    "text": "kocem",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
  },
  {
   "id": "pieróg",
@@ -881,5 +1255,41 @@
    }
   ],
   "animacy": "inan"
+ },
+ {
+  "id": "wsiadać",
+  "front": "wsiadać",
+  "lemma": "wsiadać",
+  "back": "get on",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "get in",
+   "board"
+  ],
+  "definition": "to get on a bus, train or into a car",
+  "examples": [
+   "Wsiadaj, podwiozę cię do domu."
+  ],
+  "examples_en": [
+   "Get in, I'll give you a ride home."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 3.93,
+  "share": 98.0,
+  "hint": "into a vehicle",
+  "hint_context": "get on the bus",
+  "example_marks": [
+   {
+    "text": "Wsiadaj",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "wsiąść"
  }
 ]
