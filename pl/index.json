@@ -57,5 +57,9 @@
    "file": "band-08.json",
    "count": 9
   }
+ ],
+ "grammar": [
+  "grammar-pl-present.json",
+  "grammar-pl-accusative.json"
  ]
 }
