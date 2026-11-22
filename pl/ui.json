@@ -19,6 +19,19 @@
   "path_level": "Poziom {n}",
   "path_caption": "POZIOM {level} · ETAP {n} Z {total}",
   "path_series_part": "{series} · {k} z {m}",
-  "path_checkpoint": "Powtórka"
+  "path_checkpoint": "Powtórka",
+  "end_continue": "Dalej",
+  "grammar_correct": "Dobrze!",
+  "grammar_almost_accent": "Prawie! Sprawdź polskie litery",
+  "grammar_wrong": "Nie całkiem",
+  "write_placeholder": "Napisz po polsku…",
+  "write_well_done": "Świetnie!",
+  "stories_title": "Opowiadania",
+  "story_finished": "Koniec opowiadania!",
+  "story_header": "Opowiadanie 📖",
+  "path_loading": "Ładowanie Podróży…",
+  "path_unavailable": "Podróż nie jest jeszcze dostępna",
+  "path_review_today": "Dzisiejsza powtórka",
+  "reminder_title": "Dzisiaj: twoja sesja polskiego czeka 🇵🇱"
  }
 }

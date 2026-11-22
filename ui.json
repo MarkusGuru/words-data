@@ -19,6 +19,19 @@
   "path_level": "Level {n}",
   "path_caption": "LEVEL {level} · STAGE {n} OF {total}",
   "path_series_part": "{series} · {k} of {m}",
-  "path_checkpoint": "Checkpoint"
+  "path_checkpoint": "Checkpoint",
+  "end_continue": "Continue",
+  "grammar_correct": "Correct!",
+  "grammar_almost_accent": "Almost! Check the accent",
+  "grammar_wrong": "Not quite",
+  "write_placeholder": "Write in English…",
+  "write_well_done": "Well done!",
+  "stories_title": "Stories",
+  "story_finished": "Story finished!",
+  "story_header": "Story 📖",
+  "path_loading": "Loading the path…",
+  "path_unavailable": "The path isn't available yet",
+  "path_review_today": "Today's review",
+  "reminder_title": "Today: your English session is waiting 🇺🇸"
  }
 }

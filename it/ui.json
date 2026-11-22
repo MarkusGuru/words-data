@@ -19,6 +19,19 @@
   "path_level": "Livello {n}",
   "path_caption": "LIVELLO {level} · TAPPA {n} DI {total}",
   "path_series_part": "{series} · {k} di {m}",
-  "path_checkpoint": "Checkpoint"
+  "path_checkpoint": "Checkpoint",
+  "end_continue": "Continua",
+  "grammar_correct": "Corretto!",
+  "grammar_almost_accent": "Quasi! Controlla l'accento",
+  "grammar_wrong": "Non proprio",
+  "write_placeholder": "Scrivi in italiano…",
+  "write_well_done": "Ben fatto!",
+  "stories_title": "Storie",
+  "story_finished": "Storia finita!",
+  "story_header": "Storia 📖",
+  "path_loading": "Caricamento del Percorso…",
+  "path_unavailable": "Il Percorso non è ancora disponibile",
+  "path_review_today": "Ripasso di oggi",
+  "reminder_title": "Oggi: la tua sessione italiana ti aspetta 🇮🇹"
  }
 }
