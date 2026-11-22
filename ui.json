@@ -1,0 +1,24 @@
+{
+ "schema": 1,
+ "lang": "en",
+ "strings": {
+  "tile_path": "Path",
+  "tile_today": "Today",
+  "tile_wordbank": "Word Bank",
+  "tile_add_words": "Add Words",
+  "tile_folders": "My Folders",
+  "tile_readmine": "Read & Mine",
+  "tile_sentences": "Sentence Trainer",
+  "tile_stories": "Stories 📖",
+  "tile_conversation": "Conversation",
+  "tile_mistakes": "My Mistakes",
+  "tile_grammar": "Grammar",
+  "tile_coach": "Error Pattern Coach",
+  "coming_soon": "Coming soon",
+  "path_start_tag": "Start",
+  "path_level": "Level {n}",
+  "path_caption": "LEVEL {level} · STAGE {n} OF {total}",
+  "path_series_part": "{series} · {k} of {m}",
+  "path_checkpoint": "Checkpoint"
+ }
+}

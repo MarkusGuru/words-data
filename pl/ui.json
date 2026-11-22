@@ -1,0 +1,24 @@
+{
+ "schema": 1,
+ "lang": "pl",
+ "strings": {
+  "tile_path": "Podróż",
+  "tile_today": "Dzisiaj",
+  "tile_wordbank": "Słówka",
+  "tile_add_words": "Dodaj słowa",
+  "tile_folders": "Moje foldery",
+  "tile_readmine": "Czytaj i zbieraj",
+  "tile_sentences": "Zdania",
+  "tile_stories": "Opowiadania 📖",
+  "tile_conversation": "Rozmowa",
+  "tile_mistakes": "Moje błędy",
+  "tile_grammar": "Gramatyka",
+  "tile_coach": "Trener błędów",
+  "coming_soon": "Wkrótce",
+  "path_start_tag": "Zacznij",
+  "path_level": "Poziom {n}",
+  "path_caption": "POZIOM {level} · ETAP {n} Z {total}",
+  "path_series_part": "{series} · {k} z {m}",
+  "path_checkpoint": "Powtórka"
+ }
+}

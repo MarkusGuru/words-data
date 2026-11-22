@@ -1,0 +1,24 @@
+{
+ "schema": 1,
+ "lang": "it",
+ "strings": {
+  "tile_path": "Il Viaggio",
+  "tile_today": "Oggi",
+  "tile_wordbank": "Vocaboli",
+  "tile_add_words": "Aggiungi parole",
+  "tile_folders": "Le mie cartelle",
+  "tile_readmine": "Leggi e raccogli",
+  "tile_sentences": "Frasi",
+  "tile_stories": "Storie 📖",
+  "tile_conversation": "Conversazione",
+  "tile_mistakes": "I miei errori",
+  "tile_grammar": "Grammatica",
+  "tile_coach": "Coach degli errori",
+  "coming_soon": "Prossimamente",
+  "path_start_tag": "Inizia",
+  "path_level": "Livello {n}",
+  "path_caption": "LIVELLO {level} · TAPPA {n} DI {total}",
+  "path_series_part": "{series} · {k} di {m}",
+  "path_checkpoint": "Checkpoint"
+ }
+}
