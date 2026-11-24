@@ -1,0 +1,8497 @@
+[
+ {
+  "id": "ο",
+  "front": "ο",
+  "lemma": "ο",
+  "back": "the",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "definite article, masculine singular nominative",
+  "examples": [
+   "Είπε ότι ο καιρός θα είναι καλός αύριο."
+  ],
+  "examples_en": [
+   "He said the weather will be nice tomorrow."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Article",
+  "gender": "m",
+  "zipf": 8.15,
+  "share": 100.0,
+  "hint": "masculine article",
+  "hint_context": "the man",
+  "example_marks": [
+   {
+    "text": "ο",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "και",
+  "front": "και",
+  "lemma": "και",
+  "back": "and",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "plus"
+  ],
+  "definition": "joins words, phrases or clauses; also used for plus in sums",
+  "examples": [
+   "Θέλω ψωμί και τυρί, παρακαλώ."
+  ],
+  "examples_en": [
+   "I'd like bread and cheese, please."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Conjunction",
+  "gender": "",
+  "zipf": 7.54,
+  "lemma_id": "και",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Θέλω ψωμί και τυρί, παρακαλώ.",
+  "share": 80.0,
+  "hint": "joins words or clauses",
+  "hint_context": "bread and cheese",
+  "example_marks": [
+   {
+    "text": "και",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "τα",
+  "front": "τα",
+  "lemma": "τα",
+  "back": "the",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "definite article, neuter plural",
+  "examples": [
+   "Τα παιδιά παίζουν στην αυλή."
+  ],
+  "examples_en": [
+   "The children are playing in the yard."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Article",
+  "gender": "n",
+  "zipf": 7.44,
+  "share": 90.0,
+  "hint": "neuter plural article",
+  "hint_context": "the things, the words",
+  "example_marks": [
+   {
+    "text": "Τα",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "να",
+  "front": "να",
+  "lemma": "να",
+  "back": "to",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "that"
+  ],
+  "definition": "introduces a subjunctive clause, replacing the infinitive",
+  "examples": [
+   "Πρέπει να πάρω το τρένο στις εφτά."
+  ],
+  "examples_en": [
+   "I have to catch the train at seven."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Particle",
+  "gender": "",
+  "zipf": 7.44,
+  "lemma_id": "να",
+  "sense_index": 1,
+  "sense_count": 4,
+  "cue": "Πρέπει να πάρω το τρένο στις εφτά.",
+  "share": 88.0,
+  "hint": "before a verb",
+  "hint_context": "I want to leave",
+  "example_marks": [
+   {
+    "text": "να",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "είμαι",
+  "front": "είμαι",
+  "lemma": "είμαι",
+  "back": "be",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "am",
+   "is",
+   "are"
+  ],
+  "definition": "to be; to have a given identity, origin, state or location",
+  "examples": [
+   "Είμαι από το Σικάγο, και εσύ;"
+  ],
+  "examples_en": [
+   "I'm from Chicago, and you?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 7.2,
+  "lemma_id": "είμαι",
+  "sense_index": 1,
+  "sense_count": 3,
+  "cue": "Είμαι από το Σικάγο, και εσύ;",
+  "share": 90.0,
+  "hint": "identity or state",
+  "hint_context": "she is my friend",
+  "example_marks": [
+   {
+    "text": "Είμαι",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "θα",
+  "front": "θα",
+  "lemma": "θα",
+  "back": "will",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "shall",
+   "be going to"
+  ],
+  "definition": "marks the future tense of a verb",
+  "examples": [
+   "Θα σας περιμένουμε στην ταβέρνα στις οχτώ."
+  ],
+  "examples_en": [
+   "We will wait for you at the taverna at eight."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Particle",
+  "gender": "",
+  "zipf": 7.01,
+  "lemma_id": "θα",
+  "sense_index": 1,
+  "sense_count": 3,
+  "cue": "Θα σας περιμένουμε στην ταβέρνα στις οχτώ.",
+  "share": 80.0,
+  "hint": "future marker",
+  "hint_context": "will wait for you tomorrow",
+  "example_marks": [
+   {
+    "text": "Θα",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "δε",
+  "front": "δε",
+  "lemma": "δε",
+  "back": "not",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "don't",
+   "doesn't"
+  ],
+  "definition": "negation placed before a verb (short form of δεν)",
+  "examples": [
+   "Δε ξέρω πού είναι η στάση."
+  ],
+  "examples_en": [
+   "I don't know where the stop is."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Particle",
+  "gender": "",
+  "zipf": 7.05,
+  "share": 65.0,
+  "hint": "negates the verb",
+  "hint_context": "I don't know",
+  "example_marks": [
+   {
+    "text": "Δε",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "με",
+  "front": "με",
+  "lemma": "με",
+  "back": "me",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "1st person singular accusative (object) pronoun",
+  "examples": [
+   "Θα με καλέσεις αργότερα;"
+  ],
+  "examples_en": [
+   "Will you call me later?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Pronoun",
+  "gender": "",
+  "zipf": 7.11,
+  "share": 50.0,
+  "hint": "object pronoun",
+  "hint_context": "call me later",
+  "example_marks": [
+   {
+    "text": "με",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "ένας",
+  "front": "ένας",
+  "lemma": "ένας",
+  "back": "a",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "an"
+  ],
+  "definition": "indefinite article: one unspecified (masculine)",
+  "examples": [
+   "Θέλω έναν καφέ, παρακαλώ."
+  ],
+  "examples_en": [
+   "I'd like a coffee, please."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Article",
+  "gender": "m",
+  "zipf": 6.98,
+  "share": 62.0,
+  "hint": "indefinite article",
+  "hint_context": "a coffee, please",
+  "example_marks": [
+   {
+    "text": "έναν",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "που",
+  "front": "που",
+  "lemma": "που",
+  "back": "who",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "which",
+   "that"
+  ],
+  "definition": "relative pronoun referring to a person or thing",
+  "examples": [
+   "Ο φίλος που σου μίλησε χθες είναι δικηγόρος."
+  ],
+  "examples_en": [
+   "The friend who spoke to you yesterday is a lawyer."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Pronoun",
+  "gender": "",
+  "zipf": 7.11,
+  "lemma_id": "που",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Ο φίλος που σου μίλησε χθες είναι δικηγόρος.",
+  "share": 45.0,
+  "hint": "relative pronoun",
+  "hint_context": "the woman who called",
+  "example_marks": [
+   {
+    "text": "που",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "από",
+  "front": "από",
+  "lemma": "από",
+  "back": "from",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "out of"
+  ],
+  "definition": "indicating origin, place of departure, or source",
+  "examples": [
+   "Είμαι από το Σικάγο."
+  ],
+  "examples_en": [
+   "I'm from Chicago."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Preposition",
+  "gender": "",
+  "zipf": 7.06,
+  "lemma_id": "από",
+  "sense_index": 1,
+  "sense_count": 5,
+  "cue": "Είμαι από το Σικάγο.",
+  "share": 50.0,
+  "hint": "place of origin",
+  "hint_context": "I'm from Greece",
+  "example_marks": [
+   {
+    "text": "από",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "για",
+  "front": "για",
+  "lemma": "για",
+  "back": "for",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "intended for"
+  ],
+  "definition": "intended to benefit or be given to someone or something",
+  "examples": [
+   "Αυτό το δώρο είναι για σένα."
+  ],
+  "examples_en": [
+   "This gift is for you."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Preposition",
+  "gender": "",
+  "zipf": 7.19,
+  "lemma_id": "για",
+  "sense_index": 1,
+  "sense_count": 7,
+  "cue": "Αυτό το δώρο είναι για σένα.",
+  "share": 30.0,
+  "hint": "recipient, intended for",
+  "hint_context": "a gift for you",
+  "example_marks": [
+   {
+    "text": "για",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "που~conjunction",
+  "front": "που",
+  "lemma": "που",
+  "back": "that",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "introduces a subordinate clause after verbs of feeling or saying",
+  "examples": [
+   "Χαίρομαι που σε βλέπω ξανά."
+  ],
+  "examples_en": [
+   "I'm glad to see you again."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Conjunction",
+  "gender": "",
+  "zipf": 7.11,
+  "share": 35.0,
+  "hint": "conjunction after emotion verbs",
+  "hint_context": "glad that you came",
+  "example_marks": [
+   {
+    "text": "που",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "ότι",
+  "front": "ότι",
+  "lemma": "ότι",
+  "back": "that",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "introduces a clause reporting a statement, belief or fact",
+  "examples": [
+   "Νομίζω ότι θα βρέξει σήμερα το απόγευμα."
+  ],
+  "examples_en": [
+   "I think it's going to rain this afternoon."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Conjunction",
+  "gender": "",
+  "zipf": 6.61,
+  "share": 100.0,
+  "hint": "conjunction after verbs of thinking or saying",
+  "hint_context": "I think that it will rain",
+  "example_marks": [
+   {
+    "text": "ότι",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "με~preposition",
+  "front": "με",
+  "lemma": "με",
+  "back": "with",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "along with"
+  ],
+  "definition": "in the company of; accompanied by",
+  "examples": [
+   "Θα πάω στη θάλασσα με τους φίλους μου."
+  ],
+  "examples_en": [
+   "I'm going to the beach with my friends."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Preposition",
+  "gender": "",
+  "zipf": 7.11,
+  "lemma_id": "με~preposition",
+  "sense_index": 1,
+  "sense_count": 3,
+  "cue": "Θα πάω στη θάλασσα με τους φίλους μου.",
+  "share": 30.0,
+  "hint": "in company of",
+  "hint_context": "went with friends",
+  "example_marks": [
+   {
+    "text": "με",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "και~adverb",
+  "front": "και",
+  "lemma": "και",
+  "back": "also",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "too"
+  ],
+  "definition": "in addition; likewise, as well",
+  "examples": [
+   "Κι εγώ θέλω να έρθω μαζί."
+  ],
+  "examples_en": [
+   "I want to come along too."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 7.54,
+  "lemma_id": "και~adverb",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Κι εγώ θέλω να έρθω μαζί.",
+  "share": 10.0,
+  "hint": "in addition, likewise",
+  "hint_context": "me too",
+  "example_marks": [
+   {
+    "text": "Κι",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "μιλώ στον ενικό",
+  "front": "μιλώ στον ενικό",
+  "lemma": "μιλώ στον ενικό",
+  "back": "address informally",
+  "band": 1,
+  "kind": "word",
+  "register": "informal",
+  "alts": [
+   "use informal you",
+   "speak informally"
+  ],
+  "definition": "to address someone with εσύ rather than εσείς, as a sign of familiarity",
+  "examples": [
+   "Μπορούμε να μιλάμε στον ενικό;"
+  ],
+  "examples_en": [
+   "Can we address each other informally?"
+  ],
+  "claude": true,
+  "topic": "language",
+  "pos": "Expression",
+  "gender": "",
+  "zipf": 6.47,
+  "share": 100.0,
+  "hint": "familiar you (εσύ)",
+  "hint_context": "address her informally",
+  "example_marks": [
+   {
+    "text": "μιλάμε στον ενικό",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "έχω",
+  "front": "έχω",
+  "lemma": "έχω",
+  "back": "have",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "own",
+   "possess"
+  ],
+  "definition": "to possess, own, or hold something",
+  "examples": [
+   "Έχω ένα μικρό σπίτι κοντά στη θάλασσα."
+  ],
+  "examples_en": [
+   "I have a small house near the sea."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.89,
+  "lemma_id": "έχω",
+  "sense_index": 1,
+  "sense_count": 5,
+  "cue": "Έχω ένα μικρό σπίτι κοντά στη θάλασσα.",
+  "share": 38.0,
+  "hint": "own, possess",
+  "hint_context": "have a car",
+  "example_marks": [
+   {
+    "text": "Έχω",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "δε~conjunction",
+  "front": "δε",
+  "lemma": "δε",
+  "back": "on the other hand",
+  "band": 1,
+  "kind": "word",
+  "register": "literary",
+  "alts": [
+   "whereas",
+   "while"
+  ],
+  "definition": "introducing the second half of a contrast with μεν",
+  "examples": [
+   "Ο μεν Νίκος έφυγε, η δε Ελένη έμεινε."
+  ],
+  "examples_en": [
+   "Nikos left, while Helen stayed."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Conjunction",
+  "gender": "",
+  "zipf": 7.05,
+  "lemma_id": "δε~conjunction",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Ο μεν Νίκος έφυγε, η δε Ελένη έμεινε.",
+  "share": 25.0,
+  "hint": "paired with μεν",
+  "hint_context": "on the one hand... on the other",
+  "example_marks": [
+   {
+    "text": "δε",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "τα~pronoun",
+  "front": "τα",
+  "lemma": "τα",
+  "back": "them",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "unstressed object pronoun for neuter plural nouns",
+  "examples": [
+   "Δεν τα είδα χθες στην αγορά."
+  ],
+  "examples_en": [
+   "I didn't see them at the market yesterday."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Pronoun",
+  "gender": "n",
+  "zipf": 7.44,
+  "share": 10.0,
+  "hint": "object clitic, neuter",
+  "hint_context": "I saw them",
+  "example_marks": [
+   {
+    "text": "τα",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "ένας~numeral",
+  "front": "ένας",
+  "lemma": "ένας",
+  "back": "one",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "the number one (masculine)",
+  "examples": [
+   "Μου έμεινε μόνο ένας φίλος."
+  ],
+  "examples_en": [
+   "I have only one friend left."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Numeral",
+  "gender": "m",
+  "zipf": 6.98,
+  "share": 28.0,
+  "hint": "the number one",
+  "hint_context": "one friend left",
+  "example_marks": [
+   {
+    "text": "ένας",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "αν",
+  "front": "αν",
+  "lemma": "αν",
+  "back": "if",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "introduces a condition; in the event that",
+  "examples": [
+   "Αν βρέξει αύριο, θα μείνουμε σπίτι."
+  ],
+  "examples_en": [
+   "If it rains tomorrow, we'll stay home."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Conjunction",
+  "gender": "",
+  "zipf": 6.51,
+  "lemma_id": "αν",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Αν βρέξει αύριο, θα μείνουμε σπίτι.",
+  "share": 80.0,
+  "hint": "conditional",
+  "hint_context": "if it rains",
+  "example_marks": [
+   {
+    "text": "Αν",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "που#2",
+  "front": "που",
+  "lemma": "που",
+  "back": "where",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "in which"
+  ],
+  "definition": "relative adverb referring to a place",
+  "examples": [
+   "Το χωριό που γεννήθηκε ο παππούς μου είναι εδώ κοντά."
+  ],
+  "examples_en": [
+   "The village where my grandfather was born is nearby."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Pronoun",
+  "gender": "",
+  "zipf": 7.11,
+  "lemma_id": "που",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Το χωριό που γεννήθηκε ο παππούς μου είναι εδώ κοντά.",
+  "share": 20.0,
+  "hint": "relative, refers to a place",
+  "hint_context": "the place where I grew up",
+  "example_marks": [
+   {
+    "text": "που",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "αλλά",
+  "front": "αλλά",
+  "lemma": "αλλά",
+  "back": "but",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "introduces a contrasting statement or exception",
+  "examples": [
+   "Είναι έξυπνος αλλά τεμπέλης."
+  ],
+  "examples_en": [
+   "He is clever but lazy."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Conjunction",
+  "gender": "",
+  "zipf": 6.4,
+  "share": 100.0,
+  "example_marks": [
+   {
+    "text": "αλλά",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "τι",
+  "front": "τι",
+  "lemma": "τι",
+  "back": "what",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "interrogative: which thing, what (used in questions)",
+  "examples": [
+   "Τι θέλετε να πιείτε;"
+  ],
+  "examples_en": [
+   "What would you like to drink?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Pronoun",
+  "gender": "",
+  "zipf": 6.55,
+  "share": 70.0,
+  "hint": "asking for information",
+  "hint_context": "what would you like",
+  "example_marks": [
+   {
+    "text": "Τι",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "έχω#2",
+  "front": "έχω",
+  "lemma": "έχω",
+  "back": "have",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "auxiliary verb forming perfect tenses",
+  "examples": [
+   "Έχω διαβάσει αυτό το βιβλίο δύο φορές."
+  ],
+  "examples_en": [
+   "I have read this book twice."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.89,
+  "lemma_id": "έχω",
+  "sense_index": 2,
+  "sense_count": 5,
+  "cue": "Έχω διαβάσει αυτό το βιβλίο δύο φορές.",
+  "share": 30.0,
+  "hint": "perfect tense helper",
+  "hint_context": "have read a book",
+  "example_marks": [
+   {
+    "text": "Έχω",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "για#6",
+  "front": "για",
+  "lemma": "για",
+  "back": "about",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "regarding",
+   "on"
+  ],
+  "definition": "concerning or having as its subject",
+  "examples": [
+   "Μιλήσαμε για το ταξίδι μας χθες."
+  ],
+  "examples_en": [
+   "We talked about our trip yesterday."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Preposition",
+  "gender": "",
+  "zipf": 7.19,
+  "lemma_id": "για",
+  "sense_index": 6,
+  "sense_count": 7,
+  "cue": "Μιλήσαμε για το ταξίδι μας χθες.",
+  "share": 15.0,
+  "hint": "topic, concerning",
+  "hint_context": "talk about the trip",
+  "example_marks": [
+   {
+    "text": "για",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "κάνω",
+  "front": "κάνω",
+  "lemma": "κάνω",
+  "back": "do",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "make"
+  ],
+  "definition": "to perform an action; to make or produce something",
+  "examples": [
+   "Τι κάνεις εδώ τόσο αργά;"
+  ],
+  "examples_en": [
+   "What are you doing here so late?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.52,
+  "lemma_id": "κάνω",
+  "sense_index": 1,
+  "sense_count": 4,
+  "cue": "Τι κάνεις εδώ τόσο αργά;",
+  "share": 70.0,
+  "hint": "do or make",
+  "hint_context": "make a coffee",
+  "example_marks": [
+   {
+    "text": "κάνεις",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "ή",
+  "front": "ή",
+  "lemma": "ή",
+  "back": "or",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "either ... or"
+  ],
+  "definition": "introduces an alternative; also used in 'either ... or'",
+  "examples": [
+   "Θέλεις καφέ ή τσάι;"
+  ],
+  "examples_en": [
+   "Do you want coffee or tea?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Conjunction",
+  "gender": "",
+  "zipf": 6.36,
+  "share": 100.0,
+  "hint": "alternative choice",
+  "hint_context": "coffee or tea",
+  "example_marks": [
+   {
+    "text": "ή",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "και~adverb#2",
+  "front": "και",
+  "lemma": "και",
+  "back": "even",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "emphasizes something surprising or unexpected",
+  "examples": [
+   "Και ένα παιδί το ξέρει αυτό."
+  ],
+  "examples_en": [
+   "Even a child knows that."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 7.54,
+  "lemma_id": "και~adverb",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Και ένα παιδί το ξέρει αυτό.",
+  "share": 6.0,
+  "hint": "surprising emphasis",
+  "hint_context": "even a child",
+  "example_marks": [
+   {
+    "text": "Και",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "με~preposition#2",
+  "front": "με",
+  "lemma": "με",
+  "back": "by",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "by means of",
+   "on"
+  ],
+  "definition": "by means of; using a vehicle or instrument",
+  "examples": [
+   "Πηγαίνω στη δουλειά με το λεωφορείο."
+  ],
+  "examples_en": [
+   "I go to work by bus."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Preposition",
+  "gender": "",
+  "zipf": 7.11,
+  "lemma_id": "με~preposition",
+  "sense_index": 2,
+  "sense_count": 3,
+  "cue": "Πηγαίνω στη δουλειά με το λεωφορείο.",
+  "share": 15.0,
+  "hint": "means of transport",
+  "hint_context": "travel by bus",
+  "example_marks": [
+   {
+    "text": "με",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "για#2",
+  "front": "για",
+  "lemma": "για",
+  "back": "for",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "over a period of time, lasting a specified length",
+  "examples": [
+   "Μένουμε στο νησί για δύο εβδομάδες."
+  ],
+  "examples_en": [
+   "We're staying on the island for two weeks."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Preposition",
+  "gender": "",
+  "zipf": 7.19,
+  "lemma_id": "για",
+  "sense_index": 2,
+  "sense_count": 7,
+  "cue": "Μένουμε στο νησί για δύο εβδομάδες.",
+  "share": 12.0,
+  "hint": "length of time",
+  "hint_context": "stay for two weeks",
+  "example_marks": [
+   {
+    "text": "για",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "σε~pronoun",
+  "front": "σε",
+  "lemma": "σε",
+  "back": "you",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "2nd person singular direct object (weak form of εσένα)",
+  "examples": [
+   "Σε αγαπώ πολύ, μωρό μου."
+  ],
+  "examples_en": [
+   "I love you so much, my dear."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Pronoun",
+  "gender": "",
+  "zipf": 6.66,
+  "share": 40.0,
+  "hint": "direct object, singular",
+  "hint_context": "I love you",
+  "example_marks": [
+   {
+    "text": "Σε",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "μπορώ",
+  "front": "μπορώ",
+  "lemma": "μπορώ",
+  "back": "can",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "be able to"
+  ],
+  "definition": "to be able to",
+  "examples": [
+   "Δεν μπορώ να σηκώσω τη βαλίτσα μόνος μου."
+  ],
+  "examples_en": [
+   "I can't lift the suitcase by myself."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.43,
+  "lemma_id": "μπορώ",
+  "sense_index": 1,
+  "sense_count": 3,
+  "cue": "Δεν μπορώ να σηκώσω τη βαλίτσα μόνος μου.",
+  "share": 65.0,
+  "hint": "be able to",
+  "hint_context": "I can't lift",
+  "example_marks": [
+   {
+    "text": "μπορώ",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "μπορέσω"
+ },
+ {
+  "id": "από#2",
+  "front": "από",
+  "lemma": "από",
+  "back": "since",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "from"
+  ],
+  "definition": "indicating a starting point in time",
+  "examples": [
+   "Μένω σε αυτή την πόλη από το 2015."
+  ],
+  "examples_en": [
+   "I've lived in this city since 2015."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Preposition",
+  "gender": "",
+  "zipf": 7.06,
+  "lemma_id": "από",
+  "sense_index": 2,
+  "sense_count": 5,
+  "cue": "Μένω σε αυτή την πόλη από το 2015.",
+  "share": 14.0,
+  "hint": "starting point in time",
+  "hint_context": "since morning",
+  "example_marks": [
+   {
+    "text": "από",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "από#3",
+  "front": "από",
+  "lemma": "από",
+  "back": "through",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "via"
+  ],
+  "definition": "indicating the route or place passed through",
+  "examples": [
+   "Περνάμε από το κέντρο της πόλης."
+  ],
+  "examples_en": [
+   "We're passing through the city center."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Preposition",
+  "gender": "",
+  "zipf": 7.06,
+  "lemma_id": "από",
+  "sense_index": 3,
+  "sense_count": 5,
+  "cue": "Περνάμε από το κέντρο της πόλης.",
+  "share": 14.0,
+  "hint": "route, via",
+  "hint_context": "passing through the square",
+  "example_marks": [
+   {
+    "text": "από",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "για#3",
+  "front": "για",
+  "lemma": "για",
+  "back": "for",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "to get"
+  ],
+  "definition": "in order to fetch or buy something",
+  "examples": [
+   "Πήγα στο περίπτερο για εφημερίδα."
+  ],
+  "examples_en": [
+   "I went to the kiosk for a newspaper."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Preposition",
+  "gender": "",
+  "zipf": 7.19,
+  "lemma_id": "για",
+  "sense_index": 3,
+  "sense_count": 7,
+  "cue": "Πήγα στο περίπτερο για εφημερίδα.",
+  "share": 10.0,
+  "hint": "going to fetch",
+  "hint_context": "went to the kiosk for a newspaper",
+  "example_marks": [
+   {
+    "text": "για",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "για#4",
+  "front": "για",
+  "lemma": "για",
+  "back": "for",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "bound for",
+   "to"
+  ],
+  "definition": "heading to a destination (of a vehicle, trip or departure)",
+  "examples": [
+   "Το πλοίο για Πάρο φεύγει στις οκτώ."
+  ],
+  "examples_en": [
+   "The ship for Paros leaves at eight."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Preposition",
+  "gender": "",
+  "zipf": 7.19,
+  "lemma_id": "για",
+  "sense_index": 4,
+  "sense_count": 7,
+  "cue": "Το πλοίο για Πάρο φεύγει στις οκτώ.",
+  "share": 10.0,
+  "hint": "destination of a ship/bus",
+  "hint_context": "the ferry for Paros",
+  "example_marks": [
+   {
+    "text": "για",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "για#5",
+  "front": "για",
+  "lemma": "για",
+  "back": "for",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "because of"
+  ],
+  "definition": "expressing the reason or cause, e.g. thanks for something",
+  "examples": [
+   "Ευχαριστώ για τη βοήθεια."
+  ],
+  "examples_en": [
+   "Thank you for the help."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Preposition",
+  "gender": "",
+  "zipf": 7.19,
+  "lemma_id": "για",
+  "sense_index": 5,
+  "sense_count": 7,
+  "cue": "Ευχαριστώ για τη βοήθεια.",
+  "share": 10.0,
+  "hint": "reason, thanks for",
+  "hint_context": "thank you for the help",
+  "example_marks": [
+   {
+    "text": "για",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "για#7",
+  "front": "για",
+  "lemma": "για",
+  "back": "in order to",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "so as to"
+  ],
+  "definition": "in the phrase για να, introducing a purpose clause with a verb",
+  "examples": [
+   "Δούλεψε σκληρά για να περάσει τις εξετάσεις."
+  ],
+  "examples_en": [
+   "She worked hard to pass the exams."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Preposition",
+  "gender": "",
+  "zipf": 7.19,
+  "lemma_id": "για",
+  "sense_index": 7,
+  "sense_count": 7,
+  "cue": "Δούλεψε σκληρά για να περάσει τις εξετάσεις.",
+  "share": 10.0,
+  "hint": "purpose, followed by να",
+  "hint_context": "work hard to pass",
+  "example_marks": [
+   {
+    "text": "για να",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "οποίος",
+  "front": "οποίος",
+  "lemma": "οποίος",
+  "back": "which",
+  "band": 1,
+  "kind": "word",
+  "register": "formal",
+  "alts": [
+   "who",
+   "that"
+  ],
+  "definition": "relative pronoun: which, who, that (used with the article: ο οποίος, η οποία, το οποίο; formal, written)",
+  "examples": [
+   "Το βιβλίο το οποίο διάβασα ήταν πολύ ενδιαφέρον."
+  ],
+  "examples_en": [
+   "The book which I read was very interesting."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Pronoun",
+  "gender": "",
+  "zipf": 6.18,
+  "share": 100.0,
+  "hint": "formal relative, written",
+  "hint_context": "the book which I read",
+  "example_marks": [
+   {
+    "text": "οποίο",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "και#2",
+  "front": "και",
+  "lemma": "και",
+  "back": "past",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "used in telling time: ten past two (2:10)",
+  "examples": [
+   "Το τρένο φεύγει στις δύο και δέκα."
+  ],
+  "examples_en": [
+   "The train leaves at ten past two."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Conjunction",
+  "gender": "",
+  "zipf": 7.54,
+  "lemma_id": "και",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Το τρένο φεύγει στις δύο και δέκα.",
+  "share": 4.0,
+  "hint": "telling the time",
+  "hint_context": "ten past two",
+  "example_marks": [
+   {
+    "text": "και",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "σε",
+  "front": "σε",
+  "lemma": "σε",
+  "back": "in",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "at",
+   "on"
+  ],
+  "definition": "indicating location or position, with accusative",
+  "examples": [
+   "Ο παππούς μου ζει σε ένα μικρό χωριό."
+  ],
+  "examples_en": [
+   "My grandfather lives in a small village."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Preposition",
+  "gender": "",
+  "zipf": 6.66,
+  "lemma_id": "σε",
+  "sense_index": 1,
+  "sense_count": 4,
+  "cue": "Ο παππούς μου ζει σε ένα μικρό χωριό.",
+  "share": 28.0,
+  "hint": "location, where something is",
+  "hint_context": "live in a village",
+  "example_marks": [
+   {
+    "text": "σε",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "όταν",
+  "front": "όταν",
+  "lemma": "όταν",
+  "back": "when",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "at the time that"
+  ],
+  "definition": "at the time that; on the occasion that (single or future event)",
+  "examples": [
+   "Θα σου τηλεφωνήσω όταν φτάσω στο σπίτι."
+  ],
+  "examples_en": [
+   "I'll call you when I get home."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Conjunction",
+  "gender": "",
+  "zipf": 6.26,
+  "lemma_id": "όταν",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Θα σου τηλεφωνήσω όταν φτάσω στο σπίτι.",
+  "share": 70.0,
+  "hint": "one specific time",
+  "hint_context": "when I get home",
+  "example_marks": [
+   {
+    "text": "όταν",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "βρίσκω",
+  "front": "βρίσκω",
+  "lemma": "βρίσκω",
+  "back": "find",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "locate",
+   "discover"
+  ],
+  "definition": "to come upon or locate something or someone sought",
+  "examples": [
+   "Δεν βρήκα το κλειδί μου πουθενά."
+  ],
+  "examples_en": [
+   "I couldn't find my key anywhere."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.2,
+  "lemma_id": "βρίσκω",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Δεν βρήκα το κλειδί μου πουθενά.",
+  "share": 80.0,
+  "hint": "locate, come upon",
+  "hint_context": "find my keys",
+  "example_marks": [
+   {
+    "text": "βρήκα",
+    "nth": 1
+   }
+  ],
+  "aspect": "imperfective",
+  "aspect_pair": "βρω"
+ },
+ {
+  "id": "από#4",
+  "front": "από",
+  "lemma": "από",
+  "back": "by",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "introducing the agent in a passive construction",
+  "examples": [
+   "Το βιβλίο γράφτηκε από έναν συγγραφέα της Κρήτης."
+  ],
+  "examples_en": [
+   "The book was written by a Cretan author."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Preposition",
+  "gender": "",
+  "zipf": 7.06,
+  "lemma_id": "από",
+  "sense_index": 4,
+  "sense_count": 5,
+  "cue": "Το βιβλίο γράφτηκε από έναν συγγραφέα της Κρήτης.",
+  "share": 11.0,
+  "hint": "passive agent",
+  "hint_context": "written by someone",
+  "example_marks": [
+   {
+    "text": "από",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "από#5",
+  "front": "από",
+  "lemma": "από",
+  "back": "than",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "introducing the second term in a comparison",
+  "examples": [
+   "Το καλοκαίρι είναι πιο ζεστό από τον χειμώνα."
+  ],
+  "examples_en": [
+   "Summer is hotter than winter."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Preposition",
+  "gender": "",
+  "zipf": 7.06,
+  "lemma_id": "από",
+  "sense_index": 5,
+  "sense_count": 5,
+  "cue": "Το καλοκαίρι είναι πιο ζεστό από τον χειμώνα.",
+  "share": 11.0,
+  "hint": "comparison",
+  "hint_context": "bigger than me",
+  "example_marks": [
+   {
+    "text": "από",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "όλα",
+  "front": "όλα",
+  "lemma": "όλα",
+  "back": "everything",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "all things",
+   "all of them"
+  ],
+  "definition": "all things or matters, taken together",
+  "examples": [
+   "Όλα είναι εντάξει, μην ανησυχείς."
+  ],
+  "examples_en": [
+   "Everything's fine, don't worry."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Pronoun",
+  "gender": "n",
+  "zipf": 6.1,
+  "share": 100.0,
+  "hint": "all things",
+  "hint_context": "everything is fine",
+  "example_marks": [
+   {
+    "text": "Όλα",
+    "nth": 1
+   }
+  ],
+  "number": "plural"
+ },
+ {
+  "id": "μη",
+  "front": "μη",
+  "lemma": "μη",
+  "back": "don't",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "do not"
+  ],
+  "definition": "negative particle for prohibitions with the subjunctive",
+  "examples": [
+   "Μην ανησυχείς, όλα θα πάνε καλά."
+  ],
+  "examples_en": [
+   "Don't worry, everything will be fine."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Particle",
+  "gender": "",
+  "zipf": 6.41,
+  "lemma_id": "μη",
+  "sense_index": 1,
+  "sense_count": 3,
+  "cue": "Μην ανησυχείς, όλα θα πάνε καλά.",
+  "share": 48.0,
+  "hint": "negative command",
+  "hint_context": "don't touch that",
+  "example_marks": [
+   {
+    "text": "Μην",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "υπάρχω",
+  "front": "υπάρχω",
+  "lemma": "υπάρχω",
+  "back": "there is",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "there are"
+  ],
+  "definition": "to be present; to be available or found somewhere",
+  "examples": [
+   "Στο κέντρο της πόλης υπάρχει ένα πολύ ωραίο μουσείο."
+  ],
+  "examples_en": [
+   "There is a very nice museum in the city center."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.23,
+  "lemma_id": "υπάρχω",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Στο κέντρο της πόλης υπάρχει ένα πολύ ωραίο μουσείο.",
+  "share": 70.0,
+  "hint": "there is/are",
+  "hint_context": "there is a museum",
+  "example_marks": [
+   {
+    "text": "υπάρχει",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "έχω#4",
+  "front": "έχω",
+  "lemma": "έχω",
+  "back": "there is",
+  "band": 1,
+  "kind": "word",
+  "register": "informal",
+  "alts": [
+   "there are"
+  ],
+  "definition": "impersonal 'έχει': there is/there are (existence, availability)",
+  "examples": [
+   "Έχει πολύ κόσμο στην παραλία σήμερα."
+  ],
+  "examples_en": [
+   "There are a lot of people at the beach today."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.89,
+  "lemma_id": "έχω",
+  "sense_index": 4,
+  "sense_count": 5,
+  "cue": "Έχει πολύ κόσμο στην παραλία σήμερα.",
+  "share": 15.0,
+  "hint": "impersonal, existence",
+  "hint_context": "there are many people",
+  "example_marks": [
+   {
+    "text": "Έχει",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "λέω",
+  "front": "λέω",
+  "lemma": "λέω",
+  "back": "say",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "state",
+   "utter"
+  ],
+  "definition": "to utter words; to express something in speech",
+  "examples": [
+   "Τι είπες; Δεν σε άκουσα καλά."
+  ],
+  "examples_en": [
+   "What did you say? I didn't hear you well."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.53,
+  "lemma_id": "λέω",
+  "sense_index": 1,
+  "sense_count": 6,
+  "cue": "Τι είπες; Δεν σε άκουσα καλά.",
+  "share": 34.0,
+  "hint": "say something",
+  "hint_context": "what did you say",
+  "example_marks": [
+   {
+    "text": "είπες",
+    "nth": 1
+   }
+  ],
+  "aspect": "imperfective",
+  "aspect_pair": "πω"
+ },
+ {
+  "id": "θα#2",
+  "front": "θα",
+  "lemma": "θα",
+  "back": "would",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "marks the conditional mood, usually with an if-clause",
+  "examples": [
+   "Αν είχα χρόνο, θα ερχόμουν μαζί σας."
+  ],
+  "examples_en": [
+   "If I had time, I would come with you."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Particle",
+  "gender": "",
+  "zipf": 7.01,
+  "lemma_id": "θα",
+  "sense_index": 2,
+  "sense_count": 3,
+  "cue": "Αν είχα χρόνο, θα ερχόμουν μαζί σας.",
+  "share": 11.0,
+  "hint": "conditional, if-clauses",
+  "hint_context": "if I had time, I would come",
+  "example_marks": [
+   {
+    "text": "θα",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "δε~conjunction#2",
+  "front": "δε",
+  "lemma": "δε",
+  "back": "also",
+  "band": 1,
+  "kind": "word",
+  "register": "formal",
+  "alts": [
+   "moreover",
+   "and also"
+  ],
+  "definition": "introducing a new point or topic, formal writing",
+  "examples": [
+   "Θέλω δε να προσθέσω κάτι ακόμη."
+  ],
+  "examples_en": [
+   "I also want to add something else."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Conjunction",
+  "gender": "",
+  "zipf": 7.05,
+  "lemma_id": "δε~conjunction",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Θέλω δε να προσθέσω κάτι ακόμη.",
+  "share": 10.0,
+  "hint": "adding a new point",
+  "hint_context": "I wish to add",
+  "example_marks": [
+   {
+    "text": "δε",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "παιδί",
+  "front": "το παιδί",
+  "lemma": "παιδί",
+  "back": "child",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "kid"
+  ],
+  "definition": "young human being below puberty; a son or daughter",
+  "examples": [
+   "Το παιδί παίζει στην αυλή με τη μπάλα."
+  ],
+  "examples_en": [
+   "The child is playing in the yard with the ball."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 6.09,
+  "lemma_id": "παιδί",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Το παιδί παίζει στην αυλή με τη μπάλα.",
+  "share": 90.0,
+  "hint": "young boy or girl",
+  "hint_context": "a little child",
+  "example_marks": [
+   {
+    "text": "παιδί",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "να#3",
+  "front": "να",
+  "lemma": "να",
+  "back": "here's",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "here is",
+   "there is"
+  ],
+  "definition": "used to point out or present someone or something: here, there",
+  "examples": [
+   "Να το βιβλίο σου, το άφησες στο τραπέζι."
+  ],
+  "examples_en": [
+   "Here's your book, you left it on the table."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Particle",
+  "gender": "",
+  "zipf": 7.44,
+  "lemma_id": "να",
+  "sense_index": 3,
+  "sense_count": 4,
+  "cue": "Να το βιβλίο σου, το άφησες στο τραπέζι.",
+  "share": 4.0,
+  "hint": "pointing, presenting",
+  "hint_context": "here's your book",
+  "example_marks": [
+   {
+    "text": "Να",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "πολύς~adverb",
+  "front": "πολύ",
+  "lemma": "πολύς",
+  "back": "very",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "really",
+   "so"
+  ],
+  "definition": "to a high degree; intensifies an adjective or adverb",
+  "examples": [
+   "Η θάλασσα σήμερα είναι πολύ κρύα."
+  ],
+  "examples_en": [
+   "The sea is very cold today."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 6.48,
+  "lemma_id": "πολύς~adverb",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Η θάλασσα σήμερα είναι πολύ κρύα.",
+  "share": 36.0,
+  "hint": "intensifier before adjectives",
+  "hint_context": "very cold",
+  "example_marks": [
+   {
+    "text": "πολύ",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "έρχομαι",
+  "front": "έρχομαι",
+  "lemma": "έρχομαι",
+  "back": "come",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to come",
+  "examples": [
+   "Έρχεσαι μαζί μας στη θάλασσα;"
+  ],
+  "examples_en": [
+   "Are you coming to the beach with us?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.04,
+  "share": 98.0,
+  "hint": "move here",
+  "hint_context": "I'm coming",
+  "example_marks": [
+   {
+    "text": "Έρχεσαι",
+    "nth": 1
+   }
+  ],
+  "aspect_pair": "έρθω"
+ },
+ {
+  "id": "σαν",
+  "front": "σαν",
+  "lemma": "σαν",
+  "back": "like",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "as"
+  ],
+  "definition": "similar to",
+  "examples": [
+   "Μιλάει σαν δάσκαλος."
+  ],
+  "examples_en": [
+   "He talks like a teacher."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Preposition",
+  "gender": "",
+  "zipf": 6.03,
+  "share": 98.0,
+  "hint": "similar to",
+  "hint_context": "like a child",
+  "example_marks": [
+   {
+    "text": "σαν",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "τώρα",
+  "front": "τώρα",
+  "lemma": "τώρα",
+  "back": "now",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "at this moment",
+  "examples": [
+   "Τώρα δεν μπορώ, θα σε πάρω αργότερα."
+  ],
+  "examples_en": [
+   "I can't right now, I'll call you later."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 6.03,
+  "share": 98.0,
+  "hint": "at this moment",
+  "hint_context": "right now",
+  "example_marks": [
+   {
+    "text": "Τώρα",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "δίνω",
+  "front": "δίνω",
+  "lemma": "δίνω",
+  "back": "give",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "pass"
+  ],
+  "definition": "to give",
+  "examples": [
+   "Μου δίνεις το αλάτι, σε παρακαλώ;"
+  ],
+  "examples_en": [
+   "Can you pass me the salt, please?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.02,
+  "share": 98.0,
+  "hint": "hand over",
+  "hint_context": "give me",
+  "example_marks": [
+   {
+    "text": "δίνεις",
+    "nth": 1
+   }
+  ],
+  "aspect_pair": "δώσω"
+ },
+ {
+  "id": "λέω#2",
+  "front": "λέω",
+  "lemma": "λέω",
+  "back": "tell",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "inform"
+  ],
+  "definition": "to inform someone of something; to relate to a person",
+  "examples": [
+   "Της είπα όλη την αλήθεια."
+  ],
+  "examples_en": [
+   "I told her the whole truth."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.53,
+  "lemma_id": "λέω",
+  "sense_index": 2,
+  "sense_count": 6,
+  "cue": "Της είπα όλη την αλήθεια.",
+  "share": 30.0,
+  "hint": "tell someone",
+  "hint_context": "tell her the truth",
+  "example_marks": [
+   {
+    "text": "είπα",
+    "nth": 1
+   }
+  ],
+  "aspect": "imperfective",
+  "aspect_pair": "πω"
+ },
+ {
+  "id": "όχι",
+  "front": "όχι",
+  "lemma": "όχι",
+  "back": "no",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "nope"
+  ],
+  "definition": "answer rejecting or denying a yes/no question",
+  "examples": [
+   "Θέλετε λίγο κρασί; Όχι, ευχαριστώ."
+  ],
+  "examples_en": [
+   "Would you like some wine? No, thanks."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Interjection",
+  "gender": "",
+  "zipf": 6.2,
+  "share": 64.0,
+  "hint": "answering a question",
+  "hint_context": "answer: no, thanks",
+  "example_marks": [
+   {
+    "text": "Όχι",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "βλέπω",
+  "front": "βλέπω",
+  "lemma": "βλέπω",
+  "back": "see",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "look at"
+  ],
+  "definition": "to perceive with the eyes",
+  "examples": [
+   "Δεν βλέπω τίποτα χωρίς τα γυαλιά μου."
+  ],
+  "examples_en": [
+   "I can't see anything without my glasses."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.22,
+  "lemma_id": "βλέπω",
+  "sense_index": 1,
+  "sense_count": 6,
+  "cue": "Δεν βλέπω τίποτα χωρίς τα γυαλιά μου.",
+  "share": 60.0,
+  "hint": "perceive with eyes",
+  "hint_context": "can't see anything",
+  "example_marks": [
+   {
+    "text": "βλέπω",
+    "nth": 1
+   }
+  ],
+  "aspect": "imperfective",
+  "aspect_pair": "δω"
+ },
+ {
+  "id": "πρώτος",
+  "front": "πρώτος",
+  "lemma": "πρώτος",
+  "back": "first",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "initial",
+   "earliest"
+  ],
+  "definition": "coming before all others in order or time",
+  "examples": [
+   "Σήμερα είναι η πρώτη μέρα του σχολείου."
+  ],
+  "examples_en": [
+   "Today is the first day of school."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "m",
+  "zipf": 6.08,
+  "lemma_id": "πρώτος",
+  "sense_index": 1,
+  "sense_count": 3,
+  "cue": "Σήμερα είναι η πρώτη μέρα του σχολείου.",
+  "share": 82.0,
+  "hint": "ordinal, in order",
+  "hint_context": "the first day",
+  "example_marks": [
+   {
+    "text": "πρώτη",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "εδώ",
+  "front": "εδώ",
+  "lemma": "εδώ",
+  "back": "here",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "in or to this place",
+  "examples": [
+   "Έλα εδώ, γρήγορα!"
+  ],
+  "examples_en": [
+   "Come here, quick!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 6.0,
+  "share": 98.0,
+  "hint": "this place",
+  "hint_context": "over here",
+  "example_marks": [
+   {
+    "text": "εδώ",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "πηγαίνω",
+  "front": "πηγαίνω",
+  "lemma": "πηγαίνω",
+  "back": "go",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "travel",
+   "head"
+  ],
+  "definition": "to move toward or travel to a place",
+  "examples": [
+   "Πού πηγαίνεις το καλοκαίρι;"
+  ],
+  "examples_en": [
+   "Where are you going this summer?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.19,
+  "lemma_id": "πηγαίνω",
+  "sense_index": 1,
+  "sense_count": 4,
+  "cue": "Πού πηγαίνεις το καλοκαίρι;",
+  "share": 62.0,
+  "hint": "move toward a place",
+  "hint_context": "go to school",
+  "example_marks": [
+   {
+    "text": "πηγαίνεις",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "ένας~pronoun",
+  "front": "ένας",
+  "lemma": "ένας",
+  "back": "one of them",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "one"
+  ],
+  "definition": "one person or thing from a group",
+  "examples": [
+   "Ξέρω ότι ένας από αυτούς μιλάει αγγλικά."
+  ],
+  "examples_en": [
+   "I know that one of them speaks English."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Pronoun",
+  "gender": "m",
+  "zipf": 6.98,
+  "share": 10.0,
+  "hint": "one from a group",
+  "hint_context": "one of them speaks English",
+  "example_marks": [
+   {
+    "text": "ένας",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "είμαι#2",
+  "front": "είμαι",
+  "lemma": "είμαι",
+  "back": "there is",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "there are"
+  ],
+  "definition": "to be present in a place (used with indefinite or plural subjects)",
+  "examples": [
+   "Είναι πολύς κόσμος στην παραλία σήμερα."
+  ],
+  "examples_en": [
+   "There are a lot of people at the beach today."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 7.2,
+  "lemma_id": "είμαι",
+  "sense_index": 2,
+  "sense_count": 3,
+  "cue": "Είναι πολύς κόσμος στην παραλία σήμερα.",
+  "share": 6.0,
+  "hint": "existence, not identity",
+  "hint_context": "there are a lot of people here",
+  "example_marks": [
+   {
+    "text": "Είναι",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "έχω#3",
+  "front": "έχω",
+  "lemma": "έχω",
+  "back": "have",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "suffer from"
+  ],
+  "definition": "to have a physical condition or symptom",
+  "examples": [
+   "Έχω δυνατό πονοκέφαλο σήμερα."
+  ],
+  "examples_en": [
+   "I have a bad headache today."
+  ],
+  "claude": true,
+  "topic": "health",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.89,
+  "lemma_id": "έχω",
+  "sense_index": 3,
+  "sense_count": 5,
+  "cue": "Έχω δυνατό πονοκέφαλο σήμερα.",
+  "share": 12.0,
+  "hint": "illness, symptoms",
+  "hint_context": "have a headache",
+  "example_marks": [
+   {
+    "text": "Έχω",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "θα#3",
+  "front": "θα",
+  "lemma": "θα",
+  "back": "must be",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "probably"
+  ],
+  "definition": "expresses supposition or probability about the present",
+  "examples": [
+   "Δεν απαντά· θα είναι στο μπάνιο."
+  ],
+  "examples_en": [
+   "He's not answering; he must be in the bathroom."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Particle",
+  "gender": "",
+  "zipf": 7.01,
+  "lemma_id": "θα",
+  "sense_index": 3,
+  "sense_count": 3,
+  "cue": "Δεν απαντά· θα είναι στο μπάνιο.",
+  "share": 9.0,
+  "hint": "supposition, guess",
+  "hint_context": "he must be at home by now",
+  "example_marks": [
+   {
+    "text": "θα",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "μέχρι",
+  "front": "μέχρι",
+  "lemma": "μέχρι",
+  "back": "until",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "till",
+   "up to"
+  ],
+  "definition": "up to a time or place",
+  "examples": [
+   "Το μαγαζί είναι ανοιχτό μέχρι τις δέκα."
+  ],
+  "examples_en": [
+   "The shop is open until ten."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Preposition",
+  "gender": "",
+  "zipf": 5.97,
+  "share": 98.0,
+  "hint": "up to a point",
+  "hint_context": "until tomorrow",
+  "example_marks": [
+   {
+    "text": "μέχρι",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "μόνος",
+  "front": "μόνος",
+  "lemma": "μόνος",
+  "back": "alone",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "by oneself",
+   "unaccompanied"
+  ],
+  "definition": "without other people; by oneself or unaccompanied",
+  "examples": [
+   "Θέλω να ταξιδέψω μόνος μου φέτος το καλοκαίρι."
+  ],
+  "examples_en": [
+   "I want to travel alone this summer."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 6.22,
+  "lemma_id": "μόνος",
+  "sense_index": 1,
+  "sense_count": 3,
+  "cue": "Θέλω να ταξιδέψω μόνος μου φέτος το καλοκαίρι.",
+  "share": 55.0,
+  "hint": "without company",
+  "hint_context": "travel alone",
+  "example_marks": [
+   {
+    "text": "μόνος μου",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "πρέπει",
+  "front": "πρέπει",
+  "lemma": "πρέπει",
+  "back": "must",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "have to"
+  ],
+  "definition": "it is necessary; one is obliged to (impersonal)",
+  "examples": [
+   "Πρέπει να φύγω τώρα, είναι πολύ αργά."
+  ],
+  "examples_en": [
+   "I have to leave now, it's very late."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.18,
+  "lemma_id": "πρέπει",
+  "sense_index": 1,
+  "sense_count": 3,
+  "cue": "Πρέπει να φύγω τώρα, είναι πολύ αργά.",
+  "share": 60.0,
+  "hint": "obligation, necessity",
+  "hint_context": "I must go",
+  "example_marks": [
+   {
+    "text": "Πρέπει",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "πολύς",
+  "front": "πολύς",
+  "lemma": "πολύς",
+  "back": "many",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "a lot of"
+  ],
+  "definition": "a large number of countable things or people",
+  "examples": [
+   "Έχουμε πολλούς φίλους εδώ."
+  ],
+  "examples_en": [
+   "We have many friends here."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 6.48,
+  "lemma_id": "πολύς",
+  "sense_index": 1,
+  "sense_count": 3,
+  "cue": "Έχουμε πολλούς φίλους εδώ.",
+  "share": 30.0,
+  "hint": "countable, plural",
+  "hint_context": "many friends here",
+  "example_marks": [
+   {
+    "text": "πολλούς",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "θέλω",
+  "front": "θέλω",
+  "lemma": "θέλω",
+  "back": "want",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "desire",
+   "want to"
+  ],
+  "definition": "to wish for or desire something; to want to do something",
+  "examples": [
+   "Θέλω να πάω στη θάλασσα αύριο."
+  ],
+  "examples_en": [
+   "I want to go to the sea tomorrow."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.24,
+  "lemma_id": "θέλω",
+  "sense_index": 1,
+  "sense_count": 5,
+  "cue": "Θέλω να πάω στη θάλασσα αύριο.",
+  "share": 52.0,
+  "hint": "desire, want to do",
+  "hint_context": "I want to leave",
+  "example_marks": [
+   {
+    "text": "Θέλω",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "θελήσω"
+ },
+ {
+  "id": "ξέρω",
+  "front": "ξέρω",
+  "lemma": "ξέρω",
+  "back": "know",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to know (a fact, how to do something, a person)",
+  "examples": [
+   "Ξέρεις πού είναι η στάση;"
+  ],
+  "examples_en": [
+   "Do you know where the stop is?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.96,
+  "share": 98.0,
+  "hint": "a fact, a skill",
+  "hint_context": "I don't know",
+  "example_marks": [
+   {
+    "text": "Ξέρεις",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "τι~determiner",
+  "front": "τι",
+  "lemma": "τι",
+  "back": "what a",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "what an",
+   "how"
+  ],
+  "definition": "exclamatory: used before a noun or adjective to express admiration or surprise",
+  "examples": [
+   "Τι ωραία θάλασσα!"
+  ],
+  "examples_en": [
+   "What a beautiful sea!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Determiner",
+  "gender": "",
+  "zipf": 6.55,
+  "share": 25.0,
+  "hint": "exclaiming, not asking",
+  "hint_context": "what a beautiful sea",
+  "example_marks": [
+   {
+    "text": "Τι",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "καλός",
+  "front": "καλός",
+  "lemma": "καλός",
+  "back": "good",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "fine",
+   "nice"
+  ],
+  "definition": "of high quality or of a pleasing kind",
+  "examples": [
+   "Έχουμε καλό καιρό σήμερα στην παραλία."
+  ],
+  "examples_en": [
+   "We have good weather today at the beach."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 6.29,
+  "lemma_id": "καλός",
+  "sense_index": 1,
+  "sense_count": 3,
+  "cue": "Έχουμε καλό καιρό σήμερα στην παραλία.",
+  "share": 45.0,
+  "hint": "of quality",
+  "hint_context": "good weather",
+  "example_marks": [
+   {
+    "text": "καλό",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "κάτι",
+  "front": "κάτι",
+  "lemma": "κάτι",
+  "back": "something",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "anything"
+  ],
+  "definition": "an unspecified thing",
+  "examples": [
+   "Θέλεις κάτι να πιεις;"
+  ],
+  "examples_en": [
+   "Do you want something to drink?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Pronoun",
+  "gender": "",
+  "zipf": 5.95,
+  "share": 98.0,
+  "hint": "some thing",
+  "hint_context": "something to eat",
+  "example_marks": [
+   {
+    "text": "κάτι",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "πιο",
+  "front": "πιο",
+  "lemma": "πιο",
+  "back": "more",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "-er"
+  ],
+  "definition": "forms the comparative of adjectives and adverbs",
+  "examples": [
+   "Αυτό το βιβλίο είναι πιο ενδιαφέρον από το άλλο."
+  ],
+  "examples_en": [
+   "This book is more interesting than the other one."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 6.17,
+  "lemma_id": "πιο",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Αυτό το βιβλίο είναι πιο ενδιαφέρον από το άλλο.",
+  "share": 58.0,
+  "hint": "comparative, than",
+  "hint_context": "more interesting than",
+  "example_marks": [
+   {
+    "text": "πιο",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "γίνομαι",
+  "front": "γίνομαι",
+  "lemma": "γίνομαι",
+  "back": "become",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "turn into",
+   "grow into"
+  ],
+  "definition": "to change into a different state, role or thing",
+  "examples": [
+   "Θέλω να γίνω γιατρός όταν μεγαλώσω."
+  ],
+  "examples_en": [
+   "I want to become a doctor when I grow up."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.31,
+  "lemma_id": "γίνομαι",
+  "sense_index": 1,
+  "sense_count": 6,
+  "cue": "Θέλω να γίνω γιατρός όταν μεγαλώσω.",
+  "share": 42.0,
+  "hint": "turn into, change state",
+  "hint_context": "become a doctor",
+  "example_marks": [
+   {
+    "text": "γίνω",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "έτσι",
+  "front": "έτσι",
+  "lemma": "έτσι",
+  "back": "like this",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "so",
+   "this way"
+  ],
+  "definition": "in this way",
+  "examples": [
+   "Έτσι το κάνουμε εμείς στο χωριό."
+  ],
+  "examples_en": [
+   "This is how we do it in the village."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 5.94,
+  "share": 98.0,
+  "hint": "in this way",
+  "hint_context": "like that",
+  "example_marks": [
+   {
+    "text": "Έτσι",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "κάθε",
+  "front": "κάθε",
+  "lemma": "κάθε",
+  "back": "every",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "each"
+  ],
+  "definition": "each one without exception",
+  "examples": [
+   "Πίνω καφέ κάθε πρωί."
+  ],
+  "examples_en": [
+   "I drink coffee every morning."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Determiner",
+  "gender": "",
+  "zipf": 5.94,
+  "share": 98.0,
+  "hint": "each one",
+  "hint_context": "every day",
+  "example_marks": [
+   {
+    "text": "κάθε",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "να#2",
+  "front": "να",
+  "lemma": "να",
+  "back": "may",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "let"
+  ],
+  "definition": "expresses a wish, blessing, or instruction in the subjunctive",
+  "examples": [
+   "Να ζήσεις εκατό χρόνια, αγάπη μου!"
+  ],
+  "examples_en": [
+   "May you live a hundred years, my love!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Particle",
+  "gender": "",
+  "zipf": 7.44,
+  "lemma_id": "να",
+  "sense_index": 2,
+  "sense_count": 4,
+  "cue": "Να ζήσεις εκατό χρόνια, αγάπη μου!",
+  "share": 3.0,
+  "hint": "wish or blessing",
+  "hint_context": "may you be well",
+  "example_marks": [
+   {
+    "text": "Να",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "να#4",
+  "front": "να",
+  "lemma": "να",
+  "back": "-ing",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "doing",
+   "to do"
+  ],
+  "definition": "with the neuter article, forms a verbal noun from the following verb",
+  "examples": [
+   "Το να μαθαίνεις γλώσσες είναι πολύ ωραίο."
+  ],
+  "examples_en": [
+   "Learning languages is really nice."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Particle",
+  "gender": "",
+  "zipf": 7.44,
+  "lemma_id": "να",
+  "sense_index": 4,
+  "sense_count": 4,
+  "cue": "Το να μαθαίνεις γλώσσες είναι πολύ ωραίο.",
+  "share": 3.0,
+  "hint": "verbal noun",
+  "hint_context": "learning languages is fun",
+  "example_marks": [
+   {
+    "text": "να",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "γιατί",
+  "front": "γιατί",
+  "lemma": "γιατί",
+  "back": "because",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "since"
+  ],
+  "definition": "for the reason that; introduces a cause or explanation",
+  "examples": [
+   "Δεν βγήκα έξω, γιατί έβρεχε πολύ."
+  ],
+  "examples_en": [
+   "I didn't go out because it was raining hard."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Conjunction",
+  "gender": "",
+  "zipf": 6.21,
+  "share": 50.0,
+  "hint": "giving a reason",
+  "hint_context": "stayed home because it rained",
+  "example_marks": [
+   {
+    "text": "γιατί",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "ζωή",
+  "front": "η ζωή",
+  "lemma": "ζωή",
+  "back": "life",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "life",
+  "examples": [
+   "Η ζωή στο νησί είναι ήρεμη."
+  ],
+  "examples_en": [
+   "Life on the island is calm."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 5.91,
+  "share": 98.0,
+  "hint": "being alive",
+  "hint_context": "life is good",
+  "example_marks": [
+   {
+    "text": "ζωή",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "σήμερα",
+  "front": "σήμερα",
+  "lemma": "σήμερα",
+  "back": "today",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "on this day",
+  "examples": [
+   "Σήμερα κάνει πολλή ζέστη."
+  ],
+  "examples_en": [
+   "It's very hot today."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 5.91,
+  "share": 98.0,
+  "hint": "this day",
+  "hint_context": "today",
+  "example_marks": [
+   {
+    "text": "Σήμερα",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "μετά",
+  "front": "μετά",
+  "lemma": "μετά",
+  "back": "after",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "following"
+  ],
+  "definition": "later than, following a time or event",
+  "examples": [
+   "Μετά το δείπνο θα πάμε για έναν περίπατο."
+  ],
+  "examples_en": [
+   "After dinner we'll go for a walk."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Preposition",
+  "gender": "",
+  "zipf": 6.16,
+  "lemma_id": "μετά",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Μετά το δείπνο θα πάμε για έναν περίπατο.",
+  "share": 55.0,
+  "hint": "preposition + noun",
+  "hint_context": "after dinner",
+  "example_marks": [
+   {
+    "text": "Μετά",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "δύο",
+  "front": "δύο",
+  "lemma": "δύο",
+  "back": "two",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "the number 2",
+  "examples": [
+   "Δύο καφέδες, παρακαλώ."
+  ],
+  "examples_en": [
+   "Two coffees, please."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Numeral",
+  "gender": "",
+  "zipf": 5.9,
+  "share": 98.0,
+  "hint": "number 2",
+  "hint_context": "two coffees",
+  "example_marks": [
+   {
+    "text": "Δύο",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "ναι",
+  "front": "ναι",
+  "lemma": "ναι",
+  "back": "yes",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "yes",
+  "examples": [
+   "Ναι, θέλω ένα νερό, παρακαλώ."
+  ],
+  "examples_en": [
+   "Yes, I'd like a water, please."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Interjection",
+  "gender": "",
+  "zipf": 5.9,
+  "share": 98.0,
+  "hint": "agreeing",
+  "hint_context": "yes, please",
+  "example_marks": [
+   {
+    "text": "Ναι",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "μέσος",
+  "front": "μέσος",
+  "lemma": "μέσος",
+  "back": "average",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "mean",
+   "medium"
+  ],
+  "definition": "average; typical, in the middle of a range",
+  "examples": [
+   "Ο μέσος άνθρωπος κοιμάται περίπου οκτώ ώρες."
+  ],
+  "examples_en": [
+   "The average person sleeps about eight hours."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 6.14,
+  "lemma_id": "μέσος",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Ο μέσος άνθρωπος κοιμάται περίπου οκτώ ώρες.",
+  "share": 55.0,
+  "hint": "typical, ordinary",
+  "hint_context": "the average person",
+  "example_marks": [
+   {
+    "text": "μέσος",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "Ελλάδα",
+  "front": "η Ελλάδα",
+  "lemma": "Ελλάδα",
+  "back": "Greece",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "the country",
+  "examples": [
+   "Κάθε καλοκαίρι ερχόμαστε στην Ελλάδα."
+  ],
+  "examples_en": [
+   "Every summer we come to Greece."
+  ],
+  "claude": true,
+  "topic": "places",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 5.88,
+  "share": 98.0,
+  "hint": "the country",
+  "hint_context": "in Greece",
+  "example_marks": [
+   {
+    "text": "Ελλάδα",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "γιατί~adverb",
+  "front": "γιατί",
+  "lemma": "γιατί",
+  "back": "why",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "for what reason"
+  ],
+  "definition": "for what reason; in a direct or indirect question",
+  "examples": [
+   "Γιατί άργησες τόσο σήμερα;"
+  ],
+  "examples_en": [
+   "Why were you so late today?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 6.21,
+  "share": 45.0,
+  "hint": "question word",
+  "hint_context": "why are you late?",
+  "example_marks": [
+   {
+    "text": "Γιατί",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "μαζί",
+  "front": "μαζί",
+  "lemma": "μαζί",
+  "back": "together",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "with"
+  ],
+  "definition": "with each other ('μαζί μου' = with me)",
+  "examples": [
+   "Πάμε μαζί για φαγητό;"
+  ],
+  "examples_en": [
+   "Shall we go eat together?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 5.87,
+  "share": 98.0,
+  "hint": "with each other",
+  "hint_context": "all together",
+  "example_marks": [
+   {
+    "text": "μαζί",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "παίρνω",
+  "front": "παίρνω",
+  "lemma": "παίρνω",
+  "back": "take",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "get"
+  ],
+  "definition": "to take",
+  "examples": [
+   "Παίρνω το λεωφορείο για την παραλία."
+  ],
+  "examples_en": [
+   "I take the bus to the beach."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.16,
+  "lemma_id": "παίρνω",
+  "sense_index": 1,
+  "sense_count": 3,
+  "cue": "Παίρνω το λεωφορείο για την παραλία.",
+  "share": 50.0,
+  "hint": "take, get",
+  "hint_context": "take the bus",
+  "example_marks": [
+   {
+    "text": "Παίρνω",
+    "nth": 1
+   }
+  ],
+  "aspect_pair": "πάρω"
+ },
+ {
+  "id": "μη#2",
+  "front": "μη",
+  "lemma": "μη",
+  "back": "afraid that",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "lest",
+   "in case"
+  ],
+  "definition": "introduces a clause expressing fear or worry that something happens",
+  "examples": [
+   "Φοβάμαι μη χάσω το τελευταίο λεωφορείο."
+  ],
+  "examples_en": [
+   "I'm afraid I'll miss the last bus."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Particle",
+  "gender": "",
+  "zipf": 6.41,
+  "lemma_id": "μη",
+  "sense_index": 2,
+  "sense_count": 3,
+  "cue": "Φοβάμαι μη χάσω το τελευταίο λεωφορείο.",
+  "share": 27.0,
+  "hint": "fear clause",
+  "hint_context": "afraid I'll miss",
+  "example_marks": [
+   {
+    "text": "μη",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "νέος",
+  "front": "νέος",
+  "lemma": "νέος",
+  "back": "new",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "recent"
+  ],
+  "definition": "recently made, acquired, or introduced; not old or used",
+  "examples": [
+   "Αγόρασα ένα νέο κινητό την περασμένη εβδομάδα."
+  ],
+  "examples_en": [
+   "I bought a new cell phone last week."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 6.12,
+  "lemma_id": "νέος",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Αγόρασα ένα νέο κινητό την περασμένη εβδομάδα.",
+  "share": 52.0,
+  "hint": "not old, recent",
+  "hint_context": "a new phone",
+  "example_marks": [
+   {
+    "text": "νέο",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "αν#2",
+  "front": "αν",
+  "lemma": "αν",
+  "back": "whether",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "if"
+  ],
+  "definition": "introduces an indirect yes-or-no question",
+  "examples": [
+   "Δεν ξέρω αν έρχεται απόψε."
+  ],
+  "examples_en": [
+   "I don't know whether he's coming tonight."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Conjunction",
+  "gender": "",
+  "zipf": 6.51,
+  "lemma_id": "αν",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Δεν ξέρω αν έρχεται απόψε.",
+  "share": 20.0,
+  "hint": "indirect question",
+  "hint_context": "I don't know whether",
+  "example_marks": [
+   {
+    "text": "αν",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "με~preposition#3",
+  "front": "με",
+  "lemma": "με",
+  "back": "by",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "per"
+  ],
+  "definition": "by the unit or measure",
+  "examples": [
+   "Οι ντομάτες πουλιούνται με το κιλό στην αγορά."
+  ],
+  "examples_en": [
+   "The tomatoes are sold by the kilo at the market."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Preposition",
+  "gender": "",
+  "zipf": 7.11,
+  "lemma_id": "με~preposition",
+  "sense_index": 3,
+  "sense_count": 3,
+  "cue": "Οι ντομάτες πουλιούνται με το κιλό στην αγορά.",
+  "share": 5.0,
+  "hint": "priced per unit",
+  "hint_context": "sold by the kilo",
+  "example_marks": [
+   {
+    "text": "με",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "σε#2",
+  "front": "σε",
+  "lemma": "σε",
+  "back": "to",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "into"
+  ],
+  "definition": "indicating direction or destination",
+  "examples": [
+   "Αύριο πάμε σε μια ταβέρνα στο λιμάνι."
+  ],
+  "examples_en": [
+   "Tomorrow we're going to a taverna by the harbor."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Preposition",
+  "gender": "",
+  "zipf": 6.66,
+  "lemma_id": "σε",
+  "sense_index": 2,
+  "sense_count": 4,
+  "cue": "Αύριο πάμε σε μια ταβέρνα στο λιμάνι.",
+  "share": 14.0,
+  "hint": "destination, movement",
+  "hint_context": "go to a taverna",
+  "example_marks": [
+   {
+    "text": "σε",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "όλος#2",
+  "front": "όλος",
+  "lemma": "όλος",
+  "back": "all",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "all of the"
+  ],
+  "definition": "every one of a group; each member of a plural set",
+  "examples": [
+   "Όλοι οι φίλοι μου ήρθαν στο πάρτι."
+  ],
+  "examples_en": [
+   "All my friends came to the party."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 6.15,
+  "lemma_id": "όλος",
+  "sense_index": 2,
+  "sense_count": 3,
+  "cue": "Όλοι οι φίλοι μου ήρθαν στο πάρτι.",
+  "share": 45.0,
+  "hint": "plural, every member",
+  "hint_context": "all my friends",
+  "example_marks": [
+   {
+    "text": "Όλοι",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "είμαι#3",
+  "front": "είμαι",
+  "lemma": "είμαι",
+  "back": "support",
+  "band": 1,
+  "kind": "word",
+  "register": "informal",
+  "alts": [
+   "be a fan of"
+  ],
+  "definition": "to be a supporter of a sports team or political party",
+  "examples": [
+   "Εγώ είμαι Παναθηναϊκός, εσύ;"
+  ],
+  "examples_en": [
+   "I'm a Panathinaikos fan, and you?"
+  ],
+  "claude": true,
+  "topic": "sports",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 7.2,
+  "lemma_id": "είμαι",
+  "sense_index": 3,
+  "sense_count": 3,
+  "cue": "Εγώ είμαι Παναθηναϊκός, εσύ;",
+  "share": 4.0,
+  "hint": "team or party",
+  "hint_context": "he is an Olympiacos fan",
+  "example_marks": [
+   {
+    "text": "είμαι",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "κανείς",
+  "front": "κανείς",
+  "lemma": "κανείς",
+  "back": "nobody",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "no one",
+   "anyone"
+  ],
+  "definition": "no person (with δεν); in questions: anyone",
+  "examples": [
+   "Δεν ήρθε κανείς στο πάρτι."
+  ],
+  "examples_en": [
+   "Nobody came to the party."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Pronoun",
+  "gender": "",
+  "zipf": 5.81,
+  "share": 98.0,
+  "hint": "no person",
+  "hint_context": "nobody knows",
+  "example_marks": [
+   {
+    "text": "κανείς",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "μικρός",
+  "front": "μικρός",
+  "lemma": "μικρός",
+  "back": "small",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "little",
+   "young"
+  ],
+  "definition": "not big; young",
+  "examples": [
+   "Μένουμε σε ένα μικρό ξενοδοχείο."
+  ],
+  "examples_en": [
+   "We're staying at a small hotel."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 5.81,
+  "share": 98.0,
+  "hint": "size",
+  "hint_context": "a small room",
+  "example_marks": [
+   {
+    "text": "μικρό",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "μόνος#2",
+  "front": "μόνος",
+  "lemma": "μόνος",
+  "back": "only",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "sole"
+  ],
+  "definition": "being the one and only of its kind in a group",
+  "examples": [
+   "Είσαι ο μόνος άνθρωπος που με καταλαβαίνει."
+  ],
+  "examples_en": [
+   "You're the only person who understands me."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 6.22,
+  "lemma_id": "μόνος",
+  "sense_index": 2,
+  "sense_count": 3,
+  "cue": "Είσαι ο μόνος άνθρωπος που με καταλαβαίνει.",
+  "share": 38.0,
+  "hint": "only one",
+  "hint_context": "the only person",
+  "example_marks": [
+   {
+    "text": "μόνος",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "πιο#2",
+  "front": "πιο",
+  "lemma": "πιο",
+  "back": "most",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "-est"
+  ],
+  "definition": "with the article, forms the superlative of adjectives",
+  "examples": [
+   "Η θάλασσα εδώ είναι η πιο καθαρή."
+  ],
+  "examples_en": [
+   "The sea here is the cleanest."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 6.17,
+  "lemma_id": "πιο",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Η θάλασσα εδώ είναι η πιο καθαρή.",
+  "share": 42.0,
+  "hint": "superlative, with article",
+  "hint_context": "the cleanest",
+  "example_marks": [
+   {
+    "text": "πιο",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "άνθρωπος",
+  "front": "ο άνθρωπος",
+  "lemma": "άνθρωπος",
+  "back": "person",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "human being",
+   "people (pl.)"
+  ],
+  "definition": "a human being; plural: people",
+  "examples": [
+   "Είναι πολύ καλός άνθρωπος."
+  ],
+  "examples_en": [
+   "He's a really good person."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.79,
+  "share": 98.0,
+  "hint": "human being",
+  "hint_context": "a good person",
+  "example_marks": [
+   {
+    "text": "άνθρωπος",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "πολύς#2",
+  "front": "πολύς",
+  "lemma": "πολύς",
+  "back": "much",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "a lot of"
+  ],
+  "definition": "a large amount of something uncountable",
+  "examples": [
+   "Αγόρασα πολύ λάδι."
+  ],
+  "examples_en": [
+   "I bought a lot of oil."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 6.48,
+  "lemma_id": "πολύς",
+  "sense_index": 2,
+  "sense_count": 3,
+  "cue": "Αγόρασα πολύ λάδι.",
+  "share": 20.0,
+  "hint": "uncountable amount",
+  "hint_context": "a lot of oil",
+  "example_marks": [
+   {
+    "text": "πολύ",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "μεγάλος",
+  "front": "μεγάλος",
+  "lemma": "μεγάλος",
+  "back": "big",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "large"
+  ],
+  "definition": "of greater than average size or extent",
+  "examples": [
+   "Το σπίτι τους έχει μεγάλο κήπο με δέντρα."
+  ],
+  "examples_en": [
+   "Their house has a big garden with trees."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 6.16,
+  "lemma_id": "μεγάλος",
+  "sense_index": 1,
+  "sense_count": 6,
+  "cue": "Το σπίτι τους έχει μεγάλο κήπο με δέντρα.",
+  "share": 40.0,
+  "hint": "physically large",
+  "hint_context": "a big house",
+  "example_marks": [
+   {
+    "text": "μεγάλο",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "ακόμα",
+  "front": "ακόμα",
+  "lemma": "ακόμα",
+  "back": "still",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "continuing up to now",
+  "examples": [
+   "Ο μικρός ακόμα κοιμάται."
+  ],
+  "examples_en": [
+   "The little one is still asleep."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 6.06,
+  "lemma_id": "ακόμα",
+  "sense_index": 1,
+  "sense_count": 3,
+  "cue": "Ο μικρός ακόμα κοιμάται.",
+  "share": 50.0,
+  "hint": "continuing",
+  "hint_context": "still here",
+  "example_marks": [
+   {
+    "text": "ακόμα",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "γίνομαι#2",
+  "front": "γίνομαι",
+  "lemma": "γίνομαι",
+  "back": "happen",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "occur",
+   "take place"
+  ],
+  "definition": "to occur or take place as an event",
+  "examples": [
+   "Τι έγινε χθες το βράδυ στην ταβέρνα;"
+  ],
+  "examples_en": [
+   "What happened last night at the taverna?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.31,
+  "lemma_id": "γίνομαι",
+  "sense_index": 2,
+  "sense_count": 6,
+  "cue": "Τι έγινε χθες το βράδυ στην ταβέρνα;",
+  "share": 28.0,
+  "hint": "event occurs",
+  "hint_context": "what happened last night",
+  "example_marks": [
+   {
+    "text": "έγινε",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "όλος",
+  "front": "όλος",
+  "lemma": "όλος",
+  "back": "whole",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "entire"
+  ],
+  "definition": "complete, full extent of a single thing or period",
+  "examples": [
+   "Έμεινα σπίτι όλη τη μέρα."
+  ],
+  "examples_en": [
+   "I stayed home the whole day."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 6.15,
+  "lemma_id": "όλος",
+  "sense_index": 1,
+  "sense_count": 3,
+  "cue": "Έμεινα σπίτι όλη τη μέρα.",
+  "share": 40.0,
+  "hint": "singular, one thing",
+  "hint_context": "the whole day",
+  "example_marks": [
+   {
+    "text": "όλη",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "εκεί",
+  "front": "εκεί",
+  "lemma": "εκεί",
+  "back": "there",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "in or to that place",
+  "examples": [
+   "Το ξενοδοχείο είναι εκεί, δίπλα στη θάλασσα."
+  ],
+  "examples_en": [
+   "The hotel is there, next to the sea."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 5.76,
+  "share": 98.0,
+  "hint": "that place",
+  "hint_context": "over there",
+  "example_marks": [
+   {
+    "text": "εκεί",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "ποιος",
+  "front": "ποιος",
+  "lemma": "ποιος",
+  "back": "who",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "which"
+  ],
+  "definition": "question: which person, which one",
+  "examples": [
+   "Ποιος είναι στην πόρτα;"
+  ],
+  "examples_en": [
+   "Who's at the door?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Pronoun",
+  "gender": "",
+  "zipf": 5.76,
+  "share": 98.0,
+  "hint": "question: who?",
+  "hint_context": "who is it",
+  "example_marks": [
+   {
+    "text": "Ποιος",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "ποτέ",
+  "front": "ποτέ",
+  "lemma": "ποτέ",
+  "back": "never",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "ever"
+  ],
+  "definition": "not at any time (with δεν); in questions: ever",
+  "examples": [
+   "Δεν έχω πάει ποτέ στη Σαντορίνη."
+  ],
+  "examples_en": [
+   "I've never been to Santorini."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 5.76,
+  "share": 98.0,
+  "hint": "not ever",
+  "hint_context": "never again",
+  "example_marks": [
+   {
+    "text": "ποτέ",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "όταν#2",
+  "front": "όταν",
+  "lemma": "όταν",
+  "back": "whenever",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "every time"
+  ],
+  "definition": "on every occasion that; each time that (habitual or general truth)",
+  "examples": [
+   "Όταν βρέχει, μένω σπίτι και διαβάζω."
+  ],
+  "examples_en": [
+   "Whenever it rains, I stay home and read."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Conjunction",
+  "gender": "",
+  "zipf": 6.26,
+  "lemma_id": "όταν",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Όταν βρέχει, μένω σπίτι και διαβάζω.",
+  "share": 30.0,
+  "hint": "every time, habitual",
+  "hint_context": "whenever it rains",
+  "example_marks": [
+   {
+    "text": "Όταν",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "μπορώ#2",
+  "front": "μπορώ",
+  "lemma": "μπορώ",
+  "back": "may",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "be allowed to"
+  ],
+  "definition": "to be permitted to do something",
+  "examples": [
+   "Μπορώ να φύγω νωρίς σήμερα;"
+  ],
+  "examples_en": [
+   "May I leave early today?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.43,
+  "lemma_id": "μπορώ",
+  "sense_index": 2,
+  "sense_count": 3,
+  "cue": "Μπορώ να φύγω νωρίς σήμερα;",
+  "share": 20.0,
+  "hint": "permission",
+  "hint_context": "may I leave",
+  "example_marks": [
+   {
+    "text": "Μπορώ",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "μπορέσω"
+ },
+ {
+  "id": "υπάρχω#2",
+  "front": "υπάρχω",
+  "lemma": "υπάρχω",
+  "back": "exist",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "be real"
+  ],
+  "definition": "to have real existence; to be in being",
+  "examples": [
+   "Πολλοί πιστεύουν ότι η ψυχή υπάρχει."
+  ],
+  "examples_en": [
+   "Many people believe that the soul exists."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.23,
+  "lemma_id": "υπάρχω",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Πολλοί πιστεύουν ότι η ψυχή υπάρχει.",
+  "share": 30.0,
+  "hint": "exist",
+  "hint_context": "believe the soul exists",
+  "example_marks": [
+   {
+    "text": "υπάρχει",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "όχι~adverb",
+  "front": "όχι",
+  "lemma": "όχι",
+  "back": "not",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "negates a contrasted word or phrase, e.g. 'not X but Y'",
+  "examples": [
+   "Θέλω το μπλε, όχι το κόκκινο."
+  ],
+  "examples_en": [
+   "I want the blue one, not the red one."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 6.2,
+  "share": 32.0,
+  "hint": "contrast: not X",
+  "hint_context": "the blue one, not the red",
+  "example_marks": [
+   {
+    "text": "όχι",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "πρέπει#2",
+  "front": "πρέπει",
+  "lemma": "πρέπει",
+  "back": "should",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "ought to"
+  ],
+  "definition": "it is advisable or right to do something (impersonal)",
+  "examples": [
+   "Πρέπει να τηλεφωνήσεις στη μητέρα σου απόψε."
+  ],
+  "examples_en": [
+   "You should call your mother tonight."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.18,
+  "lemma_id": "πρέπει",
+  "sense_index": 2,
+  "sense_count": 3,
+  "cue": "Πρέπει να τηλεφωνήσεις στη μητέρα σου απόψε.",
+  "share": 33.0,
+  "hint": "advice, recommendation",
+  "hint_context": "you should rest",
+  "example_marks": [
+   {
+    "text": "Πρέπει",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "ακούω",
+  "front": "ακούω",
+  "lemma": "ακούω",
+  "back": "hear",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "listen"
+  ],
+  "definition": "to hear; to listen",
+  "examples": [
+   "Δεν σε ακούω, μίλα πιο δυνατά."
+  ],
+  "examples_en": [
+   "I can't hear you, speak louder."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.7,
+  "share": 98.0,
+  "hint": "with your ears",
+  "hint_context": "listen to music",
+  "example_marks": [
+   {
+    "text": "ακούω",
+    "nth": 1
+   }
+  ],
+  "aspect_pair": "ακούσω"
+ },
+ {
+  "id": "χρειάζομαι",
+  "front": "χρειάζομαι",
+  "lemma": "χρειάζομαι",
+  "back": "need",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to need",
+  "examples": [
+   "Χρειάζομαι λίγο νερό."
+  ],
+  "examples_en": [
+   "I need some water."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.7,
+  "share": 98.0,
+  "hint": "require",
+  "hint_context": "I need help",
+  "example_marks": [
+   {
+    "text": "Χρειάζομαι",
+    "nth": 1
+   }
+  ],
+  "aspect_pair": "χρειαστώ"
+ },
+ {
+  "id": "καλός#2",
+  "front": "καλός",
+  "lemma": "καλός",
+  "back": "nice",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "kind",
+   "decent"
+  ],
+  "definition": "kind, pleasant, or decent as a person",
+  "examples": [
+   "Η γιαγιά μου είναι πολύ καλή γυναίκα."
+  ],
+  "examples_en": [
+   "My grandmother is a very kind woman."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 6.29,
+  "lemma_id": "καλός",
+  "sense_index": 2,
+  "sense_count": 3,
+  "cue": "Η γιαγιά μου είναι πολύ καλή γυναίκα.",
+  "share": 25.0,
+  "hint": "kind, decent person",
+  "hint_context": "a nice person",
+  "example_marks": [
+   {
+    "text": "καλή",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "για~expression",
+  "front": "για στάσου",
+  "lemma": "για",
+  "back": "wait a minute",
+  "band": 1,
+  "kind": "word",
+  "register": "informal",
+  "alts": [
+   "hold on"
+  ],
+  "definition": "colloquial interjection used to ask someone to pause or wait",
+  "examples": [
+   "Για στάσου, δεν κατάλαβα τίποτα."
+  ],
+  "examples_en": [
+   "Hold on, I didn't understand anything."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Expression",
+  "gender": "",
+  "zipf": 7.19,
+  "share": 3.0,
+  "hint": "say to pause",
+  "hint_context": "hold on, let me think",
+  "example_marks": [
+   {
+    "text": "Για στάσου",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "νέος#2",
+  "front": "νέος",
+  "lemma": "νέος",
+  "back": "young",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "youthful"
+  ],
+  "definition": "at an early stage of life; not old in age",
+  "examples": [
+   "Η αδερφή μου είναι πολύ νέα για να ταξιδέψει μόνη."
+  ],
+  "examples_en": [
+   "My sister is too young to travel alone."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 6.12,
+  "lemma_id": "νέος",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Η αδερφή μου είναι πολύ νέα για να ταξιδέψει μόνη.",
+  "share": 35.0,
+  "hint": "not old in age",
+  "hint_context": "too young to travel",
+  "example_marks": [
+   {
+    "text": "νέα",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "σε#3",
+  "front": "σε",
+  "lemma": "σε",
+  "back": "to",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "marking the recipient or indirect object (person)",
+  "examples": [
+   "Έδωσα τα κλειδιά σε έναν φίλο μου."
+  ],
+  "examples_en": [
+   "I gave the keys to a friend of mine."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Preposition",
+  "gender": "",
+  "zipf": 6.66,
+  "lemma_id": "σε",
+  "sense_index": 3,
+  "sense_count": 4,
+  "cue": "Έδωσα τα κλειδιά σε έναν φίλο μου.",
+  "share": 10.0,
+  "hint": "recipient, giving to a person",
+  "hint_context": "give the keys to a friend",
+  "example_marks": [
+   {
+    "text": "σε",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "φίλος",
+  "front": "ο φίλος",
+  "lemma": "φίλος",
+  "back": "friend",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a friend (man)",
+  "examples": [
+   "Είναι ο καλύτερός μου φίλος."
+  ],
+  "examples_en": [
+   "He's my best friend."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.73,
+  "lemma_id": "φίλος",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Είναι ο καλύτερός μου φίλος.",
+  "share": 85.0,
+  "hint": "friend, man",
+  "hint_context": "an old friend",
+  "example_marks": [
+   {
+    "text": "φίλος",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "πριν",
+  "front": "πριν",
+  "lemma": "πριν",
+  "back": "before",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "'πριν από' = before",
+  "examples": [
+   "Πλύνε τα χέρια σου πριν από το φαγητό."
+  ],
+  "examples_en": [
+   "Wash your hands before eating."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Preposition",
+  "gender": "",
+  "zipf": 5.9,
+  "lemma_id": "πριν",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Πλύνε τα χέρια σου πριν από το φαγητό.",
+  "share": 55.0,
+  "hint": "earlier than",
+  "hint_context": "before lunch",
+  "example_marks": [
+   {
+    "text": "πριν",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "μπορώ#3",
+  "front": "μπορώ",
+  "lemma": "μπορώ",
+  "back": "might",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "maybe",
+   "perhaps"
+  ],
+  "definition": "impersonal: it is possible that; it may happen",
+  "examples": [
+   "Μπορεί να βρέξει αύριο το πρωί."
+  ],
+  "examples_en": [
+   "It might rain tomorrow morning."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.43,
+  "lemma_id": "μπορώ",
+  "sense_index": 3,
+  "sense_count": 3,
+  "cue": "Μπορεί να βρέξει αύριο το πρωί.",
+  "share": 15.0,
+  "hint": "it's possible",
+  "hint_context": "it might rain",
+  "example_marks": [
+   {
+    "text": "Μπορεί",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "μπορέσω"
+ },
+ {
+  "id": "φεύγω",
+  "front": "φεύγω",
+  "lemma": "φεύγω",
+  "back": "leave",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "go"
+  ],
+  "definition": "to leave, to depart",
+  "examples": [
+   "Το πλοίο φεύγει στις οκτώ."
+  ],
+  "examples_en": [
+   "The ferry leaves at eight."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.61,
+  "share": 98.0,
+  "hint": "depart",
+  "hint_context": "we're leaving",
+  "example_marks": [
+   {
+    "text": "φεύγει",
+    "nth": 1
+   }
+  ],
+  "aspect_pair": "φύγω"
+ },
+ {
+  "id": "όνομα",
+  "front": "το όνομα",
+  "lemma": "όνομα",
+  "back": "name",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "first name"
+  ],
+  "definition": "a name",
+  "examples": [
+   "Ποιο είναι το όνομά σας;"
+  ],
+  "examples_en": [
+   "What is your name?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 5.61,
+  "share": 98.0,
+  "hint": "what you're called",
+  "hint_context": "first name",
+  "example_marks": [
+   {
+    "text": "όνομά",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "έχω#5",
+  "front": "έχω",
+  "lemma": "έχω",
+  "back": "feel",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "feel like"
+  ],
+  "definition": "to feel a need, desire, or emotion (e.g. έχω όρεξη)",
+  "examples": [
+   "Έχω όρεξη για παγωτό σήμερα."
+  ],
+  "examples_en": [
+   "I feel like having ice cream today."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.89,
+  "lemma_id": "έχω",
+  "sense_index": 5,
+  "sense_count": 5,
+  "cue": "Έχω όρεξη για παγωτό σήμερα.",
+  "share": 5.0,
+  "hint": "desire, in the mood",
+  "hint_context": "feel like eating",
+  "example_marks": [
+   {
+    "text": "Έχω",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "μη#3",
+  "front": "μη",
+  "lemma": "μη",
+  "back": "non-",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "un-",
+   "not"
+  ],
+  "definition": "prefix forming negated adjectives and nouns",
+  "examples": [
+   "Το τραπέζι για μη καπνιστές είναι στα αριστερά."
+  ],
+  "examples_en": [
+   "The table for non-smokers is on the left."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Particle",
+  "gender": "",
+  "zipf": 6.41,
+  "lemma_id": "μη",
+  "sense_index": 3,
+  "sense_count": 3,
+  "cue": "Το τραπέζι για μη καπνιστές είναι στα αριστερά.",
+  "share": 15.0,
+  "hint": "negative prefix",
+  "hint_context": "non-smoking area",
+  "example_marks": [
+   {
+    "text": "μη",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "θέλω#2",
+  "front": "θέλω",
+  "lemma": "θέλω",
+  "back": "would like",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "'d like"
+  ],
+  "definition": "polite way of expressing a wish or request (with θα)",
+  "examples": [
+   "Θα ήθελα δύο μπύρες, παρακαλώ."
+  ],
+  "examples_en": [
+   "I would like two beers, please."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.24,
+  "lemma_id": "θέλω",
+  "sense_index": 2,
+  "sense_count": 5,
+  "cue": "Θα ήθελα δύο μπύρες, παρακαλώ.",
+  "share": 22.0,
+  "hint": "polite request",
+  "hint_context": "I would like two beers",
+  "example_marks": [
+   {
+    "text": "Θα ήθελα",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "θελήσω"
+ },
+ {
+  "id": "βιβλίο",
+  "front": "το βιβλίο",
+  "lemma": "βιβλίο",
+  "back": "book",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a book",
+  "examples": [
+   "Διαβάζω ένα βιβλίο στην παραλία."
+  ],
+  "examples_en": [
+   "I'm reading a book on the beach."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 5.58,
+  "share": 98.0,
+  "hint": "to read",
+  "hint_context": "a good book",
+  "example_marks": [
+   {
+    "text": "βιβλίο",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "περιμένω",
+  "front": "περιμένω",
+  "lemma": "περιμένω",
+  "back": "wait",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "expect"
+  ],
+  "definition": "to wait (for)",
+  "examples": [
+   "Σε περιμένω στην καφετέρια."
+  ],
+  "examples_en": [
+   "I'll wait for you at the café."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.58,
+  "share": 98.0,
+  "hint": "wait for someone",
+  "hint_context": "wait for me",
+  "example_marks": [
+   {
+    "text": "περιμένω",
+    "nth": 1
+   }
+  ],
+  "aspect_pair": "περιμένω"
+ },
+ {
+  "id": "πάνω",
+  "front": "πάνω",
+  "lemma": "πάνω",
+  "back": "upstairs",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "up",
+   "above"
+  ],
+  "definition": "up, above, upstairs",
+  "examples": [
+   "Το δωμάτιό μας είναι πάνω."
+  ],
+  "examples_en": [
+   "Our room is upstairs."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 5.83,
+  "lemma_id": "πάνω",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Το δωμάτιό μας είναι πάνω.",
+  "share": 55.0,
+  "hint": "up, upper floor",
+  "hint_context": "upstairs",
+  "example_marks": [
+   {
+    "text": "πάνω",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "κατά",
+  "front": "κατά",
+  "lemma": "κατά",
+  "back": "according to",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "in the opinion of"
+  ],
+  "definition": "in the view or opinion of; as stated by",
+  "examples": [
+   "Κατά τη γνώμη μου, η ταινία είναι πολύ καλή."
+  ],
+  "examples_en": [
+   "In my opinion, the movie is very good."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Preposition",
+  "gender": "",
+  "zipf": 6.09,
+  "lemma_id": "κατά",
+  "sense_index": 1,
+  "sense_count": 5,
+  "cue": "Κατά τη γνώμη μου, η ταινία είναι πολύ καλή.",
+  "share": 30.0,
+  "hint": "in someone's opinion",
+  "hint_context": "according to him",
+  "example_marks": [
+   {
+    "text": "Κατά",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "σε#4",
+  "front": "σε",
+  "lemma": "σε",
+  "back": "in",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "within"
+  ],
+  "definition": "indicating the time after which something happens",
+  "examples": [
+   "Το τρένο φτάνει σε πέντε λεπτά."
+  ],
+  "examples_en": [
+   "The train arrives in five minutes."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Preposition",
+  "gender": "",
+  "zipf": 6.66,
+  "lemma_id": "σε",
+  "sense_index": 4,
+  "sense_count": 4,
+  "cue": "Το τρένο φτάνει σε πέντε λεπτά.",
+  "share": 8.0,
+  "hint": "time from now",
+  "hint_context": "in five minutes",
+  "example_marks": [
+   {
+    "text": "σε",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "επειδή",
+  "front": "επειδή",
+  "lemma": "επειδή",
+  "back": "because",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "for the reason that",
+  "examples": [
+   "Δεν ήρθα επειδή ήμουν άρρωστος."
+  ],
+  "examples_en": [
+   "I didn't come because I was sick."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Conjunction",
+  "gender": "",
+  "zipf": 5.57,
+  "share": 98.0,
+  "hint": "reason, never a question",
+  "hint_context": "because of that",
+  "example_marks": [
+   {
+    "text": "επειδή",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "άλλος",
+  "front": "άλλος",
+  "lemma": "άλλος",
+  "back": "other",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "additional"
+  ],
+  "definition": "not the one already mentioned; remaining of a group",
+  "examples": [
+   "Ο άλλος μου φίλος έρχεται αύριο."
+  ],
+  "examples_en": [
+   "My other friend is coming tomorrow."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 6.26,
+  "lemma_id": "άλλος",
+  "sense_index": 1,
+  "sense_count": 6,
+  "cue": "Ο άλλος μου φίλος έρχεται αύριο.",
+  "share": 20.0,
+  "hint": "other person",
+  "hint_context": "my other friend",
+  "example_marks": [
+   {
+    "text": "άλλος",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "μετά~adverb",
+  "front": "μετά",
+  "lemma": "μετά",
+  "back": "later",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "afterwards"
+  ],
+  "definition": "at a later time; subsequently",
+  "examples": [
+   "Θα σου τηλεφωνήσω μετά, τώρα είμαι απασχολημένος."
+  ],
+  "examples_en": [
+   "I'll call you later, I'm busy now."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 6.16,
+  "lemma_id": "μετά~adverb",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Θα σου τηλεφωνήσω μετά, τώρα είμαι απασχολημένος.",
+  "share": 25.0,
+  "hint": "at a later time",
+  "hint_context": "I'll call later",
+  "example_marks": [
+   {
+    "text": "μετά",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "παίρνω#2",
+  "front": "παίρνω",
+  "lemma": "παίρνω",
+  "back": "order",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "have"
+  ],
+  "definition": "to order food or drink ('τι θα πάρεις;')",
+  "examples": [
+   "Τι θα πάρεις, μουσακά ή σουβλάκι;"
+  ],
+  "examples_en": [
+   "What will you have, moussaka or souvlaki?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.16,
+  "lemma_id": "παίρνω",
+  "sense_index": 2,
+  "sense_count": 3,
+  "cue": "Τι θα πάρεις, μουσακά ή σουβλάκι;",
+  "share": 25.0,
+  "hint": "in a café or taverna",
+  "hint_context": "what will you have",
+  "example_marks": [
+   {
+    "text": "πάρεις",
+    "nth": 1
+   }
+  ],
+  "aspect_pair": "πάρω"
+ },
+ {
+  "id": "καταλαβαίνω",
+  "front": "καταλαβαίνω",
+  "lemma": "καταλαβαίνω",
+  "back": "understand",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to understand",
+  "examples": [
+   "Δεν καταλαβαίνω, μπορείτε να το πείτε ξανά;"
+  ],
+  "examples_en": [
+   "I don't understand, could you say it again?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.56,
+  "share": 98.0,
+  "hint": "comprehend",
+  "hint_context": "I understand",
+  "example_marks": [
+   {
+    "text": "καταλαβαίνω",
+    "nth": 1
+   }
+  ],
+  "aspect_pair": "καταλάβω"
+ },
+ {
+  "id": "πόλη",
+  "front": "η πόλη",
+  "lemma": "πόλη",
+  "back": "city",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "town"
+  ],
+  "definition": "a city or town",
+  "examples": [
+   "Η παλιά πόλη της Ρόδου είναι υπέροχη."
+  ],
+  "examples_en": [
+   "The old town of Rhodes is wonderful."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 5.56,
+  "share": 98.0,
+  "hint": "urban area",
+  "hint_context": "the old town",
+  "example_marks": [
+   {
+    "text": "πόλη",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "τρώω",
+  "front": "τρώω",
+  "lemma": "τρώω",
+  "back": "eat",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to eat",
+  "examples": [
+   "Τι τρώμε απόψε;"
+  ],
+  "examples_en": [
+   "What are we eating tonight?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.55,
+  "share": 98.0,
+  "hint": "food",
+  "hint_context": "eat out",
+  "example_marks": [
+   {
+    "text": "τρώμε",
+    "nth": 1
+   }
+  ],
+  "aspect_pair": "φάω"
+ },
+ {
+  "id": "μέσος#2",
+  "front": "μέσος",
+  "lemma": "μέσος",
+  "back": "middle",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "central",
+   "mid"
+  ],
+  "definition": "situated in the middle; intermediate",
+  "examples": [
+   "Η μέση τάξη πλήρωσε τους περισσότερους φόρους."
+  ],
+  "examples_en": [
+   "The middle class paid most of the taxes."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 6.14,
+  "lemma_id": "μέσος",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Η μέση τάξη πλήρωσε τους περισσότερους φόρους.",
+  "share": 25.0,
+  "hint": "in the middle",
+  "hint_context": "the middle class",
+  "example_marks": [
+   {
+    "text": "μέση",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "τίποτα",
+  "front": "τίποτα",
+  "lemma": "τίποτα",
+  "back": "nothing",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "anything"
+  ],
+  "definition": "not anything (with δεν)",
+  "examples": [
+   "Δεν θέλω τίποτα, ευχαριστώ."
+  ],
+  "examples_en": [
+   "I don't want anything, thanks."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Pronoun",
+  "gender": "",
+  "zipf": 5.69,
+  "lemma_id": "τίποτα",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Δεν θέλω τίποτα, ευχαριστώ.",
+  "share": 70.0,
+  "hint": "not anything",
+  "hint_context": "nothing at all",
+  "example_marks": [
+   {
+    "text": "τίποτα",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "πριν#2",
+  "front": "πριν",
+  "lemma": "πριν",
+  "back": "ago",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "'πριν από' + time = ago",
+  "examples": [
+   "Ήρθαμε πριν από δύο μέρες."
+  ],
+  "examples_en": [
+   "We came two days ago."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Preposition",
+  "gender": "",
+  "zipf": 5.9,
+  "lemma_id": "πριν",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Ήρθαμε πριν από δύο μέρες.",
+  "share": 43.0,
+  "hint": "time: ago",
+  "hint_context": "two days ago",
+  "example_marks": [
+   {
+    "text": "πριν",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "σπίτι",
+  "front": "το σπίτι",
+  "lemma": "σπίτι",
+  "back": "home",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "one's home",
+  "examples": [
+   "Πάμε σπίτι, είμαι κουρασμένος."
+  ],
+  "examples_en": [
+   "Let's go home, I'm tired."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 5.79,
+  "lemma_id": "σπίτι",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Πάμε σπίτι, είμαι κουρασμένος.",
+  "share": 55.0,
+  "hint": "where you live",
+  "hint_context": "go home",
+  "example_marks": [
+   {
+    "text": "σπίτι",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "λέω#3",
+  "front": "λέω",
+  "lemma": "λέω",
+  "back": "talk about",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "discuss"
+  ],
+  "definition": "to talk or converse about a subject",
+  "examples": [
+   "Λέγαμε για τις διακοπές μας."
+  ],
+  "examples_en": [
+   "We were talking about our holidays."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.53,
+  "lemma_id": "λέω",
+  "sense_index": 3,
+  "sense_count": 6,
+  "cue": "Λέγαμε για τις διακοπές μας.",
+  "share": 10.0,
+  "hint": "converse about",
+  "hint_context": "talk about our holidays",
+  "example_marks": [
+   {
+    "text": "Λέγαμε",
+    "nth": 1
+   }
+  ],
+  "aspect": "imperfective",
+  "aspect_pair": "πω"
+ },
+ {
+  "id": "λέω#4",
+  "front": "λέω",
+  "lemma": "λέω",
+  "back": "mean",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "intend to say"
+  ],
+  "definition": "to mean, to intend to say (to clarify)",
+  "examples": [
+   "Τι θέλεις να πεις;"
+  ],
+  "examples_en": [
+   "What do you mean?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.53,
+  "lemma_id": "λέω",
+  "sense_index": 4,
+  "sense_count": 6,
+  "cue": "Τι θέλεις να πεις;",
+  "share": 10.0,
+  "hint": "what you mean",
+  "hint_context": "what do you mean",
+  "example_marks": [
+   {
+    "text": "πεις",
+    "nth": 1
+   }
+  ],
+  "aspect": "imperfective",
+  "aspect_pair": "πω"
+ },
+ {
+  "id": "λέω#5",
+  "front": "λέω",
+  "lemma": "λέω",
+  "back": "suppose",
+  "band": 1,
+  "kind": "word",
+  "register": "informal",
+  "alts": [
+   "think",
+   "imagine"
+  ],
+  "definition": "to suppose or imagine a hypothetical scenario",
+  "examples": [
+   "Λες να βρέξει αύριο;"
+  ],
+  "examples_en": [
+   "Do you think it'll rain tomorrow?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.53,
+  "lemma_id": "λέω",
+  "sense_index": 5,
+  "sense_count": 6,
+  "cue": "Λες να βρέξει αύριο;",
+  "share": 10.0,
+  "hint": "do you think",
+  "hint_context": "do you think it'll rain",
+  "example_marks": [
+   {
+    "text": "Λες",
+    "nth": 1
+   }
+  ],
+  "aspect": "imperfective",
+  "aspect_pair": "πω"
+ },
+ {
+  "id": "παίρνω#3",
+  "front": "παίρνω",
+  "lemma": "παίρνω",
+  "back": "call",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "phone"
+  ],
+  "definition": "'παίρνω τηλέφωνο' = to phone",
+  "examples": [
+   "Θα σε πάρω τηλέφωνο αύριο."
+  ],
+  "examples_en": [
+   "I'll call you tomorrow."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.16,
+  "lemma_id": "παίρνω",
+  "sense_index": 3,
+  "sense_count": 3,
+  "cue": "Θα σε πάρω τηλέφωνο αύριο.",
+  "share": 23.0,
+  "hint": "by phone",
+  "hint_context": "call me",
+  "example_marks": [
+   {
+    "text": "πάρω",
+    "nth": 1
+   }
+  ],
+  "aspect_pair": "πάρω"
+ },
+ {
+  "id": "πατέρας",
+  "front": "ο πατέρας",
+  "lemma": "πατέρας",
+  "back": "father",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "dad"
+  ],
+  "definition": "father ('μπαμπάς' = dad)",
+  "examples": [
+   "Ο πατέρας μου δουλεύει σε τράπεζα."
+  ],
+  "examples_en": [
+   "My father works at a bank."
+  ],
+  "claude": true,
+  "topic": "family",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.53,
+  "share": 98.0,
+  "hint": "parent, man",
+  "hint_context": "my father",
+  "example_marks": [
+   {
+    "text": "πατέρας",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "ωραίος",
+  "front": "ωραίος",
+  "lemma": "ωραίος",
+  "back": "beautiful",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "nice",
+   "lovely"
+  ],
+  "definition": "pleasant to look at; nice",
+  "examples": [
+   "Τι ωραία παραλία!"
+  ],
+  "examples_en": [
+   "What a beautiful beach!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 5.52,
+  "share": 98.0,
+  "hint": "nice to look at",
+  "hint_context": "a nice day",
+  "example_marks": [
+   {
+    "text": "ωραία",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "ήδη",
+  "front": "ήδη",
+  "lemma": "ήδη",
+  "back": "already",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "before now, sooner than expected",
+  "examples": [
+   "Έχω ήδη φάει, ευχαριστώ."
+  ],
+  "examples_en": [
+   "I've already eaten, thanks."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 5.51,
+  "share": 98.0,
+  "hint": "sooner than expected",
+  "hint_context": "already done",
+  "example_marks": [
+   {
+    "text": "ήδη",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "νερό",
+  "front": "το νερό",
+  "lemma": "νερό",
+  "back": "water",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "water",
+  "examples": [
+   "Ένα μπουκάλι νερό, παρακαλώ."
+  ],
+  "examples_en": [
+   "A bottle of water, please."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 5.51,
+  "share": 98.0,
+  "hint": "drink",
+  "hint_context": "a glass of water",
+  "example_marks": [
+   {
+    "text": "νερό",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "βρίσκω#2",
+  "front": "βρίσκω",
+  "lemma": "βρίσκω",
+  "back": "think",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "find"
+  ],
+  "definition": "to hold the opinion or judgment that something is so",
+  "examples": [
+   "Βρίσκω την ταινία πολύ καλή."
+  ],
+  "examples_en": [
+   "I think the movie is really good."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.2,
+  "lemma_id": "βρίσκω",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Βρίσκω την ταινία πολύ καλή.",
+  "share": 20.0,
+  "hint": "hold an opinion",
+  "hint_context": "I think it's great",
+  "example_marks": [
+   {
+    "text": "Βρίσκω",
+    "nth": 1
+   }
+  ],
+  "aspect": "imperfective",
+  "aspect_pair": "βρω"
+ },
+ {
+  "id": "βράδυ",
+  "front": "το βράδυ",
+  "lemma": "βράδυ",
+  "back": "evening",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "night"
+  ],
+  "definition": "the evening ('το βράδυ' = in the evening)",
+  "examples": [
+   "Το βράδυ τρώμε στην ταβέρνα."
+  ],
+  "examples_en": [
+   "In the evening we eat at the taverna."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 5.5,
+  "share": 98.0,
+  "hint": "end of the day",
+  "hint_context": "in the evening",
+  "example_marks": [
+   {
+    "text": "βράδυ",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "αρέσω",
+  "front": "μου αρέσει",
+  "lemma": "αρέσω",
+  "back": "like",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "'μου αρέσει' = I like (lit. 'it pleases me')",
+  "examples": [
+   "Μου αρέσει πολύ η Ελλάδα."
+  ],
+  "examples_en": [
+   "I really like Greece."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.49,
+  "share": 98.0,
+  "hint": "μου αρέσει",
+  "hint_context": "I like it",
+  "example_marks": [
+   {
+    "text": "αρέσει",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "χρόνος",
+  "front": "ο χρόνος",
+  "lemma": "χρόνος",
+  "back": "time",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "time (as something you have or don't have)",
+  "examples": [
+   "Δεν έχω χρόνο σήμερα."
+  ],
+  "examples_en": [
+   "I don't have time today."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.78,
+  "lemma_id": "χρόνος",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Δεν έχω χρόνο σήμερα.",
+  "share": 50.0,
+  "hint": "duration",
+  "hint_context": "no time",
+  "example_marks": [
+   {
+    "text": "χρόνο",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "ώρα",
+  "front": "η ώρα",
+  "lemma": "ώρα",
+  "back": "time",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "o'clock"
+  ],
+  "definition": "time of day ('Τι ώρα;' = what time?)",
+  "examples": [
+   "Τι ώρα φεύγει το πλοίο;"
+  ],
+  "examples_en": [
+   "What time does the ferry leave?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 5.75,
+  "lemma_id": "ώρα",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Τι ώρα φεύγει το πλοίο;",
+  "share": 53.0,
+  "hint": "clock time",
+  "hint_context": "what time is it",
+  "example_marks": [
+   {
+    "text": "ώρα",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "πάνω#2",
+  "front": "πάνω",
+  "lemma": "πάνω",
+  "back": "on",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "on top of"
+  ],
+  "definition": "'πάνω σε' = on top of",
+  "examples": [
+   "Τα κλειδιά είναι πάνω στο τραπέζι."
+  ],
+  "examples_en": [
+   "The keys are on the table."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 5.83,
+  "lemma_id": "πάνω",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Τα κλειδιά είναι πάνω στο τραπέζι.",
+  "share": 43.0,
+  "hint": "πάνω σε",
+  "hint_context": "on the table",
+  "example_marks": [
+   {
+    "text": "πάνω",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "χρόνος#2",
+  "front": "ο χρόνος",
+  "lemma": "χρόνος",
+  "back": "year",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a year (plural 'χρόνια' = years)",
+  "examples": [
+   "Μένω εδώ δέκα χρόνια."
+  ],
+  "examples_en": [
+   "I've lived here for ten years."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.78,
+  "lemma_id": "χρόνος",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Μένω εδώ δέκα χρόνια.",
+  "share": 48.0,
+  "hint": "12 months",
+  "hint_context": "ten years",
+  "example_marks": [
+   {
+    "text": "χρόνια",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "μεγάλος#2",
+  "front": "μεγάλος",
+  "lemma": "μεγάλος",
+  "back": "intense",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "great",
+   "strong"
+  ],
+  "definition": "of greater than average intensity or degree",
+  "examples": [
+   "Σήμερα έχει μεγάλη ζέστη, μην βγεις έξω."
+  ],
+  "examples_en": [
+   "It's really hot today, don't go outside."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 6.16,
+  "lemma_id": "μεγάλος",
+  "sense_index": 2,
+  "sense_count": 6,
+  "cue": "Σήμερα έχει μεγάλη ζέστη, μην βγεις έξω.",
+  "share": 20.0,
+  "hint": "intense, strong",
+  "hint_context": "great heat",
+  "example_marks": [
+   {
+    "text": "μεγάλη",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "κόσμος",
+  "front": "ο κόσμος",
+  "lemma": "κόσμος",
+  "back": "world",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "the world",
+  "examples": [
+   "Θέλω να ταξιδέψω σε όλο τον κόσμο."
+  ],
+  "examples_en": [
+   "I want to travel all over the world."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.76,
+  "lemma_id": "κόσμος",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Θέλω να ταξιδέψω σε όλο τον κόσμο.",
+  "share": 50.0,
+  "hint": "the Earth",
+  "hint_context": "the whole world",
+  "example_marks": [
+   {
+    "text": "κόσμο",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "ακόμα#2",
+  "front": "ακόμα",
+  "lemma": "ακόμα",
+  "back": "yet",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "(with δεν) up to now",
+  "examples": [
+   "Δεν έχει έρθει ακόμα."
+  ],
+  "examples_en": [
+   "He hasn't come yet."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 6.06,
+  "lemma_id": "ακόμα",
+  "sense_index": 2,
+  "sense_count": 3,
+  "cue": "Δεν έχει έρθει ακόμα.",
+  "share": 25.0,
+  "hint": "not yet",
+  "hint_context": "not yet",
+  "example_marks": [
+   {
+    "text": "ακόμα",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "γίνομαι#6",
+  "front": "γίνομαι",
+  "lemma": "γίνομαι",
+  "back": "okay",
+  "band": 1,
+  "kind": "word",
+  "register": "informal",
+  "alts": [
+   "all right",
+   "deal"
+  ],
+  "definition": "as a reply (Έγινε!): agreed, okay",
+  "examples": [
+   "— Θα έρθω στις οκτώ. — Έγινε!"
+  ],
+  "examples_en": [
+   "\"I'll come at eight.\" \"Okay!\""
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.31,
+  "lemma_id": "γίνομαι",
+  "sense_index": 6,
+  "sense_count": 6,
+  "cue": "— Θα έρθω στις οκτώ. — Έγινε!",
+  "share": 14.0,
+  "hint": "agreeing to something",
+  "hint_context": "reply: okay, deal",
+  "example_marks": [
+   {
+    "text": "Έγινε",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "ευχαριστώ",
+  "front": "ευχαριστώ",
+  "lemma": "ευχαριστώ",
+  "back": "thank you",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "thanks"
+  ],
+  "definition": "I thank; thank you",
+  "examples": [
+   "Ευχαριστώ πολύ για όλα!"
+  ],
+  "examples_en": [
+   "Thank you very much for everything!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.46,
+  "share": 98.0,
+  "hint": "gratitude",
+  "hint_context": "thanks a lot",
+  "example_marks": [
+   {
+    "text": "Ευχαριστώ",
+    "nth": 1
+   }
+  ],
+  "aspect_pair": "ευχαριστήσω"
+ },
+ {
+  "id": "μένω",
+  "front": "μένω",
+  "lemma": "μένω",
+  "back": "live",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to live somewhere",
+  "examples": [
+   "Μένουμε σε ένα μικρό χωριό."
+  ],
+  "examples_en": [
+   "We live in a small village."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.67,
+  "lemma_id": "μένω",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Μένουμε σε ένα μικρό χωριό.",
+  "share": 60.0,
+  "hint": "have one's home",
+  "hint_context": "where do you live",
+  "example_marks": [
+   {
+    "text": "Μένουμε",
+    "nth": 1
+   }
+  ],
+  "aspect_pair": "μείνω"
+ },
+ {
+  "id": "πηγαίνω#2",
+  "front": "πηγαίνω",
+  "lemma": "πηγαίνω",
+  "back": "take",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "drive",
+   "bring"
+  ],
+  "definition": "to take or drive someone or something to a place",
+  "examples": [
+   "Θα σε πάω στο σταθμό με το αμάξι."
+  ],
+  "examples_en": [
+   "I'll drive you to the station in the car."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.19,
+  "lemma_id": "πηγαίνω",
+  "sense_index": 2,
+  "sense_count": 4,
+  "cue": "Θα σε πάω στο σταθμό με το αμάξι.",
+  "share": 18.0,
+  "hint": "transport someone somewhere",
+  "hint_context": "take her to the airport",
+  "example_marks": [
+   {
+    "text": "πάω",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "κόσμος#2",
+  "front": "ο κόσμος",
+  "lemma": "κόσμος",
+  "back": "people",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "crowd"
+  ],
+  "definition": "people in general, a crowd",
+  "examples": [
+   "Έχει πολύ κόσμο στην παραλία σήμερα."
+  ],
+  "examples_en": [
+   "There are a lot of people on the beach today."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.76,
+  "lemma_id": "κόσμος",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Έχει πολύ κόσμο στην παραλία σήμερα.",
+  "share": 48.0,
+  "hint": "crowd, many people",
+  "hint_context": "lots of people",
+  "example_marks": [
+   {
+    "text": "κόσμο",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "μέσος~noun",
+  "front": "ο μέσος",
+  "lemma": "μέσος",
+  "back": "midfielder",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "midfield player"
+  ],
+  "definition": "player in the middle of the field in football",
+  "examples": [
+   "Ο μέσος της ομάδας έκανε δύο ασίστ."
+  ],
+  "examples_en": [
+   "The team's midfielder made two assists."
+  ],
+  "claude": true,
+  "topic": "sports",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 6.14,
+  "share": 20.0,
+  "hint": "football player",
+  "hint_context": "the team's midfielder",
+  "example_marks": [
+   {
+    "text": "μέσος",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "άλλος#2",
+  "front": "άλλος",
+  "lemma": "άλλος",
+  "back": "another",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "one more"
+  ],
+  "definition": "one more of the same kind; an additional one",
+  "examples": [
+   "Θέλω ένα άλλο ποτήρι, παρακαλώ."
+  ],
+  "examples_en": [
+   "I'd like another glass, please."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 6.26,
+  "lemma_id": "άλλος",
+  "sense_index": 2,
+  "sense_count": 6,
+  "cue": "Θέλω ένα άλλο ποτήρι, παρακαλώ.",
+  "share": 15.0,
+  "hint": "one more",
+  "hint_context": "another glass",
+  "example_marks": [
+   {
+    "text": "άλλο",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "κατά#2",
+  "front": "κατά",
+  "lemma": "κατά",
+  "back": "against",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "opposed to"
+  ],
+  "definition": "in opposition to; opposing",
+  "examples": [
+   "Ψήφισε κατά της πρότασης στη συνέλευση."
+  ],
+  "examples_en": [
+   "He voted against the proposal at the meeting."
+  ],
+  "claude": true,
+  "topic": "politics",
+  "pos": "Preposition",
+  "gender": "",
+  "zipf": 6.09,
+  "lemma_id": "κατά",
+  "sense_index": 2,
+  "sense_count": 5,
+  "cue": "Ψήφισε κατά της πρότασης στη συνέλευση.",
+  "share": 22.0,
+  "hint": "opposing, voting against",
+  "hint_context": "voted against the bill",
+  "example_marks": [
+   {
+    "text": "κατά",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "κατά#3",
+  "front": "κατά",
+  "lemma": "κατά",
+  "back": "during",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "around",
+   "at about"
+  ],
+  "definition": "in the course of a period; at about a given time",
+  "examples": [
+   "Κατά τη διάρκεια της βροχής μείναμε μέσα."
+  ],
+  "examples_en": [
+   "During the rain, we stayed indoors."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Preposition",
+  "gender": "",
+  "zipf": 6.09,
+  "lemma_id": "κατά",
+  "sense_index": 3,
+  "sense_count": 5,
+  "cue": "Κατά τη διάρκεια της βροχής μείναμε μέσα.",
+  "share": 22.0,
+  "hint": "time period, in the course of",
+  "hint_context": "during the storm",
+  "example_marks": [
+   {
+    "text": "Κατά",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "σπίτι#2",
+  "front": "το σπίτι",
+  "lemma": "σπίτι",
+  "back": "house",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a house (building)",
+  "examples": [
+   "Έχουν ένα σπίτι δίπλα στη θάλασσα."
+  ],
+  "examples_en": [
+   "They have a house by the sea."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 5.79,
+  "lemma_id": "σπίτι",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Έχουν ένα σπίτι δίπλα στη θάλασσα.",
+  "share": 43.0,
+  "hint": "the building",
+  "hint_context": "a big house",
+  "example_marks": [
+   {
+    "text": "σπίτι",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "ακόμα#3",
+  "front": "ακόμα",
+  "lemma": "ακόμα",
+  "back": "more",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "another"
+  ],
+  "definition": "'ακόμα ένα' = one more",
+  "examples": [
+   "Θέλω ακόμα ένα κομμάτι."
+  ],
+  "examples_en": [
+   "I want one more piece."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 6.06,
+  "lemma_id": "ακόμα",
+  "sense_index": 3,
+  "sense_count": 3,
+  "cue": "Θέλω ακόμα ένα κομμάτι.",
+  "share": 23.0,
+  "hint": "one more",
+  "hint_context": "one more, please",
+  "example_marks": [
+   {
+    "text": "ακόμα",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "έξω",
+  "front": "έξω",
+  "lemma": "έξω",
+  "back": "outside",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "out"
+  ],
+  "definition": "out, outdoors",
+  "examples": [
+   "Τρώμε έξω απόψε;"
+  ],
+  "examples_en": [
+   "Are we eating out tonight?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 5.43,
+  "share": 98.0,
+  "hint": "outdoors, out",
+  "hint_context": "go out",
+  "example_marks": [
+   {
+    "text": "έξω",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "δουλειά",
+  "front": "η δουλειά",
+  "lemma": "δουλειά",
+  "back": "work",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "job"
+  ],
+  "definition": "work, a job",
+  "examples": [
+   "Πάω στη δουλειά με το λεωφορείο."
+  ],
+  "examples_en": [
+   "I go to work by bus."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 5.48,
+  "lemma_id": "δουλειά",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Πάω στη δουλειά με το λεωφορείο.",
+  "share": 85.0,
+  "hint": "noun: job, workplace",
+  "hint_context": "go to work",
+  "example_marks": [
+   {
+    "text": "δουλειά",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "γυναίκα",
+  "front": "η γυναίκα",
+  "lemma": "γυναίκα",
+  "back": "woman",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "an adult female",
+  "examples": [
+   "Αυτή η γυναίκα πουλάει φρούτα στη λαϊκή."
+  ],
+  "examples_en": [
+   "That woman sells fruit at the farmers' market."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 5.63,
+  "lemma_id": "γυναίκα",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Αυτή η γυναίκα πουλάει φρούτα στη λαϊκή.",
+  "share": 60.0,
+  "hint": "adult female",
+  "hint_context": "a young woman",
+  "example_marks": [
+   {
+    "text": "γυναίκα",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "ώρα#2",
+  "front": "η ώρα",
+  "lemma": "ώρα",
+  "back": "hour",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "sixty minutes",
+  "examples": [
+   "Το ταξίδι με το πλοίο κάνει τρεις ώρες."
+  ],
+  "examples_en": [
+   "The ferry trip takes three hours."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 5.75,
+  "lemma_id": "ώρα",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Το ταξίδι με το πλοίο κάνει τρεις ώρες.",
+  "share": 45.0,
+  "hint": "60 minutes",
+  "hint_context": "an hour",
+  "example_marks": [
+   {
+    "text": "ώρες",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "αύριο",
+  "front": "αύριο",
+  "lemma": "αύριο",
+  "back": "tomorrow",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "on the day after today",
+  "examples": [
+   "Αύριο πάμε στο νησί."
+  ],
+  "examples_en": [
+   "Tomorrow we're going to the island."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 5.4,
+  "share": 98.0,
+  "hint": "next day",
+  "hint_context": "see you tomorrow",
+  "example_marks": [
+   {
+    "text": "Αύριο",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "πρωί",
+  "front": "το πρωί",
+  "lemma": "πρωί",
+  "back": "morning",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "the morning ('το πρωί' = in the morning)",
+  "examples": [
+   "Το πρωί πηγαίνω για κολύμπι."
+  ],
+  "examples_en": [
+   "In the morning I go swimming."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 5.4,
+  "share": 98.0,
+  "hint": "early in the day",
+  "hint_context": "in the morning",
+  "example_marks": [
+   {
+    "text": "πρωί",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "πολύς~adverb#2",
+  "front": "πολύ",
+  "lemma": "πολύς",
+  "back": "very much",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "a lot",
+   "greatly"
+  ],
+  "definition": "to a great extent; modifies a verb",
+  "examples": [
+   "Σε ευχαριστώ πολύ για όλα."
+  ],
+  "examples_en": [
+   "Thank you very much for everything."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 6.48,
+  "lemma_id": "πολύς~adverb",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Σε ευχαριστώ πολύ για όλα.",
+  "share": 8.0,
+  "hint": "modifies verbs",
+  "hint_context": "thank you very much",
+  "example_marks": [
+   {
+    "text": "πολύ",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "καλός#3",
+  "front": "καλός",
+  "lemma": "καλός",
+  "back": "good at",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "skilled",
+   "competent"
+  ],
+  "definition": "skilled or competent at something",
+  "examples": [
+   "Ο γιος μου είναι καλός στα μαθηματικά."
+  ],
+  "examples_en": [
+   "My son is good at math."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 6.29,
+  "lemma_id": "καλός",
+  "sense_index": 3,
+  "sense_count": 3,
+  "cue": "Ο γιος μου είναι καλός στα μαθηματικά.",
+  "share": 12.0,
+  "hint": "skilled, competent",
+  "hint_context": "good at maths",
+  "example_marks": [
+   {
+    "text": "καλός",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "βλέπω#2",
+  "front": "βλέπω",
+  "lemma": "βλέπω",
+  "back": "watch",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "view"
+  ],
+  "definition": "to watch television, a film, or a show",
+  "examples": [
+   "Βλέπω ταινίες κάθε Σαββατοκύριακο."
+  ],
+  "examples_en": [
+   "I watch movies every weekend."
+  ],
+  "claude": true,
+  "topic": "media",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.22,
+  "lemma_id": "βλέπω",
+  "sense_index": 2,
+  "sense_count": 6,
+  "cue": "Βλέπω ταινίες κάθε Σαββατοκύριακο.",
+  "share": 14.0,
+  "hint": "TV or film",
+  "hint_context": "watch a movie",
+  "example_marks": [
+   {
+    "text": "Βλέπω",
+    "nth": 1
+   }
+  ],
+  "aspect": "imperfective",
+  "aspect_pair": "δω"
+ },
+ {
+  "id": "κάνω#2",
+  "front": "κάνω",
+  "lemma": "κάνω",
+  "back": "be",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "used with weather or temperature: it is (cold, hot, cloudy)",
+  "examples": [
+   "Κάνει πολύ κρύο σήμερα το πρωί."
+  ],
+  "examples_en": [
+   "It's very cold this morning."
+  ],
+  "claude": true,
+  "topic": "weather",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.52,
+  "lemma_id": "κάνω",
+  "sense_index": 2,
+  "sense_count": 4,
+  "cue": "Κάνει πολύ κρύο σήμερα το πρωί.",
+  "share": 7.0,
+  "hint": "weather, temperature",
+  "hint_context": "it's hot outside",
+  "example_marks": [
+   {
+    "text": "Κάνει",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "μετά~adverb#2",
+  "front": "μετά",
+  "lemma": "μετά",
+  "back": "then",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "next"
+  ],
+  "definition": "next in sequence, after that",
+  "examples": [
+   "Πρώτα φάγαμε, μετά πήγαμε στη θάλασσα."
+  ],
+  "examples_en": [
+   "First we ate, then we went to the beach."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 6.16,
+  "lemma_id": "μετά~adverb",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Πρώτα φάγαμε, μετά πήγαμε στη θάλασσα.",
+  "share": 16.0,
+  "hint": "next in sequence",
+  "hint_context": "first... then",
+  "example_marks": [
+   {
+    "text": "μετά",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "πληρώνω",
+  "front": "πληρώνω",
+  "lemma": "πληρώνω",
+  "back": "pay",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to pay",
+  "examples": [
+   "Σήμερα πληρώνω εγώ!"
+  ],
+  "examples_en": [
+   "Today I'm paying!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.36,
+  "share": 98.0,
+  "hint": "money",
+  "hint_context": "pay the bill",
+  "example_marks": [
+   {
+    "text": "πληρώνω",
+    "nth": 1
+   }
+  ],
+  "aspect_pair": "πληρώσω"
+ },
+ {
+  "id": "οικογένεια",
+  "front": "η οικογένεια",
+  "lemma": "οικογένεια",
+  "back": "family",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "parents, children, relatives",
+  "examples": [
+   "Το καλοκαίρι έρχεται όλη η οικογένεια."
+  ],
+  "examples_en": [
+   "In summer the whole family comes."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 5.35,
+  "share": 98.0,
+  "hint": "relatives",
+  "hint_context": "my family",
+  "example_marks": [
+   {
+    "text": "οικογένεια",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "άλλος#3",
+  "front": "άλλος",
+  "lemma": "άλλος",
+  "back": "else",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "anything else"
+  ],
+  "definition": "in addition; besides what has been mentioned",
+  "examples": [
+   "Θέλετε κάτι άλλο;"
+  ],
+  "examples_en": [
+   "Would you like anything else?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 6.26,
+  "lemma_id": "άλλος",
+  "sense_index": 3,
+  "sense_count": 6,
+  "cue": "Θέλετε κάτι άλλο;",
+  "share": 12.0,
+  "hint": "anything else",
+  "hint_context": "anything else?",
+  "example_marks": [
+   {
+    "text": "άλλο",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "πού",
+  "front": "πού",
+  "lemma": "πού",
+  "back": "where",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "question: in or to what place",
+  "examples": [
+   "Πού είναι η παραλία;"
+  ],
+  "examples_en": [
+   "Where is the beach?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 5.34,
+  "share": 98.0,
+  "hint": "question: where?",
+  "hint_context": "where are you",
+  "example_marks": [
+   {
+    "text": "Πού",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "όλος#3",
+  "front": "όλος",
+  "lemma": "όλος",
+  "back": "everything",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "all"
+  ],
+  "definition": "neuter plural used as a pronoun for all things",
+  "examples": [
+   "Όλα καλά; Ναι, όλα πολύ καλά."
+  ],
+  "examples_en": [
+   "Everything okay? Yes, everything is very good."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 6.15,
+  "lemma_id": "όλος",
+  "sense_index": 3,
+  "sense_count": 3,
+  "cue": "Όλα καλά; Ναι, όλα πολύ καλά.",
+  "share": 15.0,
+  "hint": "neuter plural pronoun, no noun",
+  "hint_context": "everything is fine",
+  "example_marks": [
+   {
+    "text": "Όλα",
+    "nth": 1
+   },
+   {
+    "text": "όλα",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "κάτω",
+  "front": "κάτω",
+  "lemma": "κάτω",
+  "back": "downstairs",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "down",
+   "below"
+  ],
+  "definition": "down, below, downstairs",
+  "examples": [
+   "Σε περιμένω κάτω, στην είσοδο."
+  ],
+  "examples_en": [
+   "I'll wait for you downstairs at the entrance."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 5.62,
+  "lemma_id": "κάτω",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Σε περιμένω κάτω, στην είσοδο.",
+  "share": 50.0,
+  "hint": "down, lower floor",
+  "hint_context": "downstairs",
+  "example_marks": [
+   {
+    "text": "κάτω",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "λέω#6",
+  "front": "λέω",
+  "lemma": "λέω",
+  "back": "ring a bell",
+  "band": 1,
+  "kind": "word",
+  "register": "informal",
+  "alts": [
+   "remind of"
+  ],
+  "definition": "to remind someone of something; to mean something to someone",
+  "examples": [
+   "Αυτό το όνομα μου λέει κάτι."
+  ],
+  "examples_en": [
+   "That name rings a bell."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.53,
+  "lemma_id": "λέω",
+  "sense_index": 6,
+  "sense_count": 6,
+  "cue": "Αυτό το όνομα μου λέει κάτι.",
+  "share": 6.0,
+  "hint": "reminds me of",
+  "hint_context": "that name rings a bell",
+  "example_marks": [
+   {
+    "text": "λέει",
+    "nth": 1
+   }
+  ],
+  "aspect": "imperfective",
+  "aspect_pair": "πω"
+ },
+ {
+  "id": "κάτω#2",
+  "front": "κάτω",
+  "lemma": "κάτω",
+  "back": "under",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "below"
+  ],
+  "definition": "'κάτω από' = under",
+  "examples": [
+   "Η γάτα κοιμάται κάτω από το κρεβάτι."
+  ],
+  "examples_en": [
+   "The cat sleeps under the bed."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 5.62,
+  "lemma_id": "κάτω",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Η γάτα κοιμάται κάτω από το κρεβάτι.",
+  "share": 48.0,
+  "hint": "κάτω από",
+  "hint_context": "under the bed",
+  "example_marks": [
+   {
+    "text": "κάτω",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "παλιός",
+  "front": "παλιός",
+  "lemma": "παλιός",
+  "back": "old",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "old (of things, not people)",
+  "examples": [
+   "Η παλιά πόλη είναι πολύ όμορφη."
+  ],
+  "examples_en": [
+   "The old town is very beautiful."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 5.31,
+  "share": 98.0,
+  "hint": "not new (things)",
+  "hint_context": "an old house",
+  "example_marks": [
+   {
+    "text": "παλιά",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "ψάχνω",
+  "front": "ψάχνω",
+  "lemma": "ψάχνω",
+  "back": "look for",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "search"
+  ],
+  "definition": "to look for",
+  "examples": [
+   "Ψάχνω ένα φαρμακείο εδώ κοντά."
+  ],
+  "examples_en": [
+   "I'm looking for a pharmacy nearby."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.31,
+  "share": 98.0,
+  "hint": "try to find",
+  "hint_context": "look for a room",
+  "example_marks": [
+   {
+    "text": "Ψάχνω",
+    "nth": 1
+   }
+  ],
+  "aspect_pair": "ψάξω"
+ },
+ {
+  "id": "κάνω~expression",
+  "front": "Τι κάνεις;",
+  "lemma": "κάνω",
+  "back": "how are you",
+  "band": 1,
+  "kind": "word",
+  "register": "informal",
+  "alts": [
+   "how's it going",
+   "what's up"
+  ],
+  "definition": "greeting: how are you doing?",
+  "examples": [
+   "Γεια σου, Μαξ, τι κάνεις σήμερα;"
+  ],
+  "examples_en": [
+   "Hi Max, how are you doing today?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Expression",
+  "gender": "",
+  "zipf": 6.52,
+  "share": 6.0,
+  "hint": "greeting, not literal",
+  "hint_context": "greeting a friend",
+  "example_marks": [
+   {
+    "text": "κάνεις",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "κατά#4",
+  "front": "κατά",
+  "lemma": "κατά",
+  "back": "by",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to the extent or amount of a difference or change",
+  "examples": [
+   "Η τιμή του εισιτηρίου αυξήθηκε κατά δέκα ευρώ."
+  ],
+  "examples_en": [
+   "The ticket price went up by ten euros."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Preposition",
+  "gender": "",
+  "zipf": 6.09,
+  "lemma_id": "κατά",
+  "sense_index": 4,
+  "sense_count": 5,
+  "cue": "Η τιμή του εισιτηρίου αυξήθηκε κατά δέκα ευρώ.",
+  "share": 16.0,
+  "hint": "amount of change",
+  "hint_context": "increased by 5%",
+  "example_marks": [
+   {
+    "text": "κατά",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "δρόμος",
+  "front": "ο δρόμος",
+  "lemma": "δρόμος",
+  "back": "street",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "road"
+  ],
+  "definition": "a street or road",
+  "examples": [
+   "Ο δρόμος για το χωριό είναι στενός."
+  ],
+  "examples_en": [
+   "The road to the village is narrow."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.44,
+  "lemma_id": "δρόμος",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Ο δρόμος για το χωριό είναι στενός.",
+  "share": 70.0,
+  "hint": "for cars, walking",
+  "hint_context": "a narrow street",
+  "example_marks": [
+   {
+    "text": "δρόμος",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "μεγάλος#3",
+  "front": "μεγάλος",
+  "lemma": "μεγάλος",
+  "back": "great",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "famous",
+   "important"
+  ],
+  "definition": "important, superior, or famous",
+  "examples": [
+   "Είναι μεγάλος ηθοποιός και παίζει συχνά στο θέατρο."
+  ],
+  "examples_en": [
+   "He's a great actor and often performs in the theater."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 6.16,
+  "lemma_id": "μεγάλος",
+  "sense_index": 3,
+  "sense_count": 6,
+  "cue": "Είναι μεγάλος ηθοποιός και παίζει συχνά στο θέατρο.",
+  "share": 13.0,
+  "hint": "famous, admired",
+  "hint_context": "a great actor",
+  "example_marks": [
+   {
+    "text": "μεγάλος",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "ξανά",
+  "front": "ξανά",
+  "lemma": "ξανά",
+  "back": "again",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "once more",
+  "examples": [
+   "Έλα ξανά του χρόνου!"
+  ],
+  "examples_en": [
+   "Come again next year!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 5.28,
+  "share": 98.0,
+  "hint": "once more",
+  "hint_context": "try again",
+  "example_marks": [
+   {
+    "text": "ξανά",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "πηγαίνω#3",
+  "front": "πηγαίνω",
+  "lemma": "πηγαίνω",
+  "back": "go (how things are going)",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "be going",
+   "work out"
+  ],
+  "definition": "to progress or turn out in a certain way",
+  "examples": [
+   "Πώς πάει η δουλειά σου τελευταία;"
+  ],
+  "examples_en": [
+   "How is your work going lately?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.19,
+  "lemma_id": "πηγαίνω",
+  "sense_index": 3,
+  "sense_count": 4,
+  "cue": "Πώς πάει η δουλειά σου τελευταία;",
+  "share": 12.0,
+  "hint": "how things progress",
+  "hint_context": "how is it going",
+  "example_marks": [
+   {
+    "text": "πάει",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "πολύς#3",
+  "front": "πολύς",
+  "lemma": "πολύς",
+  "back": "too much",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "excessive"
+  ],
+  "definition": "more than is necessary or desirable",
+  "examples": [
+   "Έβαλες πολλή ζάχαρη στον καφέ."
+  ],
+  "examples_en": [
+   "You put too much sugar in the coffee."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 6.48,
+  "lemma_id": "πολύς",
+  "sense_index": 3,
+  "sense_count": 3,
+  "cue": "Έβαλες πολλή ζάχαρη στον καφέ.",
+  "share": 6.0,
+  "hint": "excessive amount",
+  "hint_context": "too much sugar",
+  "example_marks": [
+   {
+    "text": "πολλή",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "αγαπώ",
+  "front": "αγαπώ",
+  "lemma": "αγαπώ",
+  "back": "love",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to love",
+  "examples": [
+   "Σ' αγαπώ πολύ."
+  ],
+  "examples_en": [
+   "I love you very much."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.26,
+  "share": 98.0,
+  "hint": "deep affection",
+  "hint_context": "I love you",
+  "example_marks": [
+   {
+    "text": "αγαπώ",
+    "nth": 1
+   }
+  ],
+  "aspect_pair": "αγαπήσω"
+ },
+ {
+  "id": "μένω#2",
+  "front": "μένω",
+  "lemma": "μένω",
+  "back": "stay",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to stay, to remain",
+  "examples": [
+   "Πόσες μέρες θα μείνετε;"
+  ],
+  "examples_en": [
+   "How many days will you stay?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.67,
+  "lemma_id": "μένω",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Πόσες μέρες θα μείνετε;",
+  "share": 38.0,
+  "hint": "remain for a time",
+  "hint_context": "stay a week",
+  "example_marks": [
+   {
+    "text": "μείνετε",
+    "nth": 1
+   }
+  ],
+  "aspect_pair": "μείνω"
+ },
+ {
+  "id": "τι~interjection",
+  "front": "τι",
+  "lemma": "τι",
+  "back": "what?",
+  "band": 1,
+  "kind": "word",
+  "register": "informal",
+  "alts": [
+   "huh?",
+   "excuse me?"
+  ],
+  "definition": "expressing surprise, disbelief, or asking someone to repeat",
+  "examples": [
+   "Τι; Δεν το πιστεύω!"
+  ],
+  "examples_en": [
+   "What? I don't believe it!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Interjection",
+  "gender": "",
+  "zipf": 6.55,
+  "share": 5.0,
+  "hint": "expressing disbelief",
+  "hint_context": "what? I don't believe it",
+  "example_marks": [
+   {
+    "text": "Τι",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "θέλω#3",
+  "front": "θέλω",
+  "lemma": "θέλω",
+  "back": "need",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "require"
+  ],
+  "definition": "to need or require something (of things, tasks, conditions)",
+  "examples": [
+   "Το σπίτι θέλει μια καλή βαφή."
+  ],
+  "examples_en": [
+   "The house needs a good coat of paint."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.24,
+  "lemma_id": "θέλω",
+  "sense_index": 3,
+  "sense_count": 5,
+  "cue": "Το σπίτι θέλει μια καλή βαφή.",
+  "share": 10.0,
+  "hint": "needs, requires",
+  "hint_context": "the house needs paint",
+  "example_marks": [
+   {
+    "text": "θέλει",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "θελήσω"
+ },
+ {
+  "id": "θέλω#4",
+  "front": "θέλω",
+  "lemma": "θέλω",
+  "back": "take",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "it takes"
+  ],
+  "definition": "of time or effort: to be required, to take (impersonal)",
+  "examples": [
+   "Θέλει μία ώρα με το πλοίο."
+  ],
+  "examples_en": [
+   "It takes an hour by ferry."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.24,
+  "lemma_id": "θέλω",
+  "sense_index": 4,
+  "sense_count": 5,
+  "cue": "Θέλει μία ώρα με το πλοίο.",
+  "share": 10.0,
+  "hint": "takes time",
+  "hint_context": "it takes an hour",
+  "example_marks": [
+   {
+    "text": "Θέλει",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "θελήσω"
+ },
+ {
+  "id": "νέος~noun",
+  "front": "ο νέος",
+  "lemma": "νέος",
+  "back": "young person",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "youth",
+   "young man"
+  ],
+  "definition": "a young person, especially a young man; (pl.) young people",
+  "examples": [
+   "Οι νέοι σήμερα χρησιμοποιούν πολύ το διαδίκτυο."
+  ],
+  "examples_en": [
+   "Young people today use the internet a lot."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 6.12,
+  "share": 13.0,
+  "hint": "a youth, noun",
+  "hint_context": "young people today",
+  "example_marks": [
+   {
+    "text": "νέοι",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "κάνω#3",
+  "front": "κάνω",
+  "lemma": "κάνω",
+  "back": "cost",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "come to",
+   "add up to"
+  ],
+  "definition": "to amount to a price or total",
+  "examples": [
+   "Πόσο κάνει ο λογαριασμός, παρακαλώ;"
+  ],
+  "examples_en": [
+   "How much is the bill, please?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.52,
+  "lemma_id": "κάνω",
+  "sense_index": 3,
+  "sense_count": 4,
+  "cue": "Πόσο κάνει ο λογαριασμός, παρακαλώ;",
+  "share": 5.0,
+  "hint": "price or total",
+  "hint_context": "how much is that",
+  "example_marks": [
+   {
+    "text": "κάνει",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "γίνομαι#4",
+  "front": "γίνομαι",
+  "lemma": "γίνομαι",
+  "back": "be possible",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "can",
+   "may"
+  ],
+  "definition": "impersonal: it is possible or permissible to do something",
+  "examples": [
+   "Γίνεται να μας βοηθήσεις λίγο;"
+  ],
+  "examples_en": [
+   "Would it be possible for you to help us a bit?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.31,
+  "lemma_id": "γίνομαι",
+  "sense_index": 4,
+  "sense_count": 6,
+  "cue": "Γίνεται να μας βοηθήσεις λίγο;",
+  "share": 8.0,
+  "hint": "it is possible",
+  "hint_context": "is it possible to",
+  "example_marks": [
+   {
+    "text": "Γίνεται",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "γυναίκα#2",
+  "front": "η γυναίκα",
+  "lemma": "γυναίκα",
+  "back": "wife",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "'η γυναίκα μου' = my wife",
+  "examples": [
+   "Η γυναίκα μου είναι από την Πολωνία."
+  ],
+  "examples_en": [
+   "My wife is from Poland."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 5.63,
+  "lemma_id": "γυναίκα",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Η γυναίκα μου είναι από την Πολωνία.",
+  "share": 38.0,
+  "hint": "married partner",
+  "hint_context": "my wife",
+  "example_marks": [
+   {
+    "text": "γυναίκα",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "πίνω",
+  "front": "πίνω",
+  "lemma": "πίνω",
+  "back": "drink",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to drink",
+  "examples": [
+   "Δεν πίνω καφέ το βράδυ."
+  ],
+  "examples_en": [
+   "I don't drink coffee in the evening."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.21,
+  "share": 98.0,
+  "hint": "liquid",
+  "hint_context": "drink water",
+  "example_marks": [
+   {
+    "text": "πίνω",
+    "nth": 1
+   }
+  ],
+  "aspect_pair": "πιω"
+ },
+ {
+  "id": "δουλεύω",
+  "front": "δουλεύω",
+  "lemma": "δουλεύω",
+  "back": "work",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to work",
+  "examples": [
+   "Το καλοκαίρι δουλεύω σε ξενοδοχείο."
+  ],
+  "examples_en": [
+   "In the summer I work at a hotel."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.19,
+  "share": 98.0,
+  "hint": "verb: have a job",
+  "hint_context": "work hard",
+  "example_marks": [
+   {
+    "text": "δουλεύω",
+    "nth": 1
+   }
+  ],
+  "aspect_pair": "δουλέψω"
+ },
+ {
+  "id": "άλλος#4",
+  "front": "άλλος",
+  "lemma": "άλλος",
+  "back": "different",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "another"
+  ],
+  "definition": "not the same; distinct in kind",
+  "examples": [
+   "Αυτό είναι άλλο θέμα, θα το δούμε αργότερα."
+  ],
+  "examples_en": [
+   "That's a different matter; we'll look at it later."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 6.26,
+  "lemma_id": "άλλος",
+  "sense_index": 4,
+  "sense_count": 6,
+  "cue": "Αυτό είναι άλλο θέμα, θα το δούμε αργότερα.",
+  "share": 8.0,
+  "hint": "not the same",
+  "hint_context": "a different matter",
+  "example_marks": [
+   {
+    "text": "άλλο",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "άλλος~pronoun",
+  "front": "ο άλλος",
+  "lemma": "άλλος",
+  "back": "the other one",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "the other"
+  ],
+  "definition": "the second or remaining one of two or more",
+  "examples": [
+   "Ο ένας ήρθε, ο άλλος έμεινε στο σπίτι."
+  ],
+  "examples_en": [
+   "One came, the other stayed home."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Pronoun",
+  "gender": "m",
+  "zipf": 6.26,
+  "lemma_id": "άλλος~pronoun",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Ο ένας ήρθε, ο άλλος έμεινε στο σπίτι.",
+  "share": 8.0,
+  "hint": "the second one",
+  "hint_context": "the other one",
+  "example_marks": [
+   {
+    "text": "άλλος",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "πρώτος#2",
+  "front": "πρώτος",
+  "lemma": "πρώτος",
+  "back": "top",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "best",
+   "first-rate"
+  ],
+  "definition": "best or highest-ranking in a group or competition",
+  "examples": [
+   "Η Ελένη είναι η πρώτη μαθήτρια της τάξης."
+  ],
+  "examples_en": [
+   "Eleni is the top student in the class."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "m",
+  "zipf": 6.08,
+  "lemma_id": "πρώτος",
+  "sense_index": 2,
+  "sense_count": 3,
+  "cue": "Η Ελένη είναι η πρώτη μαθήτρια της τάξης.",
+  "share": 12.0,
+  "hint": "best, ranked highest",
+  "hint_context": "the top student",
+  "example_marks": [
+   {
+    "text": "πρώτη",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "αγοράζω",
+  "front": "αγοράζω",
+  "lemma": "αγοράζω",
+  "back": "buy",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to buy",
+  "examples": [
+   "Πού αγοράζουμε εισιτήρια για το πλοίο;"
+  ],
+  "examples_en": [
+   "Where do we buy tickets for the ferry?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.16,
+  "share": 98.0,
+  "hint": "purchase",
+  "hint_context": "buy tickets",
+  "example_marks": [
+   {
+    "text": "αγοράζουμε",
+    "nth": 1
+   }
+  ],
+  "aspect_pair": "αγοράσω"
+ },
+ {
+  "id": "καφές",
+  "front": "ο καφές",
+  "lemma": "καφές",
+  "back": "coffee",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "coffee",
+  "examples": [
+   "Πίνουμε έναν καφέ στην πλατεία;"
+  ],
+  "examples_en": [
+   "Shall we have a coffee on the square?"
+  ],
+  "claude": true,
+  "topic": "food",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.15,
+  "share": 98.0,
+  "hint": "the drink",
+  "hint_context": "a Greek coffee",
+  "example_marks": [
+   {
+    "text": "καφέ",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "τίποτα#2",
+  "front": "τίποτα",
+  "lemma": "τίποτα",
+  "back": "you're welcome",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "not at all"
+  ],
+  "definition": "reply to thanks",
+  "examples": [
+   "Τίποτα, χαρά μου!"
+  ],
+  "examples_en": [
+   "You're welcome, my pleasure!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Pronoun",
+  "gender": "",
+  "zipf": 5.69,
+  "lemma_id": "τίποτα",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Τίποτα, χαρά μου!",
+  "share": 28.0,
+  "hint": "casual: don't mention it",
+  "hint_context": "don't mention it",
+  "example_marks": [
+   {
+    "text": "Τίποτα",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "τρεις",
+  "front": "τρεις",
+  "lemma": "τρεις",
+  "back": "three",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "the number 3 (τρεις m/f, τρία n)",
+  "examples": [
+   "Μένουμε τρεις μέρες στη Νάξο."
+  ],
+  "examples_en": [
+   "We're staying three days on Naxos."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Numeral",
+  "gender": "",
+  "zipf": 5.14,
+  "share": 98.0,
+  "hint": "number 3",
+  "hint_context": "three days",
+  "example_marks": [
+   {
+    "text": "τρεις",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "βλέπω#3",
+  "front": "βλέπω",
+  "lemma": "βλέπω",
+  "back": "view",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "consider",
+   "regard"
+  ],
+  "definition": "to consider or judge something in a certain way",
+  "examples": [
+   "Εγώ βλέπω το θέμα πιο απλά."
+  ],
+  "examples_en": [
+   "I see the issue more simply."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.22,
+  "lemma_id": "βλέπω",
+  "sense_index": 3,
+  "sense_count": 6,
+  "cue": "Εγώ βλέπω το θέμα πιο απλά.",
+  "share": 8.0,
+  "hint": "judge, have an opinion",
+  "hint_context": "view a matter differently",
+  "example_marks": [
+   {
+    "text": "βλέπω",
+    "nth": 1
+   }
+  ],
+  "aspect": "imperfective",
+  "aspect_pair": "δω"
+ },
+ {
+  "id": "θάλασσα",
+  "front": "η θάλασσα",
+  "lemma": "θάλασσα",
+  "back": "sea",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "the sea",
+  "examples": [
+   "Η θάλασσα σήμερα είναι πολύ ζεστή."
+  ],
+  "examples_en": [
+   "The sea is very warm today."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 5.13,
+  "share": 98.0,
+  "hint": "salt water",
+  "hint_context": "swim in the sea",
+  "example_marks": [
+   {
+    "text": "θάλασσα",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "μεγάλος#4",
+  "front": "μεγάλος",
+  "lemma": "μεγάλος",
+  "back": "older",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "elder"
+  ],
+  "definition": "of an older age, said of a sibling",
+  "examples": [
+   "Η μεγάλη μου αδελφή μένει στην Αθήνα."
+  ],
+  "examples_en": [
+   "My older sister lives in Athens."
+  ],
+  "claude": true,
+  "topic": "family",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 6.16,
+  "lemma_id": "μεγάλος",
+  "sense_index": 4,
+  "sense_count": 6,
+  "cue": "Η μεγάλη μου αδελφή μένει στην Αθήνα.",
+  "share": 9.0,
+  "hint": "older sibling",
+  "hint_context": "my older sister",
+  "example_marks": [
+   {
+    "text": "μεγάλη",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "κατά#5",
+  "front": "κατά",
+  "lemma": "κατά",
+  "back": "toward",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "facing",
+   "looking onto"
+  ],
+  "definition": "in the direction of; facing towards a place",
+  "examples": [
+   "Η κρεβατοκάμαρα βλέπει κατά τον κήπο."
+  ],
+  "examples_en": [
+   "The bedroom faces the garden."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Preposition",
+  "gender": "",
+  "zipf": 6.09,
+  "lemma_id": "κατά",
+  "sense_index": 5,
+  "sense_count": 5,
+  "cue": "Η κρεβατοκάμαρα βλέπει κατά τον κήπο.",
+  "share": 10.0,
+  "hint": "direction a room faces",
+  "hint_context": "the window faces east",
+  "example_marks": [
+   {
+    "text": "κατά",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "παιδί#2",
+  "front": "το παιδί",
+  "lemma": "παιδί",
+  "back": "guys",
+  "band": 1,
+  "kind": "word",
+  "register": "informal",
+  "alts": [
+   "folks",
+   "pals"
+  ],
+  "definition": "informal plural term for a group of friends or people",
+  "examples": [
+   "Έλα, παιδιά, πάμε για καφέ!"
+  ],
+  "examples_en": [
+   "Come on, guys, let's go for coffee!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 6.09,
+  "lemma_id": "παιδί",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Έλα, παιδιά, πάμε για καφέ!",
+  "share": 10.0,
+  "hint": "casual address to a group",
+  "hint_context": "come on, guys",
+  "example_marks": [
+   {
+    "text": "παιδιά",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "βλέπω#6",
+  "front": "βλέπω",
+  "lemma": "βλέπω",
+  "back": "examine",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "see"
+  ],
+  "definition": "of a doctor: to examine a patient",
+  "examples": [
+   "Ο γιατρός με βλέπει στις έντεκα."
+  ],
+  "examples_en": [
+   "The doctor sees me at eleven."
+  ],
+  "claude": true,
+  "topic": "health",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.22,
+  "lemma_id": "βλέπω",
+  "sense_index": 6,
+  "sense_count": 6,
+  "cue": "Ο γιατρός με βλέπει στις έντεκα.",
+  "share": 7.0,
+  "hint": "doctor examines patient",
+  "hint_context": "the doctor sees me",
+  "example_marks": [
+   {
+    "text": "βλέπει",
+    "nth": 1
+   }
+  ],
+  "aspect": "imperfective",
+  "aspect_pair": "δω"
+ },
+ {
+  "id": "μόνος#3",
+  "front": "μόνος",
+  "lemma": "μόνος",
+  "back": "single",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "lone"
+  ],
+  "definition": "raising a child alone, without a partner (in μόνη μητέρα / μόνος γονιός)",
+  "examples": [
+   "Είναι μόνη μητέρα και δουλεύει δύο δουλειές."
+  ],
+  "examples_en": [
+   "She is a single mother and works two jobs."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 6.22,
+  "lemma_id": "μόνος",
+  "sense_index": 3,
+  "sense_count": 3,
+  "cue": "Είναι μόνη μητέρα και δουλεύει δύο δουλειές.",
+  "share": 7.0,
+  "hint": "single parent",
+  "hint_context": "a single mother",
+  "example_marks": [
+   {
+    "text": "μόνη",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "μεγάλος#5",
+  "front": "μεγάλος",
+  "lemma": "μεγάλος",
+  "back": "grown-up",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "adult"
+  ],
+  "definition": "having reached adult age; an adult person",
+  "examples": [
+   "Οι μεγάλοι δεν πρέπει να τσακώνονται μπροστά στα παιδιά."
+  ],
+  "examples_en": [
+   "Grown-ups shouldn't argue in front of the children."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 6.16,
+  "lemma_id": "μεγάλος",
+  "sense_index": 5,
+  "sense_count": 6,
+  "cue": "Οι μεγάλοι δεν πρέπει να τσακώνονται μπροστά στα παιδιά.",
+  "share": 8.0,
+  "hint": "adults, not children",
+  "hint_context": "grown-up people",
+  "example_marks": [
+   {
+    "text": "μεγάλοι",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "καλημέρα",
+  "front": "καλημέρα",
+  "lemma": "καλημέρα",
+  "back": "good morning",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "greeting until about noon",
+  "examples": [
+   "Καλημέρα! Ένα φρέντο εσπρέσο, παρακαλώ."
+  ],
+  "examples_en": [
+   "Good morning! A freddo espresso, please."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Interjection",
+  "gender": "",
+  "zipf": 5.06,
+  "share": 98.0,
+  "hint": "morning greeting",
+  "hint_context": "good morning",
+  "example_marks": [
+   {
+    "text": "Καλημέρα",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "άλλος~pronoun#2",
+  "front": "ο άλλος",
+  "lemma": "άλλος",
+  "back": "someone else",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "somebody else"
+  ],
+  "definition": "a different person; another person",
+  "examples": [
+   "Ρώτα κάποιον άλλον, εγώ δεν ξέρω."
+  ],
+  "examples_en": [
+   "Ask someone else, I don't know."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Pronoun",
+  "gender": "m",
+  "zipf": 6.26,
+  "lemma_id": "άλλος~pronoun",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Ρώτα κάποιον άλλον, εγώ δεν ξέρω.",
+  "share": 6.0,
+  "hint": "another person",
+  "hint_context": "ask someone else",
+  "example_marks": [
+   {
+    "text": "άλλον",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "πρέπει#3",
+  "front": "πρέπει",
+  "lemma": "πρέπει",
+  "back": "be fitting for",
+  "band": 1,
+  "kind": "word",
+  "register": "formal",
+  "alts": [
+   "be due to",
+   "deserve"
+  ],
+  "definition": "to be appropriate or due to someone (formal)",
+  "examples": [
+   "Του πρέπουν μεγάλες τιμές."
+  ],
+  "examples_en": [
+   "Great honors are due to him."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.18,
+  "lemma_id": "πρέπει",
+  "sense_index": 3,
+  "sense_count": 3,
+  "cue": "Του πρέπουν μεγάλες τιμές.",
+  "share": 7.0,
+  "hint": "honors, due to someone",
+  "hint_context": "praise is due to her",
+  "example_marks": [
+   {
+    "text": "πρέπουν",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "θέλω#5",
+  "front": "θέλω",
+  "lemma": "θέλω",
+  "back": "desire",
+  "band": 1,
+  "kind": "word",
+  "register": "informal",
+  "alts": [
+   "want (someone)"
+  ],
+  "definition": "to desire someone sexually or romantically (colloquial)",
+  "examples": [
+   "Σε θέλω πολύ."
+  ],
+  "examples_en": [
+   "I want you so much."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.24,
+  "lemma_id": "θέλω",
+  "sense_index": 5,
+  "sense_count": 5,
+  "cue": "Σε θέλω πολύ.",
+  "share": 6.0,
+  "hint": "desire a person",
+  "hint_context": "I want you badly",
+  "example_marks": [
+   {
+    "text": "θέλω",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "θελήσω"
+ }
+]

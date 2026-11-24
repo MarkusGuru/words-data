@@ -1,0 +1,1042 @@
+[
+ {
+  "id": "βλέπω#4",
+  "front": "βλέπω",
+  "lemma": "βλέπω",
+  "back": "understand",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "get it",
+   "see"
+  ],
+  "definition": "to grasp or realize what someone means",
+  "examples": [
+   "Α, τώρα βλέπω τι εννοείς."
+  ],
+  "examples_en": [
+   "Ah, now I see what you mean."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.22,
+  "lemma_id": "βλέπω",
+  "sense_index": 4,
+  "sense_count": 6,
+  "cue": "Α, τώρα βλέπω τι εννοείς.",
+  "share": 6.0,
+  "hint": "grasp meaning",
+  "hint_context": "now I see what you mean",
+  "example_marks": [
+   {
+    "text": "βλέπω",
+    "nth": 1
+   }
+  ],
+  "aspect": "imperfective",
+  "aspect_pair": "δω"
+ },
+ {
+  "id": "κάνω#4",
+  "front": "κάνω",
+  "lemma": "κάνω",
+  "back": "take",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to require a period of time for a journey or task",
+  "examples": [
+   "Το ταξίδι με το καράβι κάνει τρεις ώρες."
+  ],
+  "examples_en": [
+   "The ferry trip takes three hours."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.52,
+  "lemma_id": "κάνω",
+  "sense_index": 4,
+  "sense_count": 4,
+  "cue": "Το ταξίδι με το καράβι κάνει τρεις ώρες.",
+  "share": 3.0,
+  "hint": "time needed",
+  "hint_context": "the trip takes two hours",
+  "example_marks": [
+   {
+    "text": "κάνει",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "άλλος#5",
+  "front": "άλλος",
+  "lemma": "άλλος",
+  "back": "more",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "additional"
+  ],
+  "definition": "further quantity of something; any more",
+  "examples": [
+   "Δεν θέλω άλλο φαγητό, ευχαριστώ."
+  ],
+  "examples_en": [
+   "I don't want any more food, thanks."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 6.26,
+  "lemma_id": "άλλος",
+  "sense_index": 5,
+  "sense_count": 6,
+  "cue": "Δεν θέλω άλλο φαγητό, ευχαριστώ.",
+  "share": 5.0,
+  "hint": "extra amount",
+  "hint_context": "no more food",
+  "example_marks": [
+   {
+    "text": "άλλο",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "μεγάλος#6",
+  "front": "μεγάλος",
+  "lemma": "μεγάλος",
+  "back": "long",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "lengthy"
+  ],
+  "definition": "of greater than average length of time",
+  "examples": [
+   "Περίμενα μεγάλη ώρα στη στάση του λεωφορείου."
+  ],
+  "examples_en": [
+   "I waited a long time at the bus stop."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 6.16,
+  "lemma_id": "μεγάλος",
+  "sense_index": 6,
+  "sense_count": 6,
+  "cue": "Περίμενα μεγάλη ώρα στη στάση του λεωφορείου.",
+  "share": 6.0,
+  "hint": "long duration",
+  "hint_context": "a long time",
+  "example_marks": [
+   {
+    "text": "μεγάλη",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "βλέπω#5",
+  "front": "βλέπω",
+  "lemma": "βλέπω",
+  "back": "see someone",
+  "band": 2,
+  "kind": "word",
+  "register": "informal",
+  "alts": [
+   "date"
+  ],
+  "definition": "to be in a romantic relationship with someone",
+  "examples": [
+   "Ο φίλος μου βλέπει κάποια από καιρό."
+  ],
+  "examples_en": [
+   "My friend has been seeing someone for a while."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.22,
+  "lemma_id": "βλέπω",
+  "sense_index": 5,
+  "sense_count": 6,
+  "cue": "Ο φίλος μου βλέπει κάποια από καιρό.",
+  "share": 5.0,
+  "hint": "romantic, see someone",
+  "hint_context": "seeing someone for a while",
+  "example_marks": [
+   {
+    "text": "βλέπει",
+    "nth": 1
+   }
+  ],
+  "aspect": "imperfective",
+  "aspect_pair": "δω"
+ },
+ {
+  "id": "γίνομαι#3",
+  "front": "γίνομαι",
+  "lemma": "γίνομαι",
+  "back": "become of",
+  "band": 2,
+  "kind": "word",
+  "register": "informal",
+  "alts": [
+   "happen to"
+  ],
+  "definition": "to be the fate of a person or thing; to happen to someone",
+  "examples": [
+   "Τι έγιναν τα λεφτά που σου έδωσα;"
+  ],
+  "examples_en": [
+   "What became of the money I gave you?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.31,
+  "lemma_id": "γίνομαι",
+  "sense_index": 3,
+  "sense_count": 6,
+  "cue": "Τι έγιναν τα λεφτά που σου έδωσα;",
+  "share": 4.0,
+  "hint": "fate of a person or thing",
+  "hint_context": "what became of the money",
+  "example_marks": [
+   {
+    "text": "έγιναν",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "γίνομαι#5",
+  "front": "γίνομαι",
+  "lemma": "γίνομαι",
+  "back": "form",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "be made",
+   "come into being"
+  ],
+  "definition": "to come into existence or be produced by a process",
+  "examples": [
+   "Πώς γίνονται τα σύννεφα στον ουρανό;"
+  ],
+  "examples_en": [
+   "How do clouds form in the sky?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.31,
+  "lemma_id": "γίνομαι",
+  "sense_index": 5,
+  "sense_count": 6,
+  "cue": "Πώς γίνονται τα σύννεφα στον ουρανό;",
+  "share": 4.0,
+  "hint": "come into existence",
+  "hint_context": "clouds form",
+  "example_marks": [
+   {
+    "text": "γίνονται",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "γιατί~noun",
+  "front": "το γιατί",
+  "lemma": "γιατί",
+  "back": "the reason why",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "the why"
+  ],
+  "definition": "the cause or reason behind something",
+  "examples": [
+   "Θέλω να μάθω το γιατί."
+  ],
+  "examples_en": [
+   "I want to find out the reason why."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 6.21,
+  "share": 5.0,
+  "hint": "noun: the reason",
+  "hint_context": "wanting to know the why of it",
+  "example_marks": [
+   {
+    "text": "γιατί",
+    "nth": 1
+   }
+  ],
+  "inflection": "indeclinable"
+ },
+ {
+  "id": "καλός~noun",
+  "front": "ο καλός",
+  "lemma": "καλός",
+  "back": "sweetheart",
+  "band": 2,
+  "kind": "word",
+  "register": "informal",
+  "alts": [
+   "darling",
+   "beloved"
+  ],
+  "definition": "a beloved person, used as a term of endearment",
+  "examples": [
+   "Ο καλός μου με περιμένει στο καφέ."
+  ],
+  "examples_en": [
+   "My sweetheart is waiting for me at the café."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 6.29,
+  "lemma_id": "καλός~noun",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Ο καλός μου με περιμένει στο καφέ.",
+  "share": 4.0,
+  "hint": "term of endearment",
+  "hint_context": "my sweetheart",
+  "example_marks": [
+   {
+    "text": "καλός",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "πηγαίνω#4",
+  "front": "πηγαίνω",
+  "lemma": "πηγαίνω",
+  "back": "go with",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "match",
+   "suit"
+  ],
+  "definition": "to match or suit in color, style, or taste",
+  "examples": [
+   "Αυτό το φόρεμα πάει με τα παπούτσια σου."
+  ],
+  "examples_en": [
+   "This dress goes with your shoes."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.19,
+  "lemma_id": "πηγαίνω",
+  "sense_index": 4,
+  "sense_count": 4,
+  "cue": "Αυτό το φόρεμα πάει με τα παπούτσια σου.",
+  "share": 5.0,
+  "hint": "match in color or style",
+  "hint_context": "the dress goes with shoes",
+  "example_marks": [
+   {
+    "text": "πάει",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "φαγητό",
+  "front": "το φαγητό",
+  "lemma": "φαγητό",
+  "back": "food",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "food",
+  "examples": [
+   "Το ελληνικό φαγητό είναι πολύ νόστιμο."
+  ],
+  "examples_en": [
+   "Greek food is very tasty."
+  ],
+  "claude": true,
+  "topic": "food",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 5.11,
+  "lemma_id": "φαγητό",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Το ελληνικό φαγητό είναι πολύ νόστιμο.",
+  "share": 60.0,
+  "hint": "things to eat",
+  "hint_context": "Greek food",
+  "example_marks": [
+   {
+    "text": "φαγητό",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "δρόμος#2",
+  "front": "ο δρόμος",
+  "lemma": "δρόμος",
+  "back": "way",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "route"
+  ],
+  "definition": "the way to a place",
+  "examples": [
+   "Ξέρεις τον δρόμο για το λιμάνι;"
+  ],
+  "examples_en": [
+   "Do you know the way to the port?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.44,
+  "lemma_id": "δρόμος",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Ξέρεις τον δρόμο για το λιμάνι;",
+  "share": 28.0,
+  "hint": "route",
+  "hint_context": "ask the way",
+  "example_marks": [
+   {
+    "text": "δρόμο",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "άλλος#6",
+  "front": "άλλος",
+  "lemma": "άλλος",
+  "back": "next",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "following"
+  ],
+  "definition": "coming after the present one in time",
+  "examples": [
+   "Θα επιστρέψουμε την άλλη εβδομάδα."
+  ],
+  "examples_en": [
+   "We'll come back next week."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 6.26,
+  "lemma_id": "άλλος",
+  "sense_index": 6,
+  "sense_count": 6,
+  "cue": "Θα επιστρέψουμε την άλλη εβδομάδα.",
+  "share": 4.0,
+  "hint": "following in time",
+  "hint_context": "next week",
+  "example_marks": [
+   {
+    "text": "άλλη",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "πρώτος#3",
+  "front": "πρώτος",
+  "lemma": "πρώτος",
+  "back": "raw",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "primary",
+   "basic"
+  ],
+  "definition": "basic, original (as in raw material)",
+  "examples": [
+   "Το αλεύρι είναι η πρώτη ύλη για το ψωμί."
+  ],
+  "examples_en": [
+   "Flour is the raw material for bread."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "m",
+  "zipf": 6.08,
+  "lemma_id": "πρώτος",
+  "sense_index": 3,
+  "sense_count": 3,
+  "cue": "Το αλεύρι είναι η πρώτη ύλη για το ψωμί.",
+  "share": 6.0,
+  "hint": "raw material",
+  "hint_context": "πρώτη ύλη",
+  "example_marks": [
+   {
+    "text": "πρώτη",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "φίλος#2",
+  "front": "ο φίλος",
+  "lemma": "φίλος",
+  "back": "boyfriend",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a boyfriend",
+  "examples": [
+   "Η αδερφή μου έχει καινούργιο φίλο."
+  ],
+  "examples_en": [
+   "My sister has a new boyfriend."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.73,
+  "lemma_id": "φίλος",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Η αδερφή μου έχει καινούργιο φίλο.",
+  "share": 13.0,
+  "hint": "romantic partner",
+  "hint_context": "her boyfriend",
+  "example_marks": [
+   {
+    "text": "φίλο",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "συγγνώμη",
+  "front": "συγγνώμη",
+  "lemma": "συγγνώμη",
+  "back": "sorry",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "apology",
+  "examples": [
+   "Συγγνώμη, άργησα λίγο!"
+  ],
+  "examples_en": [
+   "Sorry, I'm a bit late!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Interjection",
+  "gender": "",
+  "zipf": 5.08,
+  "lemma_id": "συγγνώμη",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Συγγνώμη, άργησα λίγο!",
+  "share": 55.0,
+  "hint": "apology",
+  "hint_context": "sorry I'm late",
+  "example_marks": [
+   {
+    "text": "Συγγνώμη",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "παρακαλώ",
+  "front": "παρακαλώ",
+  "lemma": "παρακαλώ",
+  "back": "please",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "polite word when asking",
+  "examples": [
+   "Τον λογαριασμό, παρακαλώ."
+  ],
+  "examples_en": [
+   "The check, please."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Interjection",
+  "gender": "",
+  "zipf": 5.07,
+  "lemma_id": "παρακαλώ",
+  "sense_index": 1,
+  "sense_count": 3,
+  "cue": "Τον λογαριασμό, παρακαλώ.",
+  "share": 55.0,
+  "hint": "polite request",
+  "hint_context": "please",
+  "example_marks": [
+   {
+    "text": "παρακαλώ",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "όχι~noun",
+  "front": "το όχι",
+  "lemma": "όχι",
+  "back": "no",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "refusal"
+  ],
+  "definition": "a refusal or rejection, as a noun",
+  "examples": [
+   "Η απάντησή της ήταν ένα ξεκάθαρο όχι."
+  ],
+  "examples_en": [
+   "Her answer was a clear no."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 6.2,
+  "share": 4.0,
+  "hint": "a noun: rejection",
+  "hint_context": "a clear no",
+  "example_marks": [
+   {
+    "text": "όχι",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "λάθος",
+  "front": "το λάθος",
+  "lemma": "λάθος",
+  "back": "mistake",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "error"
+  ],
+  "definition": "a mistake (also: wrong, as in 'λάθος δρόμος')",
+  "examples": [
+   "Συγγνώμη, ήταν δικό μου λάθος."
+  ],
+  "examples_en": [
+   "Sorry, it was my mistake."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 4.78,
+  "share": 98.0,
+  "hint": "error",
+  "hint_context": "my mistake",
+  "example_marks": [
+   {
+    "text": "λάθος",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "λίγο",
+  "front": "λίγο",
+  "lemma": "λίγο",
+  "back": "a little",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "a bit",
+   "some"
+  ],
+  "definition": "a small amount or degree",
+  "examples": [
+   "Μιλάω λίγο ελληνικά."
+  ],
+  "examples_en": [
+   "I speak a little Greek."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 4.78,
+  "share": 98.0,
+  "hint": "small amount",
+  "hint_context": "a little bit",
+  "example_marks": [
+   {
+    "text": "λίγο",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "καλός~noun#2",
+  "front": "ο καλός",
+  "lemma": "καλός",
+  "back": "good guy",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "goodie",
+   "good one"
+  ],
+  "definition": "a good or virtuous person, especially in a story",
+  "examples": [
+   "Στην ταινία, οι καλοί νικούν πάντα."
+  ],
+  "examples_en": [
+   "In the movie, the good guys always win."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 6.29,
+  "lemma_id": "καλός~noun",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Στην ταινία, οι καλοί νικούν πάντα.",
+  "share": 3.0,
+  "hint": "virtuous character",
+  "hint_context": "the good guys win",
+  "example_marks": [
+   {
+    "text": "καλοί",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "μετά#2",
+  "front": "μετά",
+  "lemma": "μετά",
+  "back": "with",
+  "band": 2,
+  "kind": "word",
+  "register": "literary",
+  "alts": [],
+  "definition": "accompanied by, or in a manner characterized by (literary)",
+  "examples": [
+   "Μίλησε μετά πάθους για την πατρίδα του."
+  ],
+  "examples_en": [
+   "He spoke with passion about his homeland."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Preposition",
+  "gender": "",
+  "zipf": 6.16,
+  "lemma_id": "μετά",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Μίλησε μετά πάθους για την πατρίδα του.",
+  "share": 4.0,
+  "hint": "manner, literary",
+  "hint_context": "with great passion",
+  "example_marks": [
+   {
+    "text": "μετά",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "άντρας",
+  "front": "ο άντρας",
+  "lemma": "άντρας",
+  "back": "man",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "an adult male (also άνδρας)",
+  "examples": [
+   "Ένας άντρας σε ζητάει στο τηλέφωνο."
+  ],
+  "examples_en": [
+   "A man is asking for you on the phone."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.98,
+  "lemma_id": "άντρας",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Ένας άντρας σε ζητάει στο τηλέφωνο.",
+  "share": 60.0,
+  "hint": "adult male",
+  "hint_context": "an old man",
+  "example_marks": [
+   {
+    "text": "άντρας",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "ακριβός",
+  "front": "ακριβός",
+  "lemma": "ακριβός",
+  "back": "expensive",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "costing a lot",
+  "examples": [
+   "Τα εστιατόρια εδώ είναι ακριβά."
+  ],
+  "examples_en": [
+   "The restaurants here are expensive."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 4.73,
+  "share": 98.0,
+  "hint": "costly",
+  "hint_context": "too expensive",
+  "example_marks": [
+   {
+    "text": "ακριβά",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "συγγνώμη#2",
+  "front": "συγγνώμη",
+  "lemma": "συγγνώμη",
+  "back": "excuse me",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to get attention",
+  "examples": [
+   "Συγγνώμη, πού είναι η στάση;"
+  ],
+  "examples_en": [
+   "Excuse me, where's the bus stop?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Interjection",
+  "gender": "",
+  "zipf": 5.08,
+  "lemma_id": "συγγνώμη",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Συγγνώμη, πού είναι η στάση;",
+  "share": 43.0,
+  "hint": "to get attention",
+  "hint_context": "excuse me, sir",
+  "example_marks": [
+   {
+    "text": "Συγγνώμη",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "φαγητό#2",
+  "front": "το φαγητό",
+  "lemma": "φαγητό",
+  "back": "meal",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "lunch",
+   "dinner"
+  ],
+  "definition": "a meal ('πάμε για φαγητό' = let's go eat)",
+  "examples": [
+   "Πάμε για φαγητό στην ταβέρνα;"
+  ],
+  "examples_en": [
+   "Shall we go eat at the taverna?"
+  ],
+  "claude": true,
+  "topic": "food",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 5.11,
+  "lemma_id": "φαγητό",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Πάμε για φαγητό στην ταβέρνα;",
+  "share": 38.0,
+  "hint": "eating out",
+  "hint_context": "go out to eat",
+  "example_marks": [
+   {
+    "text": "φαγητό",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "ψωμί",
+  "front": "το ψωμί",
+  "lemma": "ψωμί",
+  "back": "bread",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "bread",
+  "examples": [
+   "Φέρτε μας λίγο ψωμί, παρακαλώ."
+  ],
+  "examples_en": [
+   "Bring us some bread, please."
+  ],
+  "claude": true,
+  "topic": "food",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 4.62,
+  "share": 98.0,
+  "hint": "food",
+  "hint_context": "fresh bread",
+  "example_marks": [
+   {
+    "text": "ψωμί",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "δουλειά#2",
+  "front": "η δουλειά",
+  "lemma": "δουλειά",
+  "back": "business",
+  "band": 2,
+  "kind": "word",
+  "register": "informal",
+  "alts": [
+   "matter"
+  ],
+  "definition": "'δεν είναι δική σου δουλειά' = none of your business",
+  "examples": [
+   "Αυτό δεν είναι δική σου δουλειά!"
+  ],
+  "examples_en": [
+   "That's none of your business!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 5.48,
+  "lemma_id": "δουλειά",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Αυτό δεν είναι δική σου δουλειά!",
+  "share": 13.0,
+  "hint": "someone's concern",
+  "hint_context": "none of your business",
+  "example_marks": [
+   {
+    "text": "δουλειά",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "άντρας#2",
+  "front": "ο άντρας",
+  "lemma": "άντρας",
+  "back": "husband",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "'ο άντρας μου' = my husband",
+  "examples": [
+   "Ο άντρας μου μαγειρεύει πολύ καλά."
+  ],
+  "examples_en": [
+   "My husband cooks very well."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.98,
+  "lemma_id": "άντρας",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Ο άντρας μου μαγειρεύει πολύ καλά.",
+  "share": 38.0,
+  "hint": "married partner",
+  "hint_context": "my husband",
+  "example_marks": [
+   {
+    "text": "άντρας",
+    "nth": 1
+   }
+  ]
+ }
+]

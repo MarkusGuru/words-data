@@ -1,0 +1,70 @@
+[
+ {
+  "id": "γεια#2",
+  "front": "γεια",
+  "lemma": "γεια",
+  "back": "bye",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "goodbye"
+  ],
+  "definition": "goodbye",
+  "examples": [
+   "Γεια, τα λέμε αύριο!"
+  ],
+  "examples_en": [
+   "Bye, see you tomorrow!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Interjection",
+  "gender": "",
+  "zipf": 4.69,
+  "lemma_id": "γεια",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Γεια, τα λέμε αύριο!",
+  "share": 33.0,
+  "hint": "leaving",
+  "hint_context": "bye for now",
+  "example_marks": [
+   {
+    "text": "Γεια",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "πάντα",
+  "front": "πάντα",
+  "lemma": "πάντα",
+  "back": "always",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "at all times",
+  "examples": [
+   "Το καλοκαίρι πάντα πάμε στην Κρήτη."
+  ],
+  "examples_en": [
+   "In the summer we always go to Crete."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 3.93,
+  "share": 98.0,
+  "hint": "every time",
+  "hint_context": "as always",
+  "example_marks": [
+   {
+    "text": "πάντα",
+    "nth": 1
+   }
+  ]
+ }
+]

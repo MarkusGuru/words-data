@@ -1,0 +1,112 @@
+[
+ {
+  "id": "γεια",
+  "front": "γεια",
+  "lemma": "γεια",
+  "back": "hi",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "hello"
+  ],
+  "definition": "greeting ('γεια σου' informal, 'γεια σας' polite)",
+  "examples": [
+   "Γεια σας, τι θα πάρετε;"
+  ],
+  "examples_en": [
+   "Hello, what will you have?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Interjection",
+  "gender": "",
+  "zipf": 4.69,
+  "lemma_id": "γεια",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Γεια σας, τι θα πάρετε;",
+  "share": 65.0,
+  "hint": "greeting",
+  "hint_context": "say hi",
+  "example_marks": [
+   {
+    "text": "Γεια",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "παρακαλώ#2",
+  "front": "παρακαλώ",
+  "lemma": "παρακαλώ",
+  "back": "you're welcome",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "reply to thanks",
+  "examples": [
+   "«Ευχαριστώ πολύ!» «Παρακαλώ!»"
+  ],
+  "examples_en": [
+   "\"Thank you very much!\" \"You're welcome!\""
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Interjection",
+  "gender": "",
+  "zipf": 5.07,
+  "lemma_id": "παρακαλώ",
+  "sense_index": 2,
+  "sense_count": 3,
+  "cue": "«Ευχαριστώ πολύ!» «Παρακαλώ!»",
+  "share": 25.0,
+  "hint": "polite reply to thanks",
+  "hint_context": "you're welcome",
+  "example_marks": [
+   {
+    "text": "Παρακαλώ",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "παρακαλώ#3",
+  "front": "παρακαλώ",
+  "lemma": "παρακαλώ",
+  "back": "can I help you?",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "yes?",
+   "hello? (phone)"
+  ],
+  "definition": "offering help; answering the phone",
+  "examples": [
+   "Παρακαλώ, τι θα θέλατε;"
+  ],
+  "examples_en": [
+   "Can I help you? What would you like?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Interjection",
+  "gender": "",
+  "zipf": 5.07,
+  "lemma_id": "παρακαλώ",
+  "sense_index": 3,
+  "sense_count": 3,
+  "cue": "Παρακαλώ, τι θα θέλατε;",
+  "share": 18.0,
+  "hint": "shop, phone",
+  "hint_context": "yes, please?",
+  "example_marks": [
+   {
+    "text": "Παρακαλώ",
+    "nth": 1
+   }
+  ]
+ }
+]

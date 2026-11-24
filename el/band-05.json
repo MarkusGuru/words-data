@@ -1,0 +1,74 @@
+[
+ {
+  "id": "καλά",
+  "front": "καλά",
+  "lemma": "καλά",
+  "back": "well",
+  "band": 5,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "in a good way",
+  "examples": [
+   "Μιλάς πολύ καλά ελληνικά!"
+  ],
+  "examples_en": [
+   "You speak Greek very well!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 4.06,
+  "lemma_id": "καλά",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Μιλάς πολύ καλά ελληνικά!",
+  "share": 60.0,
+  "hint": "in a good way",
+  "hint_context": "speak well",
+  "example_marks": [
+   {
+    "text": "καλά",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "καλά#2",
+  "front": "καλά",
+  "lemma": "καλά",
+  "back": "fine",
+  "band": 5,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "OK"
+  ],
+  "definition": "answer to 'how are you?'; agreeing",
+  "examples": [
+   "«Τι κάνεις;» «Καλά, εσύ;»"
+  ],
+  "examples_en": [
+   "\"How are you?\" \"Fine, and you?\""
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 4.06,
+  "lemma_id": "καλά",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "«Τι κάνεις;» «Καλά, εσύ;»",
+  "share": 38.0,
+  "hint": "how are you? – fine",
+  "hint_context": "I'm fine",
+  "example_marks": [
+   {
+    "text": "Καλά",
+    "nth": 1
+   }
+  ]
+ }
+]

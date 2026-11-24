@@ -1,0 +1,51 @@
+{
+ "schema": 1,
+ "pair": "el-en",
+ "license": "CC-BY-SA-4.0",
+ "attribution": "Greek-English word list. Lemmas, forms and senses informed by Wiktionary via kaikki.org (CC BY-SA). Frequency from wordfreq. Cards written and reviewed with Claude (Anthropic).",
+ "language": {
+  "code": "el",
+  "name": "Greek",
+  "native": "ελληνικά",
+  "tts": "el-GR",
+  "speech": true,
+  "front_style": "article",
+  "genders": [
+   "m",
+   "f",
+   "n"
+  ]
+ },
+ "bands": [
+  {
+   "band": 1,
+   "file": "band-01.json",
+   "count": 239
+  },
+  {
+   "band": 2,
+   "file": "band-02.json",
+   "count": 29
+  },
+  {
+   "band": 3,
+   "file": "band-03.json",
+   "count": 3
+  },
+  {
+   "band": 4,
+   "file": "band-04.json",
+   "count": 2
+  },
+  {
+   "band": 5,
+   "file": "band-05.json",
+   "count": 2
+  },
+  {
+   "band": 8,
+   "file": "band-08.json",
+   "count": 20
+  }
+ ]
+}

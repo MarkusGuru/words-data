@@ -1,0 +1,670 @@
+[
+ {
+  "id": "μέσα",
+  "front": "μέσα",
+  "lemma": "μέσα",
+  "back": "inside",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "in"
+  ],
+  "definition": "in, inside",
+  "examples": [
+   "Έλα μέσα, κάνει κρύο."
+  ],
+  "examples_en": [
+   "Come inside, it's cold."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 2.98,
+  "lemma_id": "μέσα",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Έλα μέσα, κάνει κρύο.",
+  "share": 75.0,
+  "hint": "place: inside",
+  "hint_context": "come in",
+  "example_marks": [
+   {
+    "text": "μέσα",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "αυτός",
+  "front": "αυτός",
+  "lemma": "αυτός",
+  "back": "this",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "that"
+  ],
+  "definition": "demonstrative: this one",
+  "examples": [
+   "Αυτό το σπίτι είναι πολύ παλιό."
+  ],
+  "examples_en": [
+   "This house is very old."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Pronoun",
+  "gender": "",
+  "zipf": 2.67,
+  "lemma_id": "αυτός",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Αυτό το σπίτι είναι πολύ παλιό.",
+  "share": 55.0,
+  "hint": "pointing at something",
+  "hint_context": "this one",
+  "example_marks": [
+   {
+    "text": "Αυτό",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "μέσα#2",
+  "front": "μέσα",
+  "lemma": "μέσα",
+  "back": "within",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "in"
+  ],
+  "definition": "'μέσα σε' + time = within",
+  "examples": [
+   "Θα είμαι εκεί μέσα σε δέκα λεπτά."
+  ],
+  "examples_en": [
+   "I'll be there within ten minutes."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 2.98,
+  "lemma_id": "μέσα",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Θα είμαι εκεί μέσα σε δέκα λεπτά.",
+  "share": 23.0,
+  "hint": "time: within",
+  "hint_context": "in ten minutes",
+  "example_marks": [
+   {
+    "text": "μέσα",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "αυτός#2",
+  "front": "αυτός",
+  "lemma": "αυτός",
+  "back": "he",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "she",
+   "it"
+  ],
+  "definition": "third person: he, she, it (αυτός, αυτή, αυτό)",
+  "examples": [
+   "Αυτή δουλεύει σε νοσοκομείο."
+  ],
+  "examples_en": [
+   "She works at a hospital."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Pronoun",
+  "gender": "",
+  "zipf": 2.67,
+  "lemma_id": "αυτός",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Αυτή δουλεύει σε νοσοκομείο.",
+  "share": 43.0,
+  "hint": "third person",
+  "hint_context": "he says",
+  "example_marks": [
+   {
+    "text": "Αυτή",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "εγώ",
+  "front": "εγώ",
+  "lemma": "εγώ",
+  "back": "I",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "me"
+  ],
+  "definition": "first person singular (stressed)",
+  "examples": [
+   "Εγώ θέλω καφέ, εσύ;"
+  ],
+  "examples_en": [
+   "I want coffee, how about you?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Pronoun",
+  "gender": "",
+  "zipf": 1.91,
+  "share": 98.0,
+  "hint": "the speaker",
+  "hint_context": "me too",
+  "example_marks": [
+   {
+    "text": "Εγώ",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "εσύ",
+  "front": "εσύ",
+  "lemma": "εσύ",
+  "back": "you (sg.)",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "you"
+  ],
+  "definition": "second person singular, informal (stressed)",
+  "examples": [
+   "Εσύ τι θα πάρεις;"
+  ],
+  "examples_en": [
+   "What will you have?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Pronoun",
+  "gender": "",
+  "zipf": 1.58,
+  "share": 98.0,
+  "hint": "one person, informal",
+  "hint_context": "and you?",
+  "example_marks": [
+   {
+    "text": "Εσύ",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "λεπτό",
+  "front": "το λεπτό",
+  "lemma": "λεπτό",
+  "back": "minute",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "sixty seconds ('ένα λεπτό!' = just a minute!)",
+  "examples": [
+   "Περίμενε ένα λεπτό, έρχομαι!"
+  ],
+  "examples_en": [
+   "Wait a minute, I'm coming!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 1.45,
+  "share": 98.0,
+  "hint": "60 seconds",
+  "hint_context": "just a minute",
+  "example_marks": [
+   {
+    "text": "λεπτό",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "πολύ",
+  "front": "πολύ",
+  "lemma": "πολύ",
+  "back": "very",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to a high degree (with adjectives, adverbs)",
+  "examples": [
+   "Το φαγητό είναι πολύ νόστιμο."
+  ],
+  "examples_en": [
+   "The food is very tasty."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 1.38,
+  "share": 60.0,
+  "hint": "with adjectives",
+  "hint_context": "very good",
+  "example_marks": [
+   {
+    "text": "πολύ",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "μόνο",
+  "front": "μόνο",
+  "lemma": "μόνο",
+  "back": "only",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "just"
+  ],
+  "definition": "and nothing more",
+  "examples": [
+   "Έχω μόνο δέκα ευρώ."
+  ],
+  "examples_en": [
+   "I only have ten euros."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 0.81,
+  "share": 98.0,
+  "hint": "nothing more",
+  "hint_context": "only one",
+  "example_marks": [
+   {
+    "text": "μόνο",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "πόσο",
+  "front": "πόσο",
+  "lemma": "πόσο",
+  "back": "how much",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "how many",
+   "how long"
+  ],
+  "definition": "question about amount or price",
+  "examples": [
+   "Πόσο κάνει αυτό;"
+  ],
+  "examples_en": [
+   "How much is this?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 0.53,
+  "share": 98.0,
+  "hint": "amount, price",
+  "hint_context": "how much is it",
+  "example_marks": [
+   {
+    "text": "Πόσο",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "ίσως",
+  "front": "ίσως",
+  "lemma": "ίσως",
+  "back": "maybe",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "perhaps"
+  ],
+  "definition": "possibly",
+  "examples": [
+   "Ίσως βρέξει αύριο."
+  ],
+  "examples_en": [
+   "Maybe it'll rain tomorrow."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 0.0,
+  "share": 98.0,
+  "hint": "possibly",
+  "hint_context": "maybe later",
+  "example_marks": [
+   {
+    "text": "Ίσως",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "εμείς",
+  "front": "εμείς",
+  "lemma": "εμείς",
+  "back": "we",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "us"
+  ],
+  "definition": "first person plural (stressed)",
+  "examples": [
+   "Εμείς μένουμε στην Αθήνα."
+  ],
+  "examples_en": [
+   "We live in Athens."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Pronoun",
+  "gender": "",
+  "zipf": 0.0,
+  "share": 98.0,
+  "hint": "speaker plus others",
+  "hint_context": "we live here",
+  "example_marks": [
+   {
+    "text": "Εμείς",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "χθες",
+  "front": "χθες",
+  "lemma": "χθες",
+  "back": "yesterday",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "on the day before today (also χτες)",
+  "examples": [
+   "Χθες φάγαμε σε μια ωραία ταβέρνα."
+  ],
+  "examples_en": [
+   "Yesterday we ate at a nice taverna."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 0.0,
+  "share": 98.0,
+  "hint": "day before",
+  "hint_context": "yesterday evening",
+  "example_marks": [
+   {
+    "text": "Χθες",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "χωρίς",
+  "front": "χωρίς",
+  "lemma": "χωρίς",
+  "back": "without",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "not having",
+  "examples": [
+   "Ένα φραπέ χωρίς ζάχαρη, παρακαλώ."
+  ],
+  "examples_en": [
+   "A frappé without sugar, please."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Preposition",
+  "gender": "",
+  "zipf": 0.0,
+  "share": 98.0,
+  "hint": "lacking",
+  "hint_context": "without sugar",
+  "example_marks": [
+   {
+    "text": "χωρίς",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "όμως",
+  "front": "όμως",
+  "lemma": "όμως",
+  "back": "however",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "but",
+   "though"
+  ],
+  "definition": "however, but (often after the first word)",
+  "examples": [
+   "Θέλω να έρθω, δεν έχω όμως χρόνο."
+  ],
+  "examples_en": [
+   "I want to come, but I don't have time."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Conjunction",
+  "gender": "",
+  "zipf": 0.0,
+  "share": 98.0,
+  "hint": "contrast, after first word",
+  "hint_context": "but still",
+  "example_marks": [
+   {
+    "text": "όμως",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "όπως",
+  "front": "όπως",
+  "lemma": "όπως",
+  "back": "as",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "like",
+   "such as"
+  ],
+  "definition": "in the same way as",
+  "examples": [
+   "Κάνε όπως θέλεις."
+  ],
+  "examples_en": [
+   "Do as you like."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Conjunction",
+  "gender": "",
+  "zipf": 0.0,
+  "share": 98.0,
+  "hint": "in the same way as",
+  "hint_context": "as you wish",
+  "example_marks": [
+   {
+    "text": "όπως",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "μητέρα",
+  "front": "η μητέρα",
+  "lemma": "μητέρα",
+  "back": "mother",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "mom"
+  ],
+  "definition": "mother ('μαμά' = mom)",
+  "examples": [
+   "Η μητέρα μου μαγειρεύει κάθε Κυριακή."
+  ],
+  "examples_en": [
+   "My mother cooks every Sunday."
+  ],
+  "claude": true,
+  "topic": "family",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": -0.04,
+  "share": 98.0,
+  "hint": "parent, woman",
+  "hint_context": "my mother",
+  "example_marks": [
+   {
+    "text": "μητέρα",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "πώς",
+  "front": "πώς",
+  "lemma": "πώς",
+  "back": "how",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "question: in what way",
+  "examples": [
+   "Πώς πάμε στο λιμάνι;"
+  ],
+  "examples_en": [
+   "How do we get to the port?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 0.0,
+  "share": 82.0,
+  "hint": "question: in what way?",
+  "hint_context": "how are you",
+  "example_marks": [
+   {
+    "text": "Πώς",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "εσείς",
+  "front": "εσείς",
+  "lemma": "εσείς",
+  "back": "you (pl.)",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "you all"
+  ],
+  "definition": "second person plural",
+  "examples": [
+   "Εσείς από πού είστε;"
+  ],
+  "examples_en": [
+   "Where are you all from?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Pronoun",
+  "gender": "",
+  "zipf": 0.0,
+  "share": 55.0,
+  "hint": "several people",
+  "hint_context": "where are you from",
+  "example_marks": [
+   {
+    "text": "Εσείς",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "μέρα",
+  "front": "η μέρα",
+  "lemma": "μέρα",
+  "back": "day",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a day",
+  "examples": [
+   "Τι ωραία μέρα σήμερα!"
+  ],
+  "examples_en": [
+   "What a beautiful day today!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": -1.29,
+  "share": 98.0,
+  "hint": "24 hours, daytime",
+  "hint_context": "every day",
+  "example_marks": [
+   {
+    "text": "μέρα",
+    "nth": 1
+   }
+  ]
+ }
+]
