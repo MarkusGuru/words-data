@@ -37,43 +37,6 @@
   ]
  },
  {
-  "id": "αυτός",
-  "front": "αυτός",
-  "lemma": "αυτός",
-  "back": "this",
-  "band": 8,
-  "kind": "word",
-  "register": "neutral",
-  "alts": [
-   "that"
-  ],
-  "definition": "demonstrative: this one",
-  "examples": [
-   "Αυτό το σπίτι είναι πολύ παλιό."
-  ],
-  "examples_en": [
-   "This house is very old."
-  ],
-  "claude": true,
-  "topic": "",
-  "pos": "Pronoun",
-  "gender": "",
-  "zipf": 2.67,
-  "lemma_id": "αυτός",
-  "sense_index": 1,
-  "sense_count": 2,
-  "cue": "Αυτό το σπίτι είναι πολύ παλιό.",
-  "share": 55.0,
-  "hint": "pointing at something",
-  "hint_context": "this one",
-  "example_marks": [
-   {
-    "text": "Αυτό",
-    "nth": 1
-   }
-  ]
- },
- {
   "id": "μέσα#2",
   "front": "μέσα",
   "lemma": "μέσα",
@@ -106,110 +69,6 @@
   "example_marks": [
    {
     "text": "μέσα",
-    "nth": 1
-   }
-  ]
- },
- {
-  "id": "αυτός#2",
-  "front": "αυτός",
-  "lemma": "αυτός",
-  "back": "he",
-  "band": 8,
-  "kind": "word",
-  "register": "neutral",
-  "alts": [
-   "she",
-   "it"
-  ],
-  "definition": "third person: he, she, it (αυτός, αυτή, αυτό)",
-  "examples": [
-   "Αυτή δουλεύει σε νοσοκομείο."
-  ],
-  "examples_en": [
-   "She works at a hospital."
-  ],
-  "claude": true,
-  "topic": "",
-  "pos": "Pronoun",
-  "gender": "",
-  "zipf": 2.67,
-  "lemma_id": "αυτός",
-  "sense_index": 2,
-  "sense_count": 2,
-  "cue": "Αυτή δουλεύει σε νοσοκομείο.",
-  "share": 43.0,
-  "hint": "third person",
-  "hint_context": "he says",
-  "example_marks": [
-   {
-    "text": "Αυτή",
-    "nth": 1
-   }
-  ]
- },
- {
-  "id": "εγώ",
-  "front": "εγώ",
-  "lemma": "εγώ",
-  "back": "I",
-  "band": 8,
-  "kind": "word",
-  "register": "neutral",
-  "alts": [
-   "me"
-  ],
-  "definition": "first person singular (stressed)",
-  "examples": [
-   "Εγώ θέλω καφέ, εσύ;"
-  ],
-  "examples_en": [
-   "I want coffee, how about you?"
-  ],
-  "claude": true,
-  "topic": "",
-  "pos": "Pronoun",
-  "gender": "",
-  "zipf": 1.91,
-  "share": 98.0,
-  "hint": "the speaker",
-  "hint_context": "me too",
-  "example_marks": [
-   {
-    "text": "Εγώ",
-    "nth": 1
-   }
-  ]
- },
- {
-  "id": "εσύ",
-  "front": "εσύ",
-  "lemma": "εσύ",
-  "back": "you (sg.)",
-  "band": 8,
-  "kind": "word",
-  "register": "neutral",
-  "alts": [
-   "you"
-  ],
-  "definition": "second person singular, informal (stressed)",
-  "examples": [
-   "Εσύ τι θα πάρεις;"
-  ],
-  "examples_en": [
-   "What will you have?"
-  ],
-  "claude": true,
-  "topic": "",
-  "pos": "Pronoun",
-  "gender": "",
-  "zipf": 1.58,
-  "share": 98.0,
-  "hint": "one person, informal",
-  "hint_context": "and you?",
-  "example_marks": [
-   {
-    "text": "Εσύ",
     "nth": 1
    }
   ]
@@ -377,39 +236,6 @@
   ]
  },
  {
-  "id": "εμείς",
-  "front": "εμείς",
-  "lemma": "εμείς",
-  "back": "we",
-  "band": 8,
-  "kind": "word",
-  "register": "neutral",
-  "alts": [
-   "us"
-  ],
-  "definition": "first person plural (stressed)",
-  "examples": [
-   "Εμείς μένουμε στην Αθήνα."
-  ],
-  "examples_en": [
-   "We live in Athens."
-  ],
-  "claude": true,
-  "topic": "",
-  "pos": "Pronoun",
-  "gender": "",
-  "zipf": 0.0,
-  "share": 98.0,
-  "hint": "speaker plus others",
-  "hint_context": "we live here",
-  "example_marks": [
-   {
-    "text": "Εμείς",
-    "nth": 1
-   }
-  ]
- },
- {
   "id": "χθες",
   "front": "χθες",
   "lemma": "χθες",
@@ -436,105 +262,6 @@
   "example_marks": [
    {
     "text": "Χθες",
-    "nth": 1
-   }
-  ]
- },
- {
-  "id": "χωρίς",
-  "front": "χωρίς",
-  "lemma": "χωρίς",
-  "back": "without",
-  "band": 8,
-  "kind": "word",
-  "register": "neutral",
-  "alts": [],
-  "definition": "not having",
-  "examples": [
-   "Ένα φραπέ χωρίς ζάχαρη, παρακαλώ."
-  ],
-  "examples_en": [
-   "A frappé without sugar, please."
-  ],
-  "claude": true,
-  "topic": "",
-  "pos": "Preposition",
-  "gender": "",
-  "zipf": 0.0,
-  "share": 98.0,
-  "hint": "lacking",
-  "hint_context": "without sugar",
-  "example_marks": [
-   {
-    "text": "χωρίς",
-    "nth": 1
-   }
-  ]
- },
- {
-  "id": "όμως",
-  "front": "όμως",
-  "lemma": "όμως",
-  "back": "however",
-  "band": 8,
-  "kind": "word",
-  "register": "neutral",
-  "alts": [
-   "but",
-   "though"
-  ],
-  "definition": "however, but (often after the first word)",
-  "examples": [
-   "Θέλω να έρθω, δεν έχω όμως χρόνο."
-  ],
-  "examples_en": [
-   "I want to come, but I don't have time."
-  ],
-  "claude": true,
-  "topic": "",
-  "pos": "Conjunction",
-  "gender": "",
-  "zipf": 0.0,
-  "share": 98.0,
-  "hint": "contrast, after first word",
-  "hint_context": "but still",
-  "example_marks": [
-   {
-    "text": "όμως",
-    "nth": 1
-   }
-  ]
- },
- {
-  "id": "όπως",
-  "front": "όπως",
-  "lemma": "όπως",
-  "back": "as",
-  "band": 8,
-  "kind": "word",
-  "register": "neutral",
-  "alts": [
-   "like",
-   "such as"
-  ],
-  "definition": "in the same way as",
-  "examples": [
-   "Κάνε όπως θέλεις."
-  ],
-  "examples_en": [
-   "Do as you like."
-  ],
-  "claude": true,
-  "topic": "",
-  "pos": "Conjunction",
-  "gender": "",
-  "zipf": 0.0,
-  "share": 98.0,
-  "hint": "in the same way as",
-  "hint_context": "as you wish",
-  "example_marks": [
-   {
-    "text": "όπως",
     "nth": 1
    }
   ]
@@ -604,39 +331,6 @@
   ]
  },
  {
-  "id": "εσείς",
-  "front": "εσείς",
-  "lemma": "εσείς",
-  "back": "you (pl.)",
-  "band": 8,
-  "kind": "word",
-  "register": "neutral",
-  "alts": [
-   "you all"
-  ],
-  "definition": "second person plural",
-  "examples": [
-   "Εσείς από πού είστε;"
-  ],
-  "examples_en": [
-   "Where are you all from?"
-  ],
-  "claude": true,
-  "topic": "",
-  "pos": "Pronoun",
-  "gender": "",
-  "zipf": 0.0,
-  "share": 55.0,
-  "hint": "several people",
-  "hint_context": "where are you from",
-  "example_marks": [
-   {
-    "text": "Εσείς",
-    "nth": 1
-   }
-  ]
- },
- {
   "id": "μέρα",
   "front": "η μέρα",
   "lemma": "μέρα",
@@ -663,6 +357,303 @@
   "example_marks": [
    {
     "text": "μέρα",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "αυτός",
+  "front": "αυτός",
+  "lemma": "αυτός",
+  "back": "this",
+  "band": 8,
+  "kind": "function",
+  "register": "neutral",
+  "alts": [
+   "that",
+   "he",
+   "she",
+   "it"
+  ],
+  "definition": "demonstrative: this one",
+  "examples": [
+   "Αυτό το σπίτι είναι πολύ παλιό.",
+   "Αυτή δουλεύει σε νοσοκομείο."
+  ],
+  "examples_en": [
+   "This house is very old.",
+   "She works at a hospital."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Pronoun",
+  "gender": "",
+  "zipf": 2.67,
+  "share": 98.0,
+  "hint": "pointing at something",
+  "hint_context": "this one",
+  "example_marks": [
+   {
+    "text": "Αυτό",
+    "nth": 1
+   }
+  ],
+  "uses": [
+   {
+    "back": "this",
+    "hint": "pointing at something",
+    "definition": "demonstrative: this one",
+    "example": "Αυτό το σπίτι είναι πολύ παλιό.",
+    "example_en": "This house is very old.",
+    "example_marks": [
+     {
+      "text": "Αυτό",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "he",
+    "hint": "third person",
+    "definition": "third person: he, she, it (αυτός, αυτή, αυτό)",
+    "example": "Αυτή δουλεύει σε νοσοκομείο.",
+    "example_en": "She works at a hospital.",
+    "example_marks": [
+     {
+      "text": "Αυτή",
+      "nth": 1
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "εγώ",
+  "front": "εγώ",
+  "lemma": "εγώ",
+  "back": "I",
+  "band": 8,
+  "kind": "function",
+  "register": "neutral",
+  "alts": [
+   "me"
+  ],
+  "definition": "first person singular (stressed)",
+  "examples": [
+   "Εγώ θέλω καφέ, εσύ;"
+  ],
+  "examples_en": [
+   "I want coffee, how about you?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Pronoun",
+  "gender": "",
+  "zipf": 1.91,
+  "share": 98.0,
+  "hint": "the speaker",
+  "hint_context": "me too",
+  "example_marks": [
+   {
+    "text": "Εγώ",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "εσύ",
+  "front": "εσύ",
+  "lemma": "εσύ",
+  "back": "you (sg.)",
+  "band": 8,
+  "kind": "function",
+  "register": "neutral",
+  "alts": [
+   "you"
+  ],
+  "definition": "second person singular, informal (stressed)",
+  "examples": [
+   "Εσύ τι θα πάρεις;"
+  ],
+  "examples_en": [
+   "What will you have?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Pronoun",
+  "gender": "",
+  "zipf": 1.58,
+  "share": 98.0,
+  "hint": "one person, informal",
+  "hint_context": "and you?",
+  "example_marks": [
+   {
+    "text": "Εσύ",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "εμείς",
+  "front": "εμείς",
+  "lemma": "εμείς",
+  "back": "we",
+  "band": 8,
+  "kind": "function",
+  "register": "neutral",
+  "alts": [
+   "us"
+  ],
+  "definition": "first person plural (stressed)",
+  "examples": [
+   "Εμείς μένουμε στην Αθήνα."
+  ],
+  "examples_en": [
+   "We live in Athens."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Pronoun",
+  "gender": "",
+  "zipf": 0.0,
+  "share": 98.0,
+  "hint": "speaker plus others",
+  "hint_context": "we live here",
+  "example_marks": [
+   {
+    "text": "Εμείς",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "χωρίς",
+  "front": "χωρίς",
+  "lemma": "χωρίς",
+  "back": "without",
+  "band": 8,
+  "kind": "function",
+  "register": "neutral",
+  "alts": [],
+  "definition": "not having",
+  "examples": [
+   "Ένα φραπέ χωρίς ζάχαρη, παρακαλώ."
+  ],
+  "examples_en": [
+   "A frappé without sugar, please."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Preposition",
+  "gender": "",
+  "zipf": 0.0,
+  "share": 98.0,
+  "hint": "lacking",
+  "hint_context": "without sugar",
+  "example_marks": [
+   {
+    "text": "χωρίς",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "όμως",
+  "front": "όμως",
+  "lemma": "όμως",
+  "back": "however",
+  "band": 8,
+  "kind": "function",
+  "register": "neutral",
+  "alts": [
+   "but",
+   "though"
+  ],
+  "definition": "however, but (often after the first word)",
+  "examples": [
+   "Θέλω να έρθω, δεν έχω όμως χρόνο."
+  ],
+  "examples_en": [
+   "I want to come, but I don't have time."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Conjunction",
+  "gender": "",
+  "zipf": 0.0,
+  "share": 98.0,
+  "hint": "contrast, after first word",
+  "hint_context": "but still",
+  "example_marks": [
+   {
+    "text": "όμως",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "όπως",
+  "front": "όπως",
+  "lemma": "όπως",
+  "back": "as",
+  "band": 8,
+  "kind": "function",
+  "register": "neutral",
+  "alts": [
+   "like",
+   "such as"
+  ],
+  "definition": "in the same way as",
+  "examples": [
+   "Κάνε όπως θέλεις."
+  ],
+  "examples_en": [
+   "Do as you like."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Conjunction",
+  "gender": "",
+  "zipf": 0.0,
+  "share": 98.0,
+  "hint": "in the same way as",
+  "hint_context": "as you wish",
+  "example_marks": [
+   {
+    "text": "όπως",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "εσείς",
+  "front": "εσείς",
+  "lemma": "εσείς",
+  "back": "you (pl.)",
+  "band": 8,
+  "kind": "function",
+  "register": "neutral",
+  "alts": [
+   "you all"
+  ],
+  "definition": "second person plural",
+  "examples": [
+   "Εσείς από πού είστε;"
+  ],
+  "examples_en": [
+   "Where are you all from?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Pronoun",
+  "gender": "",
+  "zipf": 0.0,
+  "share": 55.0,
+  "hint": "several people",
+  "hint_context": "where are you from",
+  "example_marks": [
+   {
+    "text": "Εσείς",
     "nth": 1
    }
   ]

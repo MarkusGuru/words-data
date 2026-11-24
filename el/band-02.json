@@ -763,41 +763,6 @@
   ]
  },
  {
-  "id": "μετά#2",
-  "front": "μετά",
-  "lemma": "μετά",
-  "back": "with",
-  "band": 2,
-  "kind": "word",
-  "register": "literary",
-  "alts": [],
-  "definition": "accompanied by, or in a manner characterized by (literary)",
-  "examples": [
-   "Μίλησε μετά πάθους για την πατρίδα του."
-  ],
-  "examples_en": [
-   "He spoke with passion about his homeland."
-  ],
-  "claude": true,
-  "topic": "",
-  "pos": "Preposition",
-  "gender": "",
-  "zipf": 6.16,
-  "lemma_id": "μετά",
-  "sense_index": 2,
-  "sense_count": 2,
-  "cue": "Μίλησε μετά πάθους για την πατρίδα του.",
-  "share": 4.0,
-  "hint": "manner, literary",
-  "hint_context": "with great passion",
-  "example_marks": [
-   {
-    "text": "μετά",
-    "nth": 1
-   }
-  ]
- },
- {
   "id": "άντρας",
   "front": "ο άντρας",
   "lemma": "άντρας",

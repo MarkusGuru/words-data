@@ -479,40 +479,6 @@
   ]
  },
  {
-  "id": "bo~particle",
-  "front": "bo",
-  "lemma": "bo",
-  "back": "but",
-  "band": 2,
-  "kind": "word",
-  "register": "informal",
-  "alts": [
-   "though",
-   "sure"
-  ],
-  "definition": "emphasizes a concession: true enough, but...; repeated word + 'but'",
-  "examples": [
-   "Ładny, bo ładny, ale drogi."
-  ],
-  "examples_en": [
-   "Sure, it's nice, but it's expensive."
-  ],
-  "claude": true,
-  "topic": "",
-  "pos": "Particle",
-  "gender": "",
-  "zipf": 6.35,
-  "share": 4.0,
-  "hint": "concessive, 'sure but'",
-  "hint_context": "nice, but expensive",
-  "example_marks": [
-   {
-    "text": "bo",
-    "nth": 1
-   }
-  ]
- },
- {
   "id": "kawałek",
   "front": "kawałek",
   "lemma": "kawałek",
@@ -1174,41 +1140,6 @@
   "animacy": "inan"
  },
  {
-  "id": "chyba#2",
-  "front": "chyba",
-  "lemma": "chyba",
-  "back": "unless",
-  "band": 2,
-  "kind": "word",
-  "register": "neutral",
-  "alts": [],
-  "definition": "'chyba że' = unless",
-  "examples": [
-   "Przyjdę, chyba że będzie padać."
-  ],
-  "examples_en": [
-   "I'll come, unless it rains."
-  ],
-  "claude": true,
-  "topic": "",
-  "pos": "Particle",
-  "gender": "",
-  "zipf": 5.99,
-  "lemma_id": "chyba",
-  "sense_index": 2,
-  "sense_count": 2,
-  "cue": "Przyjdę, chyba że będzie padać.",
-  "share": 8.0,
-  "hint": "chyba że",
-  "hint_context": "unless it rains",
-  "example_marks": [
-   {
-    "text": "chyba",
-    "nth": 1
-   }
-  ]
- },
- {
   "id": "bilet",
   "front": "bilet",
   "lemma": "bilet",
@@ -1571,76 +1502,6 @@
   ],
   "aspect": "impf",
   "aspect_pair": "przywitać"
- },
- {
-  "id": "albo#2",
-  "front": "albo",
-  "lemma": "albo",
-  "back": "either ... or",
-  "band": 2,
-  "kind": "word",
-  "register": "neutral",
-  "alts": [],
-  "definition": "'albo ..., albo ...'",
-  "examples": [
-   "Albo teraz, albo nigdy!"
-  ],
-  "examples_en": [
-   "It's now or never!"
-  ],
-  "claude": true,
-  "topic": "",
-  "pos": "Conjunction",
-  "gender": "",
-  "zipf": 5.87,
-  "lemma_id": "albo",
-  "sense_index": 2,
-  "sense_count": 2,
-  "cue": "Albo teraz, albo nigdy!",
-  "share": 10.0,
-  "hint": "albo ..., albo ...",
-  "hint_context": "either now or never",
-  "example_marks": [
-   {
-    "text": "Albo",
-    "nth": 1
-   }
-  ]
- },
- {
-  "id": "on#2",
-  "front": "on",
-  "lemma": "on",
-  "back": "it",
-  "band": 2,
-  "kind": "word",
-  "register": "neutral",
-  "alts": [],
-  "definition": "refers to a masculine noun (thing)",
-  "examples": [
-   "Gdzie jest mój telefon? On ciągle gdzieś znika."
-  ],
-  "examples_en": [
-   "Where's my phone? It keeps disappearing."
-  ],
-  "claude": true,
-  "topic": "",
-  "pos": "Pronoun",
-  "gender": "",
-  "zipf": 5.96,
-  "lemma_id": "on",
-  "sense_index": 2,
-  "sense_count": 2,
-  "cue": "Gdzie jest mój telefon? On ciągle gdzieś znika.",
-  "share": 8.0,
-  "hint": "masculine thing",
-  "hint_context": "where is it",
-  "example_marks": [
-   {
-    "text": "On",
-    "nth": 1
-   }
-  ]
  },
  {
   "id": "góra#2",
@@ -4413,5 +4274,39 @@
   ],
   "aspect": "impf",
   "aspect_pair": "złamać"
+ },
+ {
+  "id": "bo~particle",
+  "front": "bo",
+  "lemma": "bo",
+  "back": "but",
+  "band": 2,
+  "kind": "function",
+  "register": "informal",
+  "alts": [
+   "though",
+   "sure"
+  ],
+  "definition": "emphasizes a concession: true enough, but...; repeated word + 'but'",
+  "examples": [
+   "Ładny, bo ładny, ale drogi."
+  ],
+  "examples_en": [
+   "Sure, it's nice, but it's expensive."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Particle",
+  "gender": "",
+  "zipf": 6.35,
+  "share": 4.0,
+  "hint": "concessive, 'sure but'",
+  "hint_context": "nice, but expensive",
+  "example_marks": [
+   {
+    "text": "bo",
+    "nth": 1
+   }
+  ]
  }
 ]

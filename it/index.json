@@ -7,27 +7,27 @@
   {
    "band": 1,
    "file": "band-01.json",
-   "count": 513
+   "count": 472
   },
   {
    "band": 2,
    "file": "band-02.json",
-   "count": 586
+   "count": 566
   },
   {
    "band": 3,
    "file": "band-03.json",
-   "count": 862
+   "count": 858
   },
   {
    "band": 4,
    "file": "band-04.json",
-   "count": 1471
+   "count": 1465
   },
   {
    "band": 5,
    "file": "band-05.json",
-   "count": 2104
+   "count": 2103
   },
   {
    "band": 6,
