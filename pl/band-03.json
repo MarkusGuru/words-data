@@ -135,6 +135,38 @@
   "aspect": "impf"
  },
  {
+  "id": "organy",
+  "front": "organy",
+  "lemma": "organy",
+  "back": "organ",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "the (pipe) organ; plural only",
+  "examples": [
+   "W kościele grają organy."
+  ],
+  "examples_en": [
+   "The organ is playing in the church."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "",
+  "zipf": 4.54,
+  "share": 98.0,
+  "hint": "instrument in church",
+  "hint_context": "play the organ",
+  "example_marks": [
+   {
+    "text": "organy",
+    "nth": 1
+   }
+  ],
+  "number": "pl"
+ },
+ {
   "id": "rachunek",
   "front": "rachunek",
   "lemma": "rachunek",
@@ -272,6 +304,108 @@
   ]
  },
  {
+  "id": "przepis#2",
+  "front": "przepis",
+  "lemma": "przepis",
+  "back": "regulation",
+  "band": 3,
+  "kind": "word",
+  "register": "formal",
+  "alts": [
+   "rule"
+  ],
+  "definition": "a rule, regulation ('przepisy')",
+  "examples": [
+   "Takie są przepisy."
+  ],
+  "examples_en": [
+   "Those are the rules."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.15,
+  "lemma_id": "przepis",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Takie są przepisy.",
+  "share": 23.0,
+  "hint": "official rules",
+  "hint_context": "traffic rules",
+  "example_marks": [
+   {
+    "text": "przepisy",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
+  "id": "dotykać",
+  "front": "dotykać",
+  "lemma": "dotykać",
+  "back": "touch",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to touch",
+  "examples": [
+   "Nie dotykaj, to gorące!"
+  ],
+  "examples_en": [
+   "Don't touch, it's hot!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.52,
+  "share": 98.0,
+  "hint": "with the hand",
+  "hint_context": "don't touch",
+  "example_marks": [
+   {
+    "text": "dotykaj",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "dotknąć"
+ },
+ {
+  "id": "kolorowy",
+  "front": "kolorowy",
+  "lemma": "kolorowy",
+  "back": "colorful",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "colorful",
+  "examples": [
+   "Na choince wiszą kolorowe bombki."
+  ],
+  "examples_en": [
+   "Colorful baubles hang on the tree."
+  ],
+  "claude": true,
+  "topic": "christmas",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 4.52,
+  "share": 98.0,
+  "hint": "many colors",
+  "hint_context": "colorful lights",
+  "example_marks": [
+   {
+    "text": "kolorowe",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "rano~noun",
   "front": "rano",
   "lemma": "rano",
@@ -365,6 +499,40 @@
     "nth": 1
    }
   ]
+ },
+ {
+  "id": "Mikołaj",
+  "front": "Mikołaj",
+  "lemma": "Mikołaj",
+  "back": "Santa Claus",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "St. Nicholas"
+  ],
+  "definition": "Santa Claus, St. Nicholas (also a first name)",
+  "examples": [
+   "Dzieci piszą listy do Mikołaja."
+  ],
+  "examples_en": [
+   "Children write letters to Santa."
+  ],
+  "claude": true,
+  "topic": "christmas",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.49,
+  "share": 98.0,
+  "hint": "brings presents",
+  "hint_context": "a letter to Santa",
+  "example_marks": [
+   {
+    "text": "Mikołaja",
+    "nth": 1
+   }
+  ],
+  "animacy": "pers"
  },
  {
   "id": "schody",
@@ -500,6 +668,41 @@
   "animacy": "inan"
  },
  {
+  "id": "włączać",
+  "front": "włączać",
+  "lemma": "włączać",
+  "back": "switch on",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "turn on"
+  ],
+  "definition": "to switch on",
+  "examples": [
+   "Włączam światło w kuchni."
+  ],
+  "examples_en": [
+   "I switch on the light in the kitchen."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.48,
+  "share": 98.0,
+  "hint": "a device",
+  "hint_context": "turn on the TV",
+  "example_marks": [
+   {
+    "text": "Włączam",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "włączyć"
+ },
+ {
   "id": "masło",
   "front": "masło",
   "lemma": "masło",
@@ -529,6 +732,74 @@
     "nth": 1
    }
   ]
+ },
+ {
+  "id": "nieść",
+  "front": "nieść",
+  "lemma": "nieść",
+  "back": "carry",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to carry (now, in one direction)",
+  "examples": [
+   "Max niesie walizki na górę."
+  ],
+  "examples_en": [
+   "Max is carrying the suitcases upstairs."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.47,
+  "share": 98.0,
+  "hint": "right now",
+  "hint_context": "carry a bag",
+  "example_marks": [
+   {
+    "text": "niesie",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "zanieść"
+ },
+ {
+  "id": "sprzedawca",
+  "front": "sprzedawca",
+  "lemma": "sprzedawca",
+  "back": "seller",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "salesman",
+   "shop assistant"
+  ],
+  "definition": "a seller, shop assistant",
+  "examples": [
+   "Sprzedawca pakuje prezent."
+  ],
+  "examples_en": [
+   "The shop assistant wraps the present."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.47,
+  "share": 98.0,
+  "hint": "in a shop",
+  "hint_context": "ask the seller",
+  "example_marks": [
+   {
+    "text": "Sprzedawca",
+    "nth": 1
+   }
+  ],
+  "animacy": "pers"
  },
  {
   "id": "szafa",
@@ -867,6 +1138,40 @@
   ]
  },
  {
+  "id": "święta",
+  "front": "święta",
+  "lemma": "święta",
+  "back": "Christmas",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "the holidays"
+  ],
+  "definition": "the (Christmas or Easter) holidays; plural only",
+  "examples": [
+   "Gdzie spędzasz święta?"
+  ],
+  "examples_en": [
+   "Where are you spending Christmas?"
+  ],
+  "claude": true,
+  "topic": "christmas",
+  "pos": "Noun",
+  "gender": "",
+  "zipf": 4.45,
+  "share": 98.0,
+  "hint": "the holidays",
+  "hint_context": "for Christmas",
+  "example_marks": [
+   {
+    "text": "święta",
+    "nth": 1
+   }
+  ],
+  "number": "pl"
+ },
+ {
   "id": "przyjeżdżać",
   "front": "przyjeżdżać",
   "lemma": "przyjeżdżać",
@@ -936,6 +1241,40 @@
   ],
   "aspect": "impf",
   "aspect_pair": "popłynąć"
+ },
+ {
+  "id": "łańcuch",
+  "front": "łańcuch",
+  "lemma": "łańcuch",
+  "back": "chain",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "garland"
+  ],
+  "definition": "a chain; on a Christmas tree: a garland",
+  "examples": [
+   "Dzieci robią łańcuch z papieru."
+  ],
+  "examples_en": [
+   "The children make a paper garland."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.44,
+  "share": 98.0,
+  "hint": "links, garland",
+  "hint_context": "a paper chain",
+  "example_marks": [
+   {
+    "text": "łańcuch",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
  },
  {
   "id": "para",
@@ -1039,6 +1378,39 @@
   "aspect_pair": "odetchnąć"
  },
  {
+  "id": "Wesołych Świąt",
+  "front": "Wesołych Świąt!",
+  "lemma": "Wesołych Świąt",
+  "back": "Merry Christmas!",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "Happy holidays!"
+  ],
+  "definition": "the usual Christmas greeting",
+  "examples": [
+   "Wesołych Świąt i szczęśliwego Nowego Roku!"
+  ],
+  "examples_en": [
+   "Merry Christmas and a happy New Year!"
+  ],
+  "claude": true,
+  "topic": "christmas",
+  "pos": "Expression",
+  "gender": "",
+  "zipf": 4.42,
+  "share": 98.0,
+  "hint": "greeting",
+  "hint_context": "say Merry Christmas",
+  "example_marks": [
+   {
+    "text": "Wesołych Świąt",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "czekolada",
   "front": "czekolada",
   "lemma": "czekolada",
@@ -1136,6 +1508,109 @@
   ]
  },
  {
+  "id": "worek",
+  "front": "worek",
+  "lemma": "worek",
+  "back": "sack",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a sack, a big bag",
+  "examples": [
+   "Mikołaj ma worek pełen prezentów."
+  ],
+  "examples_en": [
+   "Santa has a sack full of presents."
+  ],
+  "claude": true,
+  "topic": "christmas",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.41,
+  "share": 98.0,
+  "hint": "big bag",
+  "hint_context": "a sack of presents",
+  "example_marks": [
+   {
+    "text": "worek",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
+  "id": "stawiać#2",
+  "front": "stawiać",
+  "lemma": "stawiać",
+  "back": "treat",
+  "band": 3,
+  "kind": "word",
+  "register": "informal",
+  "alts": [
+   "buy a round"
+  ],
+  "definition": "to treat someone ('stawiam' = it's on me)",
+  "examples": [
+   "Dziś ja stawiam!"
+  ],
+  "examples_en": [
+   "Today it's on me!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.03,
+  "lemma_id": "stawiać",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Dziś ja stawiam!",
+  "share": 23.0,
+  "hint": "pay for others",
+  "hint_context": "it's my treat",
+  "example_marks": [
+   {
+    "text": "stawiam",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "postawić"
+ },
+ {
+  "id": "grzyb",
+  "front": "grzyb",
+  "lemma": "grzyb",
+  "back": "mushroom",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a mushroom",
+  "examples": [
+   "Jesienią zbieramy grzyby w lesie."
+  ],
+  "examples_en": [
+   "In the autumn we pick mushrooms in the forest."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.4,
+  "share": 98.0,
+  "hint": "in the forest",
+  "hint_context": "pick mushrooms",
+  "example_marks": [
+   {
+    "text": "grzyby",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
   "id": "szósty",
   "front": "szósty",
   "lemma": "szósty",
@@ -1224,6 +1699,37 @@
   "example_marks": [
    {
     "text": "jabłko",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "zmęczony",
+  "front": "zmęczony",
+  "lemma": "zmęczony",
+  "back": "tired",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "tired",
+  "examples": [
+   "Jestem bardzo zmęczona po podróży."
+  ],
+  "examples_en": [
+   "I'm very tired after the journey."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 4.38,
+  "share": 98.0,
+  "hint": "need rest",
+  "hint_context": "too tired",
+  "example_marks": [
+   {
+    "text": "zmęczona",
     "nth": 1
    }
   ]
@@ -1642,6 +2148,40 @@
   "aspect_pair": "przeprowadzić się"
  },
  {
+  "id": "życzenia",
+  "front": "życzenia",
+  "lemma": "życzenia",
+  "back": "wishes",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "greetings"
+  ],
+  "definition": "good wishes ('składać życzenia' = to wish someone well)",
+  "examples": [
+   "Składam ci najlepsze życzenia!"
+  ],
+  "examples_en": [
+   "I wish you all the best!"
+  ],
+  "claude": true,
+  "topic": "christmas",
+  "pos": "Noun",
+  "gender": "",
+  "zipf": 4.32,
+  "share": 98.0,
+  "hint": "good wishes",
+  "hint_context": "best wishes",
+  "example_marks": [
+   {
+    "text": "życzenia",
+    "nth": 1
+   }
+  ],
+  "number": "pl"
+ },
+ {
   "id": "kuchnia#2",
   "front": "kuchnia",
   "lemma": "kuchnia",
@@ -1975,6 +2515,41 @@
   "aspect_pair": "skoczyć"
  },
  {
+  "id": "surowy",
+  "front": "surowy",
+  "lemma": "surowy",
+  "back": "raw",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "raw, uncooked",
+  "examples": [
+   "Nie jedz surowego mięsa."
+  ],
+  "examples_en": [
+   "Don't eat raw meat."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 4.43,
+  "lemma_id": "surowy",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Nie jedz surowego mięsa.",
+  "share": 70.0,
+  "hint": "not cooked",
+  "hint_context": "raw dough",
+  "example_marks": [
+   {
+    "text": "surowego",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "para#2",
   "front": "para",
   "lemma": "para",
@@ -2010,6 +2585,41 @@
   ]
  },
  {
+  "id": "myć",
+  "front": "myć",
+  "lemma": "myć",
+  "back": "wash",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "clean"
+  ],
+  "definition": "to wash ('myć się' = to wash oneself)",
+  "examples": [
+   "Myję ręce przed obiadem."
+  ],
+  "examples_en": [
+   "I wash my hands before lunch."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.27,
+  "share": 98.0,
+  "hint": "with water",
+  "hint_context": "wash your hands",
+  "example_marks": [
+   {
+    "text": "Myję",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "umyć"
+ },
+ {
   "id": "pachnieć",
   "front": "pachnieć",
   "lemma": "pachnieć",
@@ -2040,6 +2650,39 @@
    }
   ],
   "aspect": "impf"
+ },
+ {
+  "id": "puszka",
+  "front": "puszka",
+  "lemma": "puszka",
+  "back": "tin",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "can"
+  ],
+  "definition": "a tin, can or metal box",
+  "examples": [
+   "Ciastka są w puszce na półce."
+  ],
+  "examples_en": [
+   "The cookies are in the tin on the shelf."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 4.27,
+  "share": 98.0,
+  "hint": "metal box",
+  "hint_context": "a cookie tin",
+  "example_marks": [
+   {
+    "text": "puszce",
+    "nth": 1
+   }
+  ]
  },
  {
   "id": "siódmy",
@@ -2130,6 +2773,38 @@
   "example_marks": [
    {
     "text": "kremem",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
+  "id": "miód",
+  "front": "miód",
+  "lemma": "miód",
+  "back": "honey",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "honey",
+  "examples": [
+   "Piję herbatę z miodem."
+  ],
+  "examples_en": [
+   "I drink tea with honey."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.26,
+  "share": 98.0,
+  "hint": "from bees",
+  "hint_context": "tea with honey",
+  "example_marks": [
+   {
+    "text": "miodem",
     "nth": 1
    }
   ],

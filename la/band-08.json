@@ -1,0 +1,1285 @@
+[
+ {
+  "id": "vincō",
+  "front": "vincō, vincere, vīcī, victum",
+  "lemma": "vincō",
+  "back": "conquer",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "win",
+   "defeat"
+  ],
+  "definition": "to conquer, defeat, win",
+  "examples": [
+   "Rōmānī hostēs vīcērunt."
+  ],
+  "examples_en": [
+   "The Romans defeated the enemies."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 2.42,
+  "share": 98.0,
+  "hint": "defeat",
+  "hint_context": "win a war",
+  "example_marks": [
+   {
+    "text": "vīcērunt",
+    "nth": 1
+   }
+  ],
+  "inflection": "3rd conj.",
+  "cognates": "it vincere · en victory, convince · pl —"
+ },
+ {
+  "id": "dīcō",
+  "front": "dīcō, dīcere, dīxī, dictum",
+  "lemma": "dīcō",
+  "back": "say",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "speak",
+   "utter"
+  ],
+  "definition": "to utter words; to speak or express in words",
+  "examples": [
+   "Nōn intellegō quid magister nunc dīcat."
+  ],
+  "examples_en": [
+   "I don't understand what the teacher is saying now."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 2.62,
+  "share": 55.0,
+  "hint": "utter words",
+  "hint_context": "say something aloud",
+  "example_marks": [
+   {
+    "text": "dīcat",
+    "nth": 1
+   }
+  ],
+  "inflection": "3"
+ },
+ {
+  "id": "mittō",
+  "front": "mittō, mittere, mīsī, missum",
+  "lemma": "mittō",
+  "back": "send",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "let go"
+  ],
+  "definition": "to send",
+  "examples": [
+   "Epistulam ad amīcum mittō."
+  ],
+  "examples_en": [
+   "I'm sending a letter to my friend."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 2.28,
+  "share": 98.0,
+  "hint": "dispatch",
+  "hint_context": "send a letter",
+  "example_marks": [
+   {
+    "text": "mittō",
+    "nth": 1
+   }
+  ],
+  "inflection": "3rd conj.",
+  "cognates": "it mettere, messa · en mission, transmit · pl misja"
+ },
+ {
+  "id": "stō",
+  "front": "stō, stāre, stetī, statum",
+  "lemma": "stō",
+  "back": "stand",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to stand",
+  "examples": [
+   "Puer ante iānuam stat."
+  ],
+  "examples_en": [
+   "The boy is standing in front of the door."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 2.21,
+  "share": 98.0,
+  "hint": "upright",
+  "hint_context": "stand still",
+  "example_marks": [
+   {
+    "text": "stat",
+    "nth": 1
+   }
+  ],
+  "inflection": "1st conj.",
+  "cognates": "it stare · en stable, station · pl stacja"
+ },
+ {
+  "id": "capiō",
+  "front": "capiō, capere, cēpī, captum",
+  "lemma": "capiō",
+  "back": "take",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "capture",
+   "seize"
+  ],
+  "definition": "to take, seize, capture",
+  "examples": [
+   "Mīlitēs urbem cēpērunt."
+  ],
+  "examples_en": [
+   "The soldiers captured the city."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 1.98,
+  "share": 98.0,
+  "hint": "seize",
+  "hint_context": "capture a city",
+  "example_marks": [
+   {
+    "text": "cēpērunt",
+    "nth": 1
+   }
+  ],
+  "inflection": "3rd conj. -iō",
+  "cognates": "it capire, catturare · en capture, captive · pl —"
+ },
+ {
+  "id": "pōnō",
+  "front": "pōnō, pōnere, posuī, positum",
+  "lemma": "pōnō",
+  "back": "put",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "place",
+   "set"
+  ],
+  "definition": "to put, place",
+  "examples": [
+   "Librum in mēnsā pōnō."
+  ],
+  "examples_en": [
+   "I put the book on the table."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 1.88,
+  "share": 98.0,
+  "hint": "set down",
+  "hint_context": "put it here",
+  "example_marks": [
+   {
+    "text": "pōnō",
+    "nth": 1
+   }
+  ],
+  "inflection": "3rd conj.",
+  "cognates": "it porre, posizione · en position, deposit · pl pozycja"
+ },
+ {
+  "id": "maneō",
+  "front": "maneō, manēre, mānsī, mānsum",
+  "lemma": "maneō",
+  "back": "stay",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "remain"
+  ],
+  "definition": "to stay, remain",
+  "examples": [
+   "Manē hīc, amīce!"
+  ],
+  "examples_en": [
+   "Stay here, friend!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 1.8,
+  "share": 98.0,
+  "hint": "not leave",
+  "hint_context": "stay here",
+  "example_marks": [
+   {
+    "text": "Manē",
+    "nth": 1
+   }
+  ],
+  "inflection": "2nd conj.",
+  "cognates": "it rimanere · en remain, mansion · pl —"
+ },
+ {
+  "id": "accipiō",
+  "front": "accipiō, accipere, accēpī, acceptum",
+  "lemma": "accipiō",
+  "back": "receive",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "accept",
+   "take"
+  ],
+  "definition": "to receive, accept",
+  "examples": [
+   "Epistulam tuam accēpī."
+  ],
+  "examples_en": [
+   "I received your letter."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 1.79,
+  "share": 98.0,
+  "hint": "get, accept",
+  "hint_context": "receive a gift",
+  "example_marks": [
+   {
+    "text": "accēpī",
+    "nth": 1
+   }
+  ],
+  "inflection": "3rd conj. -iō",
+  "cognates": "it accettare · en accept · pl akceptować"
+ },
+ {
+  "id": "dō",
+  "front": "dō, dare, dedī, datum",
+  "lemma": "dō",
+  "back": "give",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "hand over",
+   "offer"
+  ],
+  "definition": "to hand over or transfer something to someone",
+  "examples": [
+   "Magister discipulīs ōtium dedit."
+  ],
+  "examples_en": [
+   "The teacher gave the students some free time."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 1.96,
+  "share": 60.0,
+  "hint": "hand over, transfer",
+  "hint_context": "give a gift",
+  "example_marks": [
+   {
+    "text": "dedit",
+    "nth": 1
+   }
+  ],
+  "inflection": "irr"
+ },
+ {
+  "id": "veniō",
+  "front": "veniō, venīre, vēnī, ventum",
+  "lemma": "veniō",
+  "back": "come",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to come",
+  "examples": [
+   "Vēnī, vīdī, vīcī."
+  ],
+  "examples_en": [
+   "I came, I saw, I conquered."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 1.72,
+  "share": 98.0,
+  "hint": "move here",
+  "hint_context": "come to Rome",
+  "example_marks": [
+   {
+    "text": "Vēnī",
+    "nth": 1
+   }
+  ],
+  "inflection": "4th conj.",
+  "cognates": "it venire · en convene, event · pl —",
+  "source": "Suet. Iul. 37"
+ },
+ {
+  "id": "scrībō",
+  "front": "scrībō, scrībere, scrīpsī, scrīptum",
+  "lemma": "scrībō",
+  "back": "write",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to write",
+  "examples": [
+   "Mārcus epistulam ad patrem scrībit."
+  ],
+  "examples_en": [
+   "Marcus is writing a letter to his father."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 1.66,
+  "share": 98.0,
+  "hint": "with a pen",
+  "hint_context": "write a letter",
+  "example_marks": [
+   {
+    "text": "scrībit",
+    "nth": 1
+   }
+  ],
+  "inflection": "3rd conj.",
+  "cognates": "it scrivere · en scribe, script · pl skrypt"
+ },
+ {
+  "id": "faciō",
+  "front": "faciō, facere, fēcī, factum",
+  "lemma": "faciō",
+  "back": "make",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "build",
+   "produce"
+  ],
+  "definition": "to make, construct, build, or produce something",
+  "examples": [
+   "Agricola domum parvam facit in colle."
+  ],
+  "examples_en": [
+   "The farmer builds a small house on the hill."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 1.98,
+  "share": 40.0,
+  "hint": "build or produce",
+  "hint_context": "make a table",
+  "example_marks": [
+   {
+    "text": "facit",
+    "nth": 1
+   }
+  ],
+  "inflection": "3"
+ },
+ {
+  "id": "teneō",
+  "front": "teneō, tenēre, tenuī, tentum",
+  "lemma": "teneō",
+  "back": "hold",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "keep"
+  ],
+  "definition": "to hold, keep",
+  "examples": [
+   "Puella librum tenet."
+  ],
+  "examples_en": [
+   "The girl is holding a book."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 1.57,
+  "share": 98.0,
+  "hint": "in the hand",
+  "hint_context": "hold tight",
+  "example_marks": [
+   {
+    "text": "tenet",
+    "nth": 1
+   }
+  ],
+  "inflection": "2nd conj.",
+  "cognates": "it tenere · en tenant, retain · pl —"
+ },
+ {
+  "id": "legō",
+  "front": "legō, legere, lēgī, lēctum",
+  "lemma": "legō",
+  "back": "read",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "choose"
+  ],
+  "definition": "to read; (originally) to gather, choose",
+  "examples": [
+   "Librōs Cicerōnis legō."
+  ],
+  "examples_en": [
+   "I'm reading Cicero's books."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 1.56,
+  "share": 98.0,
+  "hint": "a text",
+  "hint_context": "read a book",
+  "example_marks": [
+   {
+    "text": "legō",
+    "nth": 1
+   }
+  ],
+  "inflection": "3rd conj.",
+  "cognates": "it leggere · en lecture, legible · pl lektura"
+ },
+ {
+  "id": "agō",
+  "front": "agō, agere, ēgī, āctum",
+  "lemma": "agō",
+  "back": "do",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "act"
+  ],
+  "definition": "to do, act ('Quid agis?' = how are you?)",
+  "examples": [
+   "Quid agis, amīce?"
+  ],
+  "examples_en": [
+   "How are you doing, my friend?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 1.53,
+  "share": 60.0,
+  "hint": "act, be doing",
+  "hint_context": "what are you doing",
+  "example_marks": [
+   {
+    "text": "agis",
+    "nth": 1
+   }
+  ],
+  "inflection": "3rd conj.",
+  "cognates": "it agire · en act, agent · pl agent"
+ },
+ {
+  "id": "tōtus",
+  "front": "tōtus, tōta, tōtum",
+  "lemma": "tōtus",
+  "back": "whole",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "entire",
+   "all"
+  ],
+  "definition": "whole, entire (gen. tōtīus)",
+  "examples": [
+   "Tōtam noctem dormīvī."
+  ],
+  "examples_en": [
+   "I slept the whole night."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 1.29,
+  "share": 98.0,
+  "hint": "entire",
+  "hint_context": "the whole day",
+  "example_marks": [
+   {
+    "text": "Tōtam",
+    "nth": 1
+   }
+  ],
+  "inflection": "adjective",
+  "cognates": "it tutto · en total · pl totalny"
+ },
+ {
+  "id": "dēbeō",
+  "front": "dēbeō, dēbēre, dēbuī, dēbitum",
+  "lemma": "dēbeō",
+  "back": "must",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "ought",
+   "should"
+  ],
+  "definition": "to have to, ought (+ infinitive)",
+  "examples": [
+   "Omnēs discere dēbēmus."
+  ],
+  "examples_en": [
+   "We all have to learn."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 1.36,
+  "share": 70.0,
+  "hint": "obligation",
+  "hint_context": "you should",
+  "example_marks": [
+   {
+    "text": "dēbēmus",
+    "nth": 1
+   }
+  ],
+  "inflection": "2nd conj.",
+  "cognates": "it dovere, debito · en debt, debit · pl debet"
+ },
+ {
+  "id": "audiō",
+  "front": "audiō, audīre, audīvī, audītum",
+  "lemma": "audiō",
+  "back": "hear",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "listen"
+  ],
+  "definition": "to hear, listen",
+  "examples": [
+   "Vōcem tuam audiō."
+  ],
+  "examples_en": [
+   "I hear your voice."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 1.16,
+  "share": 98.0,
+  "hint": "with the ears",
+  "hint_context": "I hear you",
+  "example_marks": [
+   {
+    "text": "audiō",
+    "nth": 1
+   }
+  ],
+  "inflection": "4th conj.",
+  "cognates": "it udire · en audio, audience · pl audycja"
+ },
+ {
+  "id": "timeō",
+  "front": "timeō, timēre, timuī",
+  "lemma": "timeō",
+  "back": "fear",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "be afraid of"
+  ],
+  "definition": "to fear, be afraid of",
+  "examples": [
+   "Timeō Danaōs et dōna ferentēs."
+  ],
+  "examples_en": [
+   "I fear the Greeks, even bearing gifts."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 1.14,
+  "share": 98.0,
+  "hint": "be afraid",
+  "hint_context": "fear the enemy",
+  "example_marks": [
+   {
+    "text": "Timeō",
+    "nth": 1
+   }
+  ],
+  "inflection": "2nd conj.",
+  "cognates": "it temere · en timid · pl —",
+  "source": "Verg. Aen. 2.49"
+ },
+ {
+  "id": "fīlius",
+  "front": "fīlius, fīliī",
+  "lemma": "fīlius",
+  "back": "son",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a son",
+  "examples": [
+   "Fīlius rēgis aeger est."
+  ],
+  "examples_en": [
+   "The king's son is sick."
+  ],
+  "claude": true,
+  "topic": "family",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 1.11,
+  "share": 98.0,
+  "hint": "male child",
+  "hint_context": "father and son",
+  "example_marks": [
+   {
+    "text": "Fīlius",
+    "nth": 1
+   }
+  ],
+  "inflection": "2nd decl.",
+  "cognates": "it figlio · en filial · pl —"
+ },
+ {
+  "id": "videō",
+  "front": "videō, vidēre, vīdī, vīsum",
+  "lemma": "videō",
+  "back": "see",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "look at",
+   "notice"
+  ],
+  "definition": "to perceive with the eyes; to look at or notice",
+  "examples": [
+   "Puer lupum in silvā videt."
+  ],
+  "examples_en": [
+   "The boy sees a wolf in the forest."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 1.27,
+  "share": 52.0,
+  "hint": "perceive with eyes",
+  "hint_context": "see a wolf",
+  "example_marks": [
+   {
+    "text": "videt",
+    "nth": 1
+   }
+  ],
+  "inflection": "2"
+ },
+ {
+  "id": "petō",
+  "front": "petō, petere, petīvī, petītum",
+  "lemma": "petō",
+  "back": "ask for",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "seek",
+   "request"
+  ],
+  "definition": "to ask for, seek",
+  "examples": [
+   "Auxilium ā dīs petō."
+  ],
+  "examples_en": [
+   "I ask the gods for help."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 1.19,
+  "share": 55.0,
+  "hint": "request",
+  "hint_context": "ask for help",
+  "example_marks": [
+   {
+    "text": "petō",
+    "nth": 1
+   }
+  ],
+  "inflection": "3rd conj.",
+  "cognates": "it petizione · en petition, compete · pl petycja"
+ },
+ {
+  "id": "intellegō",
+  "front": "intellegō, intellegere, intellēxī, intellēctum",
+  "lemma": "intellegō",
+  "back": "understand",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "realize"
+  ],
+  "definition": "to understand, realize",
+  "examples": [
+   "Nunc intellegō, quid dīcās."
+  ],
+  "examples_en": [
+   "Now I understand what you mean."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 0.91,
+  "share": 98.0,
+  "hint": "comprehend, realize",
+  "hint_context": "I understand",
+  "example_marks": [
+   {
+    "text": "intellegō",
+    "nth": 1
+   }
+  ],
+  "inflection": "3rd conj.",
+  "cognates": "it intelligenza · en intelligent · pl inteligencja"
+ },
+ {
+  "id": "quaerō",
+  "front": "quaerō, quaerere, quaesīvī, quaesītum",
+  "lemma": "quaerō",
+  "back": "look for",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "seek"
+  ],
+  "definition": "to look for, seek",
+  "examples": [
+   "Puer canem suum quaerit."
+  ],
+  "examples_en": [
+   "The boy is looking for his dog."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 1.03,
+  "share": 65.0,
+  "hint": "try to find",
+  "hint_context": "look for a friend",
+  "example_marks": [
+   {
+    "text": "quaerit",
+    "nth": 1
+   }
+  ],
+  "inflection": "3rd conj.",
+  "cognates": "it chiedere · en query, question · pl kwestia"
+ },
+ {
+  "id": "mīles",
+  "front": "mīles, mīlitis",
+  "lemma": "mīles",
+  "back": "soldier",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a soldier",
+  "examples": [
+   "Mīles in castrīs manet."
+  ],
+  "examples_en": [
+   "The soldier stays in the camp."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 0.82,
+  "share": 98.0,
+  "hint": "in the army",
+  "hint_context": "a brave soldier",
+  "example_marks": [
+   {
+    "text": "Mīles",
+    "nth": 1
+   }
+  ],
+  "inflection": "3rd decl.",
+  "cognates": "it militare · en military · pl militarny"
+ },
+ {
+  "id": "lēx",
+  "front": "lēx, lēgis",
+  "lemma": "lēx",
+  "back": "law",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a law",
+  "examples": [
+   "Lēgēs urbis bonae sunt."
+  ],
+  "examples_en": [
+   "The city's laws are good."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 0.81,
+  "share": 98.0,
+  "hint": "rule of the state",
+  "hint_context": "by law",
+  "example_marks": [
+   {
+    "text": "Lēgēs",
+    "nth": 1
+   }
+  ],
+  "inflection": "3rd decl.",
+  "cognates": "it legge · en legal · pl legalny"
+ },
+ {
+  "id": "ūnus",
+  "front": "ūnus, ūna, ūnum",
+  "lemma": "ūnus",
+  "back": "one",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "one (gen. ūnīus)",
+  "examples": [
+   "Ūnus et ūnus duo sunt."
+  ],
+  "examples_en": [
+   "One and one are two."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Numeral",
+  "gender": "",
+  "zipf": 0.77,
+  "share": 98.0,
+  "hint": "number 1",
+  "hint_context": "one day",
+  "example_marks": [
+   {
+    "text": "Ūnus",
+    "nth": 1
+   }
+  ],
+  "inflection": "numeral",
+  "cognates": "it uno · en unit, unique · pl unia"
+ },
+ {
+  "id": "cīvis",
+  "front": "cīvis, cīvis",
+  "lemma": "cīvis",
+  "back": "citizen",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a citizen",
+  "examples": [
+   "Cīvis Rōmānus sum."
+  ],
+  "examples_en": [
+   "I am a Roman citizen."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "c",
+  "zipf": 0.6,
+  "share": 98.0,
+  "hint": "member of a state",
+  "hint_context": "a Roman citizen",
+  "example_marks": [
+   {
+    "text": "Cīvis",
+    "nth": 1
+   }
+  ],
+  "inflection": "3rd decl.",
+  "cognates": "it civile, cittadino · en civil, civic · pl cywilny",
+  "source": "Cic. Verr. 2.5.162"
+ },
+ {
+  "id": "mēns",
+  "front": "mēns, mentis",
+  "lemma": "mēns",
+  "back": "mind",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "intellect"
+  ],
+  "definition": "the mind, reason",
+  "examples": [
+   "Mēns mea tranquilla est."
+  ],
+  "examples_en": [
+   "My mind is calm."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 0.58,
+  "share": 98.0,
+  "hint": "thinking",
+  "hint_context": "a sound mind",
+  "example_marks": [
+   {
+    "text": "Mēns",
+    "nth": 1
+   }
+  ],
+  "inflection": "3rd decl.",
+  "cognates": "it mente · en mental · pl mentalny"
+ },
+ {
+  "id": "frāter",
+  "front": "frāter, frātris",
+  "lemma": "frāter",
+  "back": "brother",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a brother",
+  "examples": [
+   "Frāter meus Rōmae habitat."
+  ],
+  "examples_en": [
+   "My brother lives in Rome."
+  ],
+  "claude": true,
+  "topic": "family",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 0.54,
+  "share": 98.0,
+  "hint": "male sibling",
+  "hint_context": "my brother",
+  "example_marks": [
+   {
+    "text": "Frāter",
+    "nth": 1
+   }
+  ],
+  "inflection": "3rd decl.",
+  "cognates": "it fratello, frate · en fraternal · pl —"
+ },
+ {
+  "id": "māter",
+  "front": "māter, mātris",
+  "lemma": "māter",
+  "back": "mother",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a mother",
+  "examples": [
+   "Māter fīliam suam amat."
+  ],
+  "examples_en": [
+   "The mother loves her daughter."
+  ],
+  "claude": true,
+  "topic": "family",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 0.53,
+  "share": 98.0,
+  "hint": "parent, woman",
+  "hint_context": "mother and child",
+  "example_marks": [
+   {
+    "text": "Māter",
+    "nth": 1
+   }
+  ],
+  "inflection": "3rd decl.",
+  "cognates": "it madre · en maternal, matrix · pl matka"
+ },
+ {
+  "id": "lūx",
+  "front": "lūx, lūcis",
+  "lemma": "lūx",
+  "back": "light",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "daylight"
+  ],
+  "definition": "light; daylight",
+  "examples": [
+   "Lūx in tenebrīs lūcet."
+  ],
+  "examples_en": [
+   "The light shines in the darkness."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 0.49,
+  "share": 98.0,
+  "hint": "brightness",
+  "hint_context": "first light",
+  "example_marks": [
+   {
+    "text": "Lūx",
+    "nth": 1
+   }
+  ],
+  "inflection": "3rd decl.",
+  "cognates": "it luce · en lucid · pl —",
+  "source": "Vulg. Ioh. 1.5"
+ },
+ {
+  "id": "diēs",
+  "front": "diēs, diēī",
+  "lemma": "diēs",
+  "back": "day",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a day",
+  "examples": [
+   "Multōs diēs in urbe manēbāmus."
+  ],
+  "examples_en": [
+   "We stayed in the city for many days."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 0.43,
+  "share": 98.0,
+  "hint": "24 hours",
+  "hint_context": "every day",
+  "example_marks": [
+   {
+    "text": "diēs",
+    "nth": 1
+   }
+  ],
+  "inflection": "5th decl.",
+  "cognates": "it dì, diario · en diary, diurnal · pl —"
+ },
+ {
+  "id": "trēs",
+  "front": "trēs, tria",
+  "lemma": "trēs",
+  "back": "three",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "three",
+  "examples": [
+   "Gallia est omnis dīvīsa in partēs trēs."
+  ],
+  "examples_en": [
+   "All Gaul is divided into three parts."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Numeral",
+  "gender": "",
+  "zipf": 0.21,
+  "share": 98.0,
+  "hint": "number 3",
+  "hint_context": "three parts",
+  "example_marks": [
+   {
+    "text": "trēs",
+    "nth": 1
+   }
+  ],
+  "inflection": "numeral",
+  "cognates": "it tre · en trio, triple · pl trio",
+  "source": "Caes. Gall. 1.1"
+ },
+ {
+  "id": "virtūs",
+  "front": "virtūs, virtūtis",
+  "lemma": "virtūs",
+  "back": "courage",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "valor"
+  ],
+  "definition": "courage, manliness",
+  "examples": [
+   "Virtūs mīlitum magna erat."
+  ],
+  "examples_en": [
+   "The soldiers' courage was great."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 0.42,
+  "share": 55.0,
+  "hint": "valor in battle",
+  "hint_context": "great courage",
+  "example_marks": [
+   {
+    "text": "Virtūs",
+    "nth": 1
+   }
+  ],
+  "inflection": "3rd decl.",
+  "cognates": "it virtù · en virtue · pl —"
+ },
+ {
+  "id": "rēs",
+  "front": "rēs, reī",
+  "lemma": "rēs",
+  "back": "thing",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "object",
+   "item"
+  ],
+  "definition": "a material object or item; anything that exists",
+  "examples": [
+   "Haec rēs mihi valdē placet."
+  ],
+  "examples_en": [
+   "I really like this thing."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 0.46,
+  "share": 28.0,
+  "hint": "physical object",
+  "hint_context": "a useful thing",
+  "example_marks": [
+   {
+    "text": "rēs",
+    "nth": 1
+   }
+  ],
+  "inflection": "5"
+ },
+ {
+  "id": "homō",
+  "front": "homō, hominis",
+  "lemma": "homō",
+  "back": "human",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "person",
+   "human being"
+  ],
+  "definition": "human being; person; (pl.) people, mankind",
+  "examples": [
+   "Hominēs, dum docent, discunt."
+  ],
+  "examples_en": [
+   "People, while teaching, learn."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": -0.15,
+  "share": 65.0,
+  "hint": "person, human being",
+  "hint_context": "people in general",
+  "example_marks": [
+   {
+    "text": "Hominēs",
+    "nth": 1
+   }
+  ],
+  "inflection": "3"
+ }
+]

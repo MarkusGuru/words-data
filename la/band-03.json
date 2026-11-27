@@ -1,0 +1,37 @@
+[
+ {
+  "id": "dūcō",
+  "front": "dūcō, dūcere, dūxī, ductum",
+  "lemma": "dūcō",
+  "back": "lead",
+  "band": 3,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "guide"
+  ],
+  "definition": "to lead, guide",
+  "examples": [
+   "Dux exercitum dūcit."
+  ],
+  "examples_en": [
+   "The general leads the army."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.29,
+  "share": 98.0,
+  "hint": "guide, command",
+  "hint_context": "lead the way",
+  "example_marks": [
+   {
+    "text": "dūcit",
+    "nth": 1
+   }
+  ],
+  "inflection": "3rd conj.",
+  "cognates": "it condurre · en duct, produce · pl —"
+ }
+]

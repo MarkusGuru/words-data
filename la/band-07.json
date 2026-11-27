@@ -1,0 +1,38 @@
+[
+ {
+  "id": "putō",
+  "front": "putō, putāre, putāvī, putātum",
+  "lemma": "putō",
+  "back": "think",
+  "band": 7,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "believe",
+   "suppose"
+  ],
+  "definition": "to think, believe",
+  "examples": [
+   "Putō tē errāre."
+  ],
+  "examples_en": [
+   "I think you are wrong."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 3.25,
+  "share": 98.0,
+  "hint": "believe, suppose",
+  "hint_context": "I think so",
+  "example_marks": [
+   {
+    "text": "Putō",
+    "nth": 1
+   }
+  ],
+  "inflection": "1st conj.",
+  "cognates": "it reputare · en compute, reputation · pl —"
+ }
+]

@@ -137,6 +137,39 @@
   "number": "pl"
  },
  {
+  "id": "poduszka",
+  "front": "poduszka",
+  "lemma": "poduszka",
+  "back": "pillow",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "cushion"
+  ],
+  "definition": "a pillow or cushion",
+  "examples": [
+   "Kot śpi na mojej poduszce."
+  ],
+  "examples_en": [
+   "The cat is sleeping on my pillow."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 4.22,
+  "share": 98.0,
+  "hint": "in bed, on the sofa",
+  "hint_context": "a soft pillow",
+  "example_marks": [
+   {
+    "text": "poduszce",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "winda",
   "front": "winda",
   "lemma": "winda",
@@ -240,6 +273,40 @@
     "nth": 1
    }
   ]
+ },
+ {
+  "id": "piec~noun",
+  "front": "piec",
+  "lemma": "piec",
+  "back": "stove",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "furnace"
+  ],
+  "definition": "a stove, an oven (for heating)",
+  "examples": [
+   "Stary piec grzeje cały dom."
+  ],
+  "examples_en": [
+   "The old stove heats the whole house."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.75,
+  "share": 28.0,
+  "hint": "for heating",
+  "hint_context": "a tiled stove",
+  "example_marks": [
+   {
+    "text": "piec",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
  },
  {
   "id": "lekki#2",
@@ -382,6 +449,41 @@
   "aspect_pair": "uśmiechnąć się"
  },
  {
+  "id": "chować",
+  "front": "chować",
+  "lemma": "chować",
+  "back": "hide",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "put away"
+  ],
+  "definition": "to hide; to put away",
+  "examples": [
+   "Mama chowa prezenty w szafie."
+  ],
+  "examples_en": [
+   "Mum hides the presents in the wardrobe."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.18,
+  "share": 98.0,
+  "hint": "out of sight",
+  "hint_context": "hide the presents",
+  "example_marks": [
+   {
+    "text": "chowa",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "schować"
+ },
+ {
   "id": "siadać",
   "front": "siadać",
   "lemma": "siadać",
@@ -519,6 +621,40 @@
   "animacy": "inan"
  },
  {
+  "id": "słodycze",
+  "front": "słodycze",
+  "lemma": "słodycze",
+  "back": "sweets",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "candy"
+  ],
+  "definition": "sweets, candy (plural only)",
+  "examples": [
+   "Za dużo słodyczy nie jest zdrowe."
+  ],
+  "examples_en": [
+   "Too many sweets aren't healthy."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "",
+  "zipf": 4.15,
+  "share": 98.0,
+  "hint": "candy",
+  "hint_context": "a bag of sweets",
+  "example_marks": [
+   {
+    "text": "słodyczy",
+    "nth": 1
+   }
+  ],
+  "number": "pl"
+ },
+ {
   "id": "walizka",
   "front": "walizka",
   "lemma": "walizka",
@@ -583,6 +719,70 @@
   "example_marks": [
    {
     "text": "schronisku",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "choinka",
+  "front": "choinka",
+  "lemma": "choinka",
+  "back": "Christmas tree",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a Christmas tree",
+  "examples": [
+   "Kupujemy choinkę na targu."
+  ],
+  "examples_en": [
+   "We buy a Christmas tree at the market."
+  ],
+  "claude": true,
+  "topic": "christmas",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 4.13,
+  "share": 98.0,
+  "hint": "decorated tree",
+  "hint_context": "decorate the tree",
+  "example_marks": [
+   {
+    "text": "choinkę",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "delikatnie",
+  "front": "delikatnie",
+  "lemma": "delikatnie",
+  "back": "gently",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "delicately"
+  ],
+  "definition": "gently, carefully",
+  "examples": [
+   "Delikatnie wieszamy szklane bombki."
+  ],
+  "examples_en": [
+   "We hang the glass baubles gently."
+  ],
+  "claude": true,
+  "topic": "christmas",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 4.13,
+  "share": 98.0,
+  "hint": "with care",
+  "hint_context": "gently",
+  "example_marks": [
+   {
+    "text": "Delikatnie",
     "nth": 1
    }
   ]
@@ -752,6 +952,39 @@
   "aspect_pair": "odpocząć"
  },
  {
+  "id": "gwiazdka",
+  "front": "gwiazdka",
+  "lemma": "gwiazdka",
+  "back": "first star",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "little star"
+  ],
+  "definition": "a little star; on Christmas Eve the first star in the sky",
+  "examples": [
+   "Dzieci czekają na pierwszą gwiazdkę."
+  ],
+  "examples_en": [
+   "The children are waiting for the first star."
+  ],
+  "claude": true,
+  "topic": "christmas",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 4.09,
+  "share": 98.0,
+  "hint": "Christmas Eve sky",
+  "hint_context": "the first star",
+  "example_marks": [
+   {
+    "text": "gwiazdkę",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "krzywy",
   "front": "krzywy",
   "lemma": "krzywy",
@@ -816,6 +1049,71 @@
     "nth": 1
    }
   ]
+ },
+ {
+  "id": "niesprawiedliwy",
+  "front": "niesprawiedliwy",
+  "lemma": "niesprawiedliwy",
+  "back": "unfair",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "unjust"
+  ],
+  "definition": "unfair, unjust",
+  "examples": [
+   "To jest niesprawiedliwe!"
+  ],
+  "examples_en": [
+   "That's not fair!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 4.07,
+  "share": 98.0,
+  "hint": "not fair",
+  "hint_context": "that's unfair",
+  "example_marks": [
+   {
+    "text": "niesprawiedliwe",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "sufit",
+  "front": "sufit",
+  "lemma": "sufit",
+  "back": "ceiling",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "the ceiling",
+  "examples": [
+   "Lampa wisi pod sufitem."
+  ],
+  "examples_en": [
+   "The lamp hangs from the ceiling."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.07,
+  "share": 98.0,
+  "hint": "top of a room",
+  "hint_context": "a high ceiling",
+  "example_marks": [
+   {
+    "text": "sufitem",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
  },
  {
   "id": "wolno#2",
@@ -955,6 +1253,45 @@
   ]
  },
  {
+  "id": "ubierać",
+  "front": "ubierać",
+  "lemma": "ubierać",
+  "back": "decorate",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "trim"
+  ],
+  "definition": "to decorate (a Christmas tree: 'ubierać choinkę')",
+  "examples": [
+   "Kiedy ubieracie choinkę?"
+  ],
+  "examples_en": [
+   "When do you decorate the tree?"
+  ],
+  "claude": true,
+  "topic": "christmas",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.26,
+  "lemma_id": "ubierać",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Kiedy ubieracie choinkę?",
+  "share": 60.0,
+  "hint": "the Christmas tree",
+  "hint_context": "decorate the tree",
+  "example_marks": [
+   {
+    "text": "ubieracie",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "ubrać"
+ },
+ {
   "id": "grill",
   "front": "grill",
   "lemma": "grill",
@@ -1055,6 +1392,37 @@
   "animacy": "inan"
  },
  {
+  "id": "potrawa",
+  "front": "potrawa",
+  "lemma": "potrawa",
+  "back": "dish",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a dish, a prepared meal",
+  "examples": [
+   "Na Wigilię jest dwanaście potraw."
+  ],
+  "examples_en": [
+   "On Christmas Eve there are twelve dishes."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 4.03,
+  "share": 98.0,
+  "hint": "prepared food",
+  "hint_context": "a traditional dish",
+  "example_marks": [
+   {
+    "text": "potraw",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "rachunek#2",
   "front": "rachunek",
   "lemma": "rachunek",
@@ -1091,6 +1459,37 @@
    }
   ],
   "animacy": "inan"
+ },
+ {
+  "id": "niespodziewany",
+  "front": "niespodziewany",
+  "lemma": "niespodziewany",
+  "back": "unexpected",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "unexpected",
+  "examples": [
+   "Mamy niespodziewanego gościa!"
+  ],
+  "examples_en": [
+   "We have an unexpected guest!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 4.02,
+  "share": 98.0,
+  "hint": "surprise",
+  "hint_context": "an unexpected visit",
+  "example_marks": [
+   {
+    "text": "niespodziewanego",
+    "nth": 1
+   }
+  ]
  },
  {
   "id": "kochanie",
@@ -1158,6 +1557,70 @@
   ]
  },
  {
+  "id": "czekoladowy",
+  "front": "czekoladowy",
+  "lemma": "czekoladowy",
+  "back": "chocolate",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "made of chocolate (adjective)",
+  "examples": [
+   "Na Mikołajki dostałem czekoladowego Mikołaja."
+  ],
+  "examples_en": [
+   "For St. Nicholas Day I got a chocolate Santa."
+  ],
+  "claude": true,
+  "topic": "christmas",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 3.96,
+  "share": 98.0,
+  "hint": "adjective: made of",
+  "hint_context": "a chocolate Santa",
+  "example_marks": [
+   {
+    "text": "czekoladowego",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "wycinać",
+  "front": "wycinać",
+  "lemma": "wycinać",
+  "back": "cut out",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to cut out (shapes from paper or dough)",
+  "examples": [
+   "Dzieci wycinają gwiazdki z papieru."
+  ],
+  "examples_en": [
+   "The children cut stars out of paper."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 3.95,
+  "share": 98.0,
+  "hint": "shapes",
+  "hint_context": "cut out stars",
+  "example_marks": [
+   {
+    "text": "wycinają",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "wyciąć"
+ },
+ {
   "id": "cukierek",
   "front": "cukierek",
   "lemma": "cukierek",
@@ -1221,6 +1684,40 @@
     "nth": 1
    }
   ]
+ },
+ {
+  "id": "mróz",
+  "front": "mróz",
+  "lemma": "mróz",
+  "back": "frost",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "freezing cold"
+  ],
+  "definition": "frost, freezing weather",
+  "examples": [
+   "Dzisiaj jest dziesięć stopni mrozu."
+  ],
+  "examples_en": [
+   "It's ten degrees below zero today."
+  ],
+  "claude": true,
+  "topic": "christmas",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 3.93,
+  "share": 98.0,
+  "hint": "below zero",
+  "hint_context": "a hard frost",
+  "example_marks": [
+   {
+    "text": "mrozu",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
  },
  {
   "id": "stolik",
@@ -1291,5 +1788,38 @@
   ],
   "aspect": "impf",
   "aspect_pair": "wsiąść"
+ },
+ {
+  "id": "przyprawa",
+  "front": "przyprawa",
+  "lemma": "przyprawa",
+  "back": "spice",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "seasoning"
+  ],
+  "definition": "a spice or seasoning",
+  "examples": [
+   "Do pierników potrzebujesz dużo przypraw."
+  ],
+  "examples_en": [
+   "For gingerbread you need lots of spices."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 3.92,
+  "share": 98.0,
+  "hint": "for flavor",
+  "hint_context": "spices",
+  "example_marks": [
+   {
+    "text": "przypraw",
+    "nth": 1
+   }
+  ]
  }
 ]

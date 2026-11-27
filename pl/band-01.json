@@ -71,6 +71,38 @@
   "aspect": "impf"
  },
  {
+  "id": "rok",
+  "front": "rok",
+  "lemma": "rok",
+  "back": "year",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a year (plural 'lata', after numbers 'lat')",
+  "examples": [
+   "W przyszłym roku jedziemy do Polski."
+  ],
+  "examples_en": [
+   "Next year we're going to Poland."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 6.58,
+  "share": 98.0,
+  "hint": "12 months",
+  "hint_context": "next year",
+  "example_marks": [
+   {
+    "text": "roku",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
   "id": "jak",
   "front": "jak",
   "lemma": "jak",
@@ -169,44 +201,6 @@
    }
   ],
   "aspect": "impf"
- },
- {
-  "id": "rok",
-  "front": "rok",
-  "lemma": "rok",
-  "back": "year",
-  "band": 1,
-  "kind": "word",
-  "register": "neutral",
-  "alts": [
-   "twelve months"
-  ],
-  "definition": "period of twelve months, a calendar or solar year",
-  "examples": [
-   "Ten rok był dla nas bardzo trudny."
-  ],
-  "examples_en": [
-   "That year was very hard for us."
-  ],
-  "claude": true,
-  "topic": "time",
-  "pos": "Noun",
-  "gender": "m",
-  "zipf": 6.58,
-  "lemma_id": "rok",
-  "sense_index": 1,
-  "sense_count": 4,
-  "cue": "Ten rok był dla nas bardzo trudny.",
-  "share": 60.0,
-  "hint": "calendar year",
-  "hint_context": "every year",
-  "example_marks": [
-   {
-    "text": "rok",
-    "nth": 1
-   }
-  ],
-  "animacy": "inan"
  },
  {
   "id": "móc",
@@ -1605,6 +1599,39 @@
   ]
  },
  {
+  "id": "ostatni",
+  "front": "ostatni",
+  "lemma": "ostatni",
+  "back": "last",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "final"
+  ],
+  "definition": "last, final",
+  "examples": [
+   "To jest ostatni kawałek ciasta."
+  ],
+  "examples_en": [
+   "This is the last piece of cake."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 5.91,
+  "share": 98.0,
+  "hint": "final one",
+  "hint_context": "the last piece",
+  "example_marks": [
+   {
+    "text": "ostatni",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "problem",
   "front": "problem",
   "lemma": "problem",
@@ -1708,44 +1735,6 @@
     "nth": 1
    }
   ]
- },
- {
-  "id": "rok#3",
-  "front": "rok",
-  "lemma": "rok",
-  "back": "years old",
-  "band": 1,
-  "kind": "word",
-  "register": "neutral",
-  "alts": [
-   "age"
-  ],
-  "definition": "age of a person or thing, counted in years (plural lata/lat)",
-  "examples": [
-   "Mój syn ma pięć lat."
-  ],
-  "examples_en": [
-   "My son is five years old."
-  ],
-  "claude": true,
-  "topic": "time",
-  "pos": "Noun",
-  "gender": "m",
-  "zipf": 6.58,
-  "lemma_id": "rok",
-  "sense_index": 3,
-  "sense_count": 4,
-  "cue": "Mój syn ma pięć lat.",
-  "share": 20.0,
-  "hint": "age in years",
-  "hint_context": "he is five",
-  "example_marks": [
-   {
-    "text": "lat",
-    "nth": 1
-   }
-  ],
-  "animacy": "inan"
  },
  {
   "id": "rzecz",
@@ -2653,44 +2642,6 @@
     "nth": 1
    }
   ]
- },
- {
-  "id": "rok#2",
-  "front": "rok",
-  "lemma": "rok",
-  "back": "year",
-  "band": 1,
-  "kind": "word",
-  "register": "neutral",
-  "alts": [
-   "academic year"
-  ],
-  "definition": "year of study at a school or university",
-  "examples": [
-   "Na drugim roku studiów mam już mniej zajęć."
-  ],
-  "examples_en": [
-   "In my second year of college I have fewer classes now."
-  ],
-  "claude": true,
-  "topic": "education",
-  "pos": "Noun",
-  "gender": "m",
-  "zipf": 6.58,
-  "lemma_id": "rok",
-  "sense_index": 2,
-  "sense_count": 4,
-  "cue": "Na drugim roku studiów mam już mniej zajęć.",
-  "share": 15.0,
-  "hint": "school or college year",
-  "hint_context": "first year of university",
-  "example_marks": [
-   {
-    "text": "roku",
-    "nth": 1
-   }
-  ],
-  "animacy": "inan"
  },
  {
   "id": "strona",
@@ -3792,6 +3743,38 @@
   ]
  },
  {
+  "id": "tydzień",
+  "front": "tydzień",
+  "lemma": "tydzień",
+  "back": "week",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a week",
+  "examples": [
+   "Za tydzień są święta."
+  ],
+  "examples_en": [
+   "Christmas is in a week."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.64,
+  "share": 98.0,
+  "hint": "seven days",
+  "hint_context": "next week",
+  "example_marks": [
+   {
+    "text": "tydzień",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
   "id": "dawać",
   "front": "dawać",
   "lemma": "dawać",
@@ -4610,6 +4593,39 @@
   "aspect_pair": "zapamiętać"
  },
  {
+  "id": "prawdziwy",
+  "front": "prawdziwy",
+  "lemma": "prawdziwy",
+  "back": "real",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "true"
+  ],
+  "definition": "real, true, genuine",
+  "examples": [
+   "To jest prawdziwa choinka, nie sztuczna."
+  ],
+  "examples_en": [
+   "It's a real tree, not an artificial one."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 5.57,
+  "share": 98.0,
+  "hint": "genuine",
+  "hint_context": "a true friend",
+  "example_marks": [
+   {
+    "text": "prawdziwa",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "szybko",
   "front": "szybko",
   "lemma": "szybko",
@@ -4975,6 +4991,39 @@
   "aspect_pair": "spróbować"
  },
  {
+  "id": "wierzyć",
+  "front": "wierzyć",
+  "lemma": "wierzyć",
+  "back": "believe",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to believe (someone: dative; in something: 'w' + acc.)",
+  "examples": [
+   "Nie wierzę ci!"
+  ],
+  "examples_en": [
+   "I don't believe you!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.51,
+  "share": 98.0,
+  "hint": "think it's true",
+  "hint_context": "believe in Santa",
+  "example_marks": [
+   {
+    "text": "wierzę",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "uwierzyć"
+ },
+ {
   "id": "potrzebować",
   "front": "potrzebować",
   "lemma": "potrzebować",
@@ -5259,6 +5308,37 @@
   ]
  },
  {
+  "id": "noc",
+  "front": "noc",
+  "lemma": "noc",
+  "back": "night",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "night",
+  "examples": [
+   "W nocy pada śnieg."
+  ],
+  "examples_en": [
+   "It snows at night."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 5.47,
+  "share": 98.0,
+  "hint": "dark time",
+  "hint_context": "at night",
+  "example_marks": [
+   {
+    "text": "nocy",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "szukać",
   "front": "szukać",
   "lemma": "szukać",
@@ -5500,6 +5580,68 @@
   "example_marks": [
    {
     "text": "druga",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "biały",
+  "front": "biały",
+  "lemma": "biały",
+  "back": "white",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "white",
+  "examples": [
+   "W tym roku mamy białe święta."
+  ],
+  "examples_en": [
+   "This year we have a white Christmas."
+  ],
+  "claude": true,
+  "topic": "christmas",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 5.44,
+  "share": 98.0,
+  "hint": "color",
+  "hint_context": "a white Christmas",
+  "example_marks": [
+   {
+    "text": "białe",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "serce",
+  "front": "serce",
+  "lemma": "serce",
+  "back": "heart",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "the heart",
+  "examples": [
+   "Dziękuję z całego serca."
+  ],
+  "examples_en": [
+   "Thank you with all my heart."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 5.44,
+  "share": 98.0,
+  "hint": "body, feelings",
+  "hint_context": "with all my heart",
+  "example_marks": [
+   {
+    "text": "serca",
     "nth": 1
    }
   ]
@@ -5955,6 +6097,39 @@
   "example_marks": [
    {
     "text": "drogę",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "Boże Narodzenie",
+  "front": "Boże Narodzenie",
+  "lemma": "Boże Narodzenie",
+  "back": "Christmas",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "Christmas Day"
+  ],
+  "definition": "Christmas (the feast); Dec 25–26",
+  "examples": [
+   "Boże Narodzenie spędzamy u babci."
+  ],
+  "examples_en": [
+   "We spend Christmas at Grandma's."
+  ],
+  "claude": true,
+  "topic": "christmas",
+  "pos": "Expression",
+  "gender": "",
+  "zipf": 5.37,
+  "share": 98.0,
+  "hint": "the feast itself",
+  "hint_context": "Christmas Day",
+  "example_marks": [
+   {
+    "text": "Boże Narodzenie",
     "nth": 1
    }
   ]
@@ -6489,6 +6664,44 @@
   "animacy": "pers"
  },
  {
+  "id": "wolny",
+  "front": "wolny",
+  "lemma": "wolny",
+  "back": "free",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "vacant",
+   "empty"
+  ],
+  "definition": "free, not taken ('wolne miejsce' = empty seat)",
+  "examples": [
+   "Czy to miejsce jest wolne?"
+  ],
+  "examples_en": [
+   "Is this seat free?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 5.53,
+  "lemma_id": "wolny",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Czy to miejsce jest wolne?",
+  "share": 60.0,
+  "hint": "not taken",
+  "hint_context": "a free seat",
+  "example_marks": [
+   {
+    "text": "wolne",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "muzyka",
   "front": "muzyka",
   "lemma": "muzyka",
@@ -6660,43 +6873,37 @@
   "aspect_pair": "stanąć"
  },
  {
-  "id": "rok#4",
-  "front": "rok",
-  "lemma": "rok",
-  "back": "year group",
+  "id": "pomagać",
+  "front": "pomagać",
+  "lemma": "pomagać",
+  "back": "help",
   "band": 1,
   "kind": "word",
   "register": "neutral",
-  "alts": [
-   "cohort",
-   "class"
-  ],
-  "definition": "people who study or graduated in the same year (group)",
+  "alts": [],
+  "definition": "to help (often, regularly; + dative)",
   "examples": [
-   "Jestem z tego samego roku co on."
+   "Zawsze pomagam babci w kuchni."
   ],
   "examples_en": [
-   "I'm in the same year as him."
+   "I always help Grandma in the kitchen."
   ],
   "claude": true,
-  "topic": "education",
-  "pos": "Noun",
-  "gender": "m",
-  "zipf": 6.58,
-  "lemma_id": "rok",
-  "sense_index": 4,
-  "sense_count": 4,
-  "cue": "Jestem z tego samego roku co on.",
-  "share": 5.0,
-  "hint": "classmates by year",
-  "hint_context": "same year as him",
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.3,
+  "share": 98.0,
+  "hint": "help, regularly",
+  "hint_context": "help someone",
   "example_marks": [
    {
-    "text": "roku",
+    "text": "pomagam",
     "nth": 1
    }
   ],
-  "animacy": "inan"
+  "aspect": "impf",
+  "aspect_pair": "pomóc"
  },
  {
   "id": "dzięki~interjection",
@@ -6997,6 +7204,38 @@
     "nth": 1
    }
   ]
+ },
+ {
+  "id": "grudzień",
+  "front": "grudzień",
+  "lemma": "grudzień",
+  "back": "December",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "the month of December",
+  "examples": [
+   "W grudniu w Krakowie jest jarmark."
+  ],
+  "examples_en": [
+   "In December there's a Christmas market in Kraków."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.26,
+  "share": 98.0,
+  "hint": "month",
+  "hint_context": "in December",
+  "example_marks": [
+   {
+    "text": "grudniu",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
  },
  {
   "id": "piosenka",
@@ -8154,6 +8393,39 @@
   ]
  },
  {
+  "id": "średni",
+  "front": "średni",
+  "lemma": "średni",
+  "back": "medium",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "average"
+  ],
+  "definition": "medium; average",
+  "examples": [
+   "Poproszę średnią pizzę."
+  ],
+  "examples_en": [
+   "A medium pizza, please."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 5.15,
+  "share": 98.0,
+  "hint": "size",
+  "hint_context": "medium-sized",
+  "example_marks": [
+   {
+    "text": "średnią",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "gość",
   "front": "gość",
   "lemma": "gość",
@@ -8617,6 +8889,41 @@
   "animacy": "inan"
  },
  {
+  "id": "wolny#2",
+  "front": "wolny",
+  "lemma": "wolny",
+  "back": "slow",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "slow",
+  "examples": [
+   "Internet jest dziś bardzo wolny."
+  ],
+  "examples_en": [
+   "The internet is very slow today."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 5.53,
+  "lemma_id": "wolny",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Internet jest dziś bardzo wolny.",
+  "share": 38.0,
+  "hint": "not fast",
+  "hint_context": "a slow train",
+  "example_marks": [
+   {
+    "text": "wolny",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "światło",
   "front": "światło",
   "lemma": "światło",
@@ -8650,6 +8957,40 @@
     "nth": 1
    }
   ]
+ },
+ {
+  "id": "but",
+  "front": "but",
+  "lemma": "but",
+  "back": "shoe",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "boot"
+  ],
+  "definition": "a shoe or boot ('buty' = shoes)",
+  "examples": [
+   "Zdejmij buty w przedpokoju."
+  ],
+  "examples_en": [
+   "Take your shoes off in the hall."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.11,
+  "share": 98.0,
+  "hint": "on your feet",
+  "hint_context": "a pair of shoes",
+  "example_marks": [
+   {
+    "text": "buty",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
  },
  {
   "id": "leżeć",
@@ -8929,6 +9270,38 @@
   "aspect": "impf"
  },
  {
+  "id": "ksiądz",
+  "front": "ksiądz",
+  "lemma": "ksiądz",
+  "back": "priest",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a (Catholic) priest",
+  "examples": [
+   "Ksiądz odwiedza nas po świętach."
+  ],
+  "examples_en": [
+   "The priest visits us after Christmas."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.08,
+  "share": 98.0,
+  "hint": "in church",
+  "hint_context": "the parish priest",
+  "example_marks": [
+   {
+    "text": "Ksiądz",
+    "nth": 1
+   }
+  ],
+  "animacy": "pers"
+ },
+ {
   "id": "powietrze",
   "front": "powietrze",
   "lemma": "powietrze",
@@ -9071,6 +9444,40 @@
   ]
  },
  {
+  "id": "spokojnie",
+  "front": "spokojnie",
+  "lemma": "spokojnie",
+  "back": "calmly",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "quietly",
+   "take it easy"
+  ],
+  "definition": "calmly ('Spokojnie!' = take it easy!)",
+  "examples": [
+   "Spokojnie, mamy dużo czasu."
+  ],
+  "examples_en": [
+   "Take it easy, we have plenty of time."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 5.06,
+  "share": 98.0,
+  "hint": "no stress",
+  "hint_context": "take it easy",
+  "example_marks": [
+   {
+    "text": "Spokojnie",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "morze",
   "front": "morze",
   "lemma": "morze",
@@ -9099,6 +9506,39 @@
   "example_marks": [
    {
     "text": "morze",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "czysty",
+  "front": "czysty",
+  "lemma": "czysty",
+  "back": "clean",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "pure"
+  ],
+  "definition": "clean; pure",
+  "examples": [
+   "Mam czyste ręce."
+  ],
+  "examples_en": [
+   "My hands are clean."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 5.04,
+  "share": 98.0,
+  "hint": "not dirty",
+  "hint_context": "clean shoes",
+  "example_marks": [
+   {
+    "text": "czyste",
     "nth": 1
    }
   ]
@@ -9133,6 +9573,78 @@
     "nth": 1
    }
   ]
+ },
+ {
+  "id": "wybierać",
+  "front": "wybierać",
+  "lemma": "wybierać",
+  "back": "choose",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "pick",
+   "select"
+  ],
+  "definition": "to choose, to pick",
+  "examples": [
+   "Długo wybieram prezent dla mamy."
+  ],
+  "examples_en": [
+   "I take a long time choosing a present for Mum."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.04,
+  "share": 98.0,
+  "hint": "pick one",
+  "hint_context": "choose a present",
+  "example_marks": [
+   {
+    "text": "wybieram",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "wybrać"
+ },
+ {
+  "id": "przepis",
+  "front": "przepis",
+  "lemma": "przepis",
+  "back": "recipe",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a recipe",
+  "examples": [
+   "Masz przepis na barszcz?"
+  ],
+  "examples_en": [
+   "Do you have a recipe for beet soup?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.15,
+  "lemma_id": "przepis",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Masz przepis na barszcz?",
+  "share": 75.0,
+  "hint": "for cooking",
+  "hint_context": "a recipe for",
+  "example_marks": [
+   {
+    "text": "przepis",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
  },
  {
   "id": "niedziela",

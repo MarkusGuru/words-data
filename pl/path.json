@@ -26,6 +26,19 @@
     "u-pl-L1-15",
     "cp-pl-L1-3"
    ]
+  },
+  {
+   "level": 1,
+   "title": "Święta 🎄",
+   "units": [
+    "u-pl-XM-01",
+    "u-pl-XM-02",
+    "u-pl-XM-03",
+    "u-pl-XM-04",
+    "u-pl-XM-05",
+    "cp-pl-XM-1"
+   ],
+   "series": "swieta"
   }
  ],
  "units": [
@@ -1014,6 +1027,336 @@
       "u-pl-L1-13",
       "u-pl-L1-14",
       "u-pl-L1-15"
+     ],
+     "count": 15
+    }
+   ]
+  },
+  {
+   "id": "u-pl-XM-01",
+   "level": 1,
+   "index": 19,
+   "title": "Mikołajki",
+   "title_en": "St. Nicholas Day",
+   "series": "swieta",
+   "part": 1,
+   "nodes": [
+    {
+     "id": "pl-XM-01:words",
+     "type": "words",
+     "title": "Słowa",
+     "story": "pl-XM-01",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "pl-XM-01:story",
+     "type": "story",
+     "title": "Opowiadanie",
+     "story": "pl-XM-01"
+    },
+    {
+     "id": "pl-XM-01:sentences",
+     "type": "sentences",
+     "title": "Zdania",
+     "story": "pl-XM-01",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "pl-XM-01:speak",
+     "type": "speak",
+     "title": "Mów",
+     "scenario": "xmas_nicholas",
+     "targets": [
+      "prezent",
+      "but",
+      "słodycze",
+      "Mikołaj"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "pl-XM-01:write",
+     "type": "write",
+     "title": "Pisz",
+     "story": "pl-XM-01",
+     "prompt_en": "Retell \"Mikołajki\" in 2–3 Polish sentences.",
+     "use": [
+      "but",
+      "prezent"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-pl-XM-02",
+   "level": 1,
+   "index": 20,
+   "title": "Choinka",
+   "title_en": "The Christmas tree",
+   "series": "swieta",
+   "part": 2,
+   "nodes": [
+    {
+     "id": "pl-XM-02:words",
+     "type": "words",
+     "title": "Słowa",
+     "story": "pl-XM-02",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "pl-XM-02:story",
+     "type": "story",
+     "title": "Opowiadanie",
+     "story": "pl-XM-02"
+    },
+    {
+     "id": "pl-XM-02:sentences",
+     "type": "sentences",
+     "title": "Zdania",
+     "story": "pl-XM-02",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "pl-XM-02:speak",
+     "type": "speak",
+     "title": "Mów",
+     "scenario": "xmas_tree",
+     "targets": [
+      "choinka",
+      "kupić",
+      "duży",
+      "światełka"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "pl-XM-02:write",
+     "type": "write",
+     "title": "Pisz",
+     "story": "pl-XM-02",
+     "prompt_en": "Describe your Christmas tree in 2–3 Polish sentences.",
+     "use": [
+      "choinka",
+      "bombka"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-pl-XM-03",
+   "level": 1,
+   "index": 21,
+   "title": "Pierniki",
+   "title_en": "Gingerbread",
+   "series": "swieta",
+   "part": 3,
+   "nodes": [
+    {
+     "id": "pl-XM-03:words",
+     "type": "words",
+     "title": "Słowa",
+     "story": "pl-XM-03",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "pl-XM-03:story",
+     "type": "story",
+     "title": "Opowiadanie",
+     "story": "pl-XM-03"
+    },
+    {
+     "id": "pl-XM-03:sentences",
+     "type": "sentences",
+     "title": "Zdania",
+     "story": "pl-XM-03",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "pl-XM-03:speak",
+     "type": "speak",
+     "title": "Mów",
+     "scenario": "xmas_baking",
+     "targets": [
+      "piec",
+      "ciasto",
+      "przepis",
+      "pachnieć"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "pl-XM-03:write",
+     "type": "write",
+     "title": "Pisz",
+     "story": "pl-XM-03",
+     "prompt_en": "Write 2–3 Polish sentences about baking something.",
+     "use": [
+      "piec",
+      "ciasto"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-pl-XM-04",
+   "level": 1,
+   "index": 22,
+   "title": "Wigilia",
+   "title_en": "Christmas Eve",
+   "series": "swieta",
+   "part": 4,
+   "nodes": [
+    {
+     "id": "pl-XM-04:words",
+     "type": "words",
+     "title": "Słowa",
+     "story": "pl-XM-04",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "pl-XM-04:story",
+     "type": "story",
+     "title": "Opowiadanie",
+     "story": "pl-XM-04"
+    },
+    {
+     "id": "pl-XM-04:sentences",
+     "type": "sentences",
+     "title": "Zdania",
+     "story": "pl-XM-04",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "pl-XM-04:speak",
+     "type": "speak",
+     "title": "Mów",
+     "scenario": "xmas_eve",
+     "targets": [
+      "Wigilia",
+      "opłatek",
+      "życzenia",
+      "gość"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "pl-XM-04:write",
+     "type": "write",
+     "title": "Pisz",
+     "story": "pl-XM-04",
+     "prompt_en": "Write a short Christmas wish (życzenia) in Polish for your family.",
+     "use": [
+      "życzenia",
+      "święta"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-pl-XM-05",
+   "level": 1,
+   "index": 23,
+   "title": "Pasterka",
+   "title_en": "Midnight Mass",
+   "series": "swieta",
+   "part": 5,
+   "nodes": [
+    {
+     "id": "pl-XM-05:words",
+     "type": "words",
+     "title": "Słowa",
+     "story": "pl-XM-05",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "pl-XM-05:story",
+     "type": "story",
+     "title": "Opowiadanie",
+     "story": "pl-XM-05"
+    },
+    {
+     "id": "pl-XM-05:sentences",
+     "type": "sentences",
+     "title": "Zdania",
+     "story": "pl-XM-05",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "pl-XM-05:speak",
+     "type": "speak",
+     "title": "Mów",
+     "scenario": "xmas_carols",
+     "targets": [
+      "kolęda",
+      "śpiewać",
+      "kościół",
+      "Wesołych Świąt!"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "pl-XM-05:write",
+     "type": "write",
+     "title": "Pisz",
+     "story": "pl-XM-05",
+     "prompt_en": "Write 2–3 Polish sentences about your Christmas.",
+     "use": [
+      "święta",
+      "rodzina"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cp-pl-XM-1",
+   "level": 1,
+   "index": 24,
+   "title": "Powtórka",
+   "title_en": "Checkpoint",
+   "series": "swieta",
+   "part": null,
+   "checkpoint": true,
+   "nodes": [
+    {
+     "id": "cp-pl-XM-1:test",
+     "type": "checkpoint",
+     "title": "Powtórka",
+     "units": [
+      "u-pl-XM-01",
+      "u-pl-XM-02",
+      "u-pl-XM-03",
+      "u-pl-XM-04",
+      "u-pl-XM-05"
      ],
      "count": 15
     }

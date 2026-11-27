@@ -136,6 +136,37 @@
   "animacy": "inan"
  },
  {
+  "id": "kapusta",
+  "front": "kapusta",
+  "lemma": "kapusta",
+  "back": "cabbage",
+  "band": 5,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "cabbage (also sauerkraut: 'kiszona kapusta')",
+  "examples": [
+   "Pierogi z kapustą i grzybami są pyszne."
+  ],
+  "examples_en": [
+   "Pierogi with cabbage and mushrooms are delicious."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 3.9,
+  "share": 98.0,
+  "hint": "vegetable",
+  "hint_context": "cabbage with mushrooms",
+  "example_marks": [
+   {
+    "text": "kapustą",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "powrotny",
   "front": "powrotny",
   "lemma": "powrotny",
@@ -204,6 +235,43 @@
   "animacy": "pers"
  },
  {
+  "id": "surowy#2",
+  "front": "surowy",
+  "lemma": "surowy",
+  "back": "strict",
+  "band": 5,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "severe"
+  ],
+  "definition": "strict, severe",
+  "examples": [
+   "Nasz nauczyciel jest bardzo surowy."
+  ],
+  "examples_en": [
+   "Our teacher is very strict."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 4.43,
+  "lemma_id": "surowy",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Nasz nauczyciel jest bardzo surowy.",
+  "share": 28.0,
+  "hint": "a person",
+  "hint_context": "a strict teacher",
+  "example_marks": [
+   {
+    "text": "surowy",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "pianino",
   "front": "pianino",
   "lemma": "pianino",
@@ -269,6 +337,40 @@
   "animacy": "inan"
  },
  {
+  "id": "czubek",
+  "front": "czubek",
+  "lemma": "czubek",
+  "back": "tip",
+  "band": 5,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "top"
+  ],
+  "definition": "the tip, the very top",
+  "examples": [
+   "Na czubku choinki jest gwiazda."
+  ],
+  "examples_en": [
+   "There's a star on the top of the tree."
+  ],
+  "claude": true,
+  "topic": "christmas",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 3.86,
+  "share": 98.0,
+  "hint": "pointed end",
+  "hint_context": "the tip of the tree",
+  "example_marks": [
+   {
+    "text": "czubku",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
   "id": "kelner",
   "front": "kelner",
   "lemma": "kelner",
@@ -301,6 +403,45 @@
    }
   ],
   "animacy": "pers"
+ },
+ {
+  "id": "ubierać#2",
+  "front": "ubierać",
+  "lemma": "ubierać",
+  "back": "dress",
+  "band": 5,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "put on"
+  ],
+  "definition": "to dress someone; 'ubierać się' = to get dressed",
+  "examples": [
+   "Mama ubiera dziecko."
+  ],
+  "examples_en": [
+   "Mum is dressing the child."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.26,
+  "lemma_id": "ubierać",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Mama ubiera dziecko.",
+  "share": 38.0,
+  "hint": "put clothes on",
+  "hint_context": "get dressed",
+  "example_marks": [
+   {
+    "text": "ubiera",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "ubrać"
  },
  {
   "id": "pękać",
@@ -507,6 +648,39 @@
   ]
  },
  {
+  "id": "pukać",
+  "front": "pukać",
+  "lemma": "pukać",
+  "back": "knock",
+  "band": 5,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to knock (at a door)",
+  "examples": [
+   "Ktoś puka do drzwi."
+  ],
+  "examples_en": [
+   "Someone is knocking at the door."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 3.81,
+  "share": 98.0,
+  "hint": "at the door",
+  "hint_context": "knock on the door",
+  "example_marks": [
+   {
+    "text": "puka",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "zapukać"
+ },
+ {
   "id": "umawiać się",
   "front": "umawiać się",
   "lemma": "umawiać się",
@@ -644,6 +818,41 @@
     "nth": 1
    }
   ]
+ },
+ {
+  "id": "wieszać",
+  "front": "wieszać",
+  "lemma": "wieszać",
+  "back": "hang",
+  "band": 5,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "hang up"
+  ],
+  "definition": "to hang something up",
+  "examples": [
+   "Wieszam płaszcz w szafie."
+  ],
+  "examples_en": [
+   "I hang my coat in the wardrobe."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 3.77,
+  "share": 98.0,
+  "hint": "put up on a hook",
+  "hint_context": "hang up a coat",
+  "example_marks": [
+   {
+    "text": "Wieszam",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "powiesić"
  },
  {
   "id": "kotlet",
@@ -815,6 +1024,71 @@
   ]
  },
  {
+  "id": "kolęda",
+  "front": "kolęda",
+  "lemma": "kolęda",
+  "back": "Christmas carol",
+  "band": 5,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "carol"
+  ],
+  "definition": "a Christmas carol",
+  "examples": [
+   "Śpiewamy kolędy przy choince."
+  ],
+  "examples_en": [
+   "We sing carols by the tree."
+  ],
+  "claude": true,
+  "topic": "christmas",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 3.7,
+  "share": 98.0,
+  "hint": "Christmas song",
+  "hint_context": "sing carols",
+  "example_marks": [
+   {
+    "text": "kolędy",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "piekarnik",
+  "front": "piekarnik",
+  "lemma": "piekarnik",
+  "back": "oven",
+  "band": 5,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "an oven",
+  "examples": [
+   "Ciasto jest jeszcze w piekarniku."
+  ],
+  "examples_en": [
+   "The cake is still in the oven."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 3.69,
+  "share": 98.0,
+  "hint": "for baking",
+  "hint_context": "in the oven",
+  "example_marks": [
+   {
+    "text": "piekarniku",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
   "id": "sąsiadka",
   "front": "sąsiadka",
   "lemma": "sąsiadka",
@@ -844,6 +1118,38 @@
     "nth": 1
    }
   ]
+ },
+ {
+  "id": "karp",
+  "front": "karp",
+  "lemma": "karp",
+  "back": "carp",
+  "band": 5,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "carp – the Christmas Eve fish in Poland",
+  "examples": [
+   "Na Wigilię jemy smażonego karpia."
+  ],
+  "examples_en": [
+   "On Christmas Eve we eat fried carp."
+  ],
+  "claude": true,
+  "topic": "christmas",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 3.62,
+  "share": 98.0,
+  "hint": "Christmas Eve fish",
+  "hint_context": "fried carp",
+  "example_marks": [
+   {
+    "text": "karpia",
+    "nth": 1
+   }
+  ],
+  "animacy": "anim"
  },
  {
   "id": "wjeżdżać",
@@ -911,5 +1217,39 @@
     "nth": 1
    }
   ]
+ },
+ {
+  "id": "światełka",
+  "front": "światełka",
+  "lemma": "światełka",
+  "back": "fairy lights",
+  "band": 5,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "Christmas lights"
+  ],
+  "definition": "small lights on a tree or a window",
+  "examples": [
+   "Światełka świecą na choince."
+  ],
+  "examples_en": [
+   "The lights are shining on the tree."
+  ],
+  "claude": true,
+  "topic": "christmas",
+  "pos": "Noun",
+  "gender": "",
+  "zipf": 3.59,
+  "share": 98.0,
+  "hint": "on the tree",
+  "hint_context": "turn on the lights",
+  "example_marks": [
+   {
+    "text": "Światełka",
+    "nth": 1
+   }
+  ],
+  "number": "pl"
  }
 ]

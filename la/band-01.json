@@ -1,0 +1,7098 @@
+[
+ {
+  "id": "sum",
+  "front": "sum, esse, fuī, futūrus",
+  "lemma": "sum",
+  "back": "be",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "exist"
+  ],
+  "definition": "to be; to exist; to be in a state or condition (copula)",
+  "examples": [
+   "Fessus sum, sed laetus."
+  ],
+  "examples_en": [
+   "I am tired, but happy."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 7.5,
+  "lemma_id": "sum",
+  "sense_index": 1,
+  "sense_count": 4,
+  "cue": "Fessus sum, sed laetus.",
+  "share": 75.0,
+  "hint": "to be (state)",
+  "hint_context": "I am tired",
+  "example_marks": [
+   {
+    "text": "sum",
+    "nth": 1
+   }
+  ],
+  "inflection": "irr"
+ },
+ {
+  "id": "nōn",
+  "front": "nōn",
+  "lemma": "nōn",
+  "back": "not",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "no"
+  ],
+  "definition": "negates a word, phrase, or clause; the ordinary negation",
+  "examples": [
+   "Nōn intellegō quid dicās, amīce."
+  ],
+  "examples_en": [
+   "I don't understand what you're saying, friend."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 7.05,
+  "lemma_id": "nōn",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Nōn intellegō quid dicās, amīce.",
+  "share": 96.0,
+  "hint": "ordinary negation",
+  "hint_context": "I do not understand",
+  "example_marks": [
+   {
+    "text": "Nōn",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "sum#2",
+  "front": "sum, esse, fuī, futūrus",
+  "lemma": "sum",
+  "back": "there is",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "there are",
+   "exist"
+  ],
+  "definition": "there is or there are; to exist (existential use)",
+  "examples": [
+   "Sunt multae stellae in caelō."
+  ],
+  "examples_en": [
+   "There are many stars in the sky."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 7.5,
+  "lemma_id": "sum",
+  "sense_index": 2,
+  "sense_count": 4,
+  "cue": "Sunt multae stellae in caelō.",
+  "share": 12.0,
+  "hint": "there be",
+  "hint_context": "there are many stars",
+  "example_marks": [
+   {
+    "text": "Sunt",
+    "nth": 1
+   }
+  ],
+  "inflection": "irr"
+ },
+ {
+  "id": "possum",
+  "front": "possum, posse, potuī, —",
+  "lemma": "possum",
+  "back": "can",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "be able to",
+   "may"
+  ],
+  "definition": "to be able to; to have the power or ability to",
+  "examples": [
+   "Tibi auxiliārī nōn possum."
+  ],
+  "examples_en": [
+   "I cannot help you."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.65,
+  "lemma_id": "possum",
+  "sense_index": 1,
+  "sense_count": 3,
+  "cue": "Tibi auxiliārī nōn possum.",
+  "share": 75.0,
+  "hint": "be able to",
+  "hint_context": "cannot help you",
+  "example_marks": [
+   {
+    "text": "possum",
+    "nth": 1
+   }
+  ],
+  "inflection": "irr"
+ },
+ {
+  "id": "et~adverb",
+  "front": "et",
+  "lemma": "et",
+  "back": "also",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "too",
+   "likewise"
+  ],
+  "definition": "in addition; likewise; as well (placed before the word it modifies)",
+  "examples": [
+   "Et tū hoc scīs."
+  ],
+  "examples_en": [
+   "You also know this."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 7.45,
+  "lemma_id": "et~adverb",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Et tū hoc scīs.",
+  "share": 9.0,
+  "hint": "too, as well",
+  "hint_context": "you too",
+  "example_marks": [
+   {
+    "text": "Et",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "omnis",
+  "front": "omnis, omne",
+  "lemma": "omnis",
+  "back": "all",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "everyone"
+  ],
+  "definition": "every one of a group; all, everyone",
+  "examples": [
+   "Omnēs hominēs mortālēs sunt."
+  ],
+  "examples_en": [
+   "All men are mortal."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 6.71,
+  "lemma_id": "omnis",
+  "sense_index": 1,
+  "sense_count": 4,
+  "cue": "Omnēs hominēs mortālēs sunt.",
+  "share": 45.0,
+  "hint": "all of a group",
+  "hint_context": "all the men",
+  "example_marks": [
+   {
+    "text": "Omnēs",
+    "nth": 1
+   }
+  ],
+  "inflection": "3rd declension (i-stem)"
+ },
+ {
+  "id": "sum#4",
+  "front": "sum, esse, fuī, futūrus",
+  "lemma": "sum",
+  "back": "have",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "possess"
+  ],
+  "definition": "to have (dative of possessor: mihi est = I have)",
+  "examples": [
+   "Mihi sunt duo fīliī."
+  ],
+  "examples_en": [
+   "I have two sons."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 7.5,
+  "lemma_id": "sum",
+  "sense_index": 4,
+  "sense_count": 4,
+  "cue": "Mihi sunt duo fīliī.",
+  "share": 7.0,
+  "hint": "have (with dative)",
+  "hint_context": "I have two sons",
+  "example_marks": [
+   {
+    "text": "sunt",
+    "nth": 1
+   }
+  ],
+  "inflection": "irr"
+ },
+ {
+  "id": "deus",
+  "front": "deus, deī",
+  "lemma": "deus",
+  "back": "god",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "deity"
+  ],
+  "definition": "a divine being worshipped as supernatural; a god",
+  "examples": [
+   "Dī immortālēs, auxilium nōbīs dāte!"
+  ],
+  "examples_en": [
+   "Immortal gods, give us help!"
+  ],
+  "claude": true,
+  "topic": "religion",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 6.36,
+  "lemma_id": "deus",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Dī immortālēs, auxilium nōbīs dāte!",
+  "share": 85.0,
+  "hint": "a pagan deity",
+  "hint_context": "the god of war",
+  "example_marks": [
+   {
+    "text": "Dī",
+    "nth": 1
+   }
+  ],
+  "inflection": "2"
+ },
+ {
+  "id": "tamen",
+  "front": "tamen",
+  "lemma": "tamen",
+  "back": "nevertheless",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "however",
+   "still",
+   "yet"
+  ],
+  "definition": "in spite of that; even so; all the same",
+  "examples": [
+   "Difficile est; tamen id faciam."
+  ],
+  "examples_en": [
+   "It is difficult; nevertheless, I will do it."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 6.33,
+  "lemma_id": "tamen",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Difficile est; tamen id faciam.",
+  "share": 90.0,
+  "hint": "despite that",
+  "hint_context": "it is hard, yet I will try",
+  "example_marks": [
+   {
+    "text": "tamen",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "sum#3",
+  "front": "sum, esse, fuī, futūrus",
+  "lemma": "sum",
+  "back": "belong",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "be someone's"
+  ],
+  "definition": "to belong to, be the property of someone (predicate genitive)",
+  "examples": [
+   "Hic liber magistrī est."
+  ],
+  "examples_en": [
+   "This book belongs to the teacher."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 7.5,
+  "lemma_id": "sum",
+  "sense_index": 3,
+  "sense_count": 4,
+  "cue": "Hic liber magistrī est.",
+  "share": 6.0,
+  "hint": "belongs to (genitive)",
+  "hint_context": "the book belongs to the teacher",
+  "example_marks": [
+   {
+    "text": "est",
+    "nth": 1
+   }
+  ],
+  "inflection": "irr"
+ },
+ {
+  "id": "pater",
+  "front": "pater, patris",
+  "lemma": "pater",
+  "back": "father",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "male parent",
+  "examples": [
+   "Pater meus agricola est."
+  ],
+  "examples_en": [
+   "My father is a farmer."
+  ],
+  "claude": true,
+  "topic": "family",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 6.38,
+  "lemma_id": "pater",
+  "sense_index": 1,
+  "sense_count": 5,
+  "cue": "Pater meus agricola est.",
+  "share": 76.0,
+  "hint": "male parent",
+  "hint_context": "my father's house",
+  "example_marks": [
+   {
+    "text": "Pater",
+    "nth": 1
+   }
+  ],
+  "inflection": "3"
+ },
+ {
+  "id": "magnus",
+  "front": "magnus, magna, magnum",
+  "lemma": "magnus",
+  "back": "great",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "big",
+   "large"
+  ],
+  "definition": "big, great",
+  "examples": [
+   "Rōma est urbs magna."
+  ],
+  "examples_en": [
+   "Rome is a great city."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 6.24,
+  "share": 98.0,
+  "hint": "size, importance",
+  "hint_context": "a great man",
+  "example_marks": [
+   {
+    "text": "magna",
+    "nth": 1
+   }
+  ],
+  "inflection": "adjective",
+  "cognates": "it magno · en magnify, magnitude · pl —"
+ },
+ {
+  "id": "hostis",
+  "front": "hostis, hostis",
+  "lemma": "hostis",
+  "back": "enemy",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "foe"
+  ],
+  "definition": "an enemy (of the state; usually plural)",
+  "examples": [
+   "Hostēs urbem oppugnant."
+  ],
+  "examples_en": [
+   "The enemies are attacking the city."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 6.21,
+  "share": 98.0,
+  "hint": "public enemy",
+  "hint_context": "the enemy",
+  "example_marks": [
+   {
+    "text": "Hostēs",
+    "nth": 1
+   }
+  ],
+  "inflection": "3rd decl.",
+  "cognates": "it ostile · en hostile · pl —"
+ },
+ {
+  "id": "tempus",
+  "front": "tempus, temporis",
+  "lemma": "tempus",
+  "back": "time",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "season"
+  ],
+  "definition": "time; a period",
+  "examples": [
+   "Tempus celeriter fugit."
+  ],
+  "examples_en": [
+   "Time flies quickly."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 6.2,
+  "share": 98.0,
+  "hint": "duration",
+  "hint_context": "time flies",
+  "example_marks": [
+   {
+    "text": "Tempus",
+    "nth": 1
+   }
+  ],
+  "inflection": "3rd decl.",
+  "cognates": "it tempo · en temporary, tempo · pl tempo"
+ },
+ {
+  "id": "quam",
+  "front": "quam",
+  "lemma": "quam",
+  "back": "as",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "as ... as"
+  ],
+  "definition": "in comparisons, with tam: as much as, to the same degree",
+  "examples": [
+   "Puer tam altus est quam pater."
+  ],
+  "examples_en": [
+   "The boy is as tall as his father."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 6.71,
+  "lemma_id": "quam",
+  "sense_index": 1,
+  "sense_count": 3,
+  "cue": "Puer tam altus est quam pater.",
+  "share": 30.0,
+  "hint": "tam ... quam comparison",
+  "hint_context": "as tall as",
+  "example_marks": [
+   {
+    "text": "quam",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "etiam",
+  "front": "etiam",
+  "lemma": "etiam",
+  "back": "also",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "too",
+   "as well"
+  ],
+  "definition": "in addition; likewise, also, too",
+  "examples": [
+   "Puella etiam cantat."
+  ],
+  "examples_en": [
+   "The girl also sings."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 6.5,
+  "lemma_id": "etiam",
+  "sense_index": 1,
+  "sense_count": 4,
+  "cue": "Puella etiam cantat.",
+  "share": 48.0,
+  "hint": "in addition",
+  "hint_context": "he also came",
+  "example_marks": [
+   {
+    "text": "etiam",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "nunc",
+  "front": "nunc",
+  "lemma": "nunc",
+  "back": "now",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "now",
+  "examples": [
+   "Nunc est bibendum."
+  ],
+  "examples_en": [
+   "Now is the time to drink."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 6.18,
+  "share": 98.0,
+  "hint": "right now, at present",
+  "hint_context": "nunc est bibendum",
+  "example_marks": [
+   {
+    "text": "Nunc",
+    "nth": 1
+   }
+  ],
+  "source": "Hor. Carm. 1.37.1"
+ },
+ {
+  "id": "urbs",
+  "front": "urbs, urbis",
+  "lemma": "urbs",
+  "back": "city",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a city (urbs = often Rome itself)",
+  "examples": [
+   "Rōma est urbs magna et antīqua."
+  ],
+  "examples_en": [
+   "Rome is a great and ancient city."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 6.18,
+  "share": 98.0,
+  "hint": "large town",
+  "hint_context": "the city of Rome",
+  "example_marks": [
+   {
+    "text": "urbs",
+    "nth": 1
+   }
+  ],
+  "inflection": "3rd decl.",
+  "cognates": "it urbano · en urban · pl urbanistyka"
+ },
+ {
+  "id": "et~adverb#2",
+  "front": "et",
+  "lemma": "et",
+  "back": "even",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "emphasizing the following word; even",
+  "examples": [
+   "Hoc et puerī sciunt."
+  ],
+  "examples_en": [
+   "Even children know this."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 7.45,
+  "lemma_id": "et~adverb",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Hoc et puerī sciunt.",
+  "share": 5.0,
+  "hint": "even, emphasizing",
+  "hint_context": "even children",
+  "example_marks": [
+   {
+    "text": "et",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "multus",
+  "front": "multus, multa, multum",
+  "lemma": "multus",
+  "back": "much",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "many (pl.)"
+  ],
+  "definition": "much; plural: many",
+  "examples": [
+   "Multī hominēs in forō sunt."
+  ],
+  "examples_en": [
+   "There are many people in the forum."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 6.15,
+  "share": 98.0,
+  "hint": "large amount",
+  "hint_context": "many people",
+  "example_marks": [
+   {
+    "text": "Multī",
+    "nth": 1
+   }
+  ],
+  "inflection": "adjective",
+  "cognates": "it molto · en multiply, multitude · pl multimedia"
+ },
+ {
+  "id": "hic~adverb",
+  "front": "hīc",
+  "lemma": "hic",
+  "back": "here",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "in this place"
+  ],
+  "definition": "in or at this place",
+  "examples": [
+   "Hīc nōn sumus sōlī."
+  ],
+  "examples_en": [
+   "We are not alone here."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 6.99,
+  "share": 14.0,
+  "hint": "location adverb",
+  "hint_context": "stay here",
+  "example_marks": [
+   {
+    "text": "Hīc",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "corpus",
+  "front": "corpus, corporis",
+  "lemma": "corpus",
+  "back": "body",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a body",
+  "examples": [
+   "Mēns sāna in corpore sānō."
+  ],
+  "examples_en": [
+   "A sound mind in a sound body."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 6.11,
+  "share": 98.0,
+  "hint": "physical body",
+  "hint_context": "a healthy body",
+  "example_marks": [
+   {
+    "text": "corpore",
+    "nth": 1
+   }
+  ],
+  "inflection": "3rd decl.",
+  "cognates": "it corpo · en corpse, corporal · pl korpus",
+  "source": "Iuv. 10.356"
+ },
+ {
+  "id": "habeō",
+  "front": "habeō, habēre, habuī, habitum",
+  "lemma": "habeō",
+  "back": "have",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "hold"
+  ],
+  "definition": "to have, hold",
+  "examples": [
+   "Habeō duōs frātrēs."
+  ],
+  "examples_en": [
+   "I have two brothers."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.1,
+  "share": 98.0,
+  "hint": "possess",
+  "hint_context": "have a brother",
+  "example_marks": [
+   {
+    "text": "Habeō",
+    "nth": 1
+   }
+  ],
+  "inflection": "2nd conj.",
+  "cognates": "it avere · en habit · pl —"
+ },
+ {
+  "id": "bonus",
+  "front": "bonus, bona, bonum",
+  "lemma": "bonus",
+  "back": "good",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "good",
+  "examples": [
+   "Bonus vir semper vērum dīcit."
+  ],
+  "examples_en": [
+   "A good man always tells the truth."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 6.09,
+  "share": 98.0,
+  "hint": "quality",
+  "hint_context": "a good man",
+  "example_marks": [
+   {
+    "text": "Bonus",
+    "nth": 1
+   }
+  ],
+  "inflection": "adjective",
+  "cognates": "it buono · en bonus, bounty · pl bonus"
+ },
+ {
+  "id": "populus",
+  "front": "populus, populī",
+  "lemma": "populus",
+  "back": "people",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "nation"
+  ],
+  "definition": "a people, a nation (populus Rōmānus)",
+  "examples": [
+   "Populus Rōmānus bellum gessit."
+  ],
+  "examples_en": [
+   "The Roman people waged war."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 6.09,
+  "share": 98.0,
+  "hint": "a nation",
+  "hint_context": "the Roman people",
+  "example_marks": [
+   {
+    "text": "Populus",
+    "nth": 1
+   }
+  ],
+  "inflection": "2nd decl.",
+  "cognates": "it popolo · en people, popular · pl populacja"
+ },
+ {
+  "id": "animus",
+  "front": "animus, animī",
+  "lemma": "animus",
+  "back": "spirit",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "mind",
+   "heart"
+  ],
+  "definition": "mind, spirit, feelings",
+  "examples": [
+   "Bonō animō es!"
+  ],
+  "examples_en": [
+   "Cheer up! (lit. be of good spirit)"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 6.23,
+  "lemma_id": "animus",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Bonō animō es!",
+  "share": 70.0,
+  "hint": "mind, feelings",
+  "hint_context": "in good spirits",
+  "example_marks": [
+   {
+    "text": "animō",
+    "nth": 1
+   }
+  ],
+  "inflection": "2nd decl.",
+  "cognates": "it animo · en animosity, unanimous · pl animusz"
+ },
+ {
+  "id": "duo",
+  "front": "duo, duae, duo",
+  "lemma": "duo",
+  "back": "two",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "two",
+  "examples": [
+   "Duo frātrēs in hortō lūdunt."
+  ],
+  "examples_en": [
+   "Two brothers are playing in the garden."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Numeral",
+  "gender": "",
+  "zipf": 6.07,
+  "share": 98.0,
+  "hint": "number 2",
+  "hint_context": "two days",
+  "example_marks": [
+   {
+    "text": "Duo",
+    "nth": 1
+   }
+  ],
+  "inflection": "numeral",
+  "cognates": "it due · en dual, duet · pl duet"
+ },
+ {
+  "id": "pars",
+  "front": "pars, partis",
+  "lemma": "pars",
+  "back": "part",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "portion",
+   "piece",
+   "share"
+  ],
+  "definition": "a piece or portion of a whole",
+  "examples": [
+   "Magna pars agrī aquā tēcta est."
+  ],
+  "examples_en": [
+   "A large part of the field is covered with water."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 6.33,
+  "lemma_id": "pars",
+  "sense_index": 1,
+  "sense_count": 5,
+  "cue": "Magna pars agrī aquā tēcta est.",
+  "share": 50.0,
+  "hint": "piece or portion",
+  "hint_context": "a large part of the field",
+  "example_marks": [
+   {
+    "text": "pars",
+    "nth": 1
+   }
+  ],
+  "inflection": "3"
+ },
+ {
+  "id": "causa",
+  "front": "causa, causae",
+  "lemma": "causa",
+  "back": "cause",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "reason"
+  ],
+  "definition": "a cause, reason",
+  "examples": [
+   "Quae est causa bellī?"
+  ],
+  "examples_en": [
+   "What is the cause of the war?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 6.24,
+  "lemma_id": "causa",
+  "sense_index": 1,
+  "sense_count": 3,
+  "cue": "Quae est causa bellī?",
+  "share": 60.0,
+  "hint": "reason",
+  "hint_context": "the cause of it",
+  "example_marks": [
+   {
+    "text": "causa",
+    "nth": 1
+   }
+  ],
+  "inflection": "1st decl.",
+  "cognates": "it causa, cosa · en cause · pl kauzalny"
+ },
+ {
+  "id": "omnis#2",
+  "front": "omnis, omne",
+  "lemma": "omnis",
+  "back": "every",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "each"
+  ],
+  "definition": "each one of a series, taken one at a time",
+  "examples": [
+   "Omnī diē in hortō labōrō."
+  ],
+  "examples_en": [
+   "I work in the garden every day."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 6.71,
+  "lemma_id": "omnis",
+  "sense_index": 2,
+  "sense_count": 4,
+  "cue": "Omnī diē in hortō labōrō.",
+  "share": 20.0,
+  "hint": "each one, distributive",
+  "hint_context": "every single day",
+  "example_marks": [
+   {
+    "text": "Omnī",
+    "nth": 1
+   }
+  ],
+  "inflection": "3rd declension (i-stem)"
+ },
+ {
+  "id": "omnis#4",
+  "front": "omnis, omne",
+  "lemma": "omnis",
+  "back": "everything",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "all things"
+  ],
+  "definition": "neuter plural: all things, everything",
+  "examples": [
+   "Omnia vincit amor."
+  ],
+  "examples_en": [
+   "Love conquers all."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 6.71,
+  "lemma_id": "omnis",
+  "sense_index": 4,
+  "sense_count": 4,
+  "cue": "Omnia vincit amor.",
+  "share": 20.0,
+  "hint": "neuter, things",
+  "hint_context": "love conquers all",
+  "example_marks": [
+   {
+    "text": "Omnia",
+    "nth": 1
+   }
+  ],
+  "inflection": "3rd declension (i-stem)",
+  "source": "Verg. Ecl. 10.69"
+ },
+ {
+  "id": "annus",
+  "front": "annus, annī",
+  "lemma": "annus",
+  "back": "year",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a year",
+  "examples": [
+   "Annus novus incipit."
+  ],
+  "examples_en": [
+   "The new year begins."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.99,
+  "share": 98.0,
+  "hint": "12 months",
+  "hint_context": "a happy new year",
+  "example_marks": [
+   {
+    "text": "Annus",
+    "nth": 1
+   }
+  ],
+  "inflection": "2nd decl.",
+  "cognates": "it anno · en annual · pl —"
+ },
+ {
+  "id": "terra",
+  "front": "terra, terrae",
+  "lemma": "terra",
+  "back": "land",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "earth",
+   "ground"
+  ],
+  "definition": "land, earth; the Earth",
+  "examples": [
+   "Nautae terram tandem vīdērunt."
+  ],
+  "examples_en": [
+   "The sailors finally saw land."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 5.99,
+  "share": 98.0,
+  "hint": "land, ground",
+  "hint_context": "on land",
+  "example_marks": [
+   {
+    "text": "terram",
+    "nth": 1
+   }
+  ],
+  "inflection": "1st decl.",
+  "cognates": "it terra · en terrain, territory · pl teren"
+ },
+ {
+  "id": "etiam#2",
+  "front": "etiam",
+  "lemma": "etiam",
+  "back": "even",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "nay even"
+  ],
+  "definition": "emphasizing something surprising or extreme",
+  "examples": [
+   "Etiam puerī hoc sciunt."
+  ],
+  "examples_en": [
+   "Even boys know this."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 6.5,
+  "lemma_id": "etiam",
+  "sense_index": 2,
+  "sense_count": 4,
+  "cue": "Etiam puerī hoc sciunt.",
+  "share": 30.0,
+  "hint": "surprising emphasis",
+  "hint_context": "even children know",
+  "example_marks": [
+   {
+    "text": "Etiam",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "locus",
+  "front": "locus, locī",
+  "lemma": "locus",
+  "back": "place",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "spot"
+  ],
+  "definition": "a place (plural 'loca')",
+  "examples": [
+   "Hic locus pulcher est."
+  ],
+  "examples_en": [
+   "This place is beautiful."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.97,
+  "share": 98.0,
+  "hint": "location",
+  "hint_context": "a quiet place",
+  "example_marks": [
+   {
+    "text": "locus",
+    "nth": 1
+   }
+  ],
+  "inflection": "2nd decl. (pl. loca)",
+  "cognates": "it luogo · en local, location · pl lokal"
+ },
+ {
+  "id": "iam",
+  "front": "iam",
+  "lemma": "iam",
+  "back": "now",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "at this point",
+   "by now"
+  ],
+  "definition": "at the present time; at this moment",
+  "examples": [
+   "Iam tempus est domum īre."
+  ],
+  "examples_en": [
+   "It is now time to go home."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 6.41,
+  "lemma_id": "iam",
+  "sense_index": 1,
+  "sense_count": 5,
+  "cue": "Iam tempus est domum īre.",
+  "share": 35.0,
+  "hint": "at this moment",
+  "hint_context": "it is now time",
+  "example_marks": [
+   {
+    "text": "Iam",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "verbum",
+  "front": "verbum, verbī",
+  "lemma": "verbum",
+  "back": "word",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a word",
+  "examples": [
+   "Verba volant, scrīpta manent."
+  ],
+  "examples_en": [
+   "Spoken words fly away, written ones remain."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 5.96,
+  "share": 98.0,
+  "hint": "spoken word",
+  "hint_context": "in a word",
+  "example_marks": [
+   {
+    "text": "Verba",
+    "nth": 1
+   }
+  ],
+  "inflection": "2nd decl.",
+  "cognates": "it verbo · en verb, verbal · pl werbalny"
+ },
+ {
+  "id": "manus",
+  "front": "manus, manūs",
+  "lemma": "manus",
+  "back": "hand",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "the hand",
+  "examples": [
+   "Puer librum in manū tenet."
+  ],
+  "examples_en": [
+   "The boy holds a book in his hand."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 6.07,
+  "lemma_id": "manus",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Puer librum in manū tenet.",
+  "share": 75.0,
+  "hint": "body part",
+  "hint_context": "in my hand",
+  "example_marks": [
+   {
+    "text": "manū",
+    "nth": 1
+   }
+  ],
+  "inflection": "4th decl.",
+  "cognates": "it mano · en manual · pl manualny"
+ },
+ {
+  "id": "vir",
+  "front": "vir, virī",
+  "lemma": "vir",
+  "back": "man",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a man (adult male, often brave)",
+  "examples": [
+   "Vir fortis nōn timet."
+  ],
+  "examples_en": [
+   "A brave man does not fear."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 6.09,
+  "lemma_id": "vir",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Vir fortis nōn timet.",
+  "share": 70.0,
+  "hint": "a (brave) man, husband",
+  "hint_context": "vir fortis",
+  "example_marks": [
+   {
+    "text": "Vir",
+    "nth": 1
+   }
+  ],
+  "inflection": "2nd decl.",
+  "cognates": "it virile · en virile, virtue · pl —"
+ },
+ {
+  "id": "liber",
+  "front": "liber, librī",
+  "lemma": "liber",
+  "back": "book",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a book (līber with long ī = free)",
+  "examples": [
+   "Hunc librum legō."
+  ],
+  "examples_en": [
+   "I'm reading this book."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.93,
+  "share": 98.0,
+  "hint": "to read",
+  "hint_context": "a good book",
+  "example_marks": [
+   {
+    "text": "librum",
+    "nth": 1
+   }
+  ],
+  "inflection": "2nd decl.",
+  "cognates": "it libro · en library · pl —"
+ },
+ {
+  "id": "quid~adverb",
+  "front": "quid",
+  "lemma": "quid",
+  "back": "why",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "what for"
+  ],
+  "definition": "for what reason? why? (interrogative adverb)",
+  "examples": [
+   "Quid mē frūstrā vocās?"
+  ],
+  "examples_en": [
+   "Why are you calling me in vain?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 6.5,
+  "share": 25.0,
+  "hint": "asking the reason",
+  "hint_context": "why are you calling me in vain",
+  "example_marks": [
+   {
+    "text": "Quid",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "iam#2",
+  "front": "iam",
+  "lemma": "iam",
+  "back": "already",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "by then"
+  ],
+  "definition": "before now or before the stated time",
+  "examples": [
+   "Iam cēnam cōnfēcī, māter."
+  ],
+  "examples_en": [
+   "I have already finished dinner, mother."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 6.41,
+  "lemma_id": "iam",
+  "sense_index": 2,
+  "sense_count": 5,
+  "cue": "Iam cēnam cōnfēcī, māter.",
+  "share": 30.0,
+  "hint": "done before now",
+  "hint_context": "already finished dinner",
+  "example_marks": [
+   {
+    "text": "Iam",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "omnis#3",
+  "front": "omnis, omne",
+  "lemma": "omnis",
+  "back": "whole",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "entire"
+  ],
+  "definition": "complete, entire; the whole of something",
+  "examples": [
+   "Gallia est omnis dīvīsa in partēs trēs."
+  ],
+  "examples_en": [
+   "Gaul as a whole is divided into three parts."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 6.71,
+  "lemma_id": "omnis",
+  "sense_index": 3,
+  "sense_count": 4,
+  "cue": "Gallia est omnis dīvīsa in partēs trēs.",
+  "share": 15.0,
+  "hint": "complete, entire",
+  "hint_context": "the whole of Gaul",
+  "example_marks": [
+   {
+    "text": "omnis",
+    "nth": 1
+   }
+  ],
+  "inflection": "3rd declension (i-stem)",
+  "source": "Caes. Gall. 1.1"
+ },
+ {
+  "id": "quam#2",
+  "front": "quam",
+  "lemma": "quam",
+  "back": "as possible",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "as ... as possible"
+  ],
+  "definition": "with a superlative: as ... as possible",
+  "examples": [
+   "Quam celerrimē vēnī."
+  ],
+  "examples_en": [
+   "I came as quickly as possible."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 6.71,
+  "lemma_id": "quam",
+  "sense_index": 2,
+  "sense_count": 3,
+  "cue": "Quam celerrimē vēnī.",
+  "share": 15.0,
+  "hint": "with superlatives",
+  "hint_context": "quam primum, as soon as possible",
+  "example_marks": [
+   {
+    "text": "Quam",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "caput",
+  "front": "caput, capitis",
+  "lemma": "caput",
+  "back": "head",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "the head; also the chief point",
+  "examples": [
+   "Caput mihi dolet."
+  ],
+  "examples_en": [
+   "My head hurts."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 5.88,
+  "share": 98.0,
+  "hint": "body part",
+  "hint_context": "a headache",
+  "example_marks": [
+   {
+    "text": "Caput",
+    "nth": 1
+   }
+  ],
+  "inflection": "3rd decl.",
+  "cognates": "it capo · en capital, chapter · pl kapitan"
+ },
+ {
+  "id": "aqua",
+  "front": "aqua, aquae",
+  "lemma": "aqua",
+  "back": "water",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "water",
+  "examples": [
+   "Aqua frīgida est."
+  ],
+  "examples_en": [
+   "The water is cold."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 5.87,
+  "share": 98.0,
+  "hint": "liquid",
+  "hint_context": "cold water",
+  "example_marks": [
+   {
+    "text": "Aqua",
+    "nth": 1
+   }
+  ],
+  "inflection": "1st decl.",
+  "cognates": "it acqua · en aquarium, aquatic · pl akwarium"
+ },
+ {
+  "id": "mors",
+  "front": "mors, mortis",
+  "lemma": "mors",
+  "back": "death",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "death",
+  "examples": [
+   "Mors omnibus commūnis est."
+  ],
+  "examples_en": [
+   "Death is common to all."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 5.85,
+  "share": 98.0,
+  "hint": "end of life",
+  "hint_context": "life and death",
+  "example_marks": [
+   {
+    "text": "Mors",
+    "nth": 1
+   }
+  ],
+  "inflection": "3rd decl.",
+  "cognates": "it morte · en mortal · pl —"
+ },
+ {
+  "id": "dux",
+  "front": "dux, ducis",
+  "lemma": "dux",
+  "back": "leader",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "general",
+   "commander"
+  ],
+  "definition": "a leader, general",
+  "examples": [
+   "Dux mīlitēs in proelium dūxit."
+  ],
+  "examples_en": [
+   "The general led the soldiers into battle."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.84,
+  "share": 98.0,
+  "hint": "commander",
+  "hint_context": "the general",
+  "example_marks": [
+   {
+    "text": "Dux",
+    "nth": 1
+   }
+  ],
+  "inflection": "3rd decl.",
+  "cognates": "it duca · en duke · pl —"
+ },
+ {
+  "id": "novus",
+  "front": "novus, nova, novum",
+  "lemma": "novus",
+  "back": "new",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "new",
+  "examples": [
+   "Novum librum ēmī."
+  ],
+  "examples_en": [
+   "I bought a new book."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 5.83,
+  "share": 98.0,
+  "hint": "not old",
+  "hint_context": "a new book",
+  "example_marks": [
+   {
+    "text": "Novum",
+    "nth": 1
+   }
+  ],
+  "inflection": "adjective",
+  "cognates": "it nuovo · en novel, novice · pl nowy"
+ },
+ {
+  "id": "bellum",
+  "front": "bellum, bellī",
+  "lemma": "bellum",
+  "back": "war",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "war",
+  "examples": [
+   "Bellum longum et dūrum fuit."
+  ],
+  "examples_en": [
+   "The war was long and hard."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 5.81,
+  "share": 98.0,
+  "hint": "armed conflict",
+  "hint_context": "wage war",
+  "example_marks": [
+   {
+    "text": "Bellum",
+    "nth": 1
+   }
+  ],
+  "inflection": "2nd decl.",
+  "cognates": "it bellico · en belligerent · pl —"
+ },
+ {
+  "id": "semper",
+  "front": "semper",
+  "lemma": "semper",
+  "back": "always",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "always",
+  "examples": [
+   "Amīcus meus semper vērum dīcit."
+  ],
+  "examples_en": [
+   "My friend always tells the truth."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 5.81,
+  "share": 98.0,
+  "hint": "every time",
+  "hint_context": "always and everywhere",
+  "example_marks": [
+   {
+    "text": "semper",
+    "nth": 1
+   }
+  ],
+  "cognates": "it sempre · en sempervirent (botany) · pl —"
+ },
+ {
+  "id": "quam#3",
+  "front": "quam",
+  "lemma": "quam",
+  "back": "how",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "how much"
+  ],
+  "definition": "exclamatory or interrogative: to what degree, how",
+  "examples": [
+   "Quam pulchra est haec terra!"
+  ],
+  "examples_en": [
+   "How beautiful this land is!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 6.71,
+  "lemma_id": "quam",
+  "sense_index": 3,
+  "sense_count": 3,
+  "cue": "Quam pulchra est haec terra!",
+  "share": 12.0,
+  "hint": "exclamatory how",
+  "hint_context": "how beautiful!",
+  "example_marks": [
+   {
+    "text": "Quam",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "malus",
+  "front": "malus, mala, malum",
+  "lemma": "malus",
+  "back": "bad",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "evil"
+  ],
+  "definition": "bad, evil (mālum with long ā = apple)",
+  "examples": [
+   "Hic puer malus est."
+  ],
+  "examples_en": [
+   "This boy is bad."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 5.79,
+  "share": 98.0,
+  "hint": "not good",
+  "hint_context": "a bad idea",
+  "example_marks": [
+   {
+    "text": "malus",
+    "nth": 1
+   }
+  ],
+  "inflection": "adjective",
+  "cognates": "it male · en malice, malign · pl —"
+ },
+ {
+  "id": "oculus",
+  "front": "oculus, oculī",
+  "lemma": "oculus",
+  "back": "eye",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "the eye",
+  "examples": [
+   "Oculōs claudō et dormiō."
+  ],
+  "examples_en": [
+   "I close my eyes and sleep."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.79,
+  "share": 98.0,
+  "hint": "for seeing",
+  "hint_context": "close your eyes",
+  "example_marks": [
+   {
+    "text": "Oculōs",
+    "nth": 1
+   }
+  ],
+  "inflection": "2nd decl.",
+  "cognates": "it occhio · en ocular · pl okulary"
+ },
+ {
+  "id": "ut~adverb",
+  "front": "ut",
+  "lemma": "ut",
+  "back": "how",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "in what way"
+  ],
+  "definition": "in what way or to what degree (questions and exclamations)",
+  "examples": [
+   "Ut valēs, mī amīce?"
+  ],
+  "examples_en": [
+   "How are you, my friend?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 6.98,
+  "share": 6.0,
+  "hint": "question or exclamation",
+  "hint_context": "how are you doing",
+  "example_marks": [
+   {
+    "text": "Ut",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "quō",
+  "front": "quō",
+  "lemma": "quō",
+  "back": "whither",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "where to",
+   "to what place"
+  ],
+  "definition": "to what place; toward which place (interrogative, with motion)",
+  "examples": [
+   "Quō hodiē ībit tuus frāter?"
+  ],
+  "examples_en": [
+   "Where is your brother going today?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 6.1,
+  "lemma_id": "quō",
+  "sense_index": 1,
+  "sense_count": 3,
+  "cue": "Quō hodiē ībit tuus frāter?",
+  "share": 45.0,
+  "hint": "asking: to what place",
+  "hint_context": "where are you going",
+  "example_marks": [
+   {
+    "text": "Quō",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "sequor",
+  "front": "sequor, sequī, secūtus sum",
+  "lemma": "sequor",
+  "back": "follow",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to follow (deponent)",
+  "examples": [
+   "Sequere mē, amīce!"
+  ],
+  "examples_en": [
+   "Follow me, friend!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.76,
+  "share": 98.0,
+  "hint": "come after",
+  "hint_context": "follow me",
+  "example_marks": [
+   {
+    "text": "Sequere",
+    "nth": 1
+   }
+  ],
+  "inflection": "3rd conj., deponent",
+  "cognates": "it seguire · en sequence, consequence · pl sekwencja"
+ },
+ {
+  "id": "ferō",
+  "front": "ferō, ferre, tulī, lātum",
+  "lemma": "ferō",
+  "back": "carry",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "bear",
+   "bring"
+  ],
+  "definition": "to carry, bear, bring; endure",
+  "examples": [
+   "Servus onus grave fert."
+  ],
+  "examples_en": [
+   "The slave carries a heavy load."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.74,
+  "share": 98.0,
+  "hint": "carry, endure",
+  "hint_context": "bear a burden",
+  "example_marks": [
+   {
+    "text": "fert",
+    "nth": 1
+   }
+  ],
+  "inflection": "irr.",
+  "cognates": "it -ferire (offrire) · en transfer, offer · pl —"
+ },
+ {
+  "id": "longus",
+  "front": "longus, longa, longum",
+  "lemma": "longus",
+  "back": "long",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "long",
+  "examples": [
+   "Via longa et difficilis est."
+  ],
+  "examples_en": [
+   "The road is long and difficult."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 5.74,
+  "share": 98.0,
+  "hint": "length",
+  "hint_context": "a long road",
+  "example_marks": [
+   {
+    "text": "longa",
+    "nth": 1
+   }
+  ],
+  "inflection": "adjective",
+  "cognates": "it lungo · en long, longitude · pl —"
+ },
+ {
+  "id": "possum#2",
+  "front": "possum, posse, potuī, —",
+  "lemma": "possum",
+  "back": "it is possible",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "it may be"
+  ],
+  "definition": "impersonal 'potest': it may be, it is possible",
+  "examples": [
+   "Potest fierī ut hodiē veniat."
+  ],
+  "examples_en": [
+   "It may be that he comes today."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.65,
+  "lemma_id": "possum",
+  "sense_index": 2,
+  "sense_count": 3,
+  "cue": "Potest fierī ut hodiē veniat.",
+  "share": 12.0,
+  "hint": "impersonal, it may be",
+  "hint_context": "it may be true",
+  "example_marks": [
+   {
+    "text": "Potest",
+    "nth": 1
+   }
+  ],
+  "inflection": "irr"
+ },
+ {
+  "id": "nox",
+  "front": "nox, noctis",
+  "lemma": "nox",
+  "back": "night",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "night",
+  "examples": [
+   "Nox longa et frīgida erat."
+  ],
+  "examples_en": [
+   "The night was long and cold."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 5.72,
+  "share": 98.0,
+  "hint": "dark time",
+  "hint_context": "at night",
+  "example_marks": [
+   {
+    "text": "Nox",
+    "nth": 1
+   }
+  ],
+  "inflection": "3rd decl.",
+  "cognates": "it notte · en nocturnal · pl —"
+ },
+ {
+  "id": "numquam",
+  "front": "numquam",
+  "lemma": "numquam",
+  "back": "never",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "never",
+  "examples": [
+   "Numquam sine librō sum."
+  ],
+  "examples_en": [
+   "I am never without a book."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 5.7,
+  "share": 98.0,
+  "hint": "not ever",
+  "hint_context": "never again",
+  "example_marks": [
+   {
+    "text": "Numquam",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "animus#2",
+  "front": "animus, animī",
+  "lemma": "animus",
+  "back": "courage",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "courage, morale",
+  "examples": [
+   "Mīlitēs animum nōn āmīsērunt."
+  ],
+  "examples_en": [
+   "The soldiers did not lose heart."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 6.23,
+  "lemma_id": "animus",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Mīlitēs animum nōn āmīsērunt.",
+  "share": 28.0,
+  "hint": "morale",
+  "hint_context": "lose heart",
+  "example_marks": [
+   {
+    "text": "animum",
+    "nth": 1
+   }
+  ],
+  "inflection": "2nd decl.",
+  "cognates": "it animo · en animosity, unanimous · pl animusz"
+ },
+ {
+  "id": "arma",
+  "front": "arma, armōrum",
+  "lemma": "arma",
+  "back": "weapons",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "arms"
+  ],
+  "definition": "weapons, arms (plural only)",
+  "examples": [
+   "Arma virumque canō."
+  ],
+  "examples_en": [
+   "I sing of arms and the man."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 5.68,
+  "share": 98.0,
+  "hint": "for fighting",
+  "hint_context": "take up arms",
+  "example_marks": [
+   {
+    "text": "Arma",
+    "nth": 1
+   }
+  ],
+  "inflection": "2nd decl., plural only",
+  "cognates": "it arma · en arms, army · pl armia",
+  "source": "Verg. Aen. 1.1"
+ },
+ {
+  "id": "loquor",
+  "front": "loquor, loquī, locūtus sum",
+  "lemma": "loquor",
+  "back": "speak",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "talk"
+  ],
+  "definition": "to speak (deponent: passive forms, active meaning)",
+  "examples": [
+   "Loquerisne Latīnē, amīce?"
+  ],
+  "examples_en": [
+   "Do you speak Latin, friend?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.66,
+  "share": 98.0,
+  "hint": "talk",
+  "hint_context": "speak Latin",
+  "example_marks": [
+   {
+    "text": "Loquerisne",
+    "nth": 1
+   }
+  ],
+  "inflection": "3rd conj., deponent",
+  "cognates": "it eloquente · en eloquent, colloquial · pl —"
+ },
+ {
+  "id": "domus",
+  "front": "domus, domūs",
+  "lemma": "domus",
+  "back": "house",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a house",
+  "examples": [
+   "Domus nostra parva est."
+  ],
+  "examples_en": [
+   "Our house is small."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 5.91,
+  "lemma_id": "domus",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Domus nostra parva est.",
+  "share": 55.0,
+  "hint": "the building",
+  "hint_context": "a big house",
+  "example_marks": [
+   {
+    "text": "Domus",
+    "nth": 1
+   }
+  ],
+  "inflection": "4th decl. (mixed)",
+  "cognates": "it duomo, domestico · en domestic · pl dom"
+ },
+ {
+  "id": "etiam#3",
+  "front": "etiam",
+  "lemma": "etiam",
+  "back": "still",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "yet",
+   "even now"
+  ],
+  "definition": "up to now or at this point in time; still, yet",
+  "examples": [
+   "Pater etiam nunc dormit."
+  ],
+  "examples_en": [
+   "Father is still sleeping."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 6.5,
+  "lemma_id": "etiam",
+  "sense_index": 3,
+  "sense_count": 4,
+  "cue": "Pater etiam nunc dormit.",
+  "share": 14.0,
+  "hint": "up to now",
+  "hint_context": "still sleeping",
+  "example_marks": [
+   {
+    "text": "etiam",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "via",
+  "front": "via, viae",
+  "lemma": "via",
+  "back": "road",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "way",
+   "street"
+  ],
+  "definition": "a road, way",
+  "examples": [
+   "Omnēs viae Rōmam dūcunt."
+  ],
+  "examples_en": [
+   "All roads lead to Rome."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 5.65,
+  "share": 98.0,
+  "hint": "road, route",
+  "hint_context": "the Appian Way",
+  "example_marks": [
+   {
+    "text": "viae",
+    "nth": 1
+   }
+  ],
+  "inflection": "1st decl.",
+  "cognates": "it via · en via, voyage · pl —"
+ },
+ {
+  "id": "ignis",
+  "front": "ignis, ignis",
+  "lemma": "ignis",
+  "back": "fire",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "fire",
+  "examples": [
+   "Ignis in focō ārdet."
+  ],
+  "examples_en": [
+   "The fire is burning on the hearth."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.63,
+  "share": 98.0,
+  "hint": "flames",
+  "hint_context": "light a fire",
+  "example_marks": [
+   {
+    "text": "Ignis",
+    "nth": 1
+   }
+  ],
+  "inflection": "3rd decl.",
+  "cognates": "it ignifugo · en ignite · pl —"
+ },
+ {
+  "id": "causa#2",
+  "front": "causa, causae",
+  "lemma": "causa",
+  "back": "case",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "lawsuit"
+  ],
+  "definition": "a case in court ('causam dīcere' = plead a case)",
+  "examples": [
+   "Cicerō causam amīcī dīxit."
+  ],
+  "examples_en": [
+   "Cicero pleaded his friend's case."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 6.24,
+  "lemma_id": "causa",
+  "sense_index": 2,
+  "sense_count": 3,
+  "cue": "Cicerō causam amīcī dīxit.",
+  "share": 23.0,
+  "hint": "in court",
+  "hint_context": "plead a case",
+  "example_marks": [
+   {
+    "text": "causam",
+    "nth": 1
+   }
+  ],
+  "inflection": "1st decl.",
+  "cognates": "it causa, cosa · en cause · pl kauzalny"
+ },
+ {
+  "id": "puer",
+  "front": "puer, puerī",
+  "lemma": "puer",
+  "back": "boy",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "child"
+  ],
+  "definition": "a boy; a child",
+  "examples": [
+   "Puer in viā lūdit."
+  ],
+  "examples_en": [
+   "The boy is playing in the street."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.61,
+  "share": 98.0,
+  "hint": "young male",
+  "hint_context": "a small boy",
+  "example_marks": [
+   {
+    "text": "Puer",
+    "nth": 1
+   }
+  ],
+  "inflection": "2nd decl.",
+  "cognates": "it puerile · en puerile · pl —"
+ },
+ {
+  "id": "amor",
+  "front": "amor, amōris",
+  "lemma": "amor",
+  "back": "love",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "love",
+  "examples": [
+   "Omnia vincit Amor."
+  ],
+  "examples_en": [
+   "Love conquers all."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.6,
+  "share": 98.0,
+  "hint": "noun: love",
+  "hint_context": "love conquers all",
+  "example_marks": [
+   {
+    "text": "Amor",
+    "nth": 1
+   }
+  ],
+  "inflection": "3rd decl.",
+  "cognates": "it amore · en amorous · pl amory",
+  "source": "Verg. Ecl. 10.69"
+ },
+ {
+  "id": "quō#3",
+  "front": "quō",
+  "lemma": "quō",
+  "back": "so that",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "in order that"
+  ],
+  "definition": "introducing a purpose clause containing a comparative",
+  "examples": [
+   "Tacuit, quō amīcus tūtior esset."
+  ],
+  "examples_en": [
+   "He kept quiet so that his friend would be safer."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 6.1,
+  "lemma_id": "quō",
+  "sense_index": 3,
+  "sense_count": 3,
+  "cue": "Tacuit, quō amīcus tūtior esset.",
+  "share": 30.0,
+  "hint": "purpose clause with comparative",
+  "hint_context": "so that he'd be safer",
+  "example_marks": [
+   {
+    "text": "quō",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "miser",
+  "front": "miser, misera, miserum",
+  "lemma": "miser",
+  "back": "wretched",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "poor",
+   "unhappy"
+  ],
+  "definition": "wretched, unhappy, pitiable",
+  "examples": [
+   "Miser puer flet."
+  ],
+  "examples_en": [
+   "The poor boy is crying."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 5.56,
+  "share": 98.0,
+  "hint": "unhappy",
+  "hint_context": "poor thing",
+  "example_marks": [
+   {
+    "text": "Miser",
+    "nth": 1
+   }
+  ],
+  "inflection": "adjective",
+  "cognates": "it misero · en miserable, misery · pl mizerny"
+ },
+ {
+  "id": "rēx",
+  "front": "rēx, rēgis",
+  "lemma": "rēx",
+  "back": "king",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a king, ruler",
+  "examples": [
+   "Rēx in rēgiā habitat."
+  ],
+  "examples_en": [
+   "The king lives in the palace."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.56,
+  "share": 98.0,
+  "hint": "ruler",
+  "hint_context": "the king of Rome",
+  "example_marks": [
+   {
+    "text": "Rēx",
+    "nth": 1
+   }
+  ],
+  "inflection": "3rd decl.",
+  "cognates": "it re · en regal · pl —"
+ },
+ {
+  "id": "domus#2",
+  "front": "domus, domūs",
+  "lemma": "domus",
+  "back": "home",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "home ('domum' = homeward, 'domī' = at home)",
+  "examples": [
+   "Nunc domum redīmus."
+  ],
+  "examples_en": [
+   "Now we're going back home."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 5.91,
+  "lemma_id": "domus",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Nunc domum redīmus.",
+  "share": 43.0,
+  "hint": "domum, domī",
+  "hint_context": "go home",
+  "example_marks": [
+   {
+    "text": "domum",
+    "nth": 1
+   }
+  ],
+  "inflection": "4th decl. (mixed)",
+  "cognates": "it duomo, domestico · en domestic · pl dom"
+ },
+ {
+  "id": "prīmus",
+  "front": "prīmus, prīma, prīmum",
+  "lemma": "prīmus",
+  "back": "first",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "first",
+  "examples": [
+   "Prīmus in urbem vēnit."
+  ],
+  "examples_en": [
+   "He was the first to come into the city."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 5.55,
+  "share": 98.0,
+  "hint": "number one",
+  "hint_context": "the first day",
+  "example_marks": [
+   {
+    "text": "Prīmus",
+    "nth": 1
+   }
+  ],
+  "inflection": "adjective",
+  "cognates": "it primo · en prime, primary · pl prymus"
+ },
+ {
+  "id": "vir#2",
+  "front": "vir, virī",
+  "lemma": "vir",
+  "back": "husband",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a husband",
+  "examples": [
+   "Vir eius mīles est."
+  ],
+  "examples_en": [
+   "Her husband is a soldier."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 6.09,
+  "lemma_id": "vir",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Vir eius mīles est.",
+  "share": 28.0,
+  "hint": "married partner",
+  "hint_context": "her husband",
+  "example_marks": [
+   {
+    "text": "Vir",
+    "nth": 1
+   }
+  ],
+  "inflection": "2nd decl.",
+  "cognates": "it virile · en virile, virtue · pl —"
+ },
+ {
+  "id": "deus#2",
+  "front": "deus, deī",
+  "lemma": "deus",
+  "back": "God",
+  "band": 1,
+  "kind": "word",
+  "register": "literary",
+  "alts": [
+   "the Lord"
+  ],
+  "definition": "the one God of Christian belief",
+  "examples": [
+   "Deus mundum creāvit."
+  ],
+  "examples_en": [
+   "God created the world."
+  ],
+  "claude": true,
+  "topic": "ecclesiastical",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 6.36,
+  "lemma_id": "deus",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Deus mundum creāvit.",
+  "share": 15.0,
+  "hint": "the one God, capitalized",
+  "hint_context": "Christian creed",
+  "example_marks": [
+   {
+    "text": "Deus",
+    "nth": 1
+   }
+  ],
+  "inflection": "2"
+ },
+ {
+  "id": "nōn#2",
+  "front": "nōn",
+  "lemma": "nōn",
+  "back": "not only",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "not just"
+  ],
+  "definition": "in 'nōn modo ... sed etiam': not only ... but also",
+  "examples": [
+   "Nōn modo legit, sed etiam fābulās scrībit."
+  ],
+  "examples_en": [
+   "He not only reads, but also writes stories."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 7.05,
+  "lemma_id": "nōn",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Nōn modo legit, sed etiam fābulās scrībit.",
+  "share": 3.0,
+  "hint": "nōn modo ... sed etiam",
+  "hint_context": "not only reads but also writes",
+  "example_marks": [
+   {
+    "text": "Nōn modo",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "iam#5",
+  "front": "iam",
+  "lemma": "iam",
+  "back": "now then",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "moreover",
+   "next"
+  ],
+  "definition": "transitional or emphatic: and now, furthermore, now indeed",
+  "examples": [
+   "Iam dē reliquīs rēbus dīcam."
+  ],
+  "examples_en": [
+   "Now, as for the remaining matters, I will speak."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 6.41,
+  "lemma_id": "iam",
+  "sense_index": 5,
+  "sense_count": 5,
+  "cue": "Iam dē reliquīs rēbus dīcam.",
+  "share": 13.0,
+  "hint": "transition in speech",
+  "hint_context": "now, moving on to the next point",
+  "example_marks": [
+   {
+    "text": "Iam",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "sciō",
+  "front": "sciō, scīre, scīvī, scītum",
+  "lemma": "sciō",
+  "back": "know",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to know (a fact)",
+  "examples": [
+   "Sciō mē nihil scīre."
+  ],
+  "examples_en": [
+   "I know that I know nothing."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.53,
+  "share": 98.0,
+  "hint": "a fact",
+  "hint_context": "I know",
+  "example_marks": [
+   {
+    "text": "Sciō",
+    "nth": 1
+   }
+  ],
+  "inflection": "4th conj.",
+  "cognates": "it scienza · en science · pl —"
+ },
+ {
+  "id": "pars#2",
+  "front": "pars, partis",
+  "lemma": "pars",
+  "back": "side",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "direction",
+   "flank"
+  ],
+  "definition": "a side or direction of a place or object",
+  "examples": [
+   "Hostēs ex omnibus partibus oppidum oppugnābant."
+  ],
+  "examples_en": [
+   "The enemy were attacking the town from every side."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 6.33,
+  "lemma_id": "pars",
+  "sense_index": 2,
+  "sense_count": 5,
+  "cue": "Hostēs ex omnibus partibus oppidum oppugnābant.",
+  "share": 15.0,
+  "hint": "direction, flank",
+  "hint_context": "from every side",
+  "example_marks": [
+   {
+    "text": "partibus",
+    "nth": 1
+   }
+  ],
+  "inflection": "3"
+ },
+ {
+  "id": "quō#2",
+  "front": "quō",
+  "lemma": "quō",
+  "back": "to where",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "to which place",
+   "to the place where"
+  ],
+  "definition": "relative adverb: to which place, to the place where (with motion)",
+  "examples": [
+   "Veniam quō vocābis."
+  ],
+  "examples_en": [
+   "I will come to where you call me."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 6.1,
+  "lemma_id": "quō",
+  "sense_index": 2,
+  "sense_count": 3,
+  "cue": "Veniam quō vocābis.",
+  "share": 25.0,
+  "hint": "relative: to the place where",
+  "hint_context": "the place to which he went",
+  "example_marks": [
+   {
+    "text": "quō",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "iam#3",
+  "front": "iam",
+  "lemma": "iam",
+  "back": "no longer",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "anymore",
+   "not anymore"
+  ],
+  "definition": "(with negation) no longer, not any more",
+  "examples": [
+   "Nōn iam hīc habitō."
+  ],
+  "examples_en": [
+   "I no longer live here."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 6.41,
+  "lemma_id": "iam",
+  "sense_index": 3,
+  "sense_count": 5,
+  "cue": "Nōn iam hīc habitō.",
+  "share": 12.0,
+  "hint": "with a negative",
+  "hint_context": "not anymore",
+  "example_marks": [
+   {
+    "text": "iam",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "parvus",
+  "front": "parvus, parva, parvum",
+  "lemma": "parvus",
+  "back": "small",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "little"
+  ],
+  "definition": "small, little",
+  "examples": [
+   "Habitāmus in parvā casā."
+  ],
+  "examples_en": [
+   "We live in a small cottage."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 5.49,
+  "share": 98.0,
+  "hint": "size",
+  "hint_context": "a small house",
+  "example_marks": [
+   {
+    "text": "parvā",
+    "nth": 1
+   }
+  ],
+  "inflection": "adjective"
+ },
+ {
+  "id": "iubeō",
+  "front": "iubeō, iubēre, iussī, iussum",
+  "lemma": "iubeō",
+  "back": "order",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "command",
+   "tell"
+  ],
+  "definition": "to order (+ accusative and infinitive)",
+  "examples": [
+   "Dux mīlitēs pugnāre iubet."
+  ],
+  "examples_en": [
+   "The general orders the soldiers to fight."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.48,
+  "share": 98.0,
+  "hint": "command",
+  "hint_context": "order someone to",
+  "example_marks": [
+   {
+    "text": "iubet",
+    "nth": 1
+   }
+  ],
+  "inflection": "2nd conj.",
+  "cognates": "en jussive"
+ },
+ {
+  "id": "nōmen",
+  "front": "nōmen, nōminis",
+  "lemma": "nōmen",
+  "back": "name",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a name",
+  "examples": [
+   "Quod nōmen tibi est?"
+  ],
+  "examples_en": [
+   "What is your name?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 5.46,
+  "share": 98.0,
+  "hint": "what you're called",
+  "hint_context": "my name is",
+  "example_marks": [
+   {
+    "text": "nōmen",
+    "nth": 1
+   }
+  ],
+  "inflection": "3rd decl.",
+  "cognates": "it nome · en name, nominal · pl nominalny"
+ },
+ {
+  "id": "manus#2",
+  "front": "manus, manūs",
+  "lemma": "manus",
+  "back": "band",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "troop"
+  ],
+  "definition": "a band of men",
+  "examples": [
+   "Parva manus mīlitum urbem dēfendit."
+  ],
+  "examples_en": [
+   "A small band of soldiers defended the city."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 6.07,
+  "lemma_id": "manus",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Parva manus mīlitum urbem dēfendit.",
+  "share": 23.0,
+  "hint": "group of men",
+  "hint_context": "a small band",
+  "example_marks": [
+   {
+    "text": "manus",
+    "nth": 1
+   }
+  ],
+  "inflection": "4th decl.",
+  "cognates": "it mano · en manual · pl manualny"
+ },
+ {
+  "id": "vīta",
+  "front": "vīta, vītae",
+  "lemma": "vīta",
+  "back": "life",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "life",
+  "examples": [
+   "Vīta rūstica mihi placet."
+  ],
+  "examples_en": [
+   "Country life pleases me."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 5.43,
+  "share": 98.0,
+  "hint": "being alive",
+  "hint_context": "a happy life",
+  "example_marks": [
+   {
+    "text": "Vīta",
+    "nth": 1
+   }
+  ],
+  "inflection": "1st decl.",
+  "cognates": "it vita · en vital · pl witamina"
+ },
+ {
+  "id": "causa#3",
+  "front": "causa, causae",
+  "lemma": "causa",
+  "back": "for the sake of",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "'causā' + genitive (placed after)",
+  "examples": [
+   "Honōris causā hoc faciō."
+  ],
+  "examples_en": [
+   "I do this for the sake of honor."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 6.24,
+  "lemma_id": "causa",
+  "sense_index": 3,
+  "sense_count": 3,
+  "cue": "Honōris causā hoc faciō.",
+  "share": 15.0,
+  "hint": "causā + genitive",
+  "hint_context": "honoris causa",
+  "example_marks": [
+   {
+    "text": "causā",
+    "nth": 1
+   }
+  ],
+  "inflection": "1st decl.",
+  "cognates": "it causa, cosa · en cause · pl kauzalny"
+ },
+ {
+  "id": "iam#4",
+  "front": "iam",
+  "lemma": "iam",
+  "back": "soon",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "shortly",
+   "in a moment"
+  ],
+  "definition": "in a short time from now; before long",
+  "examples": [
+   "Iam pater domum veniet."
+  ],
+  "examples_en": [
+   "Father will soon come home."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 6.41,
+  "lemma_id": "iam",
+  "sense_index": 4,
+  "sense_count": 5,
+  "cue": "Iam pater domum veniet.",
+  "share": 10.0,
+  "hint": "in the near future",
+  "hint_context": "will come soon",
+  "example_marks": [
+   {
+    "text": "Iam",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "pars#3",
+  "front": "pars, partis",
+  "lemma": "pars",
+  "back": "some ... others",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "some ... other"
+  ],
+  "definition": "pars ... pars ...: one part ... another part, some ... others",
+  "examples": [
+   "Pars fugiēbant, pars pugnābant."
+  ],
+  "examples_en": [
+   "Some were fleeing, others were fighting."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 6.33,
+  "lemma_id": "pars",
+  "sense_index": 3,
+  "sense_count": 5,
+  "cue": "Pars fugiēbant, pars pugnābant.",
+  "share": 12.0,
+  "hint": "pars ... pars ...",
+  "hint_context": "some fled, others fought",
+  "example_marks": [
+   {
+    "text": "Pars",
+    "nth": 1
+   },
+   {
+    "text": "pars",
+    "nth": 1
+   }
+  ],
+  "inflection": "3"
+ },
+ {
+  "id": "etiam#4",
+  "front": "etiam",
+  "lemma": "etiam",
+  "back": "yes",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "yes indeed",
+   "certainly"
+  ],
+  "definition": "as an affirmative answer; certainly, yes indeed",
+  "examples": [
+   "Venīsne ad cēnam? Etiam, veniō."
+  ],
+  "examples_en": [
+   "Are you coming to dinner? Yes, I am."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 6.5,
+  "lemma_id": "etiam",
+  "sense_index": 4,
+  "sense_count": 4,
+  "cue": "Venīsne ad cēnam? Etiam, veniō.",
+  "share": 8.0,
+  "hint": "answering yes",
+  "hint_context": "yes, I will",
+  "example_marks": [
+   {
+    "text": "Etiam",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "fortis",
+  "front": "fortis, forte",
+  "lemma": "fortis",
+  "back": "brave",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "strong"
+  ],
+  "definition": "brave; strong",
+  "examples": [
+   "Mīles fortis nōn fugit."
+  ],
+  "examples_en": [
+   "A brave soldier does not run away."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 5.4,
+  "share": 98.0,
+  "hint": "courageous",
+  "hint_context": "a brave man",
+  "example_marks": [
+   {
+    "text": "fortis",
+    "nth": 1
+   }
+  ],
+  "inflection": "adjective",
+  "cognates": "it forte · en fortitude, fort · pl forteca"
+ },
+ {
+  "id": "morior",
+  "front": "morior, morī, mortuus sum",
+  "lemma": "morior",
+  "back": "die",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to die (deponent)",
+  "examples": [
+   "Omnēs hominēs moriuntur."
+  ],
+  "examples_en": [
+   "All people die."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.39,
+  "share": 98.0,
+  "hint": "end of life",
+  "hint_context": "die young",
+  "example_marks": [
+   {
+    "text": "moriuntur",
+    "nth": 1
+   }
+  ],
+  "inflection": "3rd conj. -iō, deponent",
+  "cognates": "it morire · en mortal, moribund · pl —"
+ },
+ {
+  "id": "gravis",
+  "front": "gravis, grave",
+  "lemma": "gravis",
+  "back": "heavy",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "weighty"
+  ],
+  "definition": "heavy",
+  "examples": [
+   "Saxum grave est."
+  ],
+  "examples_en": [
+   "The rock is heavy."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 5.64,
+  "lemma_id": "gravis",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Saxum grave est.",
+  "share": 50.0,
+  "hint": "weight",
+  "hint_context": "a heavy load",
+  "example_marks": [
+   {
+    "text": "grave",
+    "nth": 1
+   }
+  ],
+  "inflection": "adjective",
+  "cognates": "it grave · en grave, gravity · pl grawitacja"
+ },
+ {
+  "id": "brevis",
+  "front": "brevis, breve",
+  "lemma": "brevis",
+  "back": "short",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "brief"
+  ],
+  "definition": "short, brief",
+  "examples": [
+   "Vīta brevis est."
+  ],
+  "examples_en": [
+   "Life is short."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 5.34,
+  "share": 98.0,
+  "hint": "short time",
+  "hint_context": "a short speech",
+  "example_marks": [
+   {
+    "text": "brevis",
+    "nth": 1
+   }
+  ],
+  "inflection": "adjective",
+  "cognates": "it breve · en brief, abbreviate · pl —"
+ },
+ {
+  "id": "pars#4",
+  "front": "pars, partis",
+  "lemma": "pars",
+  "back": "role",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "duty",
+   "function",
+   "office"
+  ],
+  "definition": "a function, duty, or office assigned to someone (often plural partēs)",
+  "examples": [
+   "Ille partēs suās bene ēgit."
+  ],
+  "examples_en": [
+   "He played his part well."
+  ],
+  "claude": true,
+  "topic": "work",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 6.33,
+  "lemma_id": "pars",
+  "sense_index": 4,
+  "sense_count": 5,
+  "cue": "Ille partēs suās bene ēgit.",
+  "share": 10.0,
+  "hint": "duty, role played",
+  "hint_context": "he played his part well",
+  "example_marks": [
+   {
+    "text": "partēs",
+    "nth": 1
+   }
+  ],
+  "inflection": "3"
+ },
+ {
+  "id": "tamen#2",
+  "front": "tamen",
+  "lemma": "tamen",
+  "back": "and yet",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "but still"
+  ],
+  "definition": "in the combinations et tamen / ac tamen: and yet, but all the same",
+  "examples": [
+   "Eīs tamen nōn crēdō."
+  ],
+  "examples_en": [
+   "Yet I do not believe them."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 6.33,
+  "lemma_id": "tamen",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Eīs tamen nōn crēdō.",
+  "share": 10.0,
+  "hint": "adds a contrasting point",
+  "hint_context": "they say so, and yet",
+  "example_marks": [
+   {
+    "text": "tamen",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "gravis#2",
+  "front": "gravis, grave",
+  "lemma": "gravis",
+  "back": "serious",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "grave",
+   "severe"
+  ],
+  "definition": "serious, severe",
+  "examples": [
+   "Morbus gravis est."
+  ],
+  "examples_en": [
+   "The illness is serious."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 5.64,
+  "lemma_id": "gravis",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Morbus gravis est.",
+  "share": 48.0,
+  "hint": "serious matter",
+  "hint_context": "a serious illness",
+  "example_marks": [
+   {
+    "text": "gravis",
+    "nth": 1
+   }
+  ],
+  "inflection": "adjective",
+  "cognates": "it grave · en grave, gravity · pl grawitacja"
+ },
+ {
+  "id": "mare",
+  "front": "mare, maris",
+  "lemma": "mare",
+  "back": "sea",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "the sea",
+  "examples": [
+   "Nāvēs per mare nāvigant."
+  ],
+  "examples_en": [
+   "The ships sail across the sea."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 5.31,
+  "share": 98.0,
+  "hint": "salt water",
+  "hint_context": "across the sea",
+  "example_marks": [
+   {
+    "text": "mare",
+    "nth": 1
+   }
+  ],
+  "inflection": "3rd decl.",
+  "cognates": "it mare · en marine · pl morze"
+ },
+ {
+  "id": "quod~adverb",
+  "front": "quod",
+  "lemma": "quod",
+  "back": "why",
+  "band": 1,
+  "kind": "word",
+  "register": "literary",
+  "alts": [
+   "wherefore",
+   "for which reason"
+  ],
+  "definition": "in phrases like 'quid est quod…': for which reason, why (it is that)",
+  "examples": [
+   "Quid est quod timeās?"
+  ],
+  "examples_en": [
+   "Why is it that you are afraid?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 6.82,
+  "share": 3.0,
+  "hint": "reason in 'est quod' phrases",
+  "hint_context": "why is it that you are afraid",
+  "example_marks": [
+   {
+    "text": "quod",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "pater#2",
+  "front": "pater, patris",
+  "lemma": "pater",
+  "back": "forefather",
+  "band": 1,
+  "kind": "word",
+  "register": "formal",
+  "alts": [
+   "ancestor"
+  ],
+  "definition": "ancestor, usually in the plural patrēs",
+  "examples": [
+   "Patrēs nostrī hanc urbem condidērunt."
+  ],
+  "examples_en": [
+   "Our forefathers founded this city."
+  ],
+  "claude": true,
+  "topic": "history",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 6.38,
+  "lemma_id": "pater",
+  "sense_index": 2,
+  "sense_count": 5,
+  "cue": "Patrēs nostrī hanc urbem condidērunt.",
+  "share": 8.0,
+  "hint": "ancestor, plural",
+  "hint_context": "our forefathers built",
+  "example_marks": [
+   {
+    "text": "Patrēs",
+    "nth": 1
+   }
+  ],
+  "inflection": "3"
+ },
+ {
+  "id": "eō",
+  "front": "eō, īre, iī, itum",
+  "lemma": "eō",
+  "back": "go",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to go",
+  "examples": [
+   "Eō ad forum."
+  ],
+  "examples_en": [
+   "I'm going to the forum."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.29,
+  "share": 98.0,
+  "hint": "move away",
+  "hint_context": "go to the forum",
+  "example_marks": [
+   {
+    "text": "Eō",
+    "nth": 1
+   }
+  ],
+  "inflection": "irr.",
+  "cognates": "it ire (andare) · en exit, transit · pl —"
+ },
+ {
+  "id": "possum#3",
+  "front": "possum, posse, potuī, —",
+  "lemma": "possum",
+  "back": "have influence",
+  "band": 1,
+  "kind": "word",
+  "register": "literary",
+  "alts": [
+   "avail",
+   "have power over"
+  ],
+  "definition": "to have influence, power, or efficacy over someone or something",
+  "examples": [
+   "Pecūnia multum in urbe potest."
+  ],
+  "examples_en": [
+   "Money holds great sway in the city."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 6.65,
+  "lemma_id": "possum",
+  "sense_index": 3,
+  "sense_count": 3,
+  "cue": "Pecūnia multum in urbe potest.",
+  "share": 4.0,
+  "hint": "wield power or sway",
+  "hint_context": "money holds great sway",
+  "example_marks": [
+   {
+    "text": "potest",
+    "nth": 1
+   }
+  ],
+  "inflection": "irr"
+ },
+ {
+  "id": "quid~interjection",
+  "front": "quid",
+  "lemma": "quid",
+  "back": "what?",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "well"
+  ],
+  "definition": "transitional or challenging question in speech: what? well?",
+  "examples": [
+   "Quid? Tū id nōn scīs?"
+  ],
+  "examples_en": [
+   "What? Don't you know that?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Interjection",
+  "gender": "",
+  "zipf": 6.5,
+  "share": 5.0,
+  "hint": "expressing surprise",
+  "hint_context": "what? you don't know that?",
+  "example_marks": [
+   {
+    "text": "Quid",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "fortūna",
+  "front": "fortūna, fortūnae",
+  "lemma": "fortūna",
+  "back": "fortune",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "luck",
+   "fate"
+  ],
+  "definition": "luck, fortune (good or bad)",
+  "examples": [
+   "Fortēs fortūna adiuvat."
+  ],
+  "examples_en": [
+   "Fortune favors the brave."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 5.2,
+  "share": 98.0,
+  "hint": "luck, fate",
+  "hint_context": "good fortune",
+  "example_marks": [
+   {
+    "text": "fortūna",
+    "nth": 1
+   }
+  ],
+  "inflection": "1st decl.",
+  "cognates": "it fortuna · en fortune · pl fortuna",
+  "source": "Ter. Phorm. 203"
+ },
+ {
+  "id": "ā~interjection",
+  "front": "ā",
+  "lemma": "ā",
+  "back": "ah",
+  "band": 1,
+  "kind": "word",
+  "register": "literary",
+  "alts": [
+   "oh"
+  ],
+  "definition": "expresses surprise, realization, or pain",
+  "examples": [
+   "Ā, nunc intellegō!"
+  ],
+  "examples_en": [
+   "Ah, now I understand!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Interjection",
+  "gender": "",
+  "zipf": 6.58,
+  "share": 4.0,
+  "hint": "sudden realization",
+  "hint_context": "ah, now I understand",
+  "example_marks": [
+   {
+    "text": "Ā",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "altus",
+  "front": "altus, alta, altum",
+  "lemma": "altus",
+  "back": "high",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "tall"
+  ],
+  "definition": "high, tall",
+  "examples": [
+   "Mōns altus est."
+  ],
+  "examples_en": [
+   "The mountain is high."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 5.36,
+  "lemma_id": "altus",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Mōns altus est.",
+  "share": 65.0,
+  "hint": "upward",
+  "hint_context": "a high wall",
+  "example_marks": [
+   {
+    "text": "altus",
+    "nth": 1
+   }
+  ],
+  "inflection": "adjective",
+  "cognates": "it alto · en altitude · pl alt"
+ },
+ {
+  "id": "quī~adverb",
+  "front": "quī",
+  "lemma": "quī",
+  "back": "how",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "why"
+  ],
+  "definition": "in what way? by what means? why?",
+  "examples": [
+   "Quī id scīre potuistī?"
+  ],
+  "examples_en": [
+   "How could you have known that?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 6.57,
+  "share": 4.0,
+  "hint": "in what way",
+  "hint_context": "how did you know",
+  "example_marks": [
+   {
+    "text": "Quī",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "amīcus",
+  "front": "amīcus, amīcī",
+  "lemma": "amīcus",
+  "back": "friend",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a friend",
+  "examples": [
+   "Amīcus certus in rē incertā cernitur."
+  ],
+  "examples_en": [
+   "A sure friend is seen in an uncertain situation."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 5.18,
+  "share": 98.0,
+  "hint": "close friend",
+  "hint_context": "a true friend",
+  "example_marks": [
+   {
+    "text": "Amīcus",
+    "nth": 1
+   }
+  ],
+  "inflection": "2nd decl.",
+  "cognates": "it amico · en amicable · pl —",
+  "source": "Enn. ap. Cic. Amic. 64"
+ },
+ {
+  "id": "pater#3",
+  "front": "pater, patris",
+  "lemma": "pater",
+  "back": "senator",
+  "band": 1,
+  "kind": "word",
+  "register": "formal",
+  "alts": [
+   "Roman senator"
+  ],
+  "definition": "senator, esp. plural patrēs (cōnscrīptī)",
+  "examples": [
+   "Patrēs in cūriā conveniunt."
+  ],
+  "examples_en": [
+   "The senators are meeting in the senate house."
+  ],
+  "claude": true,
+  "topic": "politics",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 6.38,
+  "lemma_id": "pater",
+  "sense_index": 3,
+  "sense_count": 5,
+  "cue": "Patrēs in cūriā conveniunt.",
+  "share": 6.0,
+  "hint": "senator, plural",
+  "hint_context": "the senators meet",
+  "example_marks": [
+   {
+    "text": "Patrēs",
+    "nth": 1
+   }
+  ],
+  "inflection": "3"
+ },
+ {
+  "id": "pars#5",
+  "front": "pars, partis",
+  "lemma": "pars",
+  "back": "party",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "faction",
+   "camp"
+  ],
+  "definition": "a political faction or side in a dispute",
+  "examples": [
+   "Utraque pars concordiam quaerēbat."
+  ],
+  "examples_en": [
+   "Both parties were seeking peace."
+  ],
+  "claude": true,
+  "topic": "politics",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 6.33,
+  "lemma_id": "pars",
+  "sense_index": 5,
+  "sense_count": 5,
+  "cue": "Utraque pars concordiam quaerēbat.",
+  "share": 6.0,
+  "hint": "political faction",
+  "hint_context": "both parties in the dispute",
+  "example_marks": [
+   {
+    "text": "pars",
+    "nth": 1
+   }
+  ],
+  "inflection": "3"
+ },
+ {
+  "id": "cor",
+  "front": "cor, cordis",
+  "lemma": "cor",
+  "back": "heart",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "the heart (also: feelings)",
+  "examples": [
+   "Cor meum tibi dōnō."
+  ],
+  "examples_en": [
+   "I give you my heart."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 5.11,
+  "share": 98.0,
+  "hint": "body, feelings",
+  "hint_context": "with all my heart",
+  "example_marks": [
+   {
+    "text": "Cor",
+    "nth": 1
+   }
+  ],
+  "inflection": "3rd decl.",
+  "cognates": "it cuore · en cordial · pl —"
+ },
+ {
+  "id": "lingua",
+  "front": "lingua, linguae",
+  "lemma": "lingua",
+  "back": "language",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "tongue"
+  ],
+  "definition": "a language",
+  "examples": [
+   "Lingua Latīna pulchra est."
+  ],
+  "examples_en": [
+   "The Latin language is beautiful."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 5.33,
+  "lemma_id": "lingua",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Lingua Latīna pulchra est.",
+  "share": 58.0,
+  "hint": "Latin, Greek…",
+  "hint_context": "the Latin language",
+  "example_marks": [
+   {
+    "text": "Lingua",
+    "nth": 1
+   }
+  ],
+  "inflection": "1st decl.",
+  "cognates": "it lingua · en language, linguistic · pl lingwistyka"
+ },
+ {
+  "id": "pater#4",
+  "front": "pater, patris",
+  "lemma": "pater",
+  "back": "head of household",
+  "band": 1,
+  "kind": "word",
+  "register": "formal",
+  "alts": [
+   "master of the house"
+  ],
+  "definition": "male head of a household, paterfamilias",
+  "examples": [
+   "Pater familiās cēnam parāvit."
+  ],
+  "examples_en": [
+   "The head of the household prepared dinner."
+  ],
+  "claude": true,
+  "topic": "family",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 6.38,
+  "lemma_id": "pater",
+  "sense_index": 4,
+  "sense_count": 5,
+  "cue": "Pater familiās cēnam parāvit.",
+  "share": 5.0,
+  "hint": "household master",
+  "hint_context": "pater familias",
+  "example_marks": [
+   {
+    "text": "Pater",
+    "nth": 1
+   }
+  ],
+  "inflection": "3"
+ },
+ {
+  "id": "pater#5",
+  "front": "pater, patris",
+  "lemma": "pater",
+  "back": "priest",
+  "band": 1,
+  "kind": "word",
+  "register": "literary",
+  "alts": [
+   "Father"
+  ],
+  "definition": "Christian priest, used as a form of address",
+  "examples": [
+   "Pater missam hodiē dīcit."
+  ],
+  "examples_en": [
+   "The priest says Mass today."
+  ],
+  "claude": true,
+  "topic": "ecclesiastical",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 6.38,
+  "lemma_id": "pater",
+  "sense_index": 5,
+  "sense_count": 5,
+  "cue": "Pater missam hodiē dīcit.",
+  "share": 5.0,
+  "hint": "clergyman, Church",
+  "hint_context": "the priest says Mass",
+  "example_marks": [
+   {
+    "text": "Pater",
+    "nth": 1
+   }
+  ],
+  "inflection": "3"
+ },
+ {
+  "id": "nāscor",
+  "front": "nāscor, nāscī, nātus sum",
+  "lemma": "nāscor",
+  "back": "be born",
+  "band": 1,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to be born (deponent)",
+  "examples": [
+   "Poētae nāscuntur, nōn fīunt."
+  ],
+  "examples_en": [
+   "Poets are born, not made."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.01,
+  "share": 98.0,
+  "hint": "come into life",
+  "hint_context": "born in Rome",
+  "example_marks": [
+   {
+    "text": "nāscuntur",
+    "nth": 1
+   }
+  ],
+  "inflection": "3rd conj., deponent",
+  "cognates": "it nascere · en native, nation · pl natura"
+ },
+ {
+  "id": "et",
+  "front": "et",
+  "lemma": "et",
+  "back": "and",
+  "band": 1,
+  "kind": "function",
+  "register": "neutral",
+  "alts": [
+   "plus",
+   "both"
+  ],
+  "definition": "joins words, phrases, or clauses; connects items",
+  "examples": [
+   "Pater et māter domī sunt.",
+   "Et puer et puella in hortō lūdunt."
+  ],
+  "examples_en": [
+   "Father and mother are at home.",
+   "Both the boy and the girl are playing in the garden."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Conjunction",
+  "gender": "",
+  "zipf": 7.45,
+  "share": 86.0,
+  "hint": "joining words, clauses",
+  "hint_context": "bread and butter",
+  "example_marks": [
+   {
+    "text": "et",
+    "nth": 1
+   }
+  ],
+  "uses": [
+   {
+    "back": "and",
+    "hint": "joining words, clauses",
+    "definition": "joins words, phrases, or clauses; connects items",
+    "example": "Pater et māter domī sunt.",
+    "example_en": "Father and mother are at home.",
+    "example_marks": [
+     {
+      "text": "et",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "both",
+    "hint": "et...et paired",
+    "definition": "et...et: both of two things; used with a paired second et",
+    "example": "Et puer et puella in hortō lūdunt.",
+    "example_en": "Both the boy and the girl are playing in the garden.",
+    "example_marks": [
+     {
+      "text": "Et",
+      "nth": 1
+     },
+     {
+      "text": "et",
+      "nth": 1
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "in",
+  "front": "in",
+  "lemma": "in",
+  "back": "in",
+  "band": 1,
+  "kind": "function",
+  "register": "neutral",
+  "alts": [
+   "on",
+   "at",
+   "into",
+   "onto",
+   "to",
+   "during"
+  ],
+  "definition": "+ abl.: in, on, or at a place where something is",
+  "examples": [
+   "Puer in hortō lūdit.",
+   "Puer in hortum currit.",
+   "In bellō multī mīlitēs periērunt.",
+   "Cīvēs in tyrannum coniūrāvērunt."
+  ],
+  "examples_en": [
+   "The boy is playing in the garden.",
+   "The boy runs into the garden.",
+   "During the war, many soldiers died.",
+   "The citizens conspired against the tyrant."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Preposition",
+  "gender": "",
+  "zipf": 7.31,
+  "share": 100.0,
+  "hint": "location, where",
+  "hint_context": "in the garden",
+  "example_marks": [
+   {
+    "text": "in",
+    "nth": 1
+   }
+  ],
+  "uses": [
+   {
+    "back": "in",
+    "hint": "location, where",
+    "definition": "+ abl.: in, on, or at a place where something is",
+    "example": "Puer in hortō lūdit.",
+    "example_en": "The boy is playing in the garden.",
+    "example_marks": [
+     {
+      "text": "in",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "into",
+    "hint": "motion toward a place",
+    "definition": "+ acc.: into or onto a place, showing motion toward",
+    "example": "Puer in hortum currit.",
+    "example_en": "The boy runs into the garden.",
+    "example_marks": [
+     {
+      "text": "in",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "during",
+    "hint": "during a period",
+    "definition": "+ abl.: during or within a period of time",
+    "example": "In bellō multī mīlitēs periērunt.",
+    "example_en": "During the war, many soldiers died.",
+    "example_marks": [
+     {
+      "text": "In",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "against",
+    "hint": "hostile, against someone",
+    "definition": "+ acc.: against or toward someone, in hostile intent",
+    "example": "Cīvēs in tyrannum coniūrāvērunt.",
+    "example_en": "The citizens conspired against the tyrant.",
+    "example_marks": [
+     {
+      "text": "in",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "regarding",
+    "hint": "respect, matter at hand",
+    "definition": "+ abl.: with respect to a matter or circumstance",
+    "example": "In hāc rē omnēs cōnsentiunt.",
+    "example_en": "Everyone agrees on this matter.",
+    "example_marks": [
+     {
+      "text": "In",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "for",
+    "hint": "duration, for a span",
+    "definition": "+ acc.: for a period of time, indicating duration",
+    "example": "Cōnsul in annum creātus est.",
+    "example_en": "He was elected consul for a year.",
+    "example_marks": [
+     {
+      "text": "in",
+      "nth": 1
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "is",
+  "front": "is, ea, id",
+  "lemma": "is",
+  "back": "he",
+  "band": 1,
+  "kind": "function",
+  "register": "neutral",
+  "alts": [
+   "she",
+   "it",
+   "they",
+   "that",
+   "this",
+   "who"
+  ],
+  "definition": "that man, woman or thing; he, she, it, they (previously mentioned)",
+  "examples": [
+   "Servum vocāvī; is statim vēnit.",
+   "Is vir in oppidō nostrō multōs annōs habitat.",
+   "Is est quī omnia scit.",
+   "Eiusmodī sermōnēs audīre nōlō."
+  ],
+  "examples_en": [
+   "I called the slave; he came at once.",
+   "That man has lived in our town for many years.",
+   "He is the one who knows everything.",
+   "I don't want to hear talk of that kind."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Pronoun",
+  "gender": "",
+  "zipf": 7.11,
+  "share": 93.0,
+  "hint": "previously mentioned",
+  "hint_context": "he came at once",
+  "example_marks": [
+   {
+    "text": "is",
+    "nth": 1
+   }
+  ],
+  "uses": [
+   {
+    "back": "he",
+    "hint": "previously mentioned",
+    "definition": "that man, woman or thing; he, she, it, they (previously mentioned)",
+    "example": "Servum vocāvī; is statim vēnit.",
+    "example_en": "I called the slave; he came at once.",
+    "example_marks": [
+     {
+      "text": "is",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "that",
+    "hint": "demonstrative adjective",
+    "definition": "this or that man, woman or thing (as a modifier of a noun)",
+    "example": "Is vir in oppidō nostrō multōs annōs habitat.",
+    "example_en": "That man has lived in our town for many years.",
+    "example_marks": [
+     {
+      "text": "Is",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "who",
+    "hint": "relative, with qui",
+    "definition": "he, she, it who; that which (relative use, often with qui)",
+    "example": "Is est quī omnia scit.",
+    "example_en": "He is the one who knows everything.",
+    "example_marks": [
+     {
+      "text": "Is",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "such",
+    "hint": "of that kind",
+    "definition": "of such a nature, kind or degree (usually in eiusmodi)",
+    "example": "Eiusmodī sermōnēs audīre nōlō.",
+    "example_en": "I don't want to hear talk of that kind.",
+    "example_marks": [
+     {
+      "text": "Eiusmodī",
+      "nth": 1
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ad",
+  "front": "ad",
+  "lemma": "ad",
+  "back": "to",
+  "band": 1,
+  "kind": "function",
+  "register": "neutral",
+  "alts": [
+   "toward",
+   "up to",
+   "at",
+   "near",
+   "by",
+   "for"
+  ],
+  "definition": "motion toward a place, person, or goal",
+  "examples": [
+   "Ad forum properāmus, nōndum sērō est.",
+   "Puer ad portam stābat cum cane.",
+   "Haec ad bellum parāta sunt.",
+   "Ad vesperum in villā mānsimus."
+  ],
+  "examples_en": [
+   "We are hurrying to the forum; it's not late yet.",
+   "The boy was standing at the gate with the dog.",
+   "These things were prepared for war.",
+   "We stayed in the villa until evening."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Preposition",
+  "gender": "",
+  "zipf": 6.98,
+  "share": 94.0,
+  "hint": "direction toward",
+  "hint_context": "go to Rome",
+  "example_marks": [
+   {
+    "text": "Ad",
+    "nth": 1
+   }
+  ],
+  "uses": [
+   {
+    "back": "to",
+    "hint": "direction toward",
+    "definition": "motion toward a place, person, or goal",
+    "example": "Ad forum properāmus, nōndum sērō est.",
+    "example_en": "We are hurrying to the forum; it's not late yet.",
+    "example_marks": [
+     {
+      "text": "Ad",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "at",
+    "hint": "location nearby",
+    "definition": "close to or at a place (location)",
+    "example": "Puer ad portam stābat cum cane.",
+    "example_en": "The boy was standing at the gate with the dog.",
+    "example_marks": [
+     {
+      "text": "ad",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "for",
+    "hint": "purpose or aim",
+    "definition": "for the purpose of, or as a means to an aim",
+    "example": "Haec ad bellum parāta sunt.",
+    "example_en": "These things were prepared for war.",
+    "example_marks": [
+     {
+      "text": "ad",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "until",
+    "hint": "extent of time",
+    "definition": "extending in time up to a point",
+    "example": "Ad vesperum in villā mānsimus.",
+    "example_en": "We stayed in the villa until evening.",
+    "example_marks": [
+     {
+      "text": "Ad",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "against",
+    "hint": "hostile direction",
+    "definition": "hostile movement toward or position against",
+    "example": "Caesar ad hostēs contendit cum legiōnibus.",
+    "example_en": "Caesar marched against the enemy with his legions.",
+    "example_marks": [
+     {
+      "text": "ad",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "around",
+    "hint": "time of day",
+    "definition": "at or around a point in time",
+    "example": "Ad tertiam hōram in forō erāmus.",
+    "example_en": "We were in the forum around the third hour.",
+    "example_marks": [
+     {
+      "text": "Ad",
+      "nth": 1
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ut",
+  "front": "ut",
+  "lemma": "ut",
+  "back": "so that",
+  "band": 1,
+  "kind": "function",
+  "register": "neutral",
+  "alts": [
+   "in order to",
+   "in order that",
+   "that",
+   "to",
+   "as",
+   "like"
+  ],
+  "definition": "introduces a purpose or result clause",
+  "examples": [
+   "Vēnit ut patrem vidēret.",
+   "Rogō tē ut veniās.",
+   "Fēcī ut mē docuistī.",
+   "Ut vīdit hostēs, fūgit."
+  ],
+  "examples_en": [
+   "He came in order to see his father.",
+   "I ask you to come.",
+   "I did as you taught me.",
+   "As soon as he saw the enemy, he fled."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Conjunction",
+  "gender": "",
+  "zipf": 6.98,
+  "share": 72.0,
+  "hint": "purpose clause",
+  "hint_context": "came to see him",
+  "example_marks": [
+   {
+    "text": "ut",
+    "nth": 1
+   }
+  ],
+  "uses": [
+   {
+    "back": "so that",
+    "hint": "purpose clause",
+    "definition": "introduces a purpose or result clause",
+    "example": "Vēnit ut patrem vidēret.",
+    "example_en": "He came in order to see his father.",
+    "example_marks": [
+     {
+      "text": "ut",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "that",
+    "hint": "after ask or command",
+    "definition": "introduces a noun clause after verbs of asking, urging, commanding",
+    "example": "Rogō tē ut veniās.",
+    "example_en": "I ask you to come.",
+    "example_marks": [
+     {
+      "text": "ut",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "as",
+    "hint": "in the same way",
+    "definition": "in the same way that; in the manner of",
+    "example": "Fēcī ut mē docuistī.",
+    "example_en": "I did as you taught me.",
+    "example_marks": [
+     {
+      "text": "ut",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "as soon as",
+    "hint": "temporal, at the moment",
+    "definition": "at the moment that; when",
+    "example": "Ut vīdit hostēs, fūgit.",
+    "example_en": "As soon as he saw the enemy, he fled.",
+    "example_marks": [
+     {
+      "text": "Ut",
+      "nth": 1
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ego",
+  "front": "ego, meī",
+  "lemma": "ego",
+  "back": "I",
+  "band": 1,
+  "kind": "function",
+  "register": "neutral",
+  "alts": [],
+  "definition": "first person singular personal pronoun, nominative case",
+  "examples": [
+   "Ego vōbīscum in urbem ībō."
+  ],
+  "examples_en": [
+   "I will go into the city with you."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Pronoun",
+  "gender": "",
+  "zipf": 6.82,
+  "share": 100.0,
+  "hint": "first-person subject",
+  "hint_context": "I will go",
+  "example_marks": [
+   {
+    "text": "Ego",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "sī",
+  "front": "sī",
+  "lemma": "sī",
+  "back": "if",
+  "band": 1,
+  "kind": "function",
+  "register": "neutral",
+  "alts": [
+   "supposing",
+   "(to see) if",
+   "in case",
+   "to see whether"
+  ],
+  "definition": "introducing a condition or supposition",
+  "examples": [
+   "Sī tempus habēs, venī ad mē.",
+   "Ad portum īvī, sī amīcum invenīre possem."
+  ],
+  "examples_en": [
+   "If you have time, come to me.",
+   "I went to the harbor to see if I could find my friend."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Conjunction",
+  "gender": "",
+  "zipf": 6.8,
+  "share": 100.0,
+  "hint": "conditional clause",
+  "hint_context": "if it rains",
+  "example_marks": [
+   {
+    "text": "Sī",
+    "nth": 1
+   }
+  ],
+  "uses": [
+   {
+    "back": "if",
+    "hint": "conditional clause",
+    "definition": "introducing a condition or supposition",
+    "example": "Sī tempus habēs, venī ad mē.",
+    "example_en": "If you have time, come to me.",
+    "example_marks": [
+     {
+      "text": "Sī",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "(to see) if",
+    "hint": "purpose or attempt, 'to see if'",
+    "definition": "after verbs of trying, waiting or looking: to see whether, in the hope that",
+    "example": "Ad portum īvī, sī amīcum invenīre possem.",
+    "example_en": "I went to the harbor to see if I could find my friend.",
+    "example_marks": [
+     {
+      "text": "sī",
+      "nth": 1
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "atque",
+  "front": "atque",
+  "lemma": "atque",
+  "back": "and",
+  "band": 1,
+  "kind": "function",
+  "register": "neutral",
+  "alts": [
+   "and also",
+   "and even",
+   "as",
+   "than"
+  ],
+  "definition": "joins words or clauses, often with added emphasis ('and indeed')",
+  "examples": [
+   "Puer atque puella in hortō lūdunt.",
+   "Hic liber īdem est atque ille."
+  ],
+  "examples_en": [
+   "The boy and the girl are playing in the garden.",
+   "This book is the same as that one."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Conjunction",
+  "gender": "",
+  "zipf": 6.78,
+  "share": 100.0,
+  "hint": "emphatic 'and'",
+  "hint_context": "the boy and the girl",
+  "example_marks": [
+   {
+    "text": "atque",
+    "nth": 1
+   }
+  ],
+  "uses": [
+   {
+    "back": "and",
+    "hint": "emphatic 'and'",
+    "definition": "joins words or clauses, often with added emphasis ('and indeed')",
+    "example": "Puer atque puella in hortō lūdunt.",
+    "example_en": "The boy and the girl are playing in the garden.",
+    "example_marks": [
+     {
+      "text": "atque",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "as",
+    "hint": "same as",
+    "definition": "after īdem, alius, similis, etc.: 'same as', 'other than'",
+    "example": "Hic liber īdem est atque ille.",
+    "example_en": "This book is the same as that one.",
+    "example_marks": [
+     {
+      "text": "atque",
+      "nth": 1
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ex",
+  "front": "ex, ē",
+  "lemma": "ex",
+  "back": "out of",
+  "band": 1,
+  "kind": "function",
+  "register": "neutral",
+  "alts": [
+   "out from",
+   "from inside",
+   "from",
+   "of",
+   "among",
+   "since"
+  ],
+  "definition": "motion from within a place or container (+ ablative)",
+  "examples": [
+   "Puer ē domō cucurrit.",
+   "Vīnum ex Graeciā adfertur.",
+   "Ūnus ex nautīs in portū mānsit.",
+   "Ex eō tempore nihil audīvimus."
+  ],
+  "examples_en": [
+   "The boy ran out of the house.",
+   "The wine is brought from Greece.",
+   "One of the sailors stayed in the harbor.",
+   "Since that time, we have heard nothing."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Preposition",
+  "gender": "",
+  "zipf": 6.75,
+  "share": 95.0,
+  "hint": "emerging from inside",
+  "hint_context": "ran out of the house",
+  "example_marks": [
+   {
+    "text": "ē",
+    "nth": 1
+   }
+  ],
+  "uses": [
+   {
+    "back": "out of",
+    "hint": "emerging from inside",
+    "definition": "motion from within a place or container (+ ablative)",
+    "example": "Puer ē domō cucurrit.",
+    "example_en": "The boy ran out of the house.",
+    "example_marks": [
+     {
+      "text": "ē",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "from",
+    "hint": "origin or source",
+    "definition": "origin or source; coming from a place, person, or thing (+ ablative)",
+    "example": "Vīnum ex Graeciā adfertur.",
+    "example_en": "The wine is brought from Greece.",
+    "example_marks": [
+     {
+      "text": "ex",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "of",
+    "hint": "part taken from a group",
+    "definition": "partitive: one or some taken from a group (+ ablative)",
+    "example": "Ūnus ex nautīs in portū mānsit.",
+    "example_en": "One of the sailors stayed in the harbor.",
+    "example_marks": [
+     {
+      "text": "ex",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "since",
+    "hint": "ever since (ex quō)",
+    "definition": "from a point in time onward (+ ablative)",
+    "example": "Ex eō tempore nihil audīvimus.",
+    "example_en": "Since that time, we have heard nothing.",
+    "example_marks": [
+     {
+      "text": "Ex",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "because of",
+    "hint": "cause or result",
+    "definition": "cause or result (+ ablative)",
+    "example": "Mīles ex vulnere periit.",
+    "example_en": "The soldier died from his wound.",
+    "example_marks": [
+     {
+      "text": "ex",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "according to",
+    "hint": "in accordance with",
+    "definition": "in conformity with a rule, law, or standard (+ ablative)",
+    "example": "Ex lēge hoc facere licet.",
+    "example_en": "It is permitted to do this according to the law.",
+    "example_marks": [
+     {
+      "text": "Ex",
+      "nth": 1
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "sed",
+  "front": "sed",
+  "lemma": "sed",
+  "back": "but",
+  "band": 1,
+  "kind": "function",
+  "register": "neutral",
+  "alts": [
+   "however",
+   "yet",
+   "but also",
+   "as well"
+  ],
+  "definition": "introduces a contrast or correction to what precedes",
+  "examples": [
+   "Nōn scholae, sed vītae discimus.",
+   "Nōn sōlum cōnsul, sed etiam senātus adest."
+  ],
+  "examples_en": [
+   "We learn not for school, but for life.",
+   "Not only the consul but also the senate is present."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Conjunction",
+  "gender": "",
+  "zipf": 6.74,
+  "share": 97.0,
+  "hint": "contrast or correction after a negative",
+  "hint_context": "not this, but that",
+  "example_marks": [
+   {
+    "text": "sed",
+    "nth": 1
+   }
+  ],
+  "uses": [
+   {
+    "back": "but",
+    "hint": "contrast or correction after a negative",
+    "definition": "introduces a contrast or correction to what precedes",
+    "example": "Nōn scholae, sed vītae discimus.",
+    "example_en": "We learn not for school, but for life.",
+    "example_marks": [
+     {
+      "text": "sed",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "but also",
+    "hint": "not only...but also",
+    "definition": "after non solum: introduces an addition, with etiam",
+    "example": "Nōn sōlum cōnsul, sed etiam senātus adest.",
+    "example_en": "Not only the consul but also the senate is present.",
+    "example_marks": [
+     {
+      "text": "sed etiam",
+      "nth": 1
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ab",
+  "front": "ab",
+  "lemma": "ab",
+  "back": "from",
+  "band": 1,
+  "kind": "function",
+  "register": "neutral",
+  "alts": [
+   "away from",
+   "out of",
+   "by",
+   "through the agency of",
+   "since",
+   "on the side of"
+  ],
+  "definition": "motion or separation away from a place or person",
+  "examples": [
+   "Ab urbe discessimus ante lūcem.",
+   "Liber ab amīcō meō scriptus est.",
+   "Ab illō tempore nōn vīdī eum.",
+   "Ab dextrō cornū legiō stābat."
+  ],
+  "examples_en": [
+   "We left the city before dawn.",
+   "The book was written by my friend.",
+   "I haven't seen him since that time.",
+   "On the right wing the legion was standing."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Preposition",
+  "gender": "",
+  "zipf": 6.72,
+  "share": 100.0,
+  "hint": "away from, out of",
+  "hint_context": "leave the city",
+  "example_marks": [
+   {
+    "text": "Ab",
+    "nth": 1
+   }
+  ],
+  "uses": [
+   {
+    "back": "from",
+    "hint": "away from, out of",
+    "definition": "motion or separation away from a place or person",
+    "example": "Ab urbe discessimus ante lūcem.",
+    "example_en": "We left the city before dawn.",
+    "example_marks": [
+     {
+      "text": "Ab",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "by",
+    "hint": "agent of a passive verb",
+    "definition": "marks the agent or source of an action, esp. with passive verbs",
+    "example": "Liber ab amīcō meō scriptus est.",
+    "example_en": "The book was written by my friend.",
+    "example_marks": [
+     {
+      "text": "ab",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "since",
+    "hint": "from a point in time",
+    "definition": "from a point in time onward",
+    "example": "Ab illō tempore nōn vīdī eum.",
+    "example_en": "I haven't seen him since that time.",
+    "example_marks": [
+     {
+      "text": "Ab",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "on the side of",
+    "hint": "position relative to a side",
+    "definition": "marks position in relation to a side or direction (ab dextrō cornū, ā tergō)",
+    "example": "Ab dextrō cornū legiō stābat.",
+    "example_en": "On the right wing the legion was standing.",
+    "example_marks": [
+     {
+      "text": "Ab",
+      "nth": 1
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "sē",
+  "front": "sē, suī, sibi, sē",
+  "lemma": "sē",
+  "back": "himself",
+  "band": 1,
+  "kind": "function",
+  "register": "neutral",
+  "alts": [
+   "herself",
+   "itself",
+   "themselves",
+   "oneself",
+   "each other",
+   "one another"
+  ],
+  "definition": "reflexive pronoun referring back to the grammatical subject",
+  "examples": [
+   "Mulier sē ornat ante speculum.",
+   "Hī inter sē amant."
+  ],
+  "examples_en": [
+   "The woman dresses herself in front of the mirror.",
+   "These people love each other."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Pronoun",
+  "gender": "",
+  "zipf": 6.72,
+  "share": 100.0,
+  "hint": "reflexive, same subject",
+  "hint_context": "he washed himself",
+  "example_marks": [
+   {
+    "text": "sē",
+    "nth": 1
+   }
+  ],
+  "uses": [
+   {
+    "back": "himself",
+    "hint": "reflexive, same subject",
+    "definition": "reflexive pronoun referring back to the grammatical subject",
+    "example": "Mulier sē ornat ante speculum.",
+    "example_en": "The woman dresses herself in front of the mirror.",
+    "example_marks": [
+     {
+      "text": "sē",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "each other",
+    "hint": "inter se, mutual",
+    "definition": "used with inter to mean mutually, each other (inter sē)",
+    "example": "Hī inter sē amant.",
+    "example_en": "These people love each other.",
+    "example_marks": [
+     {
+      "text": "sē",
+      "nth": 1
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "cum",
+  "front": "cum",
+  "lemma": "cum",
+  "back": "with",
+  "band": 1,
+  "kind": "function",
+  "register": "neutral",
+  "alts": [
+   "together with",
+   "along with"
+  ],
+  "definition": "in the company of; accompanied by; (also) by means of, with",
+  "examples": [
+   "Caesar cum legiōnibus ad flūmen vēnit."
+  ],
+  "examples_en": [
+   "Caesar came to the river with the legions."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Preposition",
+  "gender": "",
+  "zipf": 6.95,
+  "share": 55.0,
+  "hint": "accompanying, together with",
+  "hint_context": "came with the legions",
+  "example_marks": [
+   {
+    "text": "cum",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "hic",
+  "front": "hic, haec, hoc",
+  "lemma": "hic",
+  "back": "this",
+  "band": 1,
+  "kind": "function",
+  "register": "neutral",
+  "alts": [
+   "these"
+  ],
+  "definition": "pointing to something near the speaker, placed before a noun",
+  "examples": [
+   "Hōc tempore multa mūtantur in urbe."
+  ],
+  "examples_en": [
+   "At this time, many things are changing in the city."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Determiner",
+  "gender": "",
+  "zipf": 6.99,
+  "share": 50.0,
+  "hint": "before a noun",
+  "hint_context": "this time",
+  "example_marks": [
+   {
+    "text": "Hōc",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "ipse",
+  "front": "ipse, ipsa, ipsum",
+  "lemma": "ipse",
+  "back": "himself",
+  "band": 1,
+  "kind": "function",
+  "register": "neutral",
+  "alts": [
+   "herself",
+   "itself",
+   "very",
+   "actual",
+   "precise",
+   "the chief"
+  ],
+  "definition": "emphasizes the subject or noun in person; intensive",
+  "examples": [
+   "Agricola ipse agrōs arat.",
+   "Eō ipsō diē urbs capta est.",
+   "Ipse dux mīlitēs hortātus est.",
+   "Virtūs ipsa per sē laudābilis est."
+  ],
+  "examples_en": [
+   "The farmer himself plows the fields.",
+   "On that very day the city was taken.",
+   "The leader himself encouraged the soldiers.",
+   "Virtue by itself is praiseworthy."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Pronoun",
+  "gender": "",
+  "zipf": 6.67,
+  "share": 100.0,
+  "hint": "emphatic reflexive",
+  "hint_context": "he did it himself",
+  "example_marks": [
+   {
+    "text": "ipse",
+    "nth": 1
+   }
+  ],
+  "uses": [
+   {
+    "back": "himself",
+    "hint": "emphatic reflexive",
+    "definition": "emphasizes the subject or noun in person; intensive",
+    "example": "Agricola ipse agrōs arat.",
+    "example_en": "The farmer himself plows the fields.",
+    "example_marks": [
+     {
+      "text": "ipse",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "very",
+    "hint": "emphatic identity",
+    "definition": "the very one; exact same thing or moment",
+    "example": "Eō ipsō diē urbs capta est.",
+    "example_en": "On that very day the city was taken.",
+    "example_marks": [
+     {
+      "text": "ipsō",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "the chief",
+    "hint": "principal person",
+    "definition": "the principal person, as distinct from subordinates",
+    "example": "Ipse dux mīlitēs hortātus est.",
+    "example_en": "The leader himself encouraged the soldiers.",
+    "example_marks": [
+     {
+      "text": "Ipse",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "by itself",
+    "hint": "in itself, on its own",
+    "definition": "of one's own nature or accord, in itself, without outside help",
+    "example": "Virtūs ipsa per sē laudābilis est.",
+    "example_en": "Virtue by itself is praiseworthy.",
+    "example_marks": [
+     {
+      "text": "ipsa",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "in person",
+    "hint": "directly, not through others",
+    "definition": "oneself directly, rather than through another",
+    "example": "Ipsum ducem vidēre volō.",
+    "example_en": "I want to see the leader in person.",
+    "example_marks": [
+     {
+      "text": "Ipsum",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "exactly",
+    "hint": "precise number",
+    "definition": "precisely; with a numeral, exactly that many",
+    "example": "Trēs ipsōs diēs mānsit.",
+    "example_en": "He stayed exactly three days.",
+    "example_marks": [
+     {
+      "text": "ipsōs",
+      "nth": 1
+     }
+    ]
+   }
+  ],
+  "inflection": "1-2 (pronominal)"
+ },
+ {
+  "id": "quod",
+  "front": "quod",
+  "lemma": "quod",
+  "back": "because",
+  "band": 1,
+  "kind": "function",
+  "register": "neutral",
+  "alts": [
+   "since",
+   "in that",
+   "that",
+   "the fact that",
+   "as for",
+   "as to the fact that"
+  ],
+  "definition": "introducing a causal clause giving the reason for an action",
+  "examples": [
+   "Ille domum rediit, quod pluēbat.",
+   "Gaudeō quod amīcī valent.",
+   "Quod ad mē attinet, nihil timeō."
+  ],
+  "examples_en": [
+   "He went home because it was raining.",
+   "I am glad that my friends are well.",
+   "As far as I am concerned, I fear nothing."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Conjunction",
+  "gender": "",
+  "zipf": 6.82,
+  "share": 68.0,
+  "hint": "giving a reason",
+  "hint_context": "stayed home because it rained",
+  "example_marks": [
+   {
+    "text": "quod",
+    "nth": 1
+   }
+  ],
+  "uses": [
+   {
+    "back": "because",
+    "hint": "giving a reason",
+    "definition": "introducing a causal clause giving the reason for an action",
+    "example": "Ille domum rediit, quod pluēbat.",
+    "example_en": "He went home because it was raining.",
+    "example_marks": [
+     {
+      "text": "quod",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "that",
+    "hint": "after feelings",
+    "definition": "introducing a clause after verbs of feeling or declaring, instead of an infinitive",
+    "example": "Gaudeō quod amīcī valent.",
+    "example_en": "I am glad that my friends are well.",
+    "example_marks": [
+     {
+      "text": "quod",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "as for",
+    "hint": "regarding a point",
+    "definition": "introducing a statement regarding a fact; as far as concerns that",
+    "example": "Quod ad mē attinet, nihil timeō.",
+    "example_en": "As far as I am concerned, I fear nothing.",
+    "example_marks": [
+     {
+      "text": "Quod",
+      "nth": 1
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "dē",
+  "front": "dē",
+  "lemma": "dē",
+  "back": "about",
+  "band": 1,
+  "kind": "function",
+  "register": "neutral",
+  "alts": [
+   "concerning",
+   "of",
+   "down from",
+   "away from",
+   "from",
+   "out of"
+  ],
+  "definition": "with ablative: on the subject of, concerning",
+  "examples": [
+   "Cicerō librum dē amīcitiā scrīpsit.",
+   "Puer dē arbore cecidit.",
+   "Aquam dē puteō hausimus.",
+   "Ea statua dē marmore facta est."
+  ],
+  "examples_en": [
+   "Cicero wrote a book about friendship.",
+   "The boy fell down from the tree.",
+   "We drew water out of the well.",
+   "That statue was made of marble."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Preposition",
+  "gender": "",
+  "zipf": 6.62,
+  "share": 100.0,
+  "hint": "subject matter",
+  "hint_context": "books about mathematics",
+  "example_marks": [
+   {
+    "text": "dē",
+    "nth": 1
+   }
+  ],
+  "uses": [
+   {
+    "back": "about",
+    "hint": "subject matter",
+    "definition": "with ablative: on the subject of, concerning",
+    "example": "Cicerō librum dē amīcitiā scrīpsit.",
+    "example_en": "Cicero wrote a book about friendship.",
+    "example_marks": [
+     {
+      "text": "dē",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "down from",
+    "hint": "moving away, descending",
+    "definition": "with ablative: moving down or away from a place",
+    "example": "Puer dē arbore cecidit.",
+    "example_en": "The boy fell down from the tree.",
+    "example_marks": [
+     {
+      "text": "dē",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "out of",
+    "hint": "taken from a source",
+    "definition": "with ablative: taken from within a source or container",
+    "example": "Aquam dē puteō hausimus.",
+    "example_en": "We drew water out of the well.",
+    "example_marks": [
+     {
+      "text": "dē",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "made of",
+    "hint": "material, composition",
+    "definition": "with ablative: indicating the material or composition",
+    "example": "Ea statua dē marmore facta est.",
+    "example_en": "That statue was made of marble.",
+    "example_marks": [
+     {
+      "text": "dē",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "one of",
+    "hint": "one out of a group",
+    "definition": "with ablative: partitive, from among a group",
+    "example": "Ūnus dē nostrīs mīlitibus vulnerātus est.",
+    "example_en": "One of our soldiers was wounded.",
+    "example_marks": [
+     {
+      "text": "dē",
+      "nth": 1
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "quis",
+  "front": "quis, quid",
+  "lemma": "quis",
+  "back": "who",
+  "band": 1,
+  "kind": "function",
+  "register": "neutral",
+  "alts": [
+   "what",
+   "why",
+   "anyone",
+   "someone",
+   "somebody",
+   "anybody"
+  ],
+  "definition": "interrogative pronoun: which person? who?",
+  "examples": [
+   "Quis est ille vir?",
+   "Quid agis?",
+   "Sī quis vēnerit, mihi nūntiā."
+  ],
+  "examples_en": [
+   "Who is that man?",
+   "What are you doing?",
+   "If anyone comes, let me know."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Pronoun",
+  "gender": "c",
+  "zipf": 6.67,
+  "share": 88.0,
+  "hint": "direct question about a person",
+  "hint_context": "who is that",
+  "example_marks": [
+   {
+    "text": "Quis",
+    "nth": 1
+   }
+  ],
+  "uses": [
+   {
+    "back": "who",
+    "hint": "direct question about a person",
+    "definition": "interrogative pronoun: which person? who?",
+    "example": "Quis est ille vir?",
+    "example_en": "Who is that man?",
+    "example_marks": [
+     {
+      "text": "Quis",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "what",
+    "hint": "neuter quid, question about a thing",
+    "definition": "interrogative pronoun (neuter quid): what? what thing?",
+    "example": "Quid agis?",
+    "example_en": "What are you doing?",
+    "example_marks": [
+     {
+      "text": "Quid",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "anyone",
+    "hint": "after sī/nē, indefinite",
+    "definition": "indefinite pronoun: a person, someone, anyone (esp. after sī, nisi, num, nē)",
+    "example": "Sī quis vēnerit, mihi nūntiā.",
+    "example_en": "If anyone comes, let me know.",
+    "example_marks": [
+     {
+      "text": "quis",
+      "nth": 1
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "cum~conjunction",
+  "front": "cum",
+  "lemma": "cum",
+  "back": "when",
+  "band": 1,
+  "kind": "function",
+  "register": "neutral",
+  "alts": [
+   "after",
+   "since",
+   "because",
+   "although",
+   "even though"
+  ],
+  "definition": "at the time that; after (subjunctive in past narrative, indicative for simple time or repeated action)",
+  "examples": [
+   "Cum Rōmam vēnissem, amīcum vīdī.",
+   "Cum tempus breve esset, festīnāvimus.",
+   "Cum multa scīrem, tamen tacuī."
+  ],
+  "examples_en": [
+   "When I had come to Rome, I saw a friend.",
+   "Since time was short, we hurried.",
+   "Although I knew many things, I kept quiet."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Conjunction",
+  "gender": "",
+  "zipf": 6.95,
+  "share": 45.0,
+  "hint": "time clause",
+  "hint_context": "when he arrived",
+  "example_marks": [
+   {
+    "text": "Cum",
+    "nth": 1
+   }
+  ],
+  "uses": [
+   {
+    "back": "when",
+    "hint": "time clause",
+    "definition": "at the time that; after (subjunctive in past narrative, indicative for simple time or repeated action)",
+    "example": "Cum Rōmam vēnissem, amīcum vīdī.",
+    "example_en": "When I had come to Rome, I saw a friend.",
+    "example_marks": [
+     {
+      "text": "Cum",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "since",
+    "hint": "reason clause",
+    "definition": "for the reason that; given that (introducing a cause, with subjunctive)",
+    "example": "Cum tempus breve esset, festīnāvimus.",
+    "example_en": "Since time was short, we hurried.",
+    "example_marks": [
+     {
+      "text": "Cum",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "although",
+    "hint": "concession clause",
+    "definition": "in spite of the fact that (concessive, with subjunctive)",
+    "example": "Cum multa scīrem, tamen tacuī.",
+    "example_en": "Although I knew many things, I kept quiet.",
+    "example_marks": [
+     {
+      "text": "Cum",
+      "nth": 1
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "aut",
+  "front": "aut",
+  "lemma": "aut",
+  "back": "or",
+  "band": 1,
+  "kind": "function",
+  "register": "neutral",
+  "alts": [
+   "either ... or",
+   "or else",
+   "otherwise",
+   "or rather",
+   "or better"
+  ],
+  "definition": "introduces an alternative; used alone or in the pair aut ... aut",
+  "examples": [
+   "Vīnum aut aquam bibere vīs?",
+   "Festīnā, aut sērō ad scholam veniēs.",
+   "Amīcus meus, aut potius frāter, aderat."
+  ],
+  "examples_en": [
+   "Do you want to drink wine or water?",
+   "Hurry, or else you will be late for school.",
+   "My friend, or rather my brother, was present."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Conjunction",
+  "gender": "",
+  "zipf": 6.6,
+  "share": 100.0,
+  "hint": "alternative choice",
+  "hint_context": "wine or water",
+  "example_marks": [
+   {
+    "text": "aut",
+    "nth": 1
+   }
+  ],
+  "uses": [
+   {
+    "back": "or",
+    "hint": "alternative choice",
+    "definition": "introduces an alternative; used alone or in the pair aut ... aut",
+    "example": "Vīnum aut aquam bibere vīs?",
+    "example_en": "Do you want to drink wine or water?",
+    "example_marks": [
+     {
+      "text": "aut",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "or else",
+    "hint": "warning consequence",
+    "definition": "introduces a consequence if the stated action is not done",
+    "example": "Festīnā, aut sērō ad scholam veniēs.",
+    "example_en": "Hurry, or else you will be late for school.",
+    "example_marks": [
+     {
+      "text": "aut",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "or rather",
+    "hint": "self-correction",
+    "definition": "introduces a correction or a more precise restatement of the previous words",
+    "example": "Amīcus meus, aut potius frāter, aderat.",
+    "example_en": "My friend, or rather my brother, was present.",
+    "example_marks": [
+     {
+      "text": "aut",
+      "nth": 1
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "suus",
+  "front": "suus, sua, suum",
+  "lemma": "suus",
+  "back": "his",
+  "band": 1,
+  "kind": "function",
+  "register": "neutral",
+  "alts": [
+   "her",
+   "its",
+   "their",
+   "his men",
+   "his people",
+   "his followers"
+  ],
+  "definition": "reflexive possessive: belonging to the subject (his/her/its/their own)",
+  "examples": [
+   "Puella librum suum legit.",
+   "Dūx suōs in proelium mīsit."
+  ],
+  "examples_en": [
+   "The girl is reading her own book.",
+   "The leader sent his men into battle."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Determiner",
+  "gender": "",
+  "zipf": 6.59,
+  "share": 100.0,
+  "hint": "own, reflexive",
+  "hint_context": "reads her own book",
+  "example_marks": [
+   {
+    "text": "suum",
+    "nth": 1
+   }
+  ],
+  "uses": [
+   {
+    "back": "his",
+    "hint": "own, reflexive",
+    "definition": "reflexive possessive: belonging to the subject (his/her/its/their own)",
+    "example": "Puella librum suum legit.",
+    "example_en": "The girl is reading her own book.",
+    "example_marks": [
+     {
+      "text": "suum",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "his men",
+    "hint": "people, followers",
+    "definition": "substantive plural: one's own people, followers, or partisans",
+    "example": "Dūx suōs in proelium mīsit.",
+    "example_en": "The leader sent his men into battle.",
+    "example_marks": [
+     {
+      "text": "suōs",
+      "nth": 1
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ā",
+  "front": "ā, ab (+ ablative)",
+  "lemma": "ā",
+  "back": "from",
+  "band": 1,
+  "kind": "function",
+  "register": "neutral",
+  "alts": [
+   "away from",
+   "out of",
+   "by",
+   "at the hands of",
+   "since",
+   "from (a time)"
+  ],
+  "definition": "motion away from or origin from a place or source",
+  "examples": [
+   "Ab urbe vēnit hodiē.",
+   "Puer ā magistrō vocātus est.",
+   "Ab illō tempore amīcī sumus."
+  ],
+  "examples_en": [
+   "He came from the city today.",
+   "The boy was called by the teacher.",
+   "We have been friends since that time."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Preposition",
+  "gender": "",
+  "zipf": 6.58,
+  "share": 96.0,
+  "hint": "motion away from",
+  "hint_context": "came from the city",
+  "example_marks": [
+   {
+    "text": "Ab",
+    "nth": 1
+   }
+  ],
+  "uses": [
+   {
+    "back": "from",
+    "hint": "motion away from",
+    "definition": "motion away from or origin from a place or source",
+    "example": "Ab urbe vēnit hodiē.",
+    "example_en": "He came from the city today.",
+    "example_marks": [
+     {
+      "text": "Ab",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "by",
+    "hint": "agent of passive",
+    "definition": "introduces the agent of a passive verb",
+    "example": "Puer ā magistrō vocātus est.",
+    "example_en": "The boy was called by the teacher.",
+    "example_marks": [
+     {
+      "text": "ā",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "since",
+    "hint": "starting point in time",
+    "definition": "starting point in time",
+    "example": "Ab illō tempore amīcī sumus.",
+    "example_en": "We have been friends since that time.",
+    "example_marks": [
+     {
+      "text": "Ab",
+      "nth": 1
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "hic~pronoun",
+  "front": "hic, haec, hoc",
+  "lemma": "hic",
+  "back": "this one",
+  "band": 1,
+  "kind": "function",
+  "register": "neutral",
+  "alts": [
+   "this man",
+   "this woman",
+   "the latter",
+   "the second one",
+   "he",
+   "she"
+  ],
+  "definition": "this person or thing standing alone, used without a noun",
+  "examples": [
+   "Hic est liber quem quaerō.",
+   "Duo frātrēs vēnērunt; hic longior erat.",
+   "Hunc nōn timeō."
+  ],
+  "examples_en": [
+   "This is the book I'm looking for.",
+   "Two brothers came; the latter was taller.",
+   "I am not afraid of him."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Pronoun",
+  "gender": "",
+  "zipf": 6.99,
+  "share": 36.0,
+  "hint": "standing alone",
+  "hint_context": "this is the one",
+  "example_marks": [
+   {
+    "text": "Hic",
+    "nth": 1
+   }
+  ],
+  "uses": [
+   {
+    "back": "this one",
+    "hint": "standing alone",
+    "definition": "this person or thing standing alone, used without a noun",
+    "example": "Hic est liber quem quaerō.",
+    "example_en": "This is the book I'm looking for.",
+    "example_marks": [
+     {
+      "text": "Hic",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "the latter",
+    "hint": "second of two",
+    "definition": "the nearer or second-mentioned of two persons or things",
+    "example": "Duo frātrēs vēnērunt; hic longior erat.",
+    "example_en": "Two brothers came; the latter was taller.",
+    "example_marks": [
+     {
+      "text": "hic",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "he",
+    "hint": "personal pronoun use",
+    "definition": "weak anaphoric pronoun referring to a person or thing already mentioned",
+    "example": "Hunc nōn timeō.",
+    "example_en": "I am not afraid of him.",
+    "example_marks": [
+     {
+      "text": "Hunc",
+      "nth": 1
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "neque",
+  "front": "neque, nec",
+  "lemma": "neque",
+  "back": "nor",
+  "band": 1,
+  "kind": "function",
+  "register": "neutral",
+  "alts": [
+   "and not",
+   "also not",
+   "neither ... nor",
+   "not ... and not"
+  ],
+  "definition": "and not; nor (negative link joining clauses or words)",
+  "examples": [
+   "Nōn dormit, neque cantat.",
+   "Neque pater neque māter vēnit."
+  ],
+  "examples_en": [
+   "He does not sleep, nor does he sing.",
+   "Neither father nor mother came."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Conjunction",
+  "gender": "",
+  "zipf": 6.54,
+  "share": 100.0,
+  "hint": "and not",
+  "hint_context": "he does not sing",
+  "example_marks": [
+   {
+    "text": "neque",
+    "nth": 1
+   }
+  ],
+  "uses": [
+   {
+    "back": "nor",
+    "hint": "and not",
+    "definition": "and not; nor (negative link joining clauses or words)",
+    "example": "Nōn dormit, neque cantat.",
+    "example_en": "He does not sleep, nor does he sing.",
+    "example_marks": [
+     {
+      "text": "neque",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "neither ... nor",
+    "hint": "neither...nor",
+    "definition": "used in neque...neque or neque...et: neither...nor",
+    "example": "Neque pater neque māter vēnit.",
+    "example_en": "Neither father nor mother came.",
+    "example_marks": [
+     {
+      "text": "Neque",
+      "nth": 1
+     },
+     {
+      "text": "neque",
+      "nth": 1
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "quī",
+  "front": "quī, quae, quod",
+  "lemma": "quī",
+  "back": "who",
+  "band": 1,
+  "kind": "function",
+  "register": "neutral",
+  "alts": [
+   "which",
+   "that"
+  ],
+  "definition": "relative pronoun: who, which, that, referring back to an antecedent",
+  "examples": [
+   "Puer, quī in hortō lūdit, est frāter meus."
+  ],
+  "examples_en": [
+   "The boy who is playing in the garden is my brother."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Pronoun",
+  "gender": "c",
+  "zipf": 6.57,
+  "share": 88.0,
+  "hint": "relative pronoun",
+  "hint_context": "the man who came",
+  "example_marks": [
+   {
+    "text": "quī",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "ille",
+  "front": "ille, illa, illud",
+  "lemma": "ille",
+  "back": "that",
+  "band": 1,
+  "kind": "function",
+  "register": "neutral",
+  "alts": [
+   "those",
+   "yon"
+  ],
+  "definition": "demonstrative: that or those, pointing to something distant or remembered",
+  "examples": [
+   "Ille puer in hortō lūdit."
+  ],
+  "examples_en": [
+   "That boy is playing in the garden."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Determiner",
+  "gender": "",
+  "zipf": 6.77,
+  "share": 55.0,
+  "hint": "adjective before a noun",
+  "hint_context": "that boy over there",
+  "example_marks": [
+   {
+    "text": "Ille",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "alius",
+  "front": "alius, alia, aliud",
+  "lemma": "alius",
+  "back": "another",
+  "band": 1,
+  "kind": "function",
+  "register": "neutral",
+  "alts": [
+   "other",
+   "else",
+   "different",
+   "not the same",
+   "one ... another",
+   "the one ... the other"
+  ],
+  "definition": "other; another; any other one of a group",
+  "examples": [
+   "Hunc librum habeō; aliam fābulam quaerō.",
+   "Quid aliud facere possumus?",
+   "Mea sententia alia est.",
+   "Alius rīdet, alius plōrat."
+  ],
+  "examples_en": [
+   "I have this book; I am looking for another story.",
+   "What else can we do?",
+   "My opinion is different.",
+   "One laughs, another weeps."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Determiner",
+  "gender": "",
+  "zipf": 6.5,
+  "share": 100.0,
+  "hint": "one more of a kind",
+  "hint_context": "another story",
+  "example_marks": [
+   {
+    "text": "aliam",
+    "nth": 1
+   }
+  ],
+  "uses": [
+   {
+    "back": "another",
+    "hint": "one more of a kind",
+    "definition": "other; another; any other one of a group",
+    "example": "Hunc librum habeō; aliam fābulam quaerō.",
+    "example_en": "I have this book; I am looking for another story.",
+    "example_marks": [
+     {
+      "text": "aliam",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "else",
+    "hint": "in addition",
+    "definition": "in addition; something other; used with pronouns like quid, nihil",
+    "example": "Quid aliud facere possumus?",
+    "example_en": "What else can we do?",
+    "example_marks": [
+     {
+      "text": "aliud",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "different",
+    "hint": "not the same",
+    "definition": "not the same; of another kind",
+    "example": "Mea sententia alia est.",
+    "example_en": "My opinion is different.",
+    "example_marks": [
+     {
+      "text": "alia",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "one ... another",
+    "hint": "contrasting pair",
+    "definition": "alius ... alius: one ... another; some ... others (in contrast pairs)",
+    "example": "Alius rīdet, alius plōrat.",
+    "example_en": "One laughs, another weeps.",
+    "example_marks": [
+     {
+      "text": "alius",
+      "nth": 1
+     }
+    ]
+   }
+  ],
+  "inflection": "pronominal adjective; genitive alīus (alterīus), dative aliī"
+ },
+ {
+  "id": "per",
+  "front": "per",
+  "lemma": "per",
+  "back": "through",
+  "band": 1,
+  "kind": "function",
+  "register": "neutral",
+  "alts": [
+   "across",
+   "over",
+   "by means of",
+   "by",
+   "throughout",
+   "during"
+  ],
+  "definition": "moving through or across a space or medium",
+  "examples": [
+   "Viātōrēs per silvam ambulant.",
+   "Epistula per nūntium missa est.",
+   "Per tōtam noctem mīlitēs vigilāvērunt.",
+   "Per vim portās aperuērunt."
+  ],
+  "examples_en": [
+   "The travelers walk through the forest.",
+   "The letter was sent by messenger.",
+   "The soldiers stayed awake throughout the whole night.",
+   "They opened the gates by force."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Preposition",
+  "gender": "",
+  "zipf": 6.49,
+  "share": 100.0,
+  "hint": "physical passage",
+  "hint_context": "walk through the forest",
+  "example_marks": [
+   {
+    "text": "per",
+    "nth": 1
+   }
+  ],
+  "uses": [
+   {
+    "back": "through",
+    "hint": "physical passage",
+    "definition": "moving through or across a space or medium",
+    "example": "Viātōrēs per silvam ambulant.",
+    "example_en": "The travelers walk through the forest.",
+    "example_marks": [
+     {
+      "text": "per",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "by means of",
+    "hint": "agent or instrument",
+    "definition": "through the agency or instrumentality of someone or something",
+    "example": "Epistula per nūntium missa est.",
+    "example_en": "The letter was sent by messenger.",
+    "example_marks": [
+     {
+      "text": "per",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "throughout",
+    "hint": "lasting a period of time",
+    "definition": "over the whole course or duration of a period",
+    "example": "Per tōtam noctem mīlitēs vigilāvērunt.",
+    "example_en": "The soldiers stayed awake throughout the whole night.",
+    "example_marks": [
+     {
+      "text": "Per",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "in the manner of",
+    "hint": "manner or pretext",
+    "definition": "expressing manner, pretext or circumstance, as in per vim 'by force'",
+    "example": "Per vim portās aperuērunt.",
+    "example_en": "They opened the gates by force.",
+    "example_marks": [
+     {
+      "text": "Per",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "by (an oath)",
+    "hint": "oath or entreaty",
+    "definition": "in oaths and entreaties, naming what one swears or begs by",
+    "example": "Per deōs tē ōrō, mānē.",
+    "example_en": "I beg you by the gods, stay.",
+    "example_marks": [
+     {
+      "text": "Per",
+      "nth": 1
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "enim",
+  "front": "enim",
+  "lemma": "enim",
+  "back": "for",
+  "band": 1,
+  "kind": "function",
+  "register": "neutral",
+  "alts": [
+   "because",
+   "indeed",
+   "in fact",
+   "truly"
+  ],
+  "definition": "introduces a reason or explanation; postpositive (never first word), 'for' or 'because'",
+  "examples": [
+   "Nōn possum venīre; labōrō enim.",
+   "Vērum enim dīcis."
+  ],
+  "examples_en": [
+   "I cannot come; for I am working.",
+   "You are indeed speaking the truth."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Conjunction",
+  "gender": "",
+  "zipf": 6.45,
+  "share": 100.0,
+  "hint": "giving a reason",
+  "hint_context": "I cannot come, for I am working",
+  "example_marks": [
+   {
+    "text": "enim",
+    "nth": 1
+   }
+  ],
+  "uses": [
+   {
+    "back": "for",
+    "hint": "giving a reason",
+    "definition": "introduces a reason or explanation; postpositive (never first word), 'for' or 'because'",
+    "example": "Nōn possum venīre; labōrō enim.",
+    "example_en": "I cannot come; for I am working.",
+    "example_marks": [
+     {
+      "text": "enim",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "indeed",
+    "hint": "emphatic confirmation",
+    "definition": "emphasizes or confirms a statement; 'indeed', 'truly' (often in replies or with other particles)",
+    "example": "Vērum enim dīcis.",
+    "example_en": "You are indeed speaking the truth.",
+    "example_marks": [
+     {
+      "text": "enim",
+      "nth": 1
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "nē",
+  "front": "nē",
+  "lemma": "nē",
+  "back": "so that not",
+  "band": 1,
+  "kind": "function",
+  "register": "neutral",
+  "alts": [
+   "in order not to",
+   "lest",
+   "do not (prohibition)",
+   "don't",
+   "that (after verbs of fearing)",
+   "not even"
+  ],
+  "definition": "introduces a negative purpose clause, with subjunctive",
+  "examples": [
+   "Portam claudō, nē canis fugiat.",
+   "Nē mē tetigeris, amīce.",
+   "Timeō nē cadam.",
+   "Nē ūnum quidem verbum dixit."
+  ],
+  "examples_en": [
+   "I close the gate so the dog doesn't run away.",
+   "Don't touch me, friend.",
+   "I'm afraid that I will fall.",
+   "He did not say even a single word."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Conjunction",
+  "gender": "",
+  "zipf": 6.43,
+  "share": 100.0,
+  "hint": "purpose clause",
+  "hint_context": "close the gate so the dog does not escape",
+  "example_marks": [
+   {
+    "text": "nē",
+    "nth": 1
+   }
+  ],
+  "uses": [
+   {
+    "back": "so that not",
+    "hint": "purpose clause",
+    "definition": "introduces a negative purpose clause, with subjunctive",
+    "example": "Portam claudō, nē canis fugiat.",
+    "example_en": "I close the gate so the dog doesn't run away.",
+    "example_marks": [
+     {
+      "text": "nē",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "do not (prohibition)",
+    "hint": "negative command",
+    "definition": "introduces a negative command, with perfect subjunctive (or present in poetry and early Latin)",
+    "example": "Nē mē tetigeris, amīce.",
+    "example_en": "Don't touch me, friend.",
+    "example_marks": [
+     {
+      "text": "Nē",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "that (after verbs of fearing)",
+    "hint": "after fear verbs",
+    "definition": "introduces a clause after verbs of fearing, expressing what one fears might happen, with subjunctive",
+    "example": "Timeō nē cadam.",
+    "example_en": "I'm afraid that I will fall.",
+    "example_marks": [
+     {
+      "text": "nē",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "not even",
+    "hint": "nē ... quidem",
+    "definition": "in the phrase nē ... quidem, emphasizing a negated word",
+    "example": "Nē ūnum quidem verbum dixit.",
+    "example_en": "He did not say even a single word.",
+    "example_marks": [
+     {
+      "text": "Nē",
+      "nth": 1
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "nec",
+  "front": "nec",
+  "lemma": "nec",
+  "back": "nor",
+  "band": 1,
+  "kind": "function",
+  "register": "neutral",
+  "alts": [
+   "and not",
+   "neither...nor",
+   "and neither",
+   "not even",
+   "not either"
+  ],
+  "definition": "and not; introduces a negative clause continuing a negation",
+  "examples": [
+   "Eum hodiē nōn vīdī, nec herī vīdī.",
+   "Id nec tū nec ego scīmus.",
+   "Nec ille quidem id intellegit."
+  ],
+  "examples_en": [
+   "I didn't see him today, nor did I see him yesterday.",
+   "Neither you nor I know that.",
+   "Not even he understands it."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Conjunction",
+  "gender": "",
+  "zipf": 6.4,
+  "share": 100.0,
+  "hint": "continuing a negation",
+  "hint_context": "I didn't see him, nor her",
+  "example_marks": [
+   {
+    "text": "nec",
+    "nth": 1
+   }
+  ],
+  "uses": [
+   {
+    "back": "nor",
+    "hint": "continuing a negation",
+    "definition": "and not; introduces a negative clause continuing a negation",
+    "example": "Eum hodiē nōn vīdī, nec herī vīdī.",
+    "example_en": "I didn't see him today, nor did I see him yesterday.",
+    "example_marks": [
+     {
+      "text": "nec",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "neither...nor",
+    "hint": "paired with another nec",
+    "definition": "paired as nec...nec: neither...nor",
+    "example": "Id nec tū nec ego scīmus.",
+    "example_en": "Neither you nor I know that.",
+    "example_marks": [
+     {
+      "text": "nec",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "not even",
+    "hint": "emphatic, with quidem",
+    "definition": "not even; used with quidem to add emphasis (nec...quidem)",
+    "example": "Nec ille quidem id intellegit.",
+    "example_en": "Not even he understands it.",
+    "example_marks": [
+     {
+      "text": "Nec",
+      "nth": 1
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ille~pronoun",
+  "front": "ille, illa, illud",
+  "lemma": "ille",
+  "back": "that one",
+  "band": 1,
+  "kind": "function",
+  "register": "neutral",
+  "alts": [
+   "that thing",
+   "those",
+   "he",
+   "she",
+   "it"
+  ],
+  "definition": "demonstrative pronoun standing for a thing or person, in contrast to 'this one'",
+  "examples": [
+   "Illa est melior quam haec.",
+   "Ille ad urbem nōn redīit."
+  ],
+  "examples_en": [
+   "That one is better than this one.",
+   "He did not return to the city."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Pronoun",
+  "gender": "",
+  "zipf": 6.77,
+  "share": 42.0,
+  "hint": "stands alone, not before noun",
+  "hint_context": "that one, not this one",
+  "example_marks": [
+   {
+    "text": "Illa",
+    "nth": 1
+   }
+  ],
+  "uses": [
+   {
+    "back": "that one",
+    "hint": "stands alone, not before noun",
+    "definition": "demonstrative pronoun standing for a thing or person, in contrast to 'this one'",
+    "example": "Illa est melior quam haec.",
+    "example_en": "That one is better than this one.",
+    "example_marks": [
+     {
+      "text": "Illa",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "he",
+    "hint": "personal: he, she, it",
+    "definition": "third-person pronoun referring back to a person or thing already mentioned",
+    "example": "Ille ad urbem nōn redīit.",
+    "example_en": "He did not return to the city.",
+    "example_marks": [
+     {
+      "text": "Ille",
+      "nth": 1
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "quid",
+  "front": "quis, quid",
+  "lemma": "quid",
+  "back": "what",
+  "band": 1,
+  "kind": "function",
+  "register": "neutral",
+  "alts": [
+   "which thing",
+   "something",
+   "anything"
+  ],
+  "definition": "interrogative: which thing or what kind of thing?",
+  "examples": [
+   "Quid vidēs in caelō?",
+   "Sī quid vidēs, dīc mihi."
+  ],
+  "examples_en": [
+   "What do you see in the sky?",
+   "If you see anything, tell me."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Pronoun",
+  "gender": "",
+  "zipf": 6.5,
+  "share": 70.0,
+  "hint": "asking about a thing",
+  "hint_context": "what do you see",
+  "example_marks": [
+   {
+    "text": "Quid",
+    "nth": 1
+   }
+  ],
+  "uses": [
+   {
+    "back": "what",
+    "hint": "asking about a thing",
+    "definition": "interrogative: which thing or what kind of thing?",
+    "example": "Quid vidēs in caelō?",
+    "example_en": "What do you see in the sky?",
+    "example_marks": [
+     {
+      "text": "Quid",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "something",
+    "hint": "after si or nisi",
+    "definition": "something or anything, after sī, nisi, num, nē",
+    "example": "Sī quid vidēs, dīc mihi.",
+    "example_en": "If you see anything, tell me.",
+    "example_marks": [
+     {
+      "text": "quid",
+      "nth": 1
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "quam~conjunction",
+  "front": "quam",
+  "lemma": "quam",
+  "back": "than",
+  "band": 1,
+  "kind": "function",
+  "register": "neutral",
+  "alts": [],
+  "definition": "introduces the second term after a comparative",
+  "examples": [
+   "Vīta brevior est quam putāmus."
+  ],
+  "examples_en": [
+   "Life is shorter than we think."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Conjunction",
+  "gender": "",
+  "zipf": 6.71,
+  "share": 35.0,
+  "hint": "after comparative",
+  "hint_context": "shorter than we think",
+  "example_marks": [
+   {
+    "text": "quam",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "quod~pronoun",
+  "front": "quod",
+  "lemma": "quod",
+  "back": "which",
+  "band": 1,
+  "kind": "function",
+  "register": "neutral",
+  "alts": [
+   "what",
+   "that"
+  ],
+  "definition": "neuter relative pronoun: that which, what",
+  "examples": [
+   "Id quod dīxī vērum est."
+  ],
+  "examples_en": [
+   "What I said is true."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Pronoun",
+  "gender": "n",
+  "zipf": 6.82,
+  "share": 22.0,
+  "hint": "relative pronoun",
+  "hint_context": "what I said",
+  "example_marks": [
+   {
+    "text": "quod",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "quis~determiner",
+  "front": "quī, quae, quod",
+  "lemma": "quis",
+  "back": "which",
+  "band": 1,
+  "kind": "function",
+  "register": "neutral",
+  "alts": [
+   "what"
+  ],
+  "definition": "interrogative adjective: which or what (kind of) thing or person",
+  "examples": [
+   "Quae rēs tē tam movet?"
+  ],
+  "examples_en": [
+   "What matter is troubling you so much?"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Determiner",
+  "gender": "",
+  "zipf": 6.67,
+  "share": 12.0,
+  "hint": "adjective modifying a noun",
+  "hint_context": "which matter troubles you",
+  "example_marks": [
+   {
+    "text": "Quae",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "quī~determiner",
+  "front": "quī, quae, quod",
+  "lemma": "quī",
+  "back": "which",
+  "band": 1,
+  "kind": "function",
+  "register": "neutral",
+  "alts": [
+   "what",
+   "any",
+   "any sort of"
+  ],
+  "definition": "interrogative adjective: which, what kind of",
+  "examples": [
+   "Quī liber tibi maximē placet?",
+   "Sī qua nāvis advēnerit, nūntiāte mihi."
+  ],
+  "examples_en": [
+   "Which book do you like best?",
+   "If any ship arrives, let me know."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Determiner",
+  "gender": "c",
+  "zipf": 6.57,
+  "share": 8.0,
+  "hint": "interrogative: which",
+  "hint_context": "which book do you like",
+  "example_marks": [
+   {
+    "text": "Quī",
+    "nth": 1
+   }
+  ],
+  "uses": [
+   {
+    "back": "which",
+    "hint": "interrogative: which",
+    "definition": "interrogative adjective: which, what kind of",
+    "example": "Quī liber tibi maximē placet?",
+    "example_en": "Which book do you like best?",
+    "example_marks": [
+     {
+      "text": "Quī",
+      "nth": 1
+     }
+    ]
+   },
+   {
+    "back": "any",
+    "hint": "after if or unless",
+    "definition": "indefinite adjective after sī, nisi, nē: any, any sort of",
+    "example": "Sī qua nāvis advēnerit, nūntiāte mihi.",
+    "example_en": "If any ship arrives, let me know.",
+    "example_marks": [
+     {
+      "text": "qua",
+      "nth": 1
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ille~article",
+  "front": "ille, illa, illud",
+  "lemma": "ille",
+  "back": "the",
+  "band": 1,
+  "kind": "function",
+  "register": "literary",
+  "alts": [],
+  "definition": "definite article, used in Late Latin and medieval prose, mostly in translation",
+  "examples": [
+   "Illa domus in colle stat."
+  ],
+  "examples_en": [
+   "The house stands on the hill."
+  ],
+  "claude": true,
+  "topic": "medieval",
+  "pos": "Article",
+  "gender": "",
+  "zipf": 6.77,
+  "share": 3.0,
+  "hint": "late Latin, no classical use",
+  "hint_context": "the house on the hill",
+  "example_marks": [
+   {
+    "text": "Illa",
+    "nth": 1
+   }
+  ]
+ }
+]

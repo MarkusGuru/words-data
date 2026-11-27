@@ -1,0 +1,35 @@
+[
+ {
+  "id": "tū",
+  "front": "tū, tuī",
+  "lemma": "tū",
+  "back": "you",
+  "band": 5,
+  "kind": "function",
+  "register": "neutral",
+  "alts": [
+   "you (singular)"
+  ],
+  "definition": "second-person singular pronoun: you (one person)",
+  "examples": [
+   "Tū es amīcus meus."
+  ],
+  "examples_en": [
+   "You are my friend."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Pronoun",
+  "gender": "",
+  "zipf": 3.81,
+  "share": 100.0,
+  "hint": "one person, not plural",
+  "hint_context": "you and I",
+  "example_marks": [
+   {
+    "text": "Tū",
+    "nth": 1
+   }
+  ]
+ }
+]

@@ -1,0 +1,38 @@
+[
+ {
+  "id": "volō",
+  "front": "volō, velle, voluī",
+  "lemma": "volō",
+  "back": "want",
+  "band": 4,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "wish",
+   "be willing"
+  ],
+  "definition": "to want, wish",
+  "examples": [
+   "Volō tēcum venīre."
+  ],
+  "examples_en": [
+   "I want to come with you."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.12,
+  "share": 98.0,
+  "hint": "wish",
+  "hint_context": "I want to",
+  "example_marks": [
+   {
+    "text": "Volō",
+    "nth": 1
+   }
+  ],
+  "inflection": "irr.",
+  "cognates": "it volere · en volition, voluntary · pl wola"
+ }
+]

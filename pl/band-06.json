@@ -236,6 +236,109 @@
   ]
  },
  {
+  "id": "barszcz",
+  "front": "barszcz",
+  "lemma": "barszcz",
+  "back": "beet soup",
+  "band": 6,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "borscht"
+  ],
+  "definition": "red beet soup (on Wigilia with uszka)",
+  "examples": [
+   "Barszcz z uszkami to moja ulubiona zupa."
+  ],
+  "examples_en": [
+   "Beet soup with little dumplings is my favorite soup."
+  ],
+  "claude": true,
+  "topic": "christmas",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 3.48,
+  "share": 98.0,
+  "hint": "red soup",
+  "hint_context": "beet soup with uszka",
+  "example_marks": [
+   {
+    "text": "Barszcz",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
+  "id": "obcinać",
+  "front": "obcinać",
+  "lemma": "obcinać",
+  "back": "cut off",
+  "band": 6,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "trim"
+  ],
+  "definition": "to cut off, to trim",
+  "examples": [
+   "Fryzjer obcina mi włosy."
+  ],
+  "examples_en": [
+   "The hairdresser cuts my hair."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 3.46,
+  "share": 98.0,
+  "hint": "shorten",
+  "hint_context": "trim the top",
+  "example_marks": [
+   {
+    "text": "obcina",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "obciąć"
+ },
+ {
+  "id": "piernik",
+  "front": "piernik",
+  "lemma": "piernik",
+  "back": "gingerbread",
+  "band": 6,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "gingerbread cookie"
+  ],
+  "definition": "gingerbread (cake or cookie)",
+  "examples": [
+   "Toruń słynie z pierników."
+  ],
+  "examples_en": [
+   "Toruń is famous for its gingerbread."
+  ],
+  "claude": true,
+  "topic": "christmas",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 3.45,
+  "share": 98.0,
+  "hint": "spiced honey cake",
+  "hint_context": "gingerbread cookies",
+  "example_marks": [
+   {
+    "text": "pierników",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
   "id": "wycierać",
   "front": "wycierać",
   "lemma": "wycierać",
@@ -269,6 +372,71 @@
   ],
   "aspect": "impf",
   "aspect_pair": "wytrzeć"
+ },
+ {
+  "id": "zwrotka",
+  "front": "zwrotka",
+  "lemma": "zwrotka",
+  "back": "verse",
+  "band": 6,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "stanza"
+  ],
+  "definition": "a verse of a song",
+  "examples": [
+   "Znam tylko pierwszą zwrotkę."
+  ],
+  "examples_en": [
+   "I only know the first verse."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 3.43,
+  "share": 98.0,
+  "hint": "part of a song",
+  "hint_context": "the first verse",
+  "example_marks": [
+   {
+    "text": "zwrotkę",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "cynamon",
+  "front": "cynamon",
+  "lemma": "cynamon",
+  "back": "cinnamon",
+  "band": 6,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "cinnamon",
+  "examples": [
+   "Szarlotka z cynamonem pachnie świętami."
+  ],
+  "examples_en": [
+   "Apple pie with cinnamon smells like Christmas."
+  ],
+  "claude": true,
+  "topic": "christmas",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 3.41,
+  "share": 98.0,
+  "hint": "spice",
+  "hint_context": "a pinch of cinnamon",
+  "example_marks": [
+   {
+    "text": "cynamonem",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
  },
  {
   "id": "dmuchać",
@@ -399,6 +567,102 @@
   "example_marks": [
    {
     "text": "Kasjerka",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "siano",
+  "front": "siano",
+  "lemma": "siano",
+  "back": "hay",
+  "band": 6,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "dried grass; on Wigilia a little goes under the tablecloth",
+  "examples": [
+   "Pod obrusem kładziemy trochę siana."
+  ],
+  "examples_en": [
+   "We put a little hay under the tablecloth."
+  ],
+  "claude": true,
+  "topic": "christmas",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 3.38,
+  "share": 98.0,
+  "hint": "dried grass",
+  "hint_context": "a little hay",
+  "example_marks": [
+   {
+    "text": "siana",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "Mikołajki",
+  "front": "Mikołajki",
+  "lemma": "Mikołajki",
+  "back": "St. Nicholas Day",
+  "band": 6,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "December 6th, when children get small presents",
+  "examples": [
+   "Na Mikołajki dzieci dostają słodycze."
+  ],
+  "examples_en": [
+   "On St. Nicholas Day children get sweets."
+  ],
+  "claude": true,
+  "topic": "christmas",
+  "pos": "Noun",
+  "gender": "",
+  "zipf": 3.34,
+  "share": 98.0,
+  "hint": "December 6",
+  "hint_context": "on St. Nicholas Day",
+  "example_marks": [
+   {
+    "text": "Mikołajki",
+    "nth": 1
+   }
+  ],
+  "number": "pl"
+ },
+ {
+  "id": "mandarynka",
+  "front": "mandarynka",
+  "lemma": "mandarynka",
+  "back": "tangerine",
+  "band": 6,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "mandarin"
+  ],
+  "definition": "a tangerine – a classic Christmas fruit",
+  "examples": [
+   "Cały dom pachnie mandarynkami."
+  ],
+  "examples_en": [
+   "The whole house smells of tangerines."
+  ],
+  "claude": true,
+  "topic": "christmas",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 3.32,
+  "share": 98.0,
+  "hint": "fruit",
+  "hint_context": "a tangerine",
+  "example_marks": [
+   {
+    "text": "mandarynkami",
     "nth": 1
    }
   ]

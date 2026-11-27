@@ -33,6 +33,40 @@
   "aspect_pair": "westchnąć"
  },
  {
+  "id": "opłatek",
+  "front": "opłatek",
+  "lemma": "opłatek",
+  "back": "Christmas wafer",
+  "band": 7,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "wafer"
+  ],
+  "definition": "a thin wafer shared on Christmas Eve with wishes",
+  "examples": [
+   "Dzielimy się opłatkiem przed kolacją."
+  ],
+  "examples_en": [
+   "We share the wafer before supper."
+  ],
+  "claude": true,
+  "topic": "christmas",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 3.2,
+  "share": 98.0,
+  "hint": "shared on Wigilia",
+  "hint_context": "share the wafer",
+  "example_marks": [
+   {
+    "text": "opłatkiem",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
   "id": "lekarka",
   "front": "lekarka",
   "lemma": "lekarka",
@@ -64,6 +98,72 @@
     "nth": 1
    }
   ]
+ },
+ {
+  "id": "obrus",
+  "front": "obrus",
+  "lemma": "obrus",
+  "back": "tablecloth",
+  "band": 7,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a tablecloth",
+  "examples": [
+   "Na stole leży biały obrus."
+  ],
+  "examples_en": [
+   "There's a white tablecloth on the table."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 3.14,
+  "share": 98.0,
+  "hint": "on the table",
+  "hint_context": "a white tablecloth",
+  "example_marks": [
+   {
+    "text": "obrus",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
+  "id": "lukier",
+  "front": "lukier",
+  "lemma": "lukier",
+  "back": "icing",
+  "band": 7,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "frosting"
+  ],
+  "definition": "sugar icing",
+  "examples": [
+   "Pierniki z lukrem są najlepsze."
+  ],
+  "examples_en": [
+   "Gingerbread with icing is the best."
+  ],
+  "claude": true,
+  "topic": "christmas",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 3.12,
+  "share": 98.0,
+  "hint": "on cookies",
+  "hint_context": "white icing",
+  "example_marks": [
+   {
+    "text": "lukrem",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
  },
  {
   "id": "lepić",
@@ -172,6 +272,69 @@
    }
   ],
   "animacy": "anim"
+ },
+ {
+  "id": "zaspa",
+  "front": "zaspa",
+  "lemma": "zaspa",
+  "back": "snowdrift",
+  "band": 7,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a snowdrift",
+  "examples": [
+   "Samochód utknął w zaspie."
+  ],
+  "examples_en": [
+   "The car got stuck in a snowdrift."
+  ],
+  "claude": true,
+  "topic": "christmas",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 3.03,
+  "share": 98.0,
+  "hint": "pile of snow",
+  "hint_context": "stuck in a snowdrift",
+  "example_marks": [
+   {
+    "text": "zaspie",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "chrapać",
+  "front": "chrapać",
+  "lemma": "chrapać",
+  "back": "snore",
+  "band": 7,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to snore",
+  "examples": [
+   "Mój mąż głośno chrapie."
+  ],
+  "examples_en": [
+   "My husband snores loudly."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 3.01,
+  "share": 98.0,
+  "hint": "in sleep",
+  "hint_context": "snore loudly",
+  "example_marks": [
+   {
+    "text": "chrapie",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf"
  },
  {
   "id": "kelnerka",

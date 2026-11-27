@@ -1,5 +1,73 @@
 [
  {
+  "id": "bombka",
+  "front": "bombka",
+  "lemma": "bombka",
+  "back": "bauble",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "Christmas ornament"
+  ],
+  "definition": "a glass ball for the Christmas tree",
+  "examples": [
+   "Ta bombka jest ze szkła."
+  ],
+  "examples_en": [
+   "This bauble is made of glass."
+  ],
+  "claude": true,
+  "topic": "christmas",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 3.0,
+  "share": 98.0,
+  "hint": "on the tree",
+  "hint_context": "glass baubles",
+  "example_marks": [
+   {
+    "text": "bombka",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "ozdabiać",
+  "front": "ozdabiać",
+  "lemma": "ozdabiać",
+  "back": "decorate",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "adorn"
+  ],
+  "definition": "to decorate, to make pretty",
+  "examples": [
+   "Dzieci ozdabiają pierniki lukrem."
+  ],
+  "examples_en": [
+   "The children decorate the gingerbread with icing."
+  ],
+  "claude": true,
+  "topic": "christmas",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 2.98,
+  "share": 98.0,
+  "hint": "make pretty",
+  "hint_context": "decorate cookies",
+  "example_marks": [
+   {
+    "text": "ozdabiają",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "ozdobić"
+ },
+ {
   "id": "sprzedawczyni",
   "front": "sprzedawczyni",
   "lemma": "sprzedawczyni",
@@ -66,6 +134,40 @@
   ]
  },
  {
+  "id": "uszka",
+  "front": "uszka",
+  "lemma": "uszka",
+  "back": "little dumplings",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "mushroom dumplings"
+  ],
+  "definition": "tiny mushroom dumplings served in beet soup",
+  "examples": [
+   "Babcia lepi uszka z grzybami."
+  ],
+  "examples_en": [
+   "Grandma makes little mushroom dumplings."
+  ],
+  "claude": true,
+  "topic": "christmas",
+  "pos": "Noun",
+  "gender": "",
+  "zipf": 2.91,
+  "share": 98.0,
+  "hint": "in beet soup",
+  "hint_context": "barszcz with uszka",
+  "example_marks": [
+   {
+    "text": "uszka",
+    "nth": 1
+   }
+  ],
+  "number": "pl"
+ },
+ {
   "id": "recepcjonistka",
   "front": "recepcjonistka",
   "lemma": "recepcjonistka",
@@ -92,6 +194,70 @@
   "example_marks": [
    {
     "text": "Recepcjonistka",
+    "nth": 1
+   }
+  ]
+ },
+ {
+  "id": "wałkować",
+  "front": "wałkować",
+  "lemma": "wałkować",
+  "back": "roll out",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to roll out dough with a rolling pin",
+  "examples": [
+   "Najpierw wałkujemy ciasto."
+  ],
+  "examples_en": [
+   "First we roll out the dough."
+  ],
+  "claude": true,
+  "topic": "christmas",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 2.79,
+  "share": 98.0,
+  "hint": "with a rolling pin",
+  "hint_context": "roll out the dough",
+  "example_marks": [
+   {
+    "text": "wałkujemy",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "rozwałkować"
+ },
+ {
+  "id": "Pasterka",
+  "front": "Pasterka",
+  "lemma": "Pasterka",
+  "back": "Midnight Mass",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "Christmas Mass at midnight",
+  "examples": [
+   "O północy idziemy na Pasterkę."
+  ],
+  "examples_en": [
+   "At midnight we go to Midnight Mass."
+  ],
+  "claude": true,
+  "topic": "christmas",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 2.74,
+  "share": 98.0,
+  "hint": "Christmas, midnight",
+  "hint_context": "go to Midnight Mass",
+  "example_marks": [
+   {
+    "text": "Pasterkę",
     "nth": 1
    }
   ]
@@ -166,6 +332,38 @@
    }
   ],
   "animacy": "anim"
+ },
+ {
+  "id": "ludzie",
+  "front": "ludzie",
+  "lemma": "ludzie",
+  "back": "people",
+  "band": 8,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "people (plural of 'człowiek')",
+  "examples": [
+   "W kościele jest dużo ludzi."
+  ],
+  "examples_en": [
+   "There are a lot of people in the church."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "",
+  "zipf": 0.33,
+  "share": 98.0,
+  "hint": "persons",
+  "hint_context": "many people",
+  "example_marks": [
+   {
+    "text": "ludzi",
+    "nth": 1
+   }
+  ],
+  "number": "pl"
  },
  {
   "id": "bać się",

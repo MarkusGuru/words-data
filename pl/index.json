@@ -20,42 +20,42 @@
   {
    "band": 1,
    "file": "band-01.json",
-   "count": 369
+   "count": 385
   },
   {
    "band": 2,
    "file": "band-02.json",
-   "count": 127
+   "count": 137
   },
   {
    "band": 3,
    "file": "band-03.json",
-   "count": 67
+   "count": 87
   },
   {
    "band": 4,
    "file": "band-04.json",
-   "count": 38
+   "count": 54
   },
   {
    "band": 5,
    "file": "band-05.json",
-   "count": 27
+   "count": 37
   },
   {
    "band": 6,
    "file": "band-06.json",
-   "count": 16
+   "count": 24
   },
   {
    "band": 7,
    "file": "band-07.json",
-   "count": 6
+   "count": 11
   },
   {
    "band": 8,
    "file": "band-08.json",
-   "count": 9
+   "count": 15
   }
  ],
  "grammar": [

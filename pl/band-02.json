@@ -283,6 +283,39 @@
   "animacy": "inan"
  },
  {
+  "id": "przyszły",
+  "front": "przyszły",
+  "lemma": "przyszły",
+  "back": "next",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "future"
+  ],
+  "definition": "next (week, year), future",
+  "examples": [
+   "W przyszłym tygodniu mam urlop."
+  ],
+  "examples_en": [
+   "Next week I'm on vacation."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 4.98,
+  "share": 98.0,
+  "hint": "w przyszłym…",
+  "hint_context": "next year",
+  "example_marks": [
+   {
+    "text": "przyszłym",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "karta",
   "front": "karta",
   "lemma": "karta",
@@ -684,6 +717,39 @@
   "aspect_pair": "przyjść"
  },
  {
+  "id": "wysoko",
+  "front": "wysoko",
+  "lemma": "wysoko",
+  "back": "high",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "high up"
+  ],
+  "definition": "high, high up",
+  "examples": [
+   "Ptak leci wysoko."
+  ],
+  "examples_en": [
+   "The bird is flying high."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adverb",
+  "gender": "",
+  "zipf": 4.95,
+  "share": 98.0,
+  "hint": "far up",
+  "hint_context": "high up",
+  "example_marks": [
+   {
+    "text": "wysoko",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "zjeść",
   "front": "zjeść",
   "lemma": "zjeść",
@@ -1073,6 +1139,46 @@
   "animacy": "pers"
  },
  {
+  "id": "stawiać",
+  "front": "stawiać",
+  "lemma": "stawiać",
+  "back": "put",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "place",
+   "stand"
+  ],
+  "definition": "to put something (upright)",
+  "examples": [
+   "Stawiam kubek na stole."
+  ],
+  "examples_en": [
+   "I put the mug on the table."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 5.03,
+  "lemma_id": "stawiać",
+  "sense_index": 1,
+  "sense_count": 2,
+  "cue": "Stawiam kubek na stole.",
+  "share": 75.0,
+  "hint": "standing up",
+  "hint_context": "put on the table",
+  "example_marks": [
+   {
+    "text": "Stawiam",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "postawić"
+ },
+ {
   "id": "sobota",
   "front": "sobota",
   "lemma": "sobota",
@@ -1331,6 +1437,40 @@
   "example_marks": [
    {
     "text": "Pociąg",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
+  "id": "prezent",
+  "front": "prezent",
+  "lemma": "prezent",
+  "back": "present",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "gift"
+  ],
+  "definition": "a gift",
+  "examples": [
+   "Prezenty leżą pod choinką."
+  ],
+  "examples_en": [
+   "The presents are under the tree."
+  ],
+  "claude": true,
+  "topic": "christmas",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.89,
+  "share": 98.0,
+  "hint": "gift",
+  "hint_context": "a Christmas present",
+  "example_marks": [
+   {
+    "text": "Prezenty",
     "nth": 1
    }
   ],
@@ -1639,6 +1779,39 @@
   ]
  },
  {
+  "id": "dzielić się",
+  "front": "dzielić się",
+  "lemma": "dzielić się",
+  "back": "share",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to share something with someone",
+  "examples": [
+   "Brzuchi nie lubi dzielić się jedzeniem."
+  ],
+  "examples_en": [
+   "Brzuchi doesn't like sharing food."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.86,
+  "share": 98.0,
+  "hint": "give part of",
+  "hint_context": "share with a friend",
+  "example_marks": [
+   {
+    "text": "dzielić się",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "podzielić się"
+ },
+ {
   "id": "lekki",
   "front": "lekki",
   "lemma": "lekki",
@@ -1806,6 +1979,39 @@
    }
   ],
   "animacy": "inan"
+ },
+ {
+  "id": "ramię",
+  "front": "ramię",
+  "lemma": "ramię",
+  "back": "shoulder",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "arm"
+  ],
+  "definition": "the shoulder; also the (upper) arm",
+  "examples": [
+   "Boli mnie ramię."
+  ],
+  "examples_en": [
+   "My shoulder hurts."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "n",
+  "zipf": 4.84,
+  "share": 98.0,
+  "hint": "body part",
+  "hint_context": "on his shoulder",
+  "example_marks": [
+   {
+    "text": "ramię",
+    "nth": 1
+   }
+  ]
  },
  {
   "id": "sąsiad",
@@ -2202,6 +2408,40 @@
   "example_marks": [
    {
     "text": "rynku",
+    "nth": 1
+   }
+  ],
+  "animacy": "inan"
+ },
+ {
+  "id": "kształt",
+  "front": "kształt",
+  "lemma": "kształt",
+  "back": "shape",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "form"
+  ],
+  "definition": "a shape ('w kształcie' = in the shape of)",
+  "examples": [
+   "Ta bombka ma kształt serca."
+  ],
+  "examples_en": [
+   "This bauble is in the shape of a heart."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "m",
+  "zipf": 4.8,
+  "share": 98.0,
+  "hint": "outline",
+  "hint_context": "in the shape of",
+  "example_marks": [
+   {
+    "text": "kształt",
     "nth": 1
    }
   ],
@@ -2980,6 +3220,40 @@
   ]
  },
  {
+  "id": "twardy",
+  "front": "twardy",
+  "lemma": "twardy",
+  "back": "hard",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "firm",
+   "tough"
+  ],
+  "definition": "hard, firm (not soft)",
+  "examples": [
+   "Ten chleb jest twardy."
+  ],
+  "examples_en": [
+   "This bread is hard."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 4.71,
+  "share": 98.0,
+  "hint": "not soft",
+  "hint_context": "hard as stone",
+  "example_marks": [
+   {
+    "text": "twardy",
+    "nth": 1
+   }
+  ]
+ },
+ {
   "id": "reszta#2",
   "front": "reszta",
   "lemma": "reszta",
@@ -3345,6 +3619,39 @@
   ],
   "aspect": "impf",
   "aspect_pair": "podnieść"
+ },
+ {
+  "id": "sięgać",
+  "front": "sięgać",
+  "lemma": "sięgać",
+  "back": "reach",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to reach (up to something)",
+  "examples": [
+   "Nie sięgam do górnej półki."
+  ],
+  "examples_en": [
+   "I can't reach the top shelf."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.66,
+  "share": 98.0,
+  "hint": "stretch up to",
+  "hint_context": "reach the shelf",
+  "example_marks": [
+   {
+    "text": "sięgam",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "sięgnąć"
  },
  {
   "id": "pokój#2",
@@ -3869,6 +4176,41 @@
     "nth": 1
    }
   ]
+ },
+ {
+  "id": "piec",
+  "front": "piec",
+  "lemma": "piec",
+  "back": "bake",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "roast"
+  ],
+  "definition": "to bake or roast",
+  "examples": [
+   "W sobotę pieczemy ciasto."
+  ],
+  "examples_en": [
+   "On Saturday we bake a cake."
+  ],
+  "claude": true,
+  "topic": "christmas",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.75,
+  "share": 70.0,
+  "hint": "in the oven",
+  "hint_context": "bake a cake",
+  "example_marks": [
+   {
+    "text": "pieczemy",
+    "nth": 1
+   }
+  ],
+  "aspect": "impf",
+  "aspect_pair": "upiec"
  },
  {
   "id": "południe",

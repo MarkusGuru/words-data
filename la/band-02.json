@@ -1,0 +1,253 @@
+[
+ {
+  "id": "amō",
+  "front": "amō, amāre, amāvī, amātum",
+  "lemma": "amō",
+  "back": "love",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "like"
+  ],
+  "definition": "to love",
+  "examples": [
+   "Amō tē, mea vīta."
+  ],
+  "examples_en": [
+   "I love you, my life."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.95,
+  "share": 98.0,
+  "hint": "verb: love",
+  "hint_context": "I love you",
+  "example_marks": [
+   {
+    "text": "Amō",
+    "nth": 1
+   }
+  ],
+  "inflection": "1st conj.",
+  "cognates": "it amare · en amateur, amiable · pl amator"
+ },
+ {
+  "id": "vīvō",
+  "front": "vīvō, vīvere, vīxī, vīctum",
+  "lemma": "vīvō",
+  "back": "live",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "be alive"
+  ],
+  "definition": "to live, be alive",
+  "examples": [
+   "Dum vīvimus, vīvāmus!"
+  ],
+  "examples_en": [
+   "While we live, let us live!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.95,
+  "share": 98.0,
+  "hint": "be alive",
+  "hint_context": "live well",
+  "example_marks": [
+   {
+    "text": "vīvimus",
+    "nth": 1
+   },
+   {
+    "text": "vīvāmus",
+    "nth": 1
+   }
+  ],
+  "inflection": "3rd conj.",
+  "cognates": "it vivere · en vivid, survive · pl —"
+ },
+ {
+  "id": "lingua#2",
+  "front": "lingua, linguae",
+  "lemma": "lingua",
+  "back": "tongue",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "the tongue",
+  "examples": [
+   "Tenē linguam, puer!"
+  ],
+  "examples_en": [
+   "Hold your tongue, boy!"
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 5.33,
+  "lemma_id": "lingua",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Tenē linguam, puer!",
+  "share": 40.0,
+  "hint": "in the mouth",
+  "hint_context": "hold your tongue",
+  "example_marks": [
+   {
+    "text": "linguam",
+    "nth": 1
+   }
+  ],
+  "inflection": "1st decl.",
+  "cognates": "it lingua · en language, linguistic · pl lingwistyka"
+ },
+ {
+  "id": "cadō",
+  "front": "cadō, cadere, cecidī, cāsum",
+  "lemma": "cadō",
+  "back": "fall",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "to fall",
+  "examples": [
+   "Folia in autumnō cadunt."
+  ],
+  "examples_en": [
+   "The leaves fall in autumn."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Verb",
+  "gender": "",
+  "zipf": 4.9,
+  "share": 98.0,
+  "hint": "drop down",
+  "hint_context": "fall down",
+  "example_marks": [
+   {
+    "text": "cadunt",
+    "nth": 1
+   }
+  ],
+  "inflection": "3rd conj.",
+  "cognates": "it cadere · en cadence, case · pl kazus"
+ },
+ {
+  "id": "altus#2",
+  "front": "altus, alta, altum",
+  "lemma": "altus",
+  "back": "deep",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "deep",
+  "examples": [
+   "Mare altum est."
+  ],
+  "examples_en": [
+   "The sea is deep."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Adjective",
+  "gender": "",
+  "zipf": 5.36,
+  "lemma_id": "altus",
+  "sense_index": 2,
+  "sense_count": 2,
+  "cue": "Mare altum est.",
+  "share": 33.0,
+  "hint": "downward",
+  "hint_context": "deep water",
+  "example_marks": [
+   {
+    "text": "altum",
+    "nth": 1
+   }
+  ],
+  "inflection": "adjective",
+  "cognates": "it alto · en altitude · pl alt"
+ },
+ {
+  "id": "patria",
+  "front": "patria, patriae",
+  "lemma": "patria",
+  "back": "homeland",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [
+   "fatherland",
+   "country"
+  ],
+  "definition": "one's native land",
+  "examples": [
+   "Dulce et decōrum est prō patriā morī."
+  ],
+  "examples_en": [
+   "It is sweet and fitting to die for one's country."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 4.86,
+  "share": 98.0,
+  "hint": "native land",
+  "hint_context": "love of country",
+  "example_marks": [
+   {
+    "text": "patriā",
+    "nth": 1
+   }
+  ],
+  "inflection": "1st decl.",
+  "cognates": "it patria · en patriot · pl patriota",
+  "source": "Hor. Carm. 3.2.13"
+ },
+ {
+  "id": "fēmina",
+  "front": "fēmina, fēminae",
+  "lemma": "fēmina",
+  "back": "woman",
+  "band": 2,
+  "kind": "word",
+  "register": "neutral",
+  "alts": [],
+  "definition": "a woman",
+  "examples": [
+   "Fēmina in hortō ambulat."
+  ],
+  "examples_en": [
+   "A woman is walking in the garden."
+  ],
+  "claude": true,
+  "topic": "",
+  "pos": "Noun",
+  "gender": "f",
+  "zipf": 4.77,
+  "share": 98.0,
+  "hint": "adult female",
+  "hint_context": "a Roman woman",
+  "example_marks": [
+   {
+    "text": "Fēmina",
+    "nth": 1
+   }
+  ],
+  "inflection": "1st decl.",
+  "cognates": "it femmina · en female, feminine · pl feminizm"
+ }
+]
