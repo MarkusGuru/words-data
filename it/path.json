@@ -85,6 +85,18 @@
     "u-it-L2-30",
     "cp-L2-6"
    ]
+  },
+  {
+   "level": 2,
+   "title": "Natale 🎄",
+   "units": [
+    "u-it-XM-01",
+    "u-it-XM-02",
+    "u-it-XM-03",
+    "u-it-XM-04",
+    "u-it-XM-05",
+    "cp-XM-1"
+   ]
   }
  ],
  "units": [
@@ -4523,6 +4535,371 @@
       "u-it-L2-28",
       "u-it-L2-29",
       "u-it-L2-30"
+     ],
+     "count": 15
+    }
+   ]
+  },
+  {
+   "id": "u-it-XM-01",
+   "level": 2,
+   "index": 73,
+   "title": "Il presepe",
+   "title_en": "The nativity scene",
+   "series": "Natale da Nonna Rosa",
+   "part": 1,
+   "nodes": [
+    {
+     "id": "it-XM-01:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-XM-01",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-XM-01:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "review",
+     "mode": "practice",
+     "count": 6
+    },
+    {
+     "id": "it-XM-01:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-XM-01"
+    },
+    {
+     "id": "it-XM-01:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-XM-01",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-XM-01:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "market",
+     "targets": [
+      "il presepe",
+      "la statuina",
+      "il mercatino"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-XM-01:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-XM-01",
+     "prompt_en": "Describe a nativity scene or a Christmas tree in 2–3 Italian sentences.",
+     "use": [
+      "il presepe",
+      "l'albero"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-it-XM-02",
+   "level": 2,
+   "index": 74,
+   "title": "La cena della Vigilia",
+   "title_en": "Christmas Eve dinner",
+   "series": "Natale da Nonna Rosa",
+   "part": 2,
+   "nodes": [
+    {
+     "id": "it-XM-02:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-XM-02",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-XM-02:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "review",
+     "mode": "practice",
+     "count": 6
+    },
+    {
+     "id": "it-XM-02:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-XM-02"
+    },
+    {
+     "id": "it-XM-02:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-XM-02",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-XM-02:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "restaurant",
+     "targets": [
+      "il pesce",
+      "la carne",
+      "assaggiare"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-XM-02:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-XM-02",
+     "prompt_en": "Describe a Christmas Eve dinner in 2–3 Italian sentences.",
+     "use": [
+      "la cena",
+      "il pesce"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-it-XM-03",
+   "level": 2,
+   "index": 75,
+   "title": "La tombola",
+   "title_en": "Tombola",
+   "series": "Natale da Nonna Rosa",
+   "part": 3,
+   "nodes": [
+    {
+     "id": "it-XM-03:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-XM-03",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-XM-03:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "review",
+     "mode": "practice",
+     "count": 6
+    },
+    {
+     "id": "it-XM-03:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-XM-03"
+    },
+    {
+     "id": "it-XM-03:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-XM-03",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-XM-03:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "smallTalk",
+     "targets": [
+      "giocare",
+      "vincere",
+      "il premio"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-XM-03:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-XM-03",
+     "prompt_en": "Explain a game you play with your family in 2–3 Italian sentences.",
+     "use": [
+      "giocare",
+      "vincere"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-it-XM-04",
+   "level": 2,
+   "index": 76,
+   "title": "Il pranzo di Natale",
+   "title_en": "Christmas lunch",
+   "series": "Natale da Nonna Rosa",
+   "part": 4,
+   "nodes": [
+    {
+     "id": "it-XM-04:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-XM-04",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-XM-04:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "review",
+     "mode": "practice",
+     "count": 6
+    },
+    {
+     "id": "it-XM-04:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-XM-04"
+    },
+    {
+     "id": "it-XM-04:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-XM-04",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-XM-04:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "smallTalk",
+     "targets": [
+      "il regalo",
+      "il pranzo",
+      "ricordare"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-XM-04:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-XM-04",
+     "prompt_en": "Write 2–3 Italian sentences about a present you got.",
+     "use": [
+      "il regalo",
+      "piccolo"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u-it-XM-05",
+   "level": 2,
+   "index": 77,
+   "title": "La Befana",
+   "title_en": "The Befana",
+   "series": "Natale da Nonna Rosa",
+   "part": 5,
+   "nodes": [
+    {
+     "id": "it-XM-05:words",
+     "type": "words",
+     "title": "Parole",
+     "story": "it-XM-05",
+     "items": "preteach+level",
+     "count": 8
+    },
+    {
+     "id": "it-XM-05:grammar",
+     "type": "grammar",
+     "title": "Grammatica",
+     "ref": "review",
+     "mode": "practice",
+     "count": 6
+    },
+    {
+     "id": "it-XM-05:story",
+     "type": "story",
+     "title": "Storia",
+     "story": "it-XM-05"
+    },
+    {
+     "id": "it-XM-05:sentences",
+     "type": "sentences",
+     "title": "Frasi",
+     "story": "it-XM-05",
+     "modes": [
+      "build",
+      "dictation",
+      "translate"
+     ],
+     "count": 5
+    },
+    {
+     "id": "it-XM-05:speak",
+     "type": "speak",
+     "title": "Parla",
+     "scenario": "smallTalk",
+     "targets": [
+      "la calza",
+      "i dolci",
+      "il carbone"
+     ],
+     "turns": 5
+    },
+    {
+     "id": "it-XM-05:write",
+     "type": "write",
+     "title": "Scrivi",
+     "story": "it-XM-05",
+     "prompt_en": "Retell \"La Befana\" in 2–3 Italian sentences.",
+     "use": [
+      "la calza",
+      "il carbone"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cp-XM-1",
+   "level": 2,
+   "index": 78,
+   "title": "Checkpoint",
+   "title_en": "Checkpoint",
+   "series": null,
+   "part": null,
+   "checkpoint": true,
+   "nodes": [
+    {
+     "id": "cp-XM-1:test",
+     "type": "checkpoint",
+     "title": "Ripasso",
+     "units": [
+      "u-it-XM-01",
+      "u-it-XM-02",
+      "u-it-XM-03",
+      "u-it-XM-04",
+      "u-it-XM-05"
      ],
      "count": 15
     }
